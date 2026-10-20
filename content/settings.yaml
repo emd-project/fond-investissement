@@ -1,0 +1,10 @@
+siteName: "Fonds d'Investissement"
+siteDescription: "Financer sa PME en fonds propres, en Wallonie et à Bruxelles"
+siteUrl: "https://www.fonds-investissement.be"
+nav:
+  - label: "Blog"
+    url: "/blog"
+  - label: "Classement"
+    url: "/classement/fonds-investissement-pme"
+  - label: "Comparer"
+    url: "/comparer/fonds-investissement-pme"

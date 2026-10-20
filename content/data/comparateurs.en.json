@@ -1,0 +1,124 @@
+{
+  "fonds-investissement-pme": {
+    "id": "fonds-investissement-pme",
+    "label": "SME investment funds",
+    "description": "Nine funds and invests active in Wallonia and Brussels, side by side: ticket, instruments, horizon, area and sectors, as published on 15.10.2026. The amount shown is the published minimum ticket; \"—\" when the player does not publish it.",
+    "specsLabels": {
+      "ticket": "Published ticket",
+      "instruments": "Instruments",
+      "horizon": "Exit horizon",
+      "zone": "Area",
+      "secteurs": "Sectors"
+    },
+    "modeles": [
+      {
+        "nom": "ORSA (formerly Investsud)",
+        "prix": 500000,
+        "sourceUrl": "https://orsafund.be/a-propos/",
+        "specs": {
+          "ticket": "€500,000 to €2.5M",
+          "instruments": "Equity, quasi-equity, Smart Bond (5-10-year subordinated loan)",
+          "horizon": "None (evergreen)",
+          "zone": "Wallonia",
+          "secteurs": "Industry, innovation, biotech"
+        }
+      },
+      {
+        "nom": "Namur Invest",
+        "prix": 100000,
+        "sourceUrl": "https://namurinvest.be/",
+        "specs": {
+          "ticket": "Usually €100,000 to €2.5M",
+          "instruments": "Equity, convertible, subordinated and bullet loans, property leasing",
+          "horizon": "not published",
+          "zone": "Province of Namur",
+          "secteurs": "Generalist"
+        }
+      },
+      {
+        "nom": "Invest.BW (formerly Nivelinvest)",
+        "prix": 0,
+        "sourceUrl": "https://investbw.be/",
+        "specs": {
+          "ticket": "Up to €2.5M in total",
+          "instruments": "Equity, subordinated or mezzanine loan, convertible",
+          "horizon": "5 to 10 years",
+          "zone": "Walloon Brabant",
+          "secteurs": "Generalist; tech start-ups < 9 years"
+        }
+      },
+      {
+        "nom": "Sambrinvest",
+        "prix": 0,
+        "sourceUrl": "https://www.sambrinvest.be/fr/",
+        "specs": {
+          "ticket": "not published",
+          "instruments": "Risk capital, subordinated, convertible, participating loans",
+          "horizon": "not published",
+          "zone": "Charleroi Métropole",
+          "secteurs": "Priority sectors incl. life sciences"
+        }
+      },
+      {
+        "nom": "Noshaq (formerly Meusinvest)",
+        "prix": 0,
+        "sourceUrl": "https://noshaq.be/",
+        "specs": {
+          "ticket": "not published",
+          "instruments": "Equity, loans, leasing by entity",
+          "horizon": "not published",
+          "zone": "Province of Liège",
+          "secteurs": "Seven priority sectors"
+        }
+      },
+      {
+        "nom": "IMBC",
+        "prix": 0,
+        "sourceUrl": "https://www.imbc.be/",
+        "specs": {
+          "ticket": "not published",
+          "instruments": "not specified",
+          "horizon": "not published",
+          "zone": "Mons, Borinage, Centre",
+          "secteurs": "SMEs, innovative firms, spin-offs, craftspeople"
+        }
+      },
+      {
+        "nom": "Wallonie Entreprendre (WE)",
+        "prix": 0,
+        "sourceUrl": "https://www.wallonie-entreprendre.be/fr/",
+        "specs": {
+          "ticket": "not published",
+          "instruments": "Equity, loans, guarantees",
+          "horizon": "not published",
+          "zone": "Wallonia",
+          "secteurs": "All sectors"
+        }
+      },
+      {
+        "nom": "finance&invest.brussels",
+        "prix": 0,
+        "sourceUrl": "https://finance.brussels/",
+        "specs": {
+          "ticket": "Up to €5M (SMEs, co-investment)",
+          "instruments": "Loans, guarantees, equity, proxi loan",
+          "horizon": "not published",
+          "zone": "Brussels-Capital",
+          "secteurs": "All sectors"
+        }
+      },
+      {
+        "nom": "Theodorus",
+        "prix": 250000,
+        "sourceUrl": "https://theodorus.be/",
+        "specs": {
+          "ticket": "€250,000 to €2.5M",
+          "instruments": "Equity (seed, early stage)",
+          "horizon": "Closed-end 12-14 years; Theodorus I evergreen",
+          "zone": "Belgium",
+          "secteurs": "Biotech, medtech, digital, engineering"
+        }
+      }
+    ]
+  }
+}

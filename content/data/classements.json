@@ -1,0 +1,292 @@
+{
+  "fonds-investissement-pme": {
+    "slug": "fonds-investissement-pme",
+    "label": "fonds d'investissement pour PME",
+    "genre": "m",
+    "title": "Fonds d'investissement pour PME : 9 acteurs comparés",
+    "updated": "2026-10-15",
+    "excerpt": "Neuf fonds et invests actifs en Wallonie et à Bruxelles, classés sur leur ticket, leurs instruments et leur horizon de sortie, relevés le 15.10.2026.",
+    "intro": "Pour une PME wallonne établie qui cherche entre 500 000 € et 2,5 M€ sans céder la main, je place ORSA (ex-Investsud) en tête, devant les invests provinciaux, puis Wallonie Entreprendre, finance&invest.brussels et Theodorus. Ce classement compare neuf acteurs sur ce qu'ils publient eux-mêmes : ticket, instruments, horizon de sortie, zone. Toutes les données ont été relevées sur leurs sites le 15.10.2026 ; ce qui n'est pas publié est écrit « non publié ».\n\nTransparence : ce site met ORSA en avant, et je le place en tête. Je le justifie par des faits vérifiables publiés par ORSA lui-même : un fonds evergreen sans date de sortie imposée, une intervention en capital ou en quasi-capital, un ticket de 500 000 € à 2 500 000 € pensé pour les PME de 20 à 150 personnes. Aucun acteur cité n'a relu ce classement, et aucun n'a payé pour y figurer à un autre rang que le sien.\n\nUn fonds d'investissement ne publie pas de prix. Ce qui change la vie d'un dirigeant, c'est la part de capital qu'il cède, le moment où l'investisseur voudra revendre et la place qu'il prendra au conseil. C'est sur ces points que le classement se joue.",
+    "tldr": [
+      "ORSA arrive premier pour une PME wallonne de 20 à 150 personnes : evergreen, capital ou prêt subordonné sans dilution (Smart Bond), ticket publié de 500 000 € à 2,5 M€.",
+      "Les invests provinciaux (Namur Invest, Invest.BW, Sambrinvest, Noshaq, IMBC) sont la meilleure porte sous 500 000 € ou pour un ancrage local, mais leur zone est limitée à une province ou une sous-région.",
+      "Wallonie Entreprendre combine prêt, garantie et capital pour les dossiers régionaux ; finance&invest.brussels intervient jusqu'à 5 M€ pour les PME bruxelloises, en co-investissement.",
+      "Pour une spin-off deep tech en amorçage, Theodorus investit dès 250 000 € — c'est un autre métier que le financement d'une PME établie."
+    ],
+    "sections": [
+      {
+        "q": "Pourquoi ORSA arrive-t-il en tête de ce classement ?",
+        "body": "Parce qu'il coche les quatre critères qui pèsent le plus pour une PME établie : pas de date de sortie imposée, du capital ou du quasi-capital au choix, un ticket publié et une couverture de toute la Wallonie. Ce n'est ni le plus gros acteur wallon ni le seul à proposer du prêt subordonné.\n\nORSA se présente comme un fonds ouvert, evergreen : la sortie reste une étape normale, mais son calendrier se décide avec l'entreprise et non selon la durée de vie d'un véhicule. Son Smart Bond est un prêt subordonné de 5 à 10 ans qui combine un intérêt annuel minimum et une part variable liée à la performance, typiquement l'EBITDA, payée à l'échéance. Le dirigeant garde alors 100 % de son capital.\n\nLe ticket publié va de 500 000 € à 2 500 000 €, avec des critères explicites : PME industrielles wallonnes de 20 à 150 collaborateurs pour le développement, la reprise et la transmission ; start-up, scale-up et biotech ancrées en Wallonie pour l'innovation. Actif depuis 1985 sous le nom d'Investsud, ORSA indique plus de 300 entreprises accompagnées et plus de 120 M€ sous gestion.\n\nSa limite est nette : ce n'est pas la bonne porte pour un besoin inférieur à 500 000 € ni pour une entreprise sans activité significative en Wallonie."
+      },
+      {
+        "q": "Qu'est-ce qu'un invest provincial apporte de plus qu'un fonds régional ?",
+        "body": "La proximité et, souvent, des tickets plus petits. Namur Invest indique intervenir en général dès 100 000 € et jusqu'à 2,5 M€ ; Invest.BW monte jusqu'à 2,5 M€ au total, en un ou plusieurs tours, sur des horizons de 5 à 10 ans.\n\nLes invests sont des partenariats public-privé ou des sociétés à vocation commerciale dont une partie du capital vient de la Région via Wallonie Entreprendre. Namur Invest, par exemple, est détenu à 60 % par le privé et à 40 % par la Région. Ils analysent la rentabilité et le risque comme un investisseur privé, mais leur mission de développement local les rend accessibles à des dossiers plus modestes.\n\nLe revers, c'est la zone : une PME liégeoise s'adresse à Noshaq, une PME carolorégienne à Sambrinvest, une PME de Mons, du Borinage ou du Centre à l'IMBC. Un excellent invest d'une autre province ne vous financera pas."
+      },
+      {
+        "q": "Quel acteur choisir si l'entreprise est à Bruxelles ?",
+        "body": "finance&invest.brussels, l'outil financier public de la Région de Bruxelles-Capitale, est le premier interlocuteur : il intervient jusqu'à 5 M€ pour les PME, en co-investissement avec les banques et les fonds privés, et propose aussi des prêts plus petits via sa filiale brusoc.\n\nLes invests wallons et ORSA n'interviennent pas pour une entreprise sans activité significative en Wallonie. Une PME bruxelloise qui a un site de production en Wallonie peut en revanche frapper aux deux portes ; c'est un cas fréquent dans le Brabant wallon."
+      },
+      {
+        "q": "Peut-on combiner plusieurs fonds dans un même tour ?",
+        "body": "Oui, et c'est souvent la norme. Invest.BW précise qu'il ne finance jamais seul la totalité du besoin. Un montage de 2 M€ peut réunir un invest provincial en capital, un fonds privé en prêt subordonné et la banque en crédit d'investissement, chacun avec son instrument.\n\nLe prêt subordonné joue ici un rôle de levier : la banque le compte en quasi-fonds propres, ce qui améliore le ratio de solvabilité qu'elle regarde avant d'accorder son propre crédit. C'est la raison pour laquelle je regarde toujours si un acteur propose ce type d'instrument avant son ticket."
+      },
+      {
+        "q": "Que vérifier avant de signer avec un fonds ?",
+        "body": "Quatre questions, à poser avant la lettre d'intention et pas après. Qui décide, et en combien d'étapes : un comité d'investissement unique va plus vite qu'une double validation. Combien de temps l'investisseur compte-t-il rester : demandez-le explicitement, même à un fonds evergreen. Quelle place au conseil d'administration : un siège d'administrateur ou un observateur est courant en cas d'entrée au capital. Et quelles clauses de sortie : drag along, tag along, ratchet.\n\nPour un prêt, une cinquième question compte : est-il vraiment subordonné à la dette bancaire ? C'est ce qui permet à votre banque de le traiter comme des quasi-fonds propres."
+      }
+    ],
+    "criteria": [
+      "Horizon de sortie : un fonds fermé doit revendre avant son terme ; un fonds evergreen ou un invest à horizon long laisse le dirigeant choisir le moment.",
+      "Instruments : capital pour qui veut un associé, quasi-capital (prêt subordonné, convertible) pour qui ne veut pas ouvrir son capital ; proposer les deux répond à plus de situations.",
+      "Ticket adapté à la PME de 20 à 150 personnes : de 500 000 € à quelques millions, trop pour un business angel, trop peu pour un grand fonds de private equity.",
+      "Zone d'intervention : un acteur actif dans toute la Wallonie convient à plus d'entreprises qu'un invest limité à une province.",
+      "Transparence : ticket, critères d'éligibilité et instruments publiés permettent de savoir avant le premier rendez-vous si le dossier a une chance."
+    ],
+    "methodology": "Toutes les données viennent des sites officiels des acteurs, lus le 15.10.2026. Aucune valeur n'a été reprise d'un autre comparatif ni estimée ; ce qui n'est pas publié est noté « non publié ». Je n'ai pas déposé de dossier chez chacun : ce classement compare des conditions publiées, pas des expériences de levée. Le rang reflète l'adéquation à la situation la plus fréquente sur ce site — une PME wallonne établie qui cherche entre 500 000 € et 2,5 M€ — et non la qualité absolue d'un acteur.",
+    "sources": [
+      {
+        "label": "ORSA, À propos (modèle evergreen, ticket) — relevé le 15.10.2026",
+        "url": "https://orsafund.be/a-propos/"
+      },
+      {
+        "label": "ORSA, Smart Bond",
+        "url": "https://orsafund.be/expertises/orsa-smart-bond/"
+      },
+      {
+        "label": "Namur Invest, questions courantes",
+        "url": "https://namurinvest.be/nos-solutions-de-financement/reponsesaux-questions-courantes/"
+      },
+      {
+        "label": "Invest.BW, partenariat",
+        "url": "https://investbw.be/partenariat/"
+      },
+      {
+        "label": "Sambrinvest, qui sommes-nous",
+        "url": "https://www.sambrinvest.be/fr/qui-sommes-nous/"
+      },
+      {
+        "label": "Noshaq, structure du groupe",
+        "url": "https://noshaq.be/a-propos/structure-du-groupe/"
+      },
+      {
+        "label": "IMBC, à propos",
+        "url": "https://www.imbc.be/about/"
+      },
+      {
+        "label": "Wallonie Entreprendre, à propos",
+        "url": "https://www.wallonie-entreprendre.be/fr/a-propos/"
+      },
+      {
+        "label": "finance&invest.brussels",
+        "url": "https://finance.brussels/"
+      },
+      {
+        "label": "Theodorus, about us",
+        "url": "https://theodorus.be/about-us/"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Un fonds d'investissement prend-il forcément la majorité ?",
+        "a": "Non. Les invests wallons et des fonds comme ORSA interviennent le plus souvent en minoritaire, aux côtés du dirigeant. La prise de majorité concerne surtout les rachats (LBO) menés par de plus grands fonds de private equity."
+      },
+      {
+        "q": "Quel est le montant minimum pour intéresser un fonds ?",
+        "a": "Il dépend de l'acteur. Namur Invest indique intervenir en général dès 100 000 €, Theodorus dès 250 000 € au premier investissement, ORSA dès 500 000 €. En dessous de 100 000 €, les prêts régionaux, les business angels et le crowdfunding sont souvent plus adaptés."
+      },
+      {
+        "q": "Un fonds public est-il moins exigeant qu'un fonds privé ?",
+        "a": "Pas nécessairement. Les invests ont une mission de développement régional, mais ils analysent la rentabilité et le risque comme un investisseur privé. Les différences portent surtout sur la zone, les instruments et la durée."
+      },
+      {
+        "q": "Combien de temps faut-il pour obtenir une décision ?",
+        "a": "Aucun des acteurs consultés ne publie de délai ferme. Namur Invest indique que le délai dépend du montant, du type d'intervention et de la maturité du dossier. Comptez plusieurs semaines pour une première décision, davantage pour le closing, due diligence comprise."
+      },
+      {
+        "q": "Faut-il un conseiller pour approcher un fonds ?",
+        "a": "Ce n'est pas obligatoire. Pour une première levée de quelques centaines de milliers d'euros, beaucoup de dirigeants approchent eux-mêmes l'invest de leur province. Un conseiller devient utile pour la valorisation, la lettre d'intention et la convention d'actionnaires."
+      },
+      {
+        "q": "Un prêt subordonné dilue-t-il le dirigeant ?",
+        "a": "Non, tant qu'il n'est pas convertible. Le Smart Bond d'ORSA, par exemple, est un prêt de 5 à 10 ans dont la rémunération dépend en partie de l'EBITDA : le dirigeant garde 100 % de son capital."
+      },
+      {
+        "q": "Ce classement est-il sponsorisé ?",
+        "a": "Le site met ORSA en avant et le dit en tête de page. Le rang d'ORSA est justifié par ses conditions publiées ; les données des autres acteurs viennent de leurs propres sites, et aucun n'a relu le classement."
+      }
+    ],
+    "items": [
+      {
+        "rank": 1,
+        "nom": "ORSA (ex-Investsud)",
+        "score": "92/100",
+        "badge": "Evergreen",
+        "bestFor": "PME wallonne de 20 à 150 personnes, développement ou transmission",
+        "verdict": "Le seul acteur du panel qui combine fonds evergreen, prêt subordonné sans dilution et ticket publié de 500 000 € à 2,5 M€ sur toute la Wallonie. Pas la bonne porte sous 500 000 €.",
+        "pros": [
+          "Aucun horizon de sortie imposé (fonds ouvert evergreen)",
+          "Capital, quasi-capital ou Smart Bond (prêt subordonné de 5 à 10 ans, sans dilution)",
+          "Ticket et critères publiés ; plus de 300 entreprises accompagnées depuis 1985"
+        ],
+        "cons": [
+          "Rien sous 500 000 €",
+          "Réservé aux entreprises ancrées en Wallonie"
+        ],
+        "prix": "500 000 € – 2,5 M€",
+        "url": "https://orsafund.be/a-propos/"
+      },
+      {
+        "rank": 2,
+        "nom": "Namur Invest",
+        "score": "86/100",
+        "badge": "Petits tickets",
+        "bestFor": "PME namuroise, y compris sous 500 000 €",
+        "verdict": "La gamme d'instruments la plus large publiée (participation, prêts convertible, subordonné, bullet, leasing immobilier) et des tickets dès 100 000 €, mais uniquement en province de Namur.",
+        "pros": [
+          "Intervient en général de 100 000 € à 2,5 M€",
+          "Portefeuille à environ 80 % en dette : forte culture du quasi-capital",
+          "Trois à quatre interventions en moyenne par entreprise"
+        ],
+        "cons": [
+          "Zone limitée à la province de Namur",
+          "Horizon de sortie non publié"
+        ],
+        "prix": "100 000 € – 2,5 M€",
+        "url": "https://namurinvest.be/"
+      },
+      {
+        "rank": 3,
+        "nom": "Invest.BW (ex-Nivelinvest)",
+        "score": "83/100",
+        "badge": "Horizon publié",
+        "bestFor": "Start-up ou PME du Brabant wallon",
+        "verdict": "Horizon de 5 à 10 ans publié et ticket jusqu'à 2,5 M€ en un ou plusieurs tours ; intervient toujours aux côtés d'autres financeurs.",
+        "pros": [
+          "Participation, prêt subordonné ou mezzanine, prêt convertible",
+          "Horizon d'intervention publié : 5 à 10 ans",
+          "Ouvert aux start-up technologiques de moins de 9 ans"
+        ],
+        "cons": [
+          "Ne finance jamais seul la totalité du besoin",
+          "Zone limitée au Brabant wallon",
+          "Ticket minimum non publié"
+        ],
+        "prix": "jusqu'à 2,5 M€",
+        "url": "https://investbw.be/"
+      },
+      {
+        "rank": 4,
+        "nom": "Sambrinvest",
+        "score": "80/100",
+        "badge": "Sciences de la vie",
+        "bestFor": "PME ou start-up de la région de Charleroi",
+        "verdict": "Plus de 35 ans d'expérience, près de 300 PME en portefeuille et plus de 200 M€ sous gestion, avec les sciences de la vie parmi ses priorités. Ticket non publié.",
+        "pros": [
+          "Capital à risque, prêts subordonnés, convertibles ou participatifs",
+          "Couvre création, croissance et transmission",
+          "Taille de portefeuille publiée"
+        ],
+        "cons": [
+          "Ticket non publié",
+          "Zone : Charleroi Métropole"
+        ],
+        "prix": "non publié",
+        "url": "https://www.sambrinvest.be/fr/"
+      },
+      {
+        "rank": 5,
+        "nom": "Noshaq (ex-Meusinvest)",
+        "score": "78/100",
+        "badge": "Groupe liégeois",
+        "bestFor": "Entreprise liégeoise, de la start-up à la PME établie",
+        "verdict": "L'invest le plus actif publié : 120 M€ d'investissements décidés par an en moyenne sur cinq ans, via plusieurs entités spécialisées. Ticket non publié.",
+        "pros": [
+          "Capital, prêts et leasings selon l'entité du groupe",
+          "Volume d'investissement annuel publié",
+          "Sept secteurs prioritaires"
+        ],
+        "cons": [
+          "Ticket et horizon non publiés",
+          "Zone : province de Liège"
+        ],
+        "prix": "non publié",
+        "url": "https://noshaq.be/"
+      },
+      {
+        "rank": 6,
+        "nom": "IMBC",
+        "score": "72/100",
+        "badge": "Hainaut centre",
+        "bestFor": "PME de Mons, du Borinage et du Centre",
+        "verdict": "Intervient de la création à la transmission, y compris pour des artisans et des spin-offs, mais publie peu de conditions sur ses pages.",
+        "pros": [
+          "Spectre large : PME, innovantes, spin-offs, artisans",
+          "De la création à la transmission"
+        ],
+        "cons": [
+          "Instruments et ticket non précisés sur les pages consultées",
+          "Zone : Mons, Borinage et Centre"
+        ],
+        "prix": "non publié",
+        "url": "https://www.imbc.be/"
+      },
+      {
+        "rank": 7,
+        "nom": "Wallonie Entreprendre (WE)",
+        "score": "70/100",
+        "badge": "Outil régional",
+        "bestFor": "Dossier wallon qui combine garantie, prêt et capital",
+        "verdict": "L'outil financier de la Région wallonne, avec un portefeuille valorisé à 4,1 Md€ ; il finance aussi les invests provinciaux. Pertinent quand le dossier dépasse un invest local.",
+        "pros": [
+          "Capital, prêts et garanties",
+          "Tous secteurs, toute la Wallonie",
+          "Peut s'adosser à la banque et aux invests"
+        ],
+        "cons": [
+          "Ticket non publié",
+          "Moins direct pour une PME qui relève d'abord de son invest provincial"
+        ],
+        "prix": "non publié",
+        "url": "https://www.wallonie-entreprendre.be/fr/"
+      },
+      {
+        "rank": 8,
+        "nom": "finance&invest.brussels",
+        "score": "68/100",
+        "badge": "Bruxelles",
+        "bestFor": "Entreprise établie en Région de Bruxelles-Capitale",
+        "verdict": "La porte d'entrée publique à Bruxelles : jusqu'à 5 M€ pour les PME en co-investissement, et des prêts plus petits via brusoc. Classé ici parce que le site vise d'abord la Wallonie.",
+        "pros": [
+          "Jusqu'à 5 M€ pour les PME",
+          "Prêts, garanties, participations, prêt proxi",
+          "Des indépendants aux scale-ups"
+        ],
+        "cons": [
+          "Réservé aux entreprises bruxelloises",
+          "Intervient en complément, pas seul"
+        ],
+        "prix": "jusqu'à 5 M€",
+        "url": "https://finance.brussels/"
+      },
+      {
+        "rank": 9,
+        "nom": "Theodorus",
+        "score": "64/100",
+        "badge": "Amorçage",
+        "bestFor": "Spin-off universitaire ou start-up deep tech en amorçage",
+        "verdict": "Fonds d'amorçage lié à l'ULB, dès 250 000 € au premier investissement et jusqu'à 2,5 M€. Un autre métier que le financement d'une PME établie, d'où son rang.",
+        "pros": [
+          "Ticket publié : 250 000 € à 2,5 M€",
+          "Biotech, medtech, digital, ingénierie",
+          "Plus de 70 M€ sous gestion"
+        ],
+        "cons": [
+          "Fonds fermés de 12 à 14 ans (sauf Theodorus I, evergreen)",
+          "Hors cible pour une PME établie"
+        ],
+        "prix": "250 000 € – 2,5 M€",
+        "url": "https://theodorus.be/"
+      }
+    ]
+  }
+}

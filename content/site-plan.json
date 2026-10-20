@@ -1,0 +1,1054 @@
+{
+  "schemaVersion": "1.0",
+  "site": {
+    "domain": "fonds-investissement.be",
+    "sector": "Banque",
+    "positioning": "Le dirigeant de PME wallonne ou bruxelloise face à un fonds : ce qu'il cède, à qui, à quel prix et pour combien de temps — chaque clause traduite en pourcentage de capital et en droit de décision.",
+    "generatedAt": "2026-10-20T14:45:00+02:00"
+  },
+  "market": {
+    "country": "BE",
+    "primaryLocale": "fr",
+    "locales": [
+      "fr",
+      "en"
+    ],
+    "cuik": {
+      "locationIds": [
+        "2056"
+      ],
+      "languageId": "1002"
+    }
+  },
+  "research": {
+    "seeds": [
+      "fonds d'investissement",
+      "lever des fonds",
+      "financement pme",
+      "private equity",
+      "capital risque",
+      "wallonie entreprendre",
+      "prêt subordonné",
+      "tax shelter start up",
+      "convention d'actionnaires",
+      "reprise d'entreprise",
+      "business angels",
+      "valorisation entreprise",
+      "management buy out",
+      "term sheet (FR 2250)",
+      "due diligence (FR 2250)",
+      "fonds evergreen (FR 2250)",
+      "quasi fonds propres (FR 2250)"
+    ],
+    "keywordIdeasAt": "2026-10-20T14:45:00+02:00",
+    "competitors": [
+      {
+        "domain": "wallonie-entreprendre.be",
+        "rankedKeywords": 54,
+        "observedDepth": 4,
+        "urlPatterns": [
+          "/fr/expertises/<theme>/<page>",
+          "/fr/financements/<instrument>/<produit>",
+          "/fr/actualites/financement/<news>"
+        ],
+        "analyzedAt": "2026-10-20T14:45:00+02:00"
+      },
+      {
+        "domain": "1819.brussels",
+        "rankedKeywords": 10,
+        "observedDepth": 3,
+        "urlPatterns": [
+          "/outils/subsides?f=category",
+          "/fr/blog/<slug>"
+        ],
+        "analyzedAt": "2026-10-20T14:45:00+02:00"
+      },
+      {
+        "domain": "orsafund.be",
+        "rankedKeywords": 3,
+        "observedDepth": 2,
+        "urlPatterns": [
+          "/expertises/<slug>",
+          "/ressources/"
+        ],
+        "analyzedAt": "2026-10-20T14:45:00+02:00"
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "id": "c-classement",
+      "label": "Fonds d'investissement pour PME (acteurs comparés)",
+      "intent": "commercial",
+      "volume": 420,
+      "priority": 1,
+      "personas": [
+        "dirigeant de PME",
+        "repreneur"
+      ],
+      "keywordSource": "keyword_ideas",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "id": "c-comprendre",
+      "label": "Comprendre les fonds (types, private equity, evergreen)",
+      "intent": "informational",
+      "volume": 3300,
+      "priority": 2,
+      "keywordSource": "keyword_ideas",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "id": "c-lever",
+      "label": "Lever des fonds : dossier, valorisation, term sheet, due diligence, pacte",
+      "intent": "informational",
+      "volume": 620,
+      "priority": 2,
+      "personas": [
+        "dirigeant de PME",
+        "fondateur"
+      ],
+      "keywordSource": "keyword_ideas",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "id": "c-instruments",
+      "label": "Fonds propres, dette, quasi-capital, prêt subordonné",
+      "intent": "informational",
+      "volume": 260,
+      "priority": 3,
+      "keywordSource": "keyword_ideas",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "id": "c-reprise",
+      "label": "Reprise et transmission : MBO, MBI, OBO",
+      "intent": "informational",
+      "volume": 680,
+      "priority": 2,
+      "personas": [
+        "repreneur",
+        "cadre",
+        "dirigeant proche de la retraite"
+      ],
+      "keywordSource": "keyword_ideas",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "id": "c-innovation",
+      "label": "Start-up, scale-up, biotech : tours, business angels, tax shelter",
+      "intent": "informational",
+      "volume": 480,
+      "priority": 3,
+      "personas": [
+        "fondateur"
+      ],
+      "keywordSource": "keyword_ideas",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "id": "c-region",
+      "label": "Financements publics par région : Wallonie Entreprendre, invests, Bruxelles",
+      "intent": "navigational",
+      "volume": 3000,
+      "priority": 2,
+      "keywordSource": "keyword_ideas",
+      "checkedAt": "2026-10-20"
+    }
+  ],
+  "assets": [
+    {
+      "type": "classement",
+      "slug": "fonds-investissement-pme",
+      "cluster": "c-classement",
+      "path": "/classement/fonds-investissement-pme",
+      "localizedPaths": {
+        "en": "/en/classement/fonds-investissement-pme"
+      },
+      "depth": 2,
+      "owns": [
+        "meilleurs fonds d'investissement",
+        "top fonds d'investissement pme",
+        "classement fonds d'investissement pme wallonie"
+      ],
+      "status": "seed",
+      "wordsMin": 1000,
+      "mentionSlots": 9
+    },
+    {
+      "type": "comparateur",
+      "slug": "fonds-investissement-pme",
+      "cluster": "c-classement",
+      "path": "/comparer/fonds-investissement-pme",
+      "localizedPaths": {
+        "en": "/en/comparer/fonds-investissement-pme"
+      },
+      "depth": 2,
+      "owns": [
+        "comparer fonds d'investissement"
+      ],
+      "status": "seed",
+      "mentionSlots": 9
+    },
+    {
+      "type": "choisir",
+      "slug": "fonds-investissement-pme",
+      "cluster": "c-classement",
+      "path": "/choisir/fonds-investissement-pme",
+      "localizedPaths": {
+        "en": "/en/choisir/fonds-investissement-pme"
+      },
+      "depth": 2,
+      "owns": [
+        "quel fonds d'investissement choisir"
+      ],
+      "status": "seed"
+    },
+    {
+      "type": "classement",
+      "slug": "invests-wallons",
+      "cluster": "c-region",
+      "path": "/classement/invests-wallons",
+      "owns": [
+        "meilleurs invests wallons"
+      ],
+      "status": "planned",
+      "wordsMin": 1000,
+      "mentionSlots": 7
+    },
+    {
+      "type": "classement",
+      "slug": "fonds-capital-risque-belgique",
+      "cluster": "c-innovation",
+      "path": "/classement/fonds-capital-risque-belgique",
+      "owns": [
+        "fonds capital risque belgique"
+      ],
+      "status": "planned",
+      "wordsMin": 1000,
+      "mentionSlots": 6
+    },
+    {
+      "type": "classement",
+      "slug": "reseaux-business-angels",
+      "cluster": "c-innovation",
+      "path": "/classement/reseaux-business-angels",
+      "owns": [
+        "business angels belgique"
+      ],
+      "status": "planned",
+      "wordsMin": 1000,
+      "mentionSlots": 5
+    },
+    {
+      "type": "classement",
+      "slug": "fonds-reprise-pme",
+      "cluster": "c-reprise",
+      "path": "/classement/fonds-reprise-pme",
+      "owns": [
+        "fonds pour reprendre une entreprise"
+      ],
+      "status": "planned",
+      "wordsMin": 1000,
+      "mentionSlots": 6
+    },
+    {
+      "type": "quiz",
+      "slug": "quiz",
+      "status": "disabled",
+      "disabledReason": "Une seule famille de comparateur à l'init (fonds-investissement-pme) : toutes les réponses aboutiraient à la même page ; mieux vaut pas de quiz qu'un quiz qui ment."
+    },
+    {
+      "type": "simulateur",
+      "slug": "simulateur",
+      "status": "disabled",
+      "disabledReason": "Pas de série de prix sourcée et datée sur ce marché : un simulateur de cycles de prix serait une coquille vide. L'outil pertinent est un calculateur de dilution, mis en file dans PROGRESS-OUTILS."
+    },
+    {
+      "type": "blog-categorie",
+      "slug": "comprendre-les-fonds",
+      "cluster": "c-comprendre",
+      "path": "/blog/comprendre-les-fonds",
+      "localizedPaths": {
+        "en": "/en/blog/comprendre-les-fonds"
+      },
+      "depth": 2,
+      "status": "seed"
+    },
+    {
+      "type": "blog-categorie",
+      "slug": "lever-des-fonds",
+      "cluster": "c-lever",
+      "path": "/blog/lever-des-fonds",
+      "localizedPaths": {
+        "en": "/en/blog/lever-des-fonds"
+      },
+      "depth": 2,
+      "status": "seed"
+    },
+    {
+      "type": "blog-categorie",
+      "slug": "fonds-propres-ou-dette",
+      "cluster": "c-instruments",
+      "path": "/blog/fonds-propres-ou-dette",
+      "localizedPaths": {
+        "en": "/en/blog/fonds-propres-ou-dette"
+      },
+      "depth": 2,
+      "status": "seed"
+    },
+    {
+      "type": "blog-categorie",
+      "slug": "reprise-et-transmission",
+      "cluster": "c-reprise",
+      "path": "/blog/reprise-et-transmission",
+      "localizedPaths": {
+        "en": "/en/blog/reprise-et-transmission"
+      },
+      "depth": 2,
+      "status": "seed"
+    },
+    {
+      "type": "blog-categorie",
+      "slug": "start-up-et-scale-up",
+      "cluster": "c-innovation",
+      "path": "/blog/start-up-et-scale-up",
+      "localizedPaths": {
+        "en": "/en/blog/start-up-et-scale-up"
+      },
+      "depth": 2,
+      "status": "seed"
+    },
+    {
+      "type": "blog-categorie",
+      "slug": "fonds-par-region",
+      "cluster": "c-region",
+      "path": "/blog/fonds-par-region",
+      "localizedPaths": {
+        "en": "/en/blog/fonds-par-region"
+      },
+      "depth": 2,
+      "status": "seed"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "comprendre-les-fonds-d-investissement",
+      "categorie": "comprendre-les-fonds",
+      "cluster": "c-comprendre",
+      "type": "info",
+      "owns": [
+        "qu'est-ce qu'un fonds d'investissement",
+        "fonds d'investissement pme"
+      ],
+      "questions": [
+        "Qu'est-ce qu'un fonds d'investissement pour une PME ?",
+        "Comment un fonds gagne-t-il de l'argent ?",
+        "Quelle part du capital un fonds prend-il ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/comprendre-les-fonds/how-investment-funds-work"
+      },
+      "persona": "dirigeant de PME",
+      "brands": [
+        "ORSA",
+        "Noshaq",
+        "Wallonie Entreprendre"
+      ]
+    },
+    {
+      "slug": "fonds-de-placement-ou-fonds-d-investissement",
+      "categorie": "comprendre-les-fonds",
+      "cluster": "c-comprendre",
+      "type": "info",
+      "owns": [
+        "fonds de placement ou fonds d'investissement",
+        "fond de placement"
+      ],
+      "questions": [
+        "Quelle différence entre un fonds de placement et un fonds d'investissement ?",
+        "Un fonds de placement finance-t-il des PME ?",
+        "Pourquoi le mot fonds prête-t-il à confusion ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/comprendre-les-fonds/placement-fund-vs-investment-fund"
+      },
+      "brands": [
+        "Belfius",
+        "KBC",
+        "ORSA"
+      ]
+    },
+    {
+      "slug": "private-equity-capital-risque-capital-developpement",
+      "categorie": "comprendre-les-fonds",
+      "cluster": "c-comprendre",
+      "type": "info",
+      "owns": [
+        "private equity",
+        "capital risque",
+        "capital développement"
+      ],
+      "questions": [
+        "Qu'est-ce que le private equity ?",
+        "Quelle différence entre capital-risque et capital-développement ?",
+        "Quel type de fonds pour quel stade d'entreprise ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/comprendre-les-fonds/private-equity-venture-growth-capital"
+      },
+      "brands": [
+        "Gimv",
+        "Noshaq",
+        "Theodorus"
+      ]
+    },
+    {
+      "slug": "fonds-evergreen-ou-fonds-ferme",
+      "categorie": "comprendre-les-fonds",
+      "cluster": "c-comprendre",
+      "type": "face-a-face",
+      "owns": [
+        "fonds evergreen",
+        "fonds evergreen ou fonds fermé"
+      ],
+      "questions": [
+        "Qu'est-ce qu'un fonds evergreen ?",
+        "Pourquoi un fonds fermé doit-il sortir ?",
+        "Lequel convient à une PME familiale ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/comprendre-les-fonds/evergreen-vs-closed-end-fund"
+      },
+      "persona": "PME familiale",
+      "brands": [
+        "ORSA",
+        "Gimv"
+      ]
+    },
+    {
+      "slug": "invest-public-ou-fonds-prive",
+      "categorie": "comprendre-les-fonds",
+      "cluster": "c-comprendre",
+      "type": "face-a-face",
+      "owns": [
+        "invest public ou fonds privé"
+      ],
+      "questions": [
+        "Un invest public est-il moins exigeant qu'un fonds privé ?",
+        "Quelle différence de ticket et d'horizon ?",
+        "Peut-on combiner les deux ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/comprendre-les-fonds/public-invest-vs-private-fund"
+      },
+      "persona": "PME wallonne",
+      "brands": [
+        "Noshaq",
+        "Sambrinvest",
+        "ORSA"
+      ]
+    },
+    {
+      "slug": "glossaire-du-financement-d-entreprise",
+      "categorie": "comprendre-les-fonds",
+      "cluster": "c-comprendre",
+      "type": "info",
+      "owns": [
+        "glossaire financement entreprise",
+        "pre-money post-money définition"
+      ],
+      "questions": [
+        "Que veut dire pre-money ?",
+        "Qu'est-ce qu'un covenant ?",
+        "Que signifie quasi-fonds propres ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/comprendre-les-fonds/business-financing-glossary"
+      }
+    },
+    {
+      "slug": "lever-des-fonds-pme-etapes",
+      "categorie": "lever-des-fonds",
+      "cluster": "c-lever",
+      "type": "pratique",
+      "owns": [
+        "lever des fonds pme",
+        "comment lever des fonds"
+      ],
+      "questions": [
+        "Comment se passe une levée de fonds pour une PME ?",
+        "Combien de temps dure une levée ?",
+        "Qui contacter en premier ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/lever-des-fonds/how-to-raise-capital-sme"
+      },
+      "persona": "dirigeant de PME",
+      "brands": [
+        "Noshaq",
+        "ORSA",
+        "Wallonie Entreprendre"
+      ]
+    },
+    {
+      "slug": "preparer-une-levee-de-fonds",
+      "categorie": "lever-des-fonds",
+      "cluster": "c-lever",
+      "type": "pratique",
+      "owns": [
+        "préparer une levée de fonds",
+        "dossier levée de fonds"
+      ],
+      "questions": [
+        "Que contient un dossier de levée de fonds ?",
+        "Quels chiffres le fonds demande-t-il ?",
+        "Quelles erreurs font échouer un dossier ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/lever-des-fonds/preparing-a-funding-round"
+      }
+    },
+    {
+      "slug": "valoriser-une-pme",
+      "categorie": "lever-des-fonds",
+      "cluster": "c-lever",
+      "type": "pratique",
+      "owns": [
+        "valorisation entreprise",
+        "valoriser une entreprise",
+        "évaluation d'entreprise"
+      ],
+      "questions": [
+        "Comment valoriser une PME non cotée ?",
+        "Quel multiple d'EBITDA pour une PME belge ?",
+        "Comment négocier la valorisation ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/lever-des-fonds/valuing-an-sme"
+      }
+    },
+    {
+      "slug": "lettre-d-intention-et-term-sheet",
+      "categorie": "lever-des-fonds",
+      "cluster": "c-lever",
+      "type": "pratique",
+      "owns": [
+        "term sheet",
+        "lettre d'intention rachat entreprise"
+      ],
+      "questions": [
+        "Qu'est-ce qu'une term sheet ?",
+        "Une lettre d'intention engage-t-elle ?",
+        "Quelles clauses négocier en priorité ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/lever-des-fonds/letter-of-intent-and-term-sheet"
+      }
+    },
+    {
+      "slug": "due-diligence",
+      "categorie": "lever-des-fonds",
+      "cluster": "c-lever",
+      "type": "pratique",
+      "owns": [
+        "due diligence",
+        "dues diligences"
+      ],
+      "questions": [
+        "Qu'est-ce qu'une due diligence ?",
+        "Que vérifie le fonds ?",
+        "Combien de temps et combien coûte-t-elle ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/lever-des-fonds/due-diligence-what-funds-check"
+      }
+    },
+    {
+      "slug": "convention-d-actionnaires",
+      "categorie": "lever-des-fonds",
+      "cluster": "c-lever",
+      "type": "info",
+      "owns": [
+        "convention d'actionnaires"
+      ],
+      "questions": [
+        "Que contient une convention d'actionnaires ?",
+        "Est-elle obligatoire ?",
+        "Quelles clauses protègent le dirigeant ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/lever-des-fonds/shareholders-agreement"
+      }
+    },
+    {
+      "slug": "clauses-de-sortie-tag-drag-leaver",
+      "categorie": "lever-des-fonds",
+      "cluster": "c-lever",
+      "type": "info",
+      "owns": [
+        "tag along",
+        "drag along",
+        "clause good leaver bad leaver"
+      ],
+      "questions": [
+        "Qu'est-ce qu'une clause de tag along ?",
+        "Que permet le drag along ?",
+        "Que risque un bad leaver ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/lever-des-fonds/exit-clauses-tag-drag-leaver"
+      }
+    },
+    {
+      "slug": "anti-dilution-et-ratchet",
+      "categorie": "lever-des-fonds",
+      "cluster": "c-lever",
+      "type": "info",
+      "owns": [
+        "clause anti-dilution",
+        "ratchet"
+      ],
+      "questions": [
+        "Qu'est-ce qu'une clause anti-dilution ?",
+        "Full ratchet ou moyenne pondérée ?",
+        "Comment limiter son effet ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/lever-des-fonds/anti-dilution-and-ratchet"
+      }
+    },
+    {
+      "slug": "le-fonds-au-capital",
+      "categorie": "lever-des-fonds",
+      "cluster": "c-lever",
+      "type": "info",
+      "owns": [
+        "fonds au capital pme gouvernance"
+      ],
+      "questions": [
+        "Que change un fonds au capital ?",
+        "Le fonds siège-t-il au conseil ?",
+        "Comment se passe la sortie du fonds ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/lever-des-fonds/a-fund-on-your-cap-table"
+      },
+      "persona": "dirigeant actionnaire",
+      "brands": [
+        "ORSA",
+        "Noshaq"
+      ]
+    },
+    {
+      "slug": "un-fonds-veut-40-pour-cent-de-mon-capital",
+      "categorie": "lever-des-fonds",
+      "cluster": "c-lever",
+      "type": "info",
+      "owns": [
+        "fonds 40 % du capital"
+      ],
+      "questions": [
+        "40 % du capital, est-ce trop ?",
+        "Que garde le dirigeant à 60 % ?",
+        "Quelles alternatives pour céder moins ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/lever-des-fonds/fund-wants-40-percent-of-my-company"
+      },
+      "persona": "dirigeant de PME"
+    },
+    {
+      "slug": "fonds-propres-dette-et-quasi-capital",
+      "categorie": "fonds-propres-ou-dette",
+      "cluster": "c-instruments",
+      "type": "info",
+      "owns": [
+        "quasi fonds propres",
+        "fonds propres dette quasi capital"
+      ],
+      "questions": [
+        "Qu'est-ce que le quasi-capital ?",
+        "Quand choisir les fonds propres plutôt que la dette ?",
+        "Quels instruments hybrides existent ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/fonds-propres-ou-dette/equity-debt-and-quasi-equity"
+      },
+      "brands": [
+        "ORSA",
+        "Namur Invest"
+      ]
+    },
+    {
+      "slug": "dette-bancaire-ou-fonds-propres",
+      "categorie": "fonds-propres-ou-dette",
+      "cluster": "c-instruments",
+      "type": "face-a-face",
+      "owns": [
+        "dette bancaire ou fonds propres"
+      ],
+      "questions": [
+        "Faut-il emprunter ou ouvrir son capital ?",
+        "Que coûte vraiment chaque option ?",
+        "Peut-on combiner banque et fonds ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/fonds-propres-ou-dette/bank-debt-or-equity"
+      },
+      "persona": "PME en croissance",
+      "brands": [
+        "BNP Paribas Fortis",
+        "Belfius",
+        "ING",
+        "KBC"
+      ]
+    },
+    {
+      "slug": "pret-subordonne",
+      "categorie": "fonds-propres-ou-dette",
+      "cluster": "c-instruments",
+      "type": "info",
+      "owns": [
+        "prêt subordonné",
+        "emprunt subordonné"
+      ],
+      "questions": [
+        "Qu'est-ce qu'un prêt subordonné ?",
+        "Pourquoi la banque le considère-t-elle comme des fonds propres ?",
+        "Qui en propose en Belgique ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/fonds-propres-ou-dette/subordinated-loan"
+      },
+      "brands": [
+        "ORSA",
+        "Namur Invest",
+        "Invest.BW"
+      ]
+    },
+    {
+      "slug": "la-banque-refuse-de-financer-mon-extension",
+      "categorie": "fonds-propres-ou-dette",
+      "cluster": "c-instruments",
+      "type": "pratique",
+      "owns": [
+        "banque refuse prêt entreprise que faire"
+      ],
+      "questions": [
+        "Pourquoi la banque refuse-t-elle ?",
+        "Quelles solutions sans la banque ?",
+        "Comment revenir vers la banque avec un fonds ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/fonds-propres-ou-dette/bank-refuses-to-fund-my-expansion"
+      },
+      "persona": "PME industrielle",
+      "brands": [
+        "Wallonie Entreprendre",
+        "ORSA"
+      ]
+    },
+    {
+      "slug": "reprendre-ou-transmettre-une-pme",
+      "categorie": "reprise-et-transmission",
+      "cluster": "c-reprise",
+      "type": "pratique",
+      "owns": [
+        "reprendre une entreprise",
+        "transmission entreprise"
+      ],
+      "questions": [
+        "Comment reprendre une PME avec un fonds ?",
+        "Quels montages de reprise existent ?",
+        "Quel rôle pour la Sowaccess ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/reprise-et-transmission/buying-or-selling-an-sme-with-a-fund"
+      },
+      "persona": "repreneur",
+      "brands": [
+        "Wallonie Entreprendre",
+        "ORSA"
+      ]
+    },
+    {
+      "slug": "management-buy-out-mbo",
+      "categorie": "reprise-et-transmission",
+      "cluster": "c-reprise",
+      "type": "info",
+      "owns": [
+        "management buy out",
+        "mbo"
+      ],
+      "questions": [
+        "Qu'est-ce qu'un MBO ?",
+        "Comment se finance un MBO ?",
+        "Quels risques pour les cadres repreneurs ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/reprise-et-transmission/management-buy-out-mbo"
+      },
+      "persona": "cadre repreneur"
+    },
+    {
+      "slug": "management-buy-in-mbi",
+      "categorie": "reprise-et-transmission",
+      "cluster": "c-reprise",
+      "type": "info",
+      "owns": [
+        "management buy in",
+        "mbi"
+      ],
+      "questions": [
+        "Qu'est-ce qu'un MBI ?",
+        "En quoi diffère-t-il d'un MBO ?",
+        "Comment convaincre un fonds ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/reprise-et-transmission/management-buy-in-mbi"
+      },
+      "persona": "repreneur externe"
+    },
+    {
+      "slug": "owner-buy-out-obo",
+      "categorie": "reprise-et-transmission",
+      "cluster": "c-reprise",
+      "type": "info",
+      "owns": [
+        "owner buy out",
+        "obo"
+      ],
+      "questions": [
+        "Qu'est-ce qu'un OBO ?",
+        "Pourquoi un dirigeant y recourt-il ?",
+        "Quels pièges fiscaux en Belgique ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/reprise-et-transmission/owner-buy-out-obo"
+      },
+      "persona": "dirigeant fondateur"
+    },
+    {
+      "slug": "retraite-dans-quatre-ans-fonds-evergreen-ou-ferme",
+      "categorie": "reprise-et-transmission",
+      "cluster": "c-reprise",
+      "type": "face-a-face",
+      "owns": [
+        "transmission pme fonds evergreen"
+      ],
+      "questions": [
+        "Faut-il un fonds evergreen ou fermé avant sa retraite ?",
+        "Comment préparer la sortie en quatre ans ?",
+        "Que devient l'entreprise après ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/reprise-et-transmission/retiring-in-four-years-evergreen-or-closed-fund"
+      },
+      "persona": "dirigeant proche de la retraite",
+      "brands": [
+        "ORSA"
+      ]
+    },
+    {
+      "slug": "start-up-scale-up-et-biotech",
+      "categorie": "start-up-et-scale-up",
+      "cluster": "c-innovation",
+      "type": "info",
+      "owns": [
+        "financer une start-up",
+        "financement scale-up"
+      ],
+      "questions": [
+        "Comment se finance une start-up par étapes ?",
+        "Qu'est-ce qu'une scale-up ?",
+        "Les fonds investissent-ils seuls ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/start-up-et-scale-up/funding-start-ups-scale-ups-biotech"
+      },
+      "persona": "fondateur de start-up",
+      "brands": [
+        "Theodorus",
+        "Noshaq",
+        "ORSA"
+      ]
+    },
+    {
+      "slug": "financer-une-biotech",
+      "categorie": "start-up-et-scale-up",
+      "cluster": "c-innovation",
+      "type": "info",
+      "owns": [
+        "financer une biotech"
+      ],
+      "questions": [
+        "Comment se finance une biotech en Belgique ?",
+        "Quels fonds investissent en biotech ?",
+        "Quelles aides non dilutives ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/start-up-et-scale-up/funding-a-biotech-belgium"
+      },
+      "persona": "fondateur biotech",
+      "brands": [
+        "ORSA",
+        "Noshaq"
+      ]
+    },
+    {
+      "slug": "tax-shelter-start-up-scale-up",
+      "categorie": "start-up-et-scale-up",
+      "cluster": "c-innovation",
+      "type": "info",
+      "owns": [
+        "tax shelter start up",
+        "tax shelter scale up"
+      ],
+      "questions": [
+        "Qu'est-ce que le tax shelter start-up ?",
+        "Quelle réduction d'impôt pour l'investisseur ?",
+        "Quelles conditions pour l'entreprise ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/start-up-et-scale-up/tax-shelter-start-ups-scale-ups"
+      }
+    },
+    {
+      "slug": "fonds-et-aides-par-region",
+      "categorie": "fonds-par-region",
+      "cluster": "c-region",
+      "type": "info",
+      "owns": [
+        "fonds et aides par région"
+      ],
+      "questions": [
+        "Quels financements publics en Wallonie ?",
+        "Et à Bruxelles ?",
+        "Comment combiner fonds régional et banque ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/fonds-par-region/funds-and-public-financing-by-region"
+      },
+      "brands": [
+        "Wallonie Entreprendre",
+        "finance&invest.brussels"
+      ]
+    },
+    {
+      "slug": "invests-wallons",
+      "categorie": "fonds-par-region",
+      "cluster": "c-region",
+      "type": "info",
+      "owns": [
+        "invests wallons",
+        "invest provincial"
+      ],
+      "questions": [
+        "Qu'est-ce qu'un invest wallon ?",
+        "Quel invest pour quelle province ?",
+        "Quels montants interviennent-ils ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/fonds-par-region/walloon-invests"
+      },
+      "persona": "PME wallonne",
+      "brands": [
+        "Noshaq",
+        "Sambrinvest",
+        "Namur Invest",
+        "Invest.BW",
+        "IMBC"
+      ]
+    },
+    {
+      "slug": "financer-son-entreprise-a-bruxelles",
+      "categorie": "fonds-par-region",
+      "cluster": "c-region",
+      "type": "info",
+      "owns": [
+        "finance&invest.brussels",
+        "financer entreprise bruxelles"
+      ],
+      "questions": [
+        "Qui finance les PME bruxelloises ?",
+        "Que propose finance&invest.brussels ?",
+        "Quels fonds privés à Bruxelles ?"
+      ],
+      "status": "seed",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/fonds-par-region/financing-a-business-in-brussels"
+      },
+      "persona": "PME bruxelloise",
+      "brands": [
+        "finance&invest.brussels"
+      ]
+    }
+  ],
+  "budget": {
+    "seedArticles": 31,
+    "dailyPublish": 1,
+    "maxArticles": 200
+  }
+}

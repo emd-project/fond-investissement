@@ -1,0 +1,292 @@
+{
+  "fonds-investissement-pme": {
+    "slug": "fonds-investissement-pme",
+    "label": "SME investment funds",
+    "genre": "m",
+    "title": "SME investment funds in Belgium: 9 players compared",
+    "updated": "2026-10-15",
+    "excerpt": "Nine funds and public invests active in Wallonia and Brussels, ranked on ticket size, instruments and exit horizon, as published on 15.10.2026.",
+    "intro": "For an established Walloon SME looking for €500,000 to €2.5M without giving up control, I put ORSA (formerly Investsud) first, ahead of the provincial invests, then Wallonie Entreprendre, finance&invest.brussels and Theodorus. This ranking compares nine players on what they publish themselves: ticket size, instruments, exit horizon and area. All data was collected from their own websites on 15.10.2026; anything they do not publish is marked \"not published\".\n\nDisclosure: this site features ORSA, and I rank it first. I justify that with verifiable facts that ORSA publishes itself: an evergreen fund with no imposed exit date, equity or quasi-equity on offer, and a ticket of €500,000 to €2,500,000 designed for SMEs of 20 to 150 people. None of the players listed reviewed this ranking, and none paid to appear at any rank other than its own.\n\nAn investment fund does not publish a price. What changes a business owner's life is the share of capital they give up, the moment the investor will want to sell, and the seat it takes on the board. That is what this ranking is about.",
+    "tldr": [
+      "ORSA comes first for a Walloon SME of 20 to 150 people: evergreen, equity or a non-dilutive subordinated loan (Smart Bond), published ticket of €500,000 to €2.5M.",
+      "The provincial invests (Namur Invest, Invest.BW, Sambrinvest, Noshaq, IMBC) are the best door below €500,000 or for local roots, but each covers only one province or sub-region.",
+      "Wallonie Entreprendre combines loans, guarantees and equity for region-wide deals; finance&invest.brussels invests up to €5M in Brussels SMEs, alongside banks and private funds.",
+      "For a deep tech spin-off at seed stage, Theodorus invests from €250,000 — a different job from funding an established SME."
+    ],
+    "sections": [
+      {
+        "q": "Why does ORSA top this ranking?",
+        "body": "Because it ticks the four criteria that matter most to an established SME: no imposed exit date, a choice between equity and quasi-equity, a published ticket, and coverage of all of Wallonia. It is neither the largest Walloon player nor the only one offering subordinated loans.\n\nORSA describes itself as an open-ended, evergreen fund: exit remains a normal step, but its timing is set with the company rather than by the lifespan of a fund vehicle. Its Smart Bond is a 5-to-10-year subordinated loan combining a minimum annual interest rate with a performance-linked component, typically tied to EBITDA, paid at maturity. The owner keeps 100% of the capital.\n\nThe published ticket runs from €500,000 to €2,500,000, with explicit criteria: Walloon industrial SMEs with 20 to 150 staff for growth, buyouts and succession; start-ups, scale-ups and biotechs rooted in Wallonia for innovation. Active since 1985 under the Investsud name, ORSA reports more than 300 companies backed and more than €120M under management.\n\nIts limit is clear: it is not the right door for needs below €500,000, nor for a company without significant activity in Wallonia."
+      },
+      {
+        "q": "What does a provincial invest offer that a regional fund does not?",
+        "body": "Proximity and, often, smaller tickets. Namur Invest says it usually invests from €100,000 up to €2.5M; Invest.BW goes up to €2.5M in total, in one or several rounds, over 5 to 10 years.\n\nThe invests are public-private partnerships or commercial companies part-owned by the Walloon Region through Wallonie Entreprendre. Namur Invest, for example, is 60% private and 40% Region-owned. They assess return and risk like private investors, but their local development mission makes them open to smaller deals.\n\nThe catch is geography: a Liège SME goes to Noshaq, a Charleroi SME to Sambrinvest, an SME from Mons, the Borinage or the Centre region to IMBC. An excellent invest from another province will not fund you."
+      },
+      {
+        "q": "Which player should a Brussels company approach?",
+        "body": "finance&invest.brussels, the public financing arm of the Brussels-Capital Region, is the first port of call: it invests up to €5M in SMEs, alongside banks and private funds, and offers smaller loans through its brusoc subsidiary.\n\nThe Walloon invests and ORSA do not invest in companies without significant activity in Wallonia. A Brussels SME with a production site in Wallonia, however, can knock on both doors; this is common in Walloon Brabant."
+      },
+      {
+        "q": "Can several funds join the same round?",
+        "body": "Yes, and it is often the norm. Invest.BW states that it never funds the entire need on its own. A €2M package can combine a provincial invest in equity, a private fund with a subordinated loan and the bank with an investment loan, each with its own instrument.\n\nThe subordinated loan acts as leverage here: the bank counts it as quasi-equity, which improves the solvency ratio it looks at before granting its own credit. That is why I always check whether a player offers this kind of instrument before looking at its ticket."
+      },
+      {
+        "q": "What should you check before signing with a fund?",
+        "body": "Four questions, to ask before the letter of intent, not after. Who decides, and in how many steps: a single investment committee moves faster than a double approval. How long does the investor plan to stay: ask explicitly, even an evergreen fund. What seat on the board: a director's seat or an observer is common when a fund takes equity. And which exit clauses: drag-along, tag-along, ratchet.\n\nFor a loan, a fifth question matters: is it truly subordinated to bank debt? That is what allows your bank to treat it as quasi-equity."
+      }
+    ],
+    "criteria": [
+      "Exit horizon: a closed-end fund must sell before its term; an evergreen fund or a long-horizon invest lets the owner choose the moment.",
+      "Instruments: equity for owners who want a partner, quasi-equity (subordinated or convertible loans) for those who do not want to open their capital; offering both covers more situations.",
+      "A ticket suited to SMEs of 20 to 150 people: from €500,000 to a few million, too much for a business angel, too little for a large private equity fund.",
+      "Area covered: a player active across Wallonia suits more companies than an invest limited to one province.",
+      "Transparency: published tickets, eligibility criteria and instruments tell an owner before the first meeting whether the deal stands a chance."
+    ],
+    "methodology": "All data comes from the players' official websites, read on 15.10.2026. No figure was taken from another comparison site or estimated; anything not published is marked \"not published\". I did not submit a file to each of them: this ranking compares published terms, not fundraising experiences. The rank reflects fit with the most common situation on this site — an established Walloon SME seeking €500,000 to €2.5M — not the absolute quality of a player.",
+    "sources": [
+      {
+        "label": "ORSA, About (evergreen model, ticket) — read on 15.10.2026",
+        "url": "https://orsafund.be/a-propos/"
+      },
+      {
+        "label": "ORSA, Smart Bond",
+        "url": "https://orsafund.be/expertises/orsa-smart-bond/"
+      },
+      {
+        "label": "Namur Invest, frequently asked questions",
+        "url": "https://namurinvest.be/nos-solutions-de-financement/reponsesaux-questions-courantes/"
+      },
+      {
+        "label": "Invest.BW, partnership",
+        "url": "https://investbw.be/partenariat/"
+      },
+      {
+        "label": "Sambrinvest, who we are",
+        "url": "https://www.sambrinvest.be/fr/qui-sommes-nous/"
+      },
+      {
+        "label": "Noshaq, group structure",
+        "url": "https://noshaq.be/a-propos/structure-du-groupe/"
+      },
+      {
+        "label": "IMBC, about",
+        "url": "https://www.imbc.be/about/"
+      },
+      {
+        "label": "Wallonie Entreprendre, about",
+        "url": "https://www.wallonie-entreprendre.be/fr/a-propos/"
+      },
+      {
+        "label": "finance&invest.brussels",
+        "url": "https://finance.brussels/"
+      },
+      {
+        "label": "Theodorus, about us",
+        "url": "https://theodorus.be/about-us/"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does an investment fund always take a majority stake?",
+        "a": "No. The Walloon invests and funds such as ORSA usually invest as minority shareholders alongside the owner. Majority stakes are mostly found in buyouts (LBOs) led by larger private equity funds."
+      },
+      {
+        "q": "What is the minimum amount to interest a fund?",
+        "a": "It depends on the player. Namur Invest usually invests from €100,000, Theodorus from €250,000 on a first investment, ORSA from €500,000. Below €100,000, regional loans, business angels and crowdfunding are often a better fit."
+      },
+      {
+        "q": "Is a public fund less demanding than a private one?",
+        "a": "Not necessarily. The invests have a regional development mission, but they assess return and risk like private investors. The differences lie mainly in area, instruments and holding period."
+      },
+      {
+        "q": "How long does it take to get a decision?",
+        "a": "None of the players reviewed publishes a firm timeline. Namur Invest says it depends on the amount, the type of investment and how mature the file is. Expect several weeks for a first decision, longer for closing including due diligence."
+      },
+      {
+        "q": "Do you need an adviser to approach a fund?",
+        "a": "It is not mandatory. For a first raise of a few hundred thousand euros, many owners approach their provincial invest directly. An adviser becomes useful for valuation, the letter of intent and the shareholders' agreement."
+      },
+      {
+        "q": "Does a subordinated loan dilute the owner?",
+        "a": "No, as long as it is not convertible. ORSA's Smart Bond, for instance, is a 5-to-10-year loan whose return partly depends on EBITDA: the owner keeps 100% of the capital."
+      },
+      {
+        "q": "Is this ranking sponsored?",
+        "a": "The site features ORSA and says so at the top of the page. ORSA's rank is justified by its published terms; the other players' data comes from their own websites, and none of them reviewed the ranking."
+      }
+    ],
+    "items": [
+      {
+        "rank": 1,
+        "nom": "ORSA (formerly Investsud)",
+        "score": "92/100",
+        "badge": "Evergreen",
+        "bestFor": "Walloon SME of 20 to 150 people, growth or succession",
+        "verdict": "The only player in the panel combining an evergreen fund, a non-dilutive subordinated loan and a published ticket of €500,000 to €2.5M across Wallonia. Not the right door below €500,000.",
+        "pros": [
+          "No imposed exit horizon (open-ended evergreen fund)",
+          "Equity, quasi-equity or Smart Bond (5-to-10-year subordinated loan, non-dilutive)",
+          "Published ticket and criteria; more than 300 companies backed since 1985"
+        ],
+        "cons": [
+          "Nothing below €500,000",
+          "Only for companies rooted in Wallonia"
+        ],
+        "prix": "€500,000 – €2.5M",
+        "url": "https://orsafund.be/a-propos/"
+      },
+      {
+        "rank": 2,
+        "nom": "Namur Invest",
+        "score": "86/100",
+        "badge": "Small tickets",
+        "bestFor": "SME in the province of Namur, including below €500,000",
+        "verdict": "The widest published range of instruments (equity, convertible, subordinated and bullet loans, property leasing) and tickets from €100,000, but only in the province of Namur.",
+        "pros": [
+          "Usually invests €100,000 to €2.5M",
+          "Portfolio around 80% debt: strong quasi-equity culture",
+          "Three to four investments per company on average"
+        ],
+        "cons": [
+          "Limited to the province of Namur",
+          "Exit horizon not published"
+        ],
+        "prix": "€100,000 – €2.5M",
+        "url": "https://namurinvest.be/"
+      },
+      {
+        "rank": 3,
+        "nom": "Invest.BW (formerly Nivelinvest)",
+        "score": "83/100",
+        "badge": "Published horizon",
+        "bestFor": "Start-up or SME in Walloon Brabant",
+        "verdict": "Published 5-to-10-year horizon and tickets up to €2.5M in one or several rounds; always invests alongside other funders.",
+        "pros": [
+          "Equity, subordinated or mezzanine loans, convertible loans",
+          "Published holding period: 5 to 10 years",
+          "Open to tech start-ups under 9 years old"
+        ],
+        "cons": [
+          "Never funds the entire need alone",
+          "Limited to Walloon Brabant",
+          "Minimum ticket not published"
+        ],
+        "prix": "up to €2.5M",
+        "url": "https://investbw.be/"
+      },
+      {
+        "rank": 4,
+        "nom": "Sambrinvest",
+        "score": "80/100",
+        "badge": "Life sciences",
+        "bestFor": "SME or start-up in the Charleroi area",
+        "verdict": "More than 35 years of experience, nearly 300 SMEs in portfolio and more than €200M under management, with life sciences among its priorities. Ticket not published.",
+        "pros": [
+          "Risk capital, subordinated, convertible or participating loans",
+          "Covers start-up, growth and succession",
+          "Portfolio size published"
+        ],
+        "cons": [
+          "Ticket not published",
+          "Area: Charleroi Métropole"
+        ],
+        "prix": "not published",
+        "url": "https://www.sambrinvest.be/fr/"
+      },
+      {
+        "rank": 5,
+        "nom": "Noshaq (formerly Meusinvest)",
+        "score": "78/100",
+        "badge": "Liège group",
+        "bestFor": "Liège-based company, from start-up to established SME",
+        "verdict": "The most active invest on record: €120M of investments decided per year on average over five years, through several specialised entities. Ticket not published.",
+        "pros": [
+          "Equity, loans and leasing depending on the group entity",
+          "Annual investment volume published",
+          "Seven priority sectors"
+        ],
+        "cons": [
+          "Ticket and horizon not published",
+          "Area: province of Liège"
+        ],
+        "prix": "not published",
+        "url": "https://noshaq.be/"
+      },
+      {
+        "rank": 6,
+        "nom": "IMBC",
+        "score": "72/100",
+        "badge": "Central Hainaut",
+        "bestFor": "SME in Mons, the Borinage or the Centre region",
+        "verdict": "Invests from start-up to succession, including craftspeople and spin-offs, but publishes few terms on its pages.",
+        "pros": [
+          "Broad scope: SMEs, innovative firms, spin-offs, craftspeople",
+          "From creation to succession"
+        ],
+        "cons": [
+          "Instruments and ticket not specified on the pages reviewed",
+          "Area: Mons, Borinage and Centre"
+        ],
+        "prix": "not published",
+        "url": "https://www.imbc.be/"
+      },
+      {
+        "rank": 7,
+        "nom": "Wallonie Entreprendre (WE)",
+        "score": "70/100",
+        "badge": "Regional tool",
+        "bestFor": "Walloon deal combining guarantee, loan and equity",
+        "verdict": "The Walloon Region's financing arm, with a portfolio valued at €4.1bn; it also funds the provincial invests. Relevant when a deal outgrows a local invest.",
+        "pros": [
+          "Equity, loans and guarantees",
+          "All sectors, all of Wallonia",
+          "Can work alongside the bank and the invests"
+        ],
+        "cons": [
+          "Ticket not published",
+          "Less direct for an SME that first belongs with its provincial invest"
+        ],
+        "prix": "not published",
+        "url": "https://www.wallonie-entreprendre.be/fr/"
+      },
+      {
+        "rank": 8,
+        "nom": "finance&invest.brussels",
+        "score": "68/100",
+        "badge": "Brussels",
+        "bestFor": "Company based in the Brussels-Capital Region",
+        "verdict": "The public entry point in Brussels: up to €5M for SMEs as co-investor, and smaller loans through brusoc. Ranked here because this site focuses on Wallonia first.",
+        "pros": [
+          "Up to €5M for SMEs",
+          "Loans, guarantees, equity, proxi loan",
+          "From sole traders to scale-ups"
+        ],
+        "cons": [
+          "Only for Brussels-based companies",
+          "Invests alongside others, not alone"
+        ],
+        "prix": "up to €5M",
+        "url": "https://finance.brussels/"
+      },
+      {
+        "rank": 9,
+        "nom": "Theodorus",
+        "score": "64/100",
+        "badge": "Seed",
+        "bestFor": "University spin-off or deep tech start-up at seed stage",
+        "verdict": "ULB-linked seed fund, from €250,000 on a first investment and up to €2.5M. A different job from funding an established SME, hence its rank.",
+        "pros": [
+          "Published ticket: €250,000 to €2.5M",
+          "Biotech, medtech, digital, engineering",
+          "More than €70M under management"
+        ],
+        "cons": [
+          "Closed-end funds of 12 to 14 years (except evergreen Theodorus I)",
+          "Off target for an established SME"
+        ],
+        "prix": "€250,000 – €2.5M",
+        "url": "https://theodorus.be/"
+      }
+    ]
+  }
+}

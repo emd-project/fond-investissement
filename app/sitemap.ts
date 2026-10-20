@@ -1,15 +1,284 @@
-import type { MetadataRoute } from "next";
-import { allBlog, allPages, lastUpdate } from "@/lib/content";
-import { SITE, abs } from "@/lib/site";
+import type { MetadataRoute } from 'next'
+import { niche, isMultilingual, localePath, simulatorEnabled } from '@/niche.config'
+import {
+  getAllArticles,
+  getCategories,
+  getAllArticlesEn,
+  getCategoriesEn,
+  articleExistsEn,
+  articleHref,
+} from '@/lib/blog'
+import { articleSlugFrToEn } from '@/lib/i18n/article-slugs'
+import { CLASSEMENT_SLUGS } from '@/lib/classement'
+import { PRODUIT_SLUGS } from '@/lib/comparateur'
+import { hasChoisirContent } from '@/lib/choisir-content'
+import { hasQuizSteps } from '@/lib/cms-pages'
+
+const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL ?? `https://www.${niche.domain}`
+
+/**
+ * Sitemap dynamique — FONDATION SEO TECH (toutes les niches en héritent).
+ *
+ * Principes :
+ *  - On n'émet QUE des URLs indexables qui répondent 200. Chaque route dont le
+ *    rendu peut se terminer par un `notFound()` est donc gardée par la MÊME
+ *    condition que la page :
+ *      · /simulateur → `simulatorEnabled()` (désactivé par défaut) ;
+ *      · /quiz et /en/quiz → `hasQuizSteps(locale)` (pas de questions = 404) ;
+ *      · /choisir/[produit] → entrée dans content/data/choisir.json OU questions de
+ *        quiz FR (la page ne 404 que si les DEUX manquent) ;
+ *      · /en/choisir/[produit] → questions de quiz EN (la page EN n'a pas
+ *        d'éditorial localisé : sans steps EN elle 404) ;
+ *      · /deals n'est plus émis du tout (modèle MENTION, page hors doctrine).
+ *    Émettre du noindex ou du 404 déclenche des avertissements en Search Console.
+ *  - Les CLASSEMENTS sont l'asset GEO n°1 : le hub /classement et chaque
+ *    /classement/[produit] sont émis dès qu'un classement existe. Idem pour les
+ *    comparateurs (/comparer + /comparer/[produit]).
+ *  - Contenu FR ET EN énuméré dynamiquement (articles + catégories réellement
+ *    présents). Rien n'est codé en dur côté contenu → un nouveau site se
+ *    sitemap tout seul au fil des publications.
+ *  - hreflang réciproque (`alternates.languages` : fr + en + x-default) ajouté
+ *    aux paires FR↔EN qui existent vraiment (home, blog, catégories mirrorées,
+ *    articles dont la traduction est connue via articleSlugFrToEn ET présente sur
+ *    le disque, classements et comparateurs — dont les routes EN retombent sur les
+ *    données FR). `articleSlugFrToEn` est une table tenue à la main : une entrée
+ *    obsolète pointerait vers un 404, d'où le contrôle `articleExistsEn`.
+ *    /choisir n'a pas de hreflang ici : la page FR et la page EN n'ont pas les
+ *    mêmes conditions d'existence (éditorial FR vs steps EN).
+ *  - Catégories bornées à la liste blanche niche.categories (slugs routables) ;
+ *    les catégories « fantômes » d'articles standalone ne sont pas émises.
+ *  - Toutes les URLs EN passent par `enHref` (→ `localePath`) : aucun `/en/...`
+ *    codé en dur, le préfixe reste piloté par niche.config.
+ */
+
+/** Date valide garantie (frontmatter parfois vide → évite un Invalid Date). */
+function safeDate(iso?: string): Date {
+  if (!iso) return new Date()
+  const d = new Date(iso)
+  return isNaN(d.getTime()) ? new Date() : d
+}
+
+/** Slugs de catégories réellement routables (liste blanche niche.config). */
+const CATEGORY_SLUGS = new Set(niche.categories.map((c) => c.slug))
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const last = lastUpdate();
-  return [
-    { url: abs("/"), lastModified: last },
-    ...allPages().map((p) => ({ url: abs(`/${p.slug}/`), lastModified: p.updated ?? p.published })),
-    { url: abs("/blog/"), lastModified: allBlog()[0]?.published ?? last },
-    ...allBlog().map((p) => ({ url: abs(`/blog/${p.slug}/`), lastModified: p.updated ?? p.published })),
-    { url: abs("/toutes-les-pages/"), lastModified: last },
-    { url: abs(`/auteurs/${SITE.author.slug}/`), lastModified: last },
-  ];
+  const en = isMultilingual()
+  const now = new Date()
+  const entries: MetadataRoute.Sitemap = []
+
+  /** URL absolue d'une route EN (respecte localePrefix via localePath). */
+  const enHref = (path: string) => `${SITE_URL}${localePath('en', path)}`
+
+  /** Helper hreflang FR↔EN (réciproque + x-default sur le FR canonique). */
+  const pair = (frUrl: string, enUrl: string) => ({
+    alternates: { languages: { fr: frUrl, en: enUrl, 'x-default': frUrl } },
+  })
+
+  // Présence RÉELLE de questions par locale — sert deux gardes différentes :
+  // /quiz (qui exige en plus niche.quiz.enabled) et /choisir (qui ne l'exige pas).
+  const quizStepsFr = hasQuizSteps(niche.defaultLocale)
+  const quizStepsEn = hasQuizSteps('en')
+
+  // Le quiz ne rend une page que s'il a de vraies questions (sinon 404).
+  const quizFr = niche.quiz.enabled && quizStepsFr
+  const quizEn = en && niche.quiz.enabled && quizStepsEn
+
+  // ── FR : pages clés ──────────────────────────────────────────────────────
+  entries.push({
+    url: SITE_URL,
+    lastModified: now,
+    changeFrequency: 'weekly',
+    priority: 1,
+    ...(en ? pair(SITE_URL, enHref('/')) : {}),
+  })
+  entries.push({
+    url: `${SITE_URL}/blog`,
+    lastModified: now,
+    changeFrequency: 'daily',
+    priority: 0.9,
+    ...(en ? pair(`${SITE_URL}/blog`, enHref('/blog')) : {}),
+  })
+
+  // ── FR : classements (asset GEO n°1) ─────────────────────────────────────
+  // Les routes EN retombent sur les données FR (getClassement(slug, 'en')) :
+  // chaque slug FR a donc toujours une page EN correspondante.
+  if (CLASSEMENT_SLUGS.length > 0) {
+    entries.push({
+      url: `${SITE_URL}/classement`,
+      lastModified: now,
+      changeFrequency: 'weekly',
+      priority: 0.9,
+      ...(en ? pair(`${SITE_URL}/classement`, enHref('/classement')) : {}),
+    })
+    for (const slug of CLASSEMENT_SLUGS) {
+      const frUrl = `${SITE_URL}/classement/${slug}`
+      entries.push({
+        url: frUrl,
+        lastModified: now,
+        changeFrequency: 'weekly',
+        priority: 0.85,
+        ...(en ? pair(frUrl, enHref(`/classement/${slug}`)) : {}),
+      })
+    }
+  }
+
+  // ── FR : comparateur (hub + une page par produit) ────────────────────────
+  if (niche.comparator.enabled) {
+    entries.push({
+      url: `${SITE_URL}/comparer`,
+      lastModified: now,
+      changeFrequency: 'weekly',
+      priority: 0.8,
+      ...(en ? pair(`${SITE_URL}/comparer`, enHref('/comparer')) : {}),
+    })
+    for (const slug of PRODUIT_SLUGS) {
+      const frUrl = `${SITE_URL}/comparer/${slug}`
+      entries.push({
+        url: frUrl,
+        lastModified: now,
+        changeFrequency: 'weekly',
+        priority: 0.75,
+        ...(en ? pair(frUrl, enHref(`/comparer/${slug}`)) : {}),
+      })
+    }
+  }
+
+  // ── FR : /choisir/[produit] — garde IDENTIQUE au notFound() de la page ────
+  // La page ne 404 que si elle n'a NI entrée dans choisir.json NI question de
+  // quiz FR. Se limiter à `hasChoisirContent` omettait des pages valides du
+  // sitemap (page vivante, jamais soumise à l'indexation).
+  for (const slug of PRODUIT_SLUGS) {
+    if (!hasChoisirContent(slug) && !quizStepsFr) continue
+    entries.push({
+      url: `${SITE_URL}/choisir/${slug}`,
+      lastModified: now,
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    })
+  }
+
+  if (quizFr) {
+    entries.push({
+      url: `${SITE_URL}/quiz`,
+      lastModified: now,
+      changeFrequency: 'monthly',
+      priority: 0.7,
+      ...(quizEn ? pair(`${SITE_URL}/quiz`, enHref('/quiz')) : {}),
+    })
+  }
+  if (simulatorEnabled()) {
+    entries.push({
+      url: `${SITE_URL}/simulateur`,
+      lastModified: now,
+      changeFrequency: 'monthly',
+      priority: 0.7,
+      ...(en ? pair(`${SITE_URL}/simulateur`, enHref('/simulateur')) : {}),
+    })
+  }
+
+  // Auteur (modèle mono-auteur par défaut ; étendre si une liste d'auteurs arrive).
+  if (niche.author.slug) {
+    entries.push({ url: `${SITE_URL}/auteurs/${niche.author.slug}`, lastModified: now, changeFrequency: 'monthly', priority: 0.4 })
+  }
+
+  // ── FR : catégories (liste blanche, ≥ 1 article) ─────────────────────────
+  const enCategorySlugs = new Set(en ? getCategoriesEn().map((c) => c.slug) : [])
+  for (const c of getCategories()) {
+    if (!CATEGORY_SLUGS.has(c.slug)) continue
+    const frUrl = `${SITE_URL}/blog/${c.slug}`
+    entries.push({
+      url: frUrl,
+      lastModified: now,
+      changeFrequency: 'weekly',
+      priority: 0.6,
+      ...(en && enCategorySlugs.has(c.slug)
+        ? pair(frUrl, enHref(`/blog/${c.slug}`))
+        : {}),
+    })
+  }
+
+  // ── FR : articles (blog + standalone) ────────────────────────────────────
+  for (const a of getAllArticles()) {
+    const frUrl = `${SITE_URL}${articleHref(a)}`
+    const enSlug = a.standalone ? undefined : articleSlugFrToEn[a.slug]
+    // hreflang seulement si le fichier EN existe VRAIMENT (table non fiable).
+    const enUrl =
+      en && enSlug && articleExistsEn(a.categorie, enSlug)
+        ? enHref(`/blog/${a.categorie}/${enSlug}`)
+        : undefined
+    entries.push({
+      url: frUrl,
+      lastModified: safeDate(a.updatedAt ?? a.publishedAt),
+      changeFrequency: 'monthly',
+      priority: a.standalone ? 0.6 : 0.7,
+      ...(enUrl ? pair(frUrl, enUrl) : {}),
+    })
+  }
+
+  if (!en) return entries
+
+  // ── EN : pages clés (uniquement les routes EN qui existent et sont indexables) ──
+  entries.push(
+    { url: enHref('/'), lastModified: now, changeFrequency: 'weekly', priority: 0.9 },
+    { url: enHref('/blog'), lastModified: now, changeFrequency: 'daily', priority: 0.8 },
+  )
+
+  // EN : classements (miroirs des slugs FR, données EN avec repli FR).
+  if (CLASSEMENT_SLUGS.length > 0) {
+    entries.push({ url: enHref('/classement'), lastModified: now, changeFrequency: 'weekly', priority: 0.85 })
+    for (const slug of CLASSEMENT_SLUGS) {
+      entries.push({ url: enHref(`/classement/${slug}`), lastModified: now, changeFrequency: 'weekly', priority: 0.8 })
+    }
+  }
+
+  // EN : comparateur (hub + produits).
+  if (niche.comparator.enabled) {
+    entries.push({ url: enHref('/comparer'), lastModified: now, changeFrequency: 'weekly', priority: 0.75 })
+    for (const slug of PRODUIT_SLUGS) {
+      entries.push({ url: enHref(`/comparer/${slug}`), lastModified: now, changeFrequency: 'weekly', priority: 0.7 })
+    }
+  }
+
+  // EN : /choisir/[produit] — la page EN 404 si les steps EN sont vides
+  // (pas d'éditorial localisé : le quiz est son seul contenu).
+  if (quizStepsEn) {
+    for (const slug of PRODUIT_SLUGS) {
+      entries.push({ url: enHref(`/choisir/${slug}`), lastModified: now, changeFrequency: 'monthly', priority: 0.65 })
+    }
+  }
+
+  if (quizEn) {
+    entries.push({ url: enHref('/quiz'), lastModified: now, changeFrequency: 'monthly', priority: 0.65 })
+  }
+  if (simulatorEnabled()) {
+    entries.push({ url: enHref('/simulateur'), lastModified: now, changeFrequency: 'monthly', priority: 0.65 })
+  }
+
+  // EN : auteur (la route /en/auteurs/[slug] existe et miroir le FR).
+  if (niche.author.slug) {
+    entries.push({ url: enHref(`/auteurs/${niche.author.slug}`), lastModified: now, changeFrequency: 'monthly', priority: 0.35 })
+  }
+
+  // EN : catégories (≥ 1 article EN).
+  for (const c of getCategoriesEn()) {
+    entries.push({
+      url: enHref(`/blog/${c.slug}`),
+      lastModified: now,
+      changeFrequency: 'weekly',
+      priority: 0.6,
+    })
+  }
+
+  // EN : articles publiés.
+  for (const a of getAllArticlesEn()) {
+    entries.push({
+      url: enHref(`/blog/${a.categorie}/${a.slug}`),
+      lastModified: safeDate(a.updatedAt ?? a.publishedAt),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    })
+  }
+
+  return entries
 }

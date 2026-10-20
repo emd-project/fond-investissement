@@ -1,0 +1,102 @@
+---
+title: "Anti-dilution clause and ratchet: who pays for a drop"
+description: "Anti-dilution clauses, full ratchet or weighted average, performance ratchet: how they work, a worked example on an SME, and what to negotiate."
+featureImage: "/blog/lever-des-fonds/anti-dilution-et-ratchet/anti-dilution-et-ratchet-cover.webp"
+featureImageAlt: "Printed cap table with two columns of percentages compared in pencil"
+publishedAt: "2026-10-15"
+updatedAt: "2026-10-20"
+readingTimeMin: 5
+categorie: "lever-des-fonds"
+authorSlug: "cedric-h"
+tags: ["anti-dilution clause", "full ratchet", "weighted average", "performance ratchet", "down round", "founder", "SME owner"]
+aiSummary:
+  - "An anti-dilution clause only applies when a round is priced below what the fund paid per share (a down round), never in a round at the same price."
+  - "Worked example: a fund comes in at €10 per share for €1M; a €500,000 rescue round at €5 takes the founder from 60% to 50% under a full ratchet."
+  - "In the same case, a broad-based weighted average resets the fund's price to €9: the founder keeps 58.7%."
+  - "A full ratchet doubles the fund's shares (100,000 to 200,000), whatever amount is raised at the low price."
+  - "A performance ratchet bridges a valuation gap: €1M on a €4M pre-money gives the fund 20%, on €6M it gives 14.3%."
+  - "Three things to ask for: weighted average, exclusion of the option pool, limited duration."
+faq:
+  - q: "What is a down round?"
+    a: "It is a round priced below the previous round's price per share. That is the event that triggers anti-dilution clauses."
+  - q: "Full ratchet or weighted average: what is the difference?"
+    a: "A full ratchet resets the investor's price to the new low price, whatever amount is raised. A weighted average takes into account how much is raised at the low price and produces a much milder adjustment."
+  - q: "Can a ratchet benefit the founder?"
+    a: "Yes. A performance ratchet can give the founders extra shares if targets are met. It then bridges a valuation gap between the owner and the fund."
+  - q: "Does the anti-dilution clause apply if I raise at the same price?"
+    a: "No. The normal dilution of a round at the same or a higher price is not compensated. Only a fall in the price per share triggers the clause."
+  - q: "Who pays for the fund's extra shares?"
+    a: "The other shareholders, in practice the founders. Shares issued to the fund dilute everyone who does not receive any."
+  - q: "Can my accountant model the effect of the clause?"
+    a: "Yes, as long as you give them the exact formula written in the term sheet. Ask for three cases: next round up, flat, down. A simple dilution calculator is not enough for these clauses."
+---
+
+An anti-dilution clause protects the fund if a later round is priced per share below what it paid. A ratchet adjusts stakes to actual performance. Both can move several points of equity, and the founder is almost always the one who gives them up.
+
+## What is an anti-dilution clause?
+
+It is a form of compensation. The fund buys in at a price per share. If the company later raises money at a lower price, the value of its stake falls. The clause makes up for that fall, usually by issuing extra shares or adjusting a conversion ratio.
+
+It does not apply in a round at the same or a higher price. The "normal" dilution of a round at the same price is not compensated.
+
+The trap is the timing: the day the clause triggers, you are already in trouble, since you are raising at a lower price. It hits at the worst moment.
+
+## Full ratchet or weighted average?
+
+From the owner's side, the weighted average. A full ratchet resets the fund's price to the new low price, whatever amount is raised. A weighted average takes that amount into account.
+
+A case built for illustration. The founder holds 300,000 shares. A fund has invested €1M at €10 per share, so 100,000 shares. Two years later, a €500,000 rescue round is priced at €5 per share: 100,000 new shares.
+
+For the weighted average, I use the most common broad-based formula: new price = old price × (A + B) ÷ (A + C), where A is the number of shares before the round (400,000), B the number of shares the amount raised would have bought at the old price (50,000) and C the number of shares actually issued (100,000). Result: €10 × 450,000 ÷ 500,000 = €9.
+
+| Mechanism | Fund's reference price | Fund's shares | Founder's stake | Fund's stake | New investor's stake |
+|---|---|---|---|---|---|
+| No clause | €10 | 100,000 | 60.0% | 20.0% | 20.0% |
+| Broad-based weighted average | €9 | 111,111 | 58.7% | 21.7% | 19.6% |
+| Full ratchet | €5 | 200,000 | 50.0% | 33.3% | 16.7% |
+
+In percentages: the full ratchet costs the founder 10 points, the weighted average 1.3 points. For a €500,000 round.
+
+The calculation is simplified. The new investor may require its stake to be calculated after the anti-dilution adjustment, which pushes even more dilution onto the founder. Look at the full ratchet row: 50.0%. A €500,000 round is enough to bring the founder down to the point where they no longer control the general meeting alone. That is the scenario I have modelled first whenever a term sheet arrives with a full ratchet.
+
+<Warning>With a full ratchet, a small rescue round at a low price can cost the founder more than a large round at the same price. The amount raised caps nothing.</Warning>
+
+## How does a performance ratchet work?
+
+It settles a disagreement on valuation. The owner values the company at €6M, the fund at €4M. They agree on a formula: the fund's stake is calculated on €4M, but if EBITDA hits a target within two years, the owner wins back part of the equity.
+
+Assume an investment of €1M. On a €4M pre-money, the fund holds 1 ÷ 5 = 20%. On €6M, it would hold 1 ÷ 7 = 14.3%. The ratchet is therefore worth 5.7 points, roughly 28% of the fund's stake.
+
+<ArticleImage src="/images/categories/lever-des-fonds.webp" alt="Business owner comparing two equity split scenarios before a funding round" />
+
+For it to be fair:
+
+- the metric is defined precisely (normalised EBITDA, accounting method);
+- the owner keeps the means to reach the target;
+- the calculation can be checked by a third party;
+- the metric does not depend on a decision the fund takes alone, such as a capital expenditure budget subject to its veto.
+
+That last point is the one I check first. An EBITDA target the fund can hold back through its reserved matters is not a target, it is a free option for the fund.
+
+## How can you limit the effect of these clauses?
+
+By negotiating the form before the valuation. An owner who gains €500,000 of pre-money valuation and accepts a full ratchet has often made a bad deal.
+
+| Case | What to do |
+|---|---|
+| The term sheet provides for a full ratchet | Ask for a broad-based weighted average |
+| The option pool is created after the fund comes in | Exclude those issues from the clause |
+| A convertible loan is due to convert | Exclude planned conversions |
+| The clause has no time limit | Limit it to the next round or a few years |
+| The performance ratchet rests on a vague metric | Write down the exact accounting definition |
+| You do not know what the clause costs | Have three cases modelled on the cap table |
+
+These clauses appear in the [letter of intent or term sheet](/en/blog/lever-des-fonds/letter-of-intent-and-term-sheet): that is where you need to spot them, not in the final agreement. And they weigh directly on the [valuation of your SME](/en/blog/lever-des-fonds/valuing-an-sme), since a tough anti-dilution clause amounts to taking back part of the price agreed.
+
+## Do Walloon and Brussels investors use these clauses?
+
+I have no published answer. My survey of 15.10.2026 covers nine players (ORSA, Namur Invest, Invest.BW, Sambrinvest, Noshaq, IMBC, Wallonie Entreprendre, finance&invest.brussels, Theodorus): tickets, instruments, areas. Their anti-dilution policy is not part of it. It is not published, and you find it in the term sheet.
+
+The instrument changes the picture. Part of their investments goes through subordinated loans or convertibles: Namur Invest (the Namur provincial invest) publishes a portfolio split roughly 20% equity and 80% debt, and ORSA presents its [Smart Bond](https://orsafund.be/expertises/orsa-smart-bond/) as a 5 to 10-year subordinated loan with no dilution. A subordinated loan creates no shares: no dilution, so no anti-dilution. A convertible raises the question at conversion. The details are in the guide to the [subordinated loan](/en/blog/fonds-propres-ou-dette/subordinated-loan).
+
+The framework is the same in Wallonia, Brussels and Flanders: the clause is a matter of contract, and the Companies and Associations Code (CSA, the federal code governing Belgian companies) governs the issue of new shares. The text is available on [ejustice](https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019A40586/justel). To compare each player's instruments, the [ranking of SME funds](/en/classement/fonds-investissement-pme) reproduces this survey. Have your adviser model the clause before you sign.

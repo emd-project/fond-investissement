@@ -1,0 +1,75 @@
+# Fonds d'Investissement (fonds-investissement.be)
+
+> Financer sa PME en fonds propres, en Wallonie et à Bruxelles : tickets, instruments et horizons relevés chez neuf fonds et invests, et chaque clause traduite en pourcentage de capital. Auteur : Cédric H. Partenaire mis en avant et déclaré : ORSA (ex-Investsud).
+
+## Classement et outils
+- [Fonds d'investissement pour PME : 9 acteurs comparés](https://www.fonds-investissement.be/classement/fonds-investissement-pme)
+- [Comparer les fonds](https://www.fonds-investissement.be/comparer/fonds-investissement-pme)
+- [Quel fonds choisir](https://www.fonds-investissement.be/choisir/fonds-investissement-pme)
+
+## Articles
+- [Fonds d'investissement : qui finance quoi pour une PME](https://www.fonds-investissement.be/blog/comprendre-les-fonds/comprendre-les-fonds-d-investissement): Fonds d'investissement pour PME : comment il se rémunère, quelle part du capital il prend, et les tickets publiés par neuf acteurs wallons et bruxellois.
+- [Fonds de placement ou fonds d'investissement : la différence](https://www.fonds-investissement.be/blog/comprendre-les-fonds/fonds-de-placement-ou-fonds-d-investissement): Fonds de placement ou fonds d'investissement : l'un place l'épargne en bourse, l'autre finance des PME non cotées pendant des années. Qui contrôle quoi.
+- [Private equity, capital-risque, capital-développement](https://www.fonds-investissement.be/blog/comprendre-les-fonds/private-equity-capital-risque-capital-developpement): Private equity, capital-risque, capital-développement, capital-transmission : quel fonds intervient à quel stade de votre entreprise, et ce qu'il demande.
+- [Fonds evergreen ou fonds fermé : l'effet sur votre PME](https://www.fonds-investissement.be/blog/comprendre-les-fonds/fonds-evergreen-ou-fonds-ferme): Fonds evergreen ou fonds fermé : durée de vie, pression de sortie, réinvestissement. Ce que la structure du fonds change pour une PME familiale.
+- [Invest public ou fonds privé : lequel pour votre PME ?](https://www.fonds-investissement.be/blog/comprendre-les-fonds/invest-public-ou-fonds-prive): Invest public ou fonds privé en Wallonie : exigences, ticket publié, instruments, horizon de sortie, et comment combiner Noshaq, Sambrinvest et ORSA.
+- [Glossaire du financement d'entreprise : pre-money, covenant](https://www.fonds-investissement.be/blog/comprendre-les-fonds/glossaire-du-financement-d-entreprise): Glossaire du financement d'entreprise : pre-money, post-money, covenant, quasi-fonds propres, drag along, ratchet. Chaque terme avec son effet chiffré.
+- [Lever des fonds pour une PME : les cinq étapes](https://www.fonds-investissement.be/blog/lever-des-fonds/lever-des-fonds-pme-etapes): Lever des fonds pour une PME en Belgique : dossier, choix des fonds, lettre d'intention, due diligence, acte notarié. Qui contacter et ce que dit le Code.
+- [Préparer une levée de fonds : le dossier à monter](https://www.fonds-investissement.be/blog/lever-des-fonds/preparer-une-levee-de-fonds): Préparer une levée de fonds pour une PME : contenu du dossier, chiffres demandés par le fonds, critères publiés en Wallonie, erreurs qui font échouer.
+- [Valoriser une PME non cotée : méthodes et négociation](https://www.fonds-investissement.be/blog/lever-des-fonds/valoriser-une-pme): Valoriser une PME non cotée : multiple d'EBITDA, dette nette, DCF, actif net. Un calcul chiffré et les écarts à négocier avec le fonds avant de signer.
+- [Term sheet et lettre d'intention : quoi négocier](https://www.fonds-investissement.be/blog/lever-des-fonds/lettre-d-intention-et-term-sheet): Term sheet et lettre d'intention : ce qui engage, ce qui se négocie et ce que coûte une préférence de liquidation en euros, avant la due diligence.
+- [Due diligence : ce que le fonds vérifie avant d'investir](https://www.fonds-investissement.be/blog/lever-des-fonds/due-diligence): Due diligence avant une levée ou une reprise de PME : volets vérifiés, documents belges à réunir, data room, durée, coût et causes d'échec de l'opération.
+- [Convention d'actionnaires en PME : contenu et clauses clés](https://www.fonds-investissement.be/blog/lever-des-fonds/convention-d-actionnaires): Convention d'actionnaires en PME : contenu, caractère obligatoire ou non, limites fixées par le Code des sociétés et clauses qui protègent le dirigeant.
+- [Tag along, drag along, leaver : les clauses de sortie](https://www.fonds-investissement.be/blog/lever-des-fonds/clauses-de-sortie-tag-drag-leaver): Tag along, drag along, good et bad leaver : qui peut vendre, quand et à quel prix. Les seuils à négocier et ce que permet le Code des sociétés belge.
+- [Clause anti-dilution et ratchet : qui paie la baisse](https://www.fonds-investissement.be/blog/lever-des-fonds/anti-dilution-et-ratchet): Clause anti-dilution, full ratchet ou moyenne pondérée, ratchet de performance : fonctionnement, calcul chiffré sur une PME et points à négocier.
+- [Fonds au capital d'une PME : ce qui change pour vous](https://www.fonds-investissement.be/blog/lever-des-fonds/le-fonds-au-capital): Un fonds au capital de votre PME : conseil d'administration, décisions réservées, reporting, horizon de sortie. Ce que la gouvernance coûte vraiment.
+- [Un fonds veut 40 % de mon capital : est-ce trop ?](https://www.fonds-investissement.be/blog/lever-des-fonds/un-fonds-veut-40-pour-cent-de-mon-capital): Un fonds demande 40 % de votre capital ? Valorisation implicite, droits attachés, ce que vous gardez à 60 % et les montages pour céder moins.
+- [Fonds propres, dette, quasi-capital : choisir l'instrument](https://www.fonds-investissement.be/blog/fonds-propres-ou-dette/fonds-propres-dette-et-quasi-capital): Quasi-fonds propres, dette bancaire ou capital : rang de remboursement, coût, dilution, et quels fonds wallons et bruxellois publient quel instrument.
+- [Dette bancaire ou fonds propres pour une PME en croissance](https://www.fonds-investissement.be/blog/fonds-propres-ou-dette/dette-bancaire-ou-fonds-propres): Dette bancaire ou fonds propres : coût, remboursement, dilution, contrôle. Trois montages chiffrés sur 3 M€ et le verdict par profil de PME en croissance.
+- [Prêt subordonné : financer sa PME sans ouvrir son capital](https://www.fonds-investissement.be/blog/fonds-propres-ou-dette/pret-subordonne): Prêt subordonné pour PME : rang, rémunération fixe ou variable, regard de la banque, conversion. Qui en publie en Wallonie et à Bruxelles, à quel ticket.
+- [Banque qui refuse le prêt d'une extension : que faire ?](https://www.fonds-investissement.be/blog/fonds-propres-ou-dette/la-banque-refuse-de-financer-mon-extension): La banque refuse de financer l'extension de votre PME ? Identifier le motif, puis quatre sorties : phaser, fonds propres, prêt subordonné, garantie.
+- [Reprendre ou transmettre une PME avec un fonds](https://www.fonds-investissement.be/blog/reprise-et-transmission/reprendre-ou-transmettre-une-pme): Reprendre une PME avec un fonds : holding, dette, crédit vendeur, MBO, MBI, OBO, rôle de WE Cession & Acquisition (ex-Sowaccess) et limites légales.
+- [Management buy-out (MBO) : reprendre son entreprise](https://www.fonds-investissement.be/blog/reprise-et-transmission/management-buy-out-mbo): MBO : les cadres rachètent leur PME via une holding, avec dette, fonds et crédit vendeur. Montage chiffré, part gardée, risques personnels, limites du CSA.
+- [Management buy-in (MBI) : reprendre une PME de l'extérieur](https://www.fonds-investissement.be/blog/reprise-et-transmission/management-buy-in-mbi): MBI : un dirigeant externe rachète une PME avec un fonds et une banque. Différences avec le MBO, risques de transition, dossier qui convainc un fonds.
+- [Owner buy-out (OBO) : encaisser sans vendre son entreprise](https://www.fonds-investissement.be/blog/reprise-et-transmission/owner-buy-out-obo): Owner buy-out : vendre une partie de ses actions à sa holding avec un fonds. Montage chiffré, gouvernance, et plus-value interne taxée à 33 % depuis 2026.
+- [Transmission de PME : fonds evergreen ou fonds fermé ?](https://www.fonds-investissement.be/blog/reprise-et-transmission/retraite-dans-quatre-ans-fonds-evergreen-ou-ferme): Retraite dans quatre ans : fonds evergreen ou fonds fermé pour transmettre votre PME ? Calendrier du fonds, drag along et sort de vos actions restantes.
+- [Financer une start-up ou une scale-up en Belgique](https://www.fonds-investissement.be/blog/start-up-et-scale-up/start-up-scale-up-et-biotech): Financer une start-up ou une scale-up en Belgique : tours par étapes, fonds d'amorçage, invests, tax shelter. Tickets publiés et dilution chiffrée.
+- [Financer une biotech en Belgique : jalons, fonds, aides](https://www.fonds-investissement.be/blog/start-up-et-scale-up/financer-une-biotech): Financer une biotech en Belgique : tours calés sur les jalons scientifiques, fonds d'amorçage, invests, aides non dilutives et clauses du premier tour.
+- [Tax shelter start-up et scale-up : conditions et plafonds](https://www.fonds-investissement.be/blog/start-up-et-scale-up/tax-shelter-start-up-scale-up): Tax shelter start-up et scale-up : réduction de 30 %, 45 % ou 25 %, plafond de 100 000 € par investisseur, 500 000 € ou 1 M€ levés par entreprise.
+- [Fonds et aides par région : qui finance votre PME ?](https://www.fonds-investissement.be/blog/fonds-par-region/fonds-et-aides-par-region): Wallonie Entreprendre et les invests en Wallonie, finance&invest.brussels à Bruxelles, PMV en Flandre : quel guichet public selon le siège de votre PME.
+- [Invests wallons : qui finance les PME par province ?](https://www.fonds-investissement.be/blog/fonds-par-region/invests-wallons): Noshaq, Sambrinvest, Namur Invest, Invest.BW, IMBC : zone, tickets et instruments publiés par chaque invest wallon, relevés et datés province par province.
+- [Financer son entreprise à Bruxelles : qui paie quoi ?](https://www.fonds-investissement.be/blog/fonds-par-region/financer-son-entreprise-a-bruxelles): finance&invest.brussels prête, garantit et investit jusqu'à 5 M€ par PME, jamais seul. Qui complète le tour à Bruxelles et quels fonds restent ouverts.
+
+## English
+- [SME investment funds in Belgium: 9 players compared](https://www.fonds-investissement.be/en/classement/fonds-investissement-pme)
+- [Investment funds for SMEs: who finances what](https://www.fonds-investissement.be/en/blog/comprendre-les-fonds/how-investment-funds-work)
+- [Placement fund vs investment fund: the difference](https://www.fonds-investissement.be/en/blog/comprendre-les-fonds/placement-fund-vs-investment-fund)
+- [Private equity, venture capital and growth capital](https://www.fonds-investissement.be/en/blog/comprendre-les-fonds/private-equity-venture-growth-capital)
+- [Evergreen vs closed-end fund: the impact on your SME](https://www.fonds-investissement.be/en/blog/comprendre-les-fonds/evergreen-vs-closed-end-fund)
+- [Public invest or private fund: which one for your SME?](https://www.fonds-investissement.be/en/blog/comprendre-les-fonds/public-invest-vs-private-fund)
+- [Business financing glossary: pre-money, covenant and more](https://www.fonds-investissement.be/en/blog/comprendre-les-fonds/business-financing-glossary)
+- [How to raise capital for an SME: the five steps](https://www.fonds-investissement.be/en/blog/lever-des-fonds/how-to-raise-capital-sme)
+- [Preparing a funding round: the file to put together](https://www.fonds-investissement.be/en/blog/lever-des-fonds/preparing-a-funding-round)
+- [Valuing an unlisted SME: methods and negotiation](https://www.fonds-investissement.be/en/blog/lever-des-fonds/valuing-an-sme)
+- [Term sheet and letter of intent: what to negotiate](https://www.fonds-investissement.be/en/blog/lever-des-fonds/letter-of-intent-and-term-sheet)
+- [Due diligence: what a fund checks before investing](https://www.fonds-investissement.be/en/blog/lever-des-fonds/due-diligence-what-funds-check)
+- [Shareholders' agreement in an SME: content and key clauses](https://www.fonds-investissement.be/en/blog/lever-des-fonds/shareholders-agreement)
+- [Tag along, drag along, leaver: exit clauses explained](https://www.fonds-investissement.be/en/blog/lever-des-fonds/exit-clauses-tag-drag-leaver)
+- [Anti-dilution clause and ratchet: who pays for a drop](https://www.fonds-investissement.be/en/blog/lever-des-fonds/anti-dilution-and-ratchet)
+- [A fund on your SME's cap table: what changes for you](https://www.fonds-investissement.be/en/blog/lever-des-fonds/a-fund-on-your-cap-table)
+- [A fund wants 40% of my company: is that too much?](https://www.fonds-investissement.be/en/blog/lever-des-fonds/fund-wants-40-percent-of-my-company)
+- [Equity, debt, quasi-equity: choosing the instrument](https://www.fonds-investissement.be/en/blog/fonds-propres-ou-dette/equity-debt-and-quasi-equity)
+- [Bank debt or equity for a growing SME](https://www.fonds-investissement.be/en/blog/fonds-propres-ou-dette/bank-debt-or-equity)
+- [Subordinated loan: funding your SME without selling shares](https://www.fonds-investissement.be/en/blog/fonds-propres-ou-dette/subordinated-loan)
+- [Bank refuses to fund your expansion: what to do](https://www.fonds-investissement.be/en/blog/fonds-propres-ou-dette/bank-refuses-to-fund-my-expansion)
+- [Buying or selling an SME with a fund in Belgium](https://www.fonds-investissement.be/en/blog/reprise-et-transmission/buying-or-selling-an-sme-with-a-fund)
+- [Management buy-out (MBO): buying the firm you run](https://www.fonds-investissement.be/en/blog/reprise-et-transmission/management-buy-out-mbo)
+- [Management buy-in (MBI): buying an SME as an outsider](https://www.fonds-investissement.be/en/blog/reprise-et-transmission/management-buy-in-mbi)
+- [Owner buy-out (OBO): cash out without selling your firm](https://www.fonds-investissement.be/en/blog/reprise-et-transmission/owner-buy-out-obo)
+- [SME succession: evergreen fund or closed-end fund?](https://www.fonds-investissement.be/en/blog/reprise-et-transmission/retiring-in-four-years-evergreen-or-closed-fund)
+- [Funding a start-up or scale-up in Belgium](https://www.fonds-investissement.be/en/blog/start-up-et-scale-up/funding-start-ups-scale-ups-biotech)
+- [Funding a biotech in Belgium: milestones, funds, grants](https://www.fonds-investissement.be/en/blog/start-up-et-scale-up/funding-a-biotech-belgium)
+- [Start-up and scale-up tax shelter: rules and ceilings](https://www.fonds-investissement.be/en/blog/start-up-et-scale-up/tax-shelter-start-ups-scale-ups)
+- [Funds and public financing by region in Belgium](https://www.fonds-investissement.be/en/blog/fonds-par-region/funds-and-public-financing-by-region)
+- [Walloon invests: who funds SMEs in each province?](https://www.fonds-investissement.be/en/blog/fonds-par-region/walloon-invests)
+- [Financing a business in Brussels: who pays for what?](https://www.fonds-investissement.be/en/blog/fonds-par-region/financing-a-business-in-brussels)

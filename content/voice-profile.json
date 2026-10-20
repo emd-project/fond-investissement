@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "1.0",
+  "site": {
+    "domain": "fonds-investissement.be",
+    "generatedAt": "2026-10-20T14:50:00+02:00"
+  },
+  "reader": {
+    "state": "Un dirigeant de PME wallonne ou bruxelloise qui vient de recevoir une lettre d'intention, ou qui sort d'un premier rendez-vous avec un invest, et qui découvre qu'il va négocier des clauses qu'il ne comprend qu'à moitié. Méfiant, pressé, il veut savoir ce qu'il cède avant de signer, pas qu'on lui vende la finance.",
+    "level": "informé sur son entreprise, novice sur le capital-investissement",
+    "stakes": "Une part du capital (souvent 20 à 49 %), un siège au conseil, des clauses de sortie qui fixent à quel prix et quand il pourra vendre ; une erreur de lettre d'intention se paie pendant cinq à dix ans."
+  },
+  "speaker": {
+    "authorName": "Cédric H.",
+    "slug": "cedric-h",
+    "title": "Ancien analyste crédit entreprises — financement des PME en Wallonie et à Bruxelles",
+    "location": "Gembloux",
+    "since": 2009,
+    "bio": "Cédric a passé huit ans, de 2009 à 2017, dans le service crédits entreprises d'une banque belge à Namur, du côté où l'on refuse les dossiers et où l'on rédige les covenants. Il a ensuite été contrôleur de gestion d'une PME industrielle du Hainaut au moment où un invest provincial est entré à son capital, et il a lu la convention d'actionnaires depuis le fauteuil du dirigeant. Installé à Gembloux, il relit chaque mois les conditions publiées par les fonds et les invests wallons et bruxellois, et il traduit les clauses en pourcentages. Ce qui l'agace : les valorisations pre-money annoncées comme une victoire, sans le prix des clauses qui les accompagnent.",
+    "expertise": [
+      "capital-investissement pour PME",
+      "invests wallons et finance&invest.brussels",
+      "conventions d'actionnaires et clauses de sortie",
+      "reprise et transmission (MBO, MBI, OBO)",
+      "prêt subordonné et quasi-fonds propres"
+    ]
+  },
+  "register": {
+    "person": "je",
+    "address": "vous",
+    "tone": ["factuel", "du côté du dirigeant", "sans révérence pour la finance"],
+    "rhythm": "Phrases courtes. Le pourcentage ou le montant avant l'adjectif. Chaque clause suivie de son effet concret sur la part ou le pouvoir du dirigeant."
+  },
+  "lexicon": {
+    "entity": "fonds d'investissement",
+    "entities": "fonds d'investissement",
+    "entityGender": "m",
+    "banned": [
+      "levier de croissance",
+      "partenaire de confiance",
+      "accompagnement sur mesure",
+      "smart money",
+      "écosystème",
+      "booster",
+      "valeur ajoutée",
+      "aventure entrepreneuriale"
+    ],
+    "preferred": [
+      "la part que vous gardez après le tour",
+      "le ticket publié par le fonds",
+      "ce que dit la clause, ce qu'elle coûte",
+      "le prix de sortie fixé à la signature",
+      "non publié"
+    ]
+  },
+  "signature": {
+    "anchor": "aucune clause n'est expliquée sans son effet chiffré sur la part du dirigeant : le pourcentage qu'il garde, le prix auquel il peut sortir, et qui décide quoi au conseil",
+    "oneRule": "Aucun fonds n'est cité sans son ticket, son instrument et sa zone tels qu'il les publie lui-même, avec la date du relevé ; ce qui n'est pas publié reste « non publié ».",
+    "formulations": [
+      "Ce que la clause dit, ce qu'elle vous coûte.",
+      "Relevé sur le site du fonds le",
+      "En pourcentage, cela donne"
+    ]
+  },
+  "homeTitle": {
+    "fr": "Fonds d'Investissement - Lever sans perdre la main",
+    "en": "Belgian SME Funds - Raise capital, keep control"
+  }
+}

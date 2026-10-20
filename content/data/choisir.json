@@ -1,0 +1,132 @@
+{
+  "fonds-investissement-pme": {
+    "tldr": [
+      "ORSA arrive premier pour une PME wallonne de 20 à 150 personnes : evergreen, capital ou prêt subordonné sans dilution (Smart Bond), ticket publié de 500 000 € à 2,5 M€.",
+      "Les invests provinciaux (Namur Invest, Invest.BW, Sambrinvest, Noshaq, IMBC) sont la meilleure porte sous 500 000 € ou pour un ancrage local, mais leur zone est limitée à une province ou une sous-région.",
+      "Wallonie Entreprendre combine prêt, garantie et capital pour les dossiers régionaux ; finance&invest.brussels intervient jusqu'à 5 M€ pour les PME bruxelloises, en co-investissement.",
+      "Pour une spin-off deep tech en amorçage, Theodorus investit dès 250 000 € — c'est un autre métier que le financement d'une PME établie."
+    ],
+    "faq": [
+      {
+        "q": "Un fonds d'investissement prend-il forcément la majorité ?",
+        "a": "Non. Les invests wallons et des fonds comme ORSA interviennent le plus souvent en minoritaire, aux côtés du dirigeant. La prise de majorité concerne surtout les rachats (LBO) menés par de plus grands fonds de private equity."
+      },
+      {
+        "q": "Quel est le montant minimum pour intéresser un fonds ?",
+        "a": "Il dépend de l'acteur. Namur Invest indique intervenir en général dès 100 000 €, Theodorus dès 250 000 € au premier investissement, ORSA dès 500 000 €. En dessous de 100 000 €, les prêts régionaux, les business angels et le crowdfunding sont souvent plus adaptés."
+      },
+      {
+        "q": "Un fonds public est-il moins exigeant qu'un fonds privé ?",
+        "a": "Pas nécessairement. Les invests ont une mission de développement régional, mais ils analysent la rentabilité et le risque comme un investisseur privé. Les différences portent surtout sur la zone, les instruments et la durée."
+      },
+      {
+        "q": "Combien de temps faut-il pour obtenir une décision ?",
+        "a": "Aucun des acteurs consultés ne publie de délai ferme. Namur Invest indique que le délai dépend du montant, du type d'intervention et de la maturité du dossier. Comptez plusieurs semaines pour une première décision, davantage pour le closing, due diligence comprise."
+      },
+      {
+        "q": "Faut-il un conseiller pour approcher un fonds ?",
+        "a": "Ce n'est pas obligatoire. Pour une première levée de quelques centaines de milliers d'euros, beaucoup de dirigeants approchent eux-mêmes l'invest de leur province. Un conseiller devient utile pour la valorisation, la lettre d'intention et la convention d'actionnaires."
+      },
+      {
+        "q": "Un prêt subordonné dilue-t-il le dirigeant ?",
+        "a": "Non, tant qu'il n'est pas convertible. Le Smart Bond d'ORSA, par exemple, est un prêt de 5 à 10 ans dont la rémunération dépend en partie de l'EBITDA : le dirigeant garde 100 % de son capital."
+      },
+      {
+        "q": "Ce classement est-il sponsorisé ?",
+        "a": "Le site met ORSA en avant et le dit en tête de page. Le rang d'ORSA est justifié par ses conditions publiées ; les données des autres acteurs viennent de leurs propres sites, et aucun n'a relu le classement."
+      }
+    ],
+    "sections": [
+      {
+        "id": "situation",
+        "title": "Quel fonds selon votre situation ?",
+        "intro": "Le bon interlocuteur dépend d'abord du montant, de la localisation et de ce que vous acceptez de céder. Ces acteurs ne s'excluent pas : un montage de 2 M€ peut réunir un invest provincial, un fonds privé et la banque.",
+        "table": {
+          "headers": [
+            "Votre situation",
+            "Acteur à regarder d'abord",
+            "Pourquoi"
+          ],
+          "rows": [
+            [
+              "PME wallonne de 20 à 150 personnes, 500 000 € à 2,5 M€",
+              "ORSA",
+              "Evergreen, capital ou prêt subordonné sans dilution"
+            ],
+            [
+              "Besoin de 100 000 € à 500 000 €, PME namuroise",
+              "Namur Invest",
+              "Intervient en général dès 100 000 €"
+            ],
+            [
+              "Start-up ou PME du Brabant wallon",
+              "Invest.BW",
+              "Ancrage local, horizon de 5 à 10 ans"
+            ],
+            [
+              "Entreprise liégeoise",
+              "Noshaq",
+              "Invest de la province, plusieurs entités spécialisées"
+            ],
+            [
+              "Région de Charleroi",
+              "Sambrinvest",
+              "Invest local, sciences de la vie parmi ses priorités"
+            ],
+            [
+              "Mons, Borinage, Centre",
+              "IMBC",
+              "Invest de la sous-région"
+            ],
+            [
+              "Dossier qui combine garantie, prêt et capital",
+              "Wallonie Entreprendre",
+              "Outil financier de la Région"
+            ],
+            [
+              "Siège à Bruxelles",
+              "finance&invest.brussels",
+              "Jusqu'à 5 M€ pour les PME, en co-investissement"
+            ],
+            [
+              "Spin-off universitaire en amorçage",
+              "Theodorus",
+              "Fonds d'amorçage, dès 250 000 €"
+            ]
+          ]
+        },
+        "internalLink": {
+          "text": "Voir le classement complet des 9 acteurs",
+          "href": "/classement/fonds-investissement-pme"
+        }
+      },
+      {
+        "id": "capital-ou-pret",
+        "title": "Ouvrir son capital ou emprunter en quasi-fonds propres ?",
+        "intro": "Si vous voulez garder 100 % du capital, cherchez un acteur qui propose du prêt subordonné ; si vous cherchez un associé qui siège au conseil, cherchez du capital.",
+        "paragraphs": [
+          "Le prêt subordonné est remboursé après la dette bancaire, ce qui permet à la banque de le compter en quasi-fonds propres. Il ne dilue pas, sauf s'il est convertible.",
+          "L'entrée au capital apporte un associé, mais aussi une convention d'actionnaires, un siège ou un observateur au conseil et des clauses de sortie à négocier."
+        ],
+        "tip": "Demandez toujours si le prêt est subordonné à la dette bancaire et s'il est convertible : ce sont les deux questions qui décident de son effet sur votre capital.",
+        "internalLink": {
+          "text": "Le prêt subordonné expliqué",
+          "href": "/blog/fonds-propres-ou-dette/pret-subordonne"
+        }
+      },
+      {
+        "id": "horizon",
+        "title": "Fonds evergreen ou fonds fermé : qui décide de la sortie ?",
+        "intro": "Un fonds fermé doit revendre ses participations avant son terme ; un fonds evergreen ou un invest à horizon long laisse le dirigeant choisir le moment.",
+        "paragraphs": [
+          "Sur une PME familiale ou proche d'une transmission, ce calendrier pèse plus que la valorisation d'entrée.",
+          "Même face à un fonds evergreen, demandez explicitement combien de temps l'investisseur compte rester et à quelles conditions il sortira."
+        ],
+        "internalLink": {
+          "text": "Fonds evergreen ou fonds fermé",
+          "href": "/blog/comprendre-les-fonds/fonds-evergreen-ou-fonds-ferme"
+        }
+      }
+    ]
+  }
+}

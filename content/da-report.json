@@ -1,0 +1,141 @@
+{
+  "domain": "fonds-investissement.be",
+  "generatedAt": "2026-10-20",
+  "partiPris": "acte notarié et registre des parts — papier ivoire vergé, encre violette de tampon, filets de table de capitalisation",
+  "home": {
+    "family": "comparateur",
+    "variant": "marche",
+    "source": "suggestVariants('fonds-investissement.be','comparateur') — secteur « Banque » → comparateur",
+    "homeCollision": false
+  },
+  "permutations": {
+    "shape": "rounded",
+    "border": "hairline",
+    "shadow": "flat",
+    "source": "tirage suggestVariants, conservé"
+  },
+  "style": {
+    "effects": "none",
+    "effectsDrawn": "subtle",
+    "effectsWhy": "DA « papier » : aucun voile coloré (art-director levier 5a) — forcé de subtle à none",
+    "cards": "bordered"
+  },
+  "palette": {
+    "source": "DA-DIRECTIONS §2 Éditorial (bordeaux #9E2B25, or #C8922F) mutée : teinte de marque 3° → 309,7° (encre violette), or → laiton #7D5F17, vert registre et encre bleue en accents 3-4",
+    "light": {
+      "bg": "#F6F2E9",
+      "surf": "#FFFDF8",
+      "surf2": "#ECE6D8",
+      "text": "#1E1A24",
+      "text2": "#4A4452",
+      "muted": "#686170",
+      "a1": "#6B2760",
+      "a2": "#7D5F17",
+      "a3": "#2C5A4D",
+      "a4": "#2B2F4A",
+      "a5": "#8A4636",
+      "border": "#8E8697"
+    },
+    "dark": {
+      "bg": "#141117",
+      "surf": "#1D1921",
+      "surf2": "#28232D",
+      "text": "#EEE9F1",
+      "text2": "#BDB4C6",
+      "muted": "#9A91A4",
+      "a1": "#D58FCB",
+      "a2": "#D9B45C",
+      "a3": "#7FC2AE",
+      "a4": "#AEB4E0",
+      "a5": "#E3957F",
+      "border": "#6C6475"
+    },
+    "accent1Hue": 309.7,
+    "hueDistanceToLast8": {
+      "internet-pas-cher.be (146.1)": 163.6,
+      "comparer-compte-epargne.be (3.3)": 53.6,
+      "meilleur-shampoing.be (234.7)": 75.0,
+      "meilleur-hotel-bruges.be (182.0)": 127.7,
+      "meilleure-carte-bancaire.be (262.1)": 47.6,
+      "meilleur-lave-linge.be (53.9)": 104.2,
+      "besttennisshoes.be (226.8)": 82.9,
+      "beste-waterdispenser.be (197.3)": 112.4
+    },
+    "minHueDelta": 47.6,
+    "threshold": 25,
+    "bgPair": "#F6F2E9 / #FFFDF8 — distinct des 8 voisins"
+  },
+  "fonts": {
+    "display": "Manrope",
+    "body": "Manrope",
+    "mono": null,
+    "pairing": "manrope (mono-famille, géométrique)",
+    "source": "suggestFonts(domain,'marche',{fonts: polices des 8 derniers}) — fontCollision false",
+    "loadedIn": "app/layout.tsx (next/font/google Manrope ×2 variables)"
+  },
+  "effects": [
+    {
+      "id": "1.6",
+      "name": "Chiffres tabulaires",
+      "why": "tickets et pourcentages alignés en colonne, comme une table de capitalisation"
+    },
+    {
+      "id": "3.4",
+      "name": "Grain de papier (0,03)",
+      "why": "le papier vergé de l'acte, sans couleur ajoutée"
+    },
+    {
+      "id": "5.5",
+      "name": "Tableaux zébrés",
+      "why": "le registre des parts, une ligne par actionnaire"
+    },
+    {
+      "id": "3.2",
+      "name": "Filet séparateur",
+      "why": "les filets qui séparent les articles d'une convention"
+    },
+    {
+      "id": "5.2",
+      "name": "Sélection à l'encre",
+      "why": "surligner = annoter le document à l'encre du tampon"
+    }
+  ],
+  "contrast": {
+    "light": {
+      "text/bg": 15.3,
+      "text/surface": 16.82,
+      "text2/bg": 8.39,
+      "text2/surface2": 7.53,
+      "muted/bg": 5.32,
+      "muted/surface2": 4.78,
+      "accent1/bg": 9.02,
+      "accent2/bg": 5.34,
+      "white/accent1 (boutons)": 10.08,
+      "bgSurface/accent1 (logo)": 9.91
+    },
+    "dark": {
+      "text/bg": 15.65,
+      "text/surface": 14.47,
+      "text2/bg": 9.36,
+      "text2/surface2": 7.68,
+      "muted/bg": 6.2,
+      "muted/surface2": 5.09,
+      "accent1/bg": 7.68,
+      "accent2/bg": 9.47,
+      "bg/accent1 (boutons)": 7.68,
+      "bgSurface/accent1 (logo)": 7.11
+    },
+    "thresholds": "≥ 4,5 texte, ≥ 3 gros titres/bordures/focus, sans arrondi"
+  },
+  "identity": {
+    "favicon": "app/icon.svg — monogramme v1, rond #6B2760, F blanc (contraste 10,08)",
+    "logo": "components/layout/Nav.tsx — tampon d'acte (double cercle + barre), couleur via .logo .mark dans da-site.css"
+  },
+  "previewsRemoved": [
+    "/home-v1..v5",
+    "/cat-v1..v3",
+    "/art-v1..v2",
+    "/en/home-v1..v5",
+    "/en/art-v1..v2"
+  ]
+}

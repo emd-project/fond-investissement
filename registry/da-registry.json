@@ -1,0 +1,10 @@
+{
+  "moved": true,
+  "movedOn": "2026-08-01",
+  "livesIn": "emd-project/emd-methodo",
+  "path": "registry/da-registry.json",
+  "why": "Ce depot est un TEMPLATE GitHub : tout fork heritait d'une copie figee du registre, alors que la doctrine interdit precisement de le copier dans un fork. Trente copies divergentes n'empechent aucune ressemblance. Le registre vit desormais dans emd-methodo, qui n'est pas un template et porte deja l'etat central du parc.",
+  "readItFrom": "github_read_file(repo='emd-project/emd-methodo', path='registry/da-registry.json')",
+  "warning": "Si tu lis CE fichier, tu lis un panneau, pas des donnees. Ne valide jamais une DA contre lui : validate-da.mjs passerait sans rien prouver.",
+  "sites": []
+}
