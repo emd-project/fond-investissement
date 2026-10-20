@@ -104,3 +104,9 @@ body::after {
    Fond encre violette, tracé papier — s'inverse proprement en sombre. */
 .logo .mark { background: var(--accent-1); color: var(--bg-surface); }
 .nav .logo .mark svg path { fill: none; }
+
+/* ── Exception de mise en page demandée (2026-10-20) ─────────────────────────
+   En-tête du tableau « Au classement » de la home : la colonne de 440 px du
+   template est trop étroite pour un chapô de deux lignes. Seule règle de
+   largeur du fichier, assumée et notée dans DECISIONS.md. */
+.md-board-head p { max-width: 760px; }

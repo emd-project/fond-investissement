@@ -34,6 +34,7 @@ Repo `emd-project/fond-investissement`. Remis au format EMD le 20/10/2026, sur l
 
 ## Écarts au template, assumés
 - `MarcheHome` : le titre du hero passe de `<h2>` à `<h1>` (la home n'avait aucun H1). À remonter au template.
+- Home `marche` : l'en-tête « Au classement » affiche `excerpt` (et non l'intro longue) et sa colonne passe de 440 à 760 px (`da-site.css`, seule règle de largeur du fichier, demandée le 20/10). Page classement : l'intro est rendue paragraphe par paragraphe.
 - `ComparateurSelector` : un `prix` à 0 s'affiche « — » au lieu de « 0 € » (ticket non publié). À remonter au template.
 - Titre `/choisir` : « + quiz » seulement si le quiz est actif.
 - `tests/unit/niche-l10n.test.tsx` : le bloc « template sans `localized` » est sauté quand le site déclare `localized.en`.

@@ -130,7 +130,8 @@ export function MarcheHome({ locale = niche.defaultLocale }: { locale?: string }
               <div>
                 <span className="eyebrow">{m('boardEye')}</span>
                 <h2>{board.title ?? m('boardTitle')}</h2>
-                <p>{board.intro ?? m('boardDesc')}</p>
+                {/* Résumé court (excerpt) en tête de home ; l'intro longue reste sur /classement. */}
+                <p>{board.excerpt ?? board.intro ?? m('boardDesc')}</p>
               </div>
               <span className="md-updated"><span className="md-dot" /> {m('updated')}{board.updated ? ` · ${board.updated}` : ''}</span>
             </div>

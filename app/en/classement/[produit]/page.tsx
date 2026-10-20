@@ -134,11 +134,11 @@ export default async function ClassementPageEn({ params }: { params: Params }) {
             </h1>
 
             {/* Intro — READING measure (~78ch), not a narrow column. */}
-            {c.intro && (
-              <p style={{ fontSize: 17.5, color: 'var(--ink-2)', lineHeight: 1.6, margin: 0, maxWidth: '78ch' }}>
-                {c.intro}
+            {c.intro && c.intro.split(/\n\s*\n/).map((para, i) => (
+              <p key={i} style={{ fontSize: 17.5, color: 'var(--ink-2)', lineHeight: 1.6, margin: 0, maxWidth: '78ch' , marginTop: i ? 14 : 0 }}>
+                {para}
               </p>
-            )}
+            ))}
             {c.updated && (
               <p style={{ fontSize: 12, color: 'var(--ink-3)', marginTop: 10, marginBottom: 0 }}>
                 Updated {new Date(c.updated).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' })}

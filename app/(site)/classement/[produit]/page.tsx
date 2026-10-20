@@ -145,11 +145,11 @@ export default async function ClassementPage({ params }: { params: Params }) {
             </h1>
 
             {/* Intro — largeur de LECTURE (~78ch), pas une colonne étroite. */}
-            {c.intro && (
-              <p style={{ fontSize: 17.5, color: 'var(--ink-2)', lineHeight: 1.6, margin: 0, maxWidth: '78ch' }}>
-                {c.intro}
+            {c.intro && c.intro.split(/\n\s*\n/).map((para, i) => (
+              <p key={i} style={{ fontSize: 17.5, color: 'var(--ink-2)', lineHeight: 1.6, margin: 0, maxWidth: '78ch' , marginTop: i ? 14 : 0 }}>
+                {para}
               </p>
-            )}
+            ))}
             {c.updated && (
               <p style={{ fontSize: 12, color: 'var(--ink-3)', marginTop: 10, marginBottom: 0 }}>
                 Mis à jour le {new Date(c.updated).toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' })}
