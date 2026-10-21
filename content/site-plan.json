@@ -1044,6 +1044,200 @@
       "brands": [
         "finance&invest.brussels"
       ]
+    },
+    {
+      "slug": "stock-options-et-warrants-en-belgique",
+      "categorie": "start-up-et-scale-up",
+      "cluster": "c-innovation",
+      "type": "pratique",
+      "owns": [
+        "stock options belgique",
+        "stock option fiscalité belgique",
+        "taxation stock options belgique",
+        "warrants start-up"
+      ],
+      "questions": [
+        "Stock option ou warrant : quelle différence pour le capital ?",
+        "Combien de capital réserver à l'équipe ?",
+        "Comment mettre en place un plan de warrants ?",
+        "Combien l'employé paie-t-il d'impôt à l'attribution ?"
+      ],
+      "status": "published",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/start-up-et-scale-up/stock-options-and-warrants-belgium"
+      },
+      "persona": "fondateur de start-up",
+      "brands": [
+        "EVS",
+        "Nyxoah",
+        "SPF Finances"
+      ]
+    },
+    {
+      "slug": "pret-convertible",
+      "categorie": "fonds-propres-ou-dette",
+      "cluster": "c-instruments",
+      "type": "info",
+      "owns": [
+        "prêt convertible",
+        "obligation convertible pme"
+      ],
+      "questions": [
+        "Comment un prêt convertible devient-il du capital ?",
+        "À quel prix se fait la conversion ?"
+      ],
+      "status": "planned",
+      "priority": 3,
+      "persona": "dirigeant de PME",
+      "brands": [
+        "ORSA",
+        "Wallonie Entreprendre"
+      ]
+    },
+    {
+      "slug": "financement-mezzanine",
+      "categorie": "fonds-propres-ou-dette",
+      "cluster": "c-instruments",
+      "type": "info",
+      "owns": [
+        "financement mezzanine",
+        "dette mezzanine"
+      ],
+      "questions": [
+        "Qu'est-ce que la mezzanine ?",
+        "Combien coûte-t-elle par rapport à un crédit bancaire ?"
+      ],
+      "status": "planned",
+      "priority": 3,
+      "persona": "PME en croissance",
+      "brands": [
+        "Gimv",
+        "Wallonie Entreprendre"
+      ]
+    },
+    {
+      "slug": "crowdfunding-entreprise-belgique",
+      "categorie": "fonds-propres-ou-dette",
+      "cluster": "c-instruments",
+      "type": "face-a-face",
+      "owns": [
+        "crowdfunding entreprise belgique",
+        "crowdlending pme"
+      ],
+      "questions": [
+        "Crowdfunding en capital ou en prêt ?",
+        "Quelles plateformes agréées FSMA ?"
+      ],
+      "status": "planned",
+      "priority": 3,
+      "persona": "dirigeant de PME",
+      "brands": [
+        "FSMA"
+      ]
+    },
+    {
+      "slug": "credit-vendeur-et-earn-out",
+      "categorie": "reprise-et-transmission",
+      "cluster": "c-reprise",
+      "type": "info",
+      "owns": [
+        "crédit vendeur",
+        "earn out"
+      ],
+      "questions": [
+        "Qu'est-ce qu'un crédit vendeur ?",
+        "Comment se calcule un earn-out ?"
+      ],
+      "status": "planned",
+      "priority": 3,
+      "persona": "cédant de PME",
+      "brands": [
+        "ORSA",
+        "Sowaccess"
+      ]
+    },
+    {
+      "slug": "holding-de-reprise",
+      "categorie": "reprise-et-transmission",
+      "cluster": "c-reprise",
+      "type": "pratique",
+      "owns": [
+        "holding de reprise",
+        "rachat entreprise holding"
+      ],
+      "questions": [
+        "Pourquoi passer par une holding de reprise ?",
+        "Comment la dette d'acquisition est-elle remboursée ?"
+      ],
+      "status": "planned",
+      "priority": 3,
+      "persona": "repreneur de PME",
+      "brands": [
+        "Wallonie Entreprendre",
+        "BNP Paribas Fortis"
+      ]
+    },
+    {
+      "slug": "augmentation-de-capital-srl",
+      "categorie": "lever-des-fonds",
+      "cluster": "c-lever",
+      "type": "pratique",
+      "owns": [
+        "augmentation de capital srl",
+        "émission d'actions srl"
+      ],
+      "questions": [
+        "Faut-il un notaire pour une augmentation de fonds propres en SRL ?",
+        "Faut-il un rapport du réviseur ?"
+      ],
+      "status": "planned",
+      "priority": 3,
+      "persona": "dirigeant de PME",
+      "brands": [
+        "Institut des réviseurs d'entreprises"
+      ]
+    },
+    {
+      "slug": "liquidation-preferentielle",
+      "categorie": "comprendre-les-fonds",
+      "cluster": "c-comprendre",
+      "type": "info",
+      "owns": [
+        "liquidation préférentielle",
+        "vocabulaire du pacte d'actionnaires"
+      ],
+      "questions": [
+        "Qu'est-ce qu'une liquidation préférentielle ?",
+        "Participating ou non participating ?"
+      ],
+      "status": "planned",
+      "priority": 3,
+      "persona": "fondateur de start-up",
+      "brands": [
+        "Theodorus",
+        "Noshaq"
+      ]
+    },
+    {
+      "slug": "business-angels-pour-pme-industrielle",
+      "categorie": "start-up-et-scale-up",
+      "cluster": "c-innovation",
+      "type": "face-a-face",
+      "owns": [
+        "business angel pme industrielle",
+        "réseau business angels wallonie"
+      ],
+      "questions": [
+        "Quel réseau de business angels pour une PME industrielle ?",
+        "Combien un business angel investit-il ?"
+      ],
+      "status": "planned",
+      "priority": 3,
+      "persona": "PME industrielle",
+      "brands": [
+        "BeAngels"
+      ]
     }
   ],
   "budget": {

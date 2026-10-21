@@ -44,6 +44,7 @@ export const articleSlugFrToEn: Record<string, string> = {
   'fonds-et-aides-par-region': 'funds-and-public-financing-by-region',
   'invests-wallons': 'walloon-invests',
   'financer-son-entreprise-a-bruxelles': 'financing-a-business-in-brussels',
+  'stock-options-et-warrants-en-belgique': 'stock-options-and-warrants-belgium',
 }
 
 /** Réciproque EN → FR (dérivée automatiquement). */
