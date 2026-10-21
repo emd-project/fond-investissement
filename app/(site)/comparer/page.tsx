@@ -47,7 +47,7 @@ export default function ComparateurHubPage() {
             </nav>
             <div className="sec-head" style={{ marginBottom: 8 }}>
               <span className="eyebrow">Comparer</span>
-              <h2 style={{ margin: '16px 0 12px' }}>Une famille, des modèles côte à côte.</h2>
+              <h1 style={{ margin: '16px 0 12px' }}>Une famille, des modèles côte à côte.</h1>
               <p>Choisis une famille de {niche.entities} pour comparer les modèles en un coup d&rsquo;œil.</p>
             </div>
           </div>

@@ -54,7 +54,7 @@ export default function ComparatorHubPageEn() {
             </nav>
             <div className="sec-head" style={{ marginBottom: 8 }}>
               <span className="eyebrow">Compare</span>
-              <h2 style={{ margin: '16px 0 12px' }}>One family, models side by side.</h2>
+              <h1 style={{ margin: '16px 0 12px' }}>One family, models side by side.</h1>
               <p>Pick a family of {nicheL('en', 'entities')} to compare the models at a glance.</p>
             </div>
           </div>

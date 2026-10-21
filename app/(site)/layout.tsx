@@ -12,11 +12,13 @@ import { PresseMasthead } from '@/components/presse/PresseMasthead'
 import { PresseFooter } from '@/components/presse/PresseFooter'
 import { PresseStyle } from '@/components/presse/PresseStyle'
 import { isPresse } from '@/lib/variants'
+import { tl } from '@/lib/i18n'
 
 export default function SiteLayout({ children }: { children: React.ReactNode }) {
   const presse = isPresse()
   return (
     <>
+      <a href="#main-content" className="skip-to-content">{tl('fr', 'common.skipToContent')}</a>
       {presse && <PresseStyle />}
       {presse ? <PresseMasthead /> : <Nav />}
       {children}

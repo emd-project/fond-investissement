@@ -53,7 +53,7 @@ export default function ClassementHubPage() {
             </nav>
             <div className="sec-head" style={{ marginBottom: 8 }}>
               <span className="eyebrow">Classements</span>
-              <h2 style={{ margin: '16px 0 12px' }}>Les {best(g, true)} {niche.entities}, {accord('classé', g, true)}.</h2>
+              <h1 style={{ margin: '16px 0 12px' }}>Les {best(g, true)} {niche.entities}, {accord('classé', g, true)}.</h1>
               <p>Nos Top argumentés par catégorie — scores, verdicts et tableau comparatif.</p>
             </div>
           </div>

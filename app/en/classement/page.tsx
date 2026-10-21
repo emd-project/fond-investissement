@@ -49,7 +49,7 @@ export default function ClassementHubPageEn() {
             </nav>
             <div className="sec-head" style={{ marginBottom: 8 }}>
               <span className="eyebrow">Rankings</span>
-              <h2 style={{ margin: '16px 0 12px' }}>The best {nicheL('en', 'entities')}, ranked.</h2>
+              <h1 style={{ margin: '16px 0 12px' }}>The best {nicheL('en', 'entities')}, ranked.</h1>
               <p>Our reasoned Top lists by category — scores, verdicts and comparison table.</p>
             </div>
           </div>

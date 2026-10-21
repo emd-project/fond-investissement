@@ -59,6 +59,10 @@ export function Nav() {
 
   useEffect(() => { setOpen(false) }, [pathname])
 
+  // <html lang> suit la locale du chemin (un seul root layout sert FR et EN ;
+  // le script du <head> pose déjà la bonne valeur au premier rendu).
+  useEffect(() => { document.documentElement.lang = locale }, [locale])
+
   useEffect(() => {
     document.body.style.overflow = open ? 'hidden' : ''
     return () => { document.body.style.overflow = '' }
@@ -108,7 +112,7 @@ export function Nav() {
         </div>
       </nav>
 
-      <div className={`mobile-menu${open ? ' open' : ''}`} role="dialog" aria-label={tl(locale, 'nav.mobileMenu')}>
+      <div className={`mobile-menu${open ? ' open' : ''}`} role="dialog" aria-label={tl(locale, 'nav.mobileMenu')} inert={!open}>
         {LINKS.map(({ href, label }) => (
           <Link key={href} href={lp(href)}>{label}</Link>
         ))}
