@@ -1,9 +1,8 @@
 import type { Metadata } from 'next'
-import { Manrope } from 'next/font/google'
+import { Manrope, Libre_Caslon_Text } from 'next/font/google'
 import voiceProfile from '@/content/voice-profile.json'
 import { Analytics } from '@vercel/analytics/next'
 import { niche } from '@/niche.config'
-import { t } from '@/lib/i18n'
 import { PermutationStyle } from '@/components/layout/PermutationStyle'
 import './globals.css'
 import './styles/volteo.css'
@@ -27,9 +26,11 @@ import './styles/volteo-overrides.css'
 // Vide dans le template, rempli à l'init. Cf. docs/DA-EFFETS.md.
 import './styles/da-site.css'
 
-// ── Fonts — tirées par suggestFonts('fonds-investissement.be', 'marche', exclusion des
-//    8 derniers sites du registre) : paire « manrope » (mono-famille, géométrique).
-//    Une seule famille chargée, deux variables : display et texte partagent Manrope.
+// ── Fonts — texte : Manrope, tirée par suggestFonts('fonds-investissement.be', 'marche',
+//    exclusion des 8 derniers sites du registre).
+//    Titrage : Libre Caslon Text (emd-fix-ux 2026-10-21). La direction n°2 Éditorial
+//    appelle une serif de titrage ; le Caslon est la lettre des actes et registres,
+//    et aucun autre site du réseau ne l'utilise (registry/da-registry.json).
 const fontPrimary = Manrope({
   subsets: ['latin'],
   weight: ['400', '500', '600', '700', '800'],
@@ -39,9 +40,9 @@ const fontPrimary = Manrope({
   display: 'swap',
 })
 
-const fontDisplay = Manrope({
+const fontDisplay = Libre_Caslon_Text({
   subsets: ['latin'],
-  weight: ['600', '700', '800'],
+  weight: ['400', '700'],
   variable: '--next-font-display',
   adjustFontFallback: true,
   preload: false,
@@ -99,21 +100,24 @@ export default function RootLayout({
   return (
     <html
       lang="fr"
+      data-theme={niche.style.mode}
       className={`js ${fontPrimary.variable} ${fontDisplay.variable}`}
+      suppressHydrationWarning
     >
-      {/* Script inline : applique data-theme avant tout rendu pour éviter le flash */}
+      {/* Mode VERROUILLÉ sur niche.style.mode (pas de toggle monté) : sans data-theme,
+          volteo-hub.css passait --text-muted à #8A8AA0 sous un OS sombre (3,0:1).
+          Le script pose <html lang="en"> avant rendu sur /en (un seul root layout sert
+          les deux locales ; la Nav resynchronise à chaque navigation client). */}
       <head>
         <PermutationStyle />
         <script
           dangerouslySetInnerHTML={{
-            __html: `(function(){try{var t=localStorage.getItem('theme');if(t==='light'||t==='dark')document.documentElement.setAttribute('data-theme',t)}catch(e){}})()`,
+            __html: `(function(){try{var p=location.pathname;if(p==='/en'||p.indexOf('/en/')===0)document.documentElement.lang='en'}catch(e){}})()`,
           }}
         />
       </head>
       <body>
-        <a href="#main-content" className="skip-to-content">
-          {t('common.skipToContent')}
-        </a>
+        {/* Skip-link : rendu par les layouts de segment ((site) et en), dans leur langue. */}
         {children}
         <Analytics />
       </body>

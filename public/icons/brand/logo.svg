@@ -1,25 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 44" role="img" aria-label="10min-template">
-  <title>10min-template</title>
-  <!-- "10min" ultra-bold -->
-  <text
-    x="0"
-    y="34"
-    font-family="Syne, system-ui, sans-serif"
-    font-weight="800"
-    font-size="34"
-    fill="#F0F0F5"
-    letter-spacing="-0.03em"
-  >10min</text>
-  <!-- Accent dot -->
-  <circle cx="110" cy="28" r="3" fill="#FF3D57"/>
-  <!-- Suffix placeholder -->
-  <text
-    x="120"
-    y="34"
-    font-family="Syne, system-ui, sans-serif"
-    font-weight="400"
-    font-size="28"
-    fill="#9090A8"
-    letter-spacing="-0.02em"
-  >···</text>
+<!-- fonds-investissement.be : mark tampon d'acte + nom. Non rendu sur le site public (le logo du header est le SVG inline de components/layout/Nav.tsx). -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 44" role="img" aria-label="Fonds d'Investissement">
+  <rect x="0" y="4" width="36" height="36" rx="8" fill="#6B2760"/>
+  <g fill="none" stroke="#FFFDF8" stroke-linecap="round" transform="translate(4.5 8.5) scale(1.125)">
+    <circle cx="12" cy="12" r="9" stroke-width="2"/>
+    <circle cx="12" cy="12" r="5.5" stroke-width="1.4"/>
+    <path d="M8.5 12h7" stroke-width="2"/>
+  </g>
+  <text x="48" y="30" fill="#1E1A24" font-family="'Libre Caslon Text', Georgia, serif" font-size="22" font-weight="700">Fonds d'Investissement</text>
 </svg>

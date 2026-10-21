@@ -110,3 +110,108 @@ body::after {
    template est trop étroite pour un chapô de deux lignes. Seule règle de
    largeur du fichier, assumée et notée dans DECISIONS.md. */
 .md-board-head p { max-width: 760px; }
+
+/* ============================================================================
+   PASSE DA « REGISTRE » — emd-fix-ux, 2026-10-21
+   ----------------------------------------------------------------------------
+   Pourquoi : la home `marche` rendait encore la peau du gabarit commun
+   (H1 et CTA en dégradé, halos radiaux, orbites, pastilles flottantes, ticker,
+   tableau et encart final sur chrome sombre, colonne « Tendance » à barres
+   inventées). `style.effects` vaut 'none' et `signature.forbidden` exclut le
+   graphique boursier : cette peau contredisait le parti pris et donnait au site
+   la même silhouette que les deux autres sites finance en `marche`.
+   Ici on remet la home sur papier, comme un registre : aplats d'encre, filets,
+   aucun voile. Tokens uniquement. Le mode est verrouillé en clair
+   (<html data-theme> dans app/layout.tsx), les tokens --chrome-* remappés
+   ci-dessous suivent donc la palette sans risque d'inversion.
+   ============================================================================ */
+
+/* ── 6. Titrage serif de registre (Libre Caslon Text, chargée dans layout.tsx)
+   La direction n°2 appelle une serif de titrage. Le Caslon est la lettre des
+   actes et des registres ; le texte courant reste en Manrope. */
+h1, h2, h3, .md-title, .logo .word { letter-spacing: -0.01em; }
+.md-title, .sec-head h1, .sec-head h2, .md-board-head h2, .md-final-card h2 { font-weight: 700; }
+
+/* Chrome de la home et du pied de page : papier au lieu du chrome sombre. */
+.md-page, .footer {
+  --chrome-bg: var(--bg-surface);
+  --chrome-bg-2: var(--bg-surface);
+  --chrome-surface: var(--bg-surface);
+  --chrome-text: var(--text-primary);
+  --chrome-text-2: var(--text-secondary);
+  --chrome-text-3: var(--text-secondary);
+  --chrome-line: var(--border);
+  --chrome-line-2: var(--border);
+  --chrome-fill: color-mix(in srgb, var(--on-accent) 18%, transparent);
+  --chrome-up: var(--accent-3);
+  --spark: var(--accent-1);
+  --on-spark: var(--on-accent);
+}
+
+/* Hero : aucun halo, aucune orbite, aucune pastille flottante, aucun ticker. */
+.md-hero { background: var(--bg-primary); }
+.md-orbits, .md-chips, .md-ticker, .md-best .blob, .md-final-card .glow, .hub-hero .glow { display: none; }
+.md-dot, .md-pill .md-dot { display: none; }
+.md-statusbar { background: var(--bg-surface); border-bottom: 3px double var(--border); }
+.md-pill { background: transparent; border: 1px solid var(--accent-1); color: var(--accent-1); }
+
+/* Mot-clé du H1 : encre pleine, soulignée d'un filet — pas de dégradé texte. */
+.md-title .grad {
+  background: none; -webkit-background-clip: border-box; background-clip: border-box;
+  color: var(--accent-1);
+  text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 0.14em;
+}
+
+/* Boutons et carte « choix » en aplat d'encre. */
+.md-btn-primary, .md-btn-primary:hover { background: var(--accent-1); color: var(--on-accent); box-shadow: none; }
+.md-best { background: var(--accent-1); color: var(--on-accent); }
+.md-best .save { background: color-mix(in srgb, var(--on-accent) 16%, transparent); }
+
+/* Tableau « Au classement » : feuille de registre, filets, ligne d'en-tête teintée. */
+.md-board { background: var(--bg-primary); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); }
+.md-board-grid { background: var(--bg-surface); }
+.brow.head { background: var(--bg-surface-2); color: var(--text-secondary); }
+.brow:not(.head):hover { background: var(--bg-surface-2); }
+.brow:not(.head):nth-child(odd) { background: color-mix(in srgb, var(--bg-surface-2) 45%, var(--bg-surface)); }
+.md-updated { background: transparent; }
+
+/* Colonne « Tendance » : des barres décoratives sans aucune donnée derrière.
+   Masquée, et la grille perd sa 5ᵉ colonne. EXCEPTION DE MISE EN PAGE
+   (2ᵉ du fichier), nécessaire pour ne pas laisser une colonne vide ; même
+   proportions que volteo-marche.css, colonne de 120 px retirée. */
+.brow .spark, .brow.head .h-spark { display: none; }
+@media (min-width: 861px) {
+  .brow { grid-template-columns: 1.4fr 1fr 1.1fr 0.9fr 130px; }
+}
+
+/* Encart final : papier, double filet d'acte. */
+.md-final-card { background: var(--bg-surface); border: 3px double var(--border); }
+
+/* Pied de page sur papier gris de registre, au lieu de l'encre pleine. */
+.footer { background: var(--bg-surface-2); color: var(--text-secondary); border-top: 3px double var(--border); }
+.footer a { color: var(--text-secondary); }
+.footer a:hover { color: var(--accent-1); }
+.footer .logo { color: var(--text-primary); }
+.footer .logo .mark { background: var(--accent-1); color: var(--bg-surface); }
+.footer-col h4 { color: var(--text-primary); }
+.footer-top { border-bottom-color: var(--border); }
+.footer-bottom { color: var(--text-secondary); }
+
+/* H1 des hubs /comparer et /classement : même gabarit visuel que l'ancien h2. */
+.sec-head h1 { font-size: clamp(32px, 4.4vw, 50px); margin: 16px 0 14px; }
+
+/* ── Responsive : la Nav ne repousse plus le burger hors écran ──────────────
+   Le wordmark « Fonds d'Investissement » (≈ 247 px) poussait le burger à
+   x = 325 px : hors écran à 320 px, rogné à 360 px. On autorise le lien logo
+   à rétrécir, et sous 400 px le nom passe sur deux lignes, plus petit. */
+.nav .logo { min-width: 0; }
+.nav-burger { flex: none; min-width: 44px; min-height: 44px; }
+@media (max-width: 940px) {
+  .nav .logo { flex: 1 1 auto; }
+}
+@media (max-width: 400px) {
+  .nav .logo .word { white-space: normal; font-size: 17px; line-height: 1.05; overflow: hidden; }
+}
+
+/* ── Cibles tactiles ≥ 44 px (liens de méta et fils d'Ariane) ── */
+.crumb a, .md-blog-head .more { display: inline-flex; align-items: center; min-height: 44px; }

@@ -72,7 +72,8 @@ export function Footer({ locale = niche.defaultLocale }: { locale?: string }) {
           <div className="footer-brand">
             <Link href={lp('/')} className="logo" aria-label={`${niche.siteName} — accueil`}>
               <span className="mark" aria-hidden="true">
-                <svg viewBox="0 0 24 24" fill="none"><path d="M13 2 4.5 13.5H11l-1 8.5L19.5 10H13l0-8Z" fill="#fff" /></svg>
+                {/* Même tampon d'acte que la Nav (double cercle + barre de signature), teinté par le CSS de .mark */}
+                <svg viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="9" stroke="currentColor" strokeWidth="2" /><circle cx="12" cy="12" r="5.5" stroke="currentColor" strokeWidth="1.4" /><path d="M8.5 12h7" stroke="currentColor" strokeWidth="2" strokeLinecap="round" /></svg>
               </span>
               <span className="word">{niche.siteName}</span>
             </Link>

@@ -1,14 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <title>10min</title>
-  <rect width="32" height="32" rx="6" fill="#FF3D57"/>
-  <text
-    x="16"
-    y="24"
-    text-anchor="middle"
-    font-family="Syne, system-ui, sans-serif"
-    font-weight="800"
-    font-size="20"
-    fill="#0A0A0F"
-    letter-spacing="-0.04em"
-  >10</text>
+<!-- fonds-investissement.be : tampon d'acte (même tracé que le mark de Nav.tsx / Footer.tsx), papier sur encre prune -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Fonds d'Investissement">
+  <rect width="64" height="64" rx="14" fill="#6B2760"/>
+  <g fill="none" stroke="#FFFDF8" stroke-linecap="round" transform="translate(8 8) scale(2)">
+    <circle cx="12" cy="12" r="9" stroke-width="2"/>
+    <circle cx="12" cy="12" r="5.5" stroke-width="1.4"/>
+    <path d="M8.5 12h7" stroke-width="2"/>
+  </g>
 </svg>

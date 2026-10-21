@@ -1,5 +1,9 @@
-<!-- emd-monogram v1 -->
+<!-- fonds-investissement.be : tampon d'acte (même tracé que le mark de Nav.tsx / Footer.tsx), papier sur encre prune -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Fonds d'Investissement">
-  <circle cx="32" cy="32" r="32" fill="#6B2760"/>
-  <text x="32" y="45.5" text-anchor="middle" fill="#FFFFFF" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="0.5">F</text>
+  <rect width="64" height="64" rx="14" fill="#6B2760"/>
+  <g fill="none" stroke="#FFFDF8" stroke-linecap="round" transform="translate(8 8) scale(2)">
+    <circle cx="12" cy="12" r="9" stroke-width="2"/>
+    <circle cx="12" cy="12" r="5.5" stroke-width="1.4"/>
+    <path d="M8.5 12h7" stroke-width="2"/>
+  </g>
 </svg>
