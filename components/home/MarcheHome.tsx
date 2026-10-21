@@ -262,10 +262,9 @@ export function MarcheHome({ locale = niche.defaultLocale }: { locale?: string }
             <span className="eyebrow">{m('finalEye')}</span>
             <h2>{m('finalTitle')}</h2>
             <p>{m('finalDesc')}</p>
-            <form className="md-news-form">
-              <input type="email" placeholder={tl(locale, 'home.emailPlaceholder')} required aria-label="Email" />
-              <button type="submit" className="md-btn md-btn-primary">{tl(locale, 'home.subscribe')} <span className="arr">→</span></button>
-            </form>
+            {/* Pas de formulaire newsletter : aucun backend ne reçoit l'adresse (un <form>
+                sans action ne faisait que recharger la page). Lien vers l'outil à la place. */}
+            <Link href={lp(niche.ctaSecondary?.url ?? '/comparer')} className="md-btn md-btn-primary">{m('finalCta')} <span className="arr">→</span></Link>
           </div>
         </div>
       </section>
