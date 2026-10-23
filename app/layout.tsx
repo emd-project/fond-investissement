@@ -1,9 +1,10 @@
 import type { Metadata } from 'next'
 import { Manrope, Libre_Caslon_Text } from 'next/font/google'
 import voiceProfile from '@/content/voice-profile.json'
-import { Analytics } from '@vercel/analytics/next'
 import { niche } from '@/niche.config'
 import { PermutationStyle } from '@/components/layout/PermutationStyle'
+// Bandeau cookies RGPD : rend aussi <Analytics /> (Vercel), UNIQUEMENT après « Accepter ».
+import { CookieConsent } from '@/components/layout/CookieConsent'
 import './globals.css'
 import './styles/volteo.css'
 // Tokens de chrome (invariants light/dark) — après volteo.css (qui définit
@@ -119,7 +120,7 @@ export default function RootLayout({
       <body>
         {/* Skip-link : rendu par les layouts de segment ((site) et en), dans leur langue. */}
         {children}
-        <Analytics />
+        <CookieConsent />
       </body>
     </html>
   )

@@ -5,6 +5,7 @@
 
 import type { Metadata } from 'next'
 import { niche } from '@/niche.config'
+import { CookieSettingsButton } from '@/components/layout/CookieConsent'
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? `https://www.${niche.domain}`
 
@@ -40,7 +41,8 @@ export default function PrivacyPage() {
         <section style={{ marginBottom: 36 }}>
           <h2 style={h2}>Data controller</h2>
           <div style={block}>
-            <p>Company: MentionBox SRL (BE 0784.700.405)</p>
+            <p>Company: MentionBox SRL, a private limited company under Belgian law (BE 0784.700.405)</p>
+            <p>Registered office: Rue Blanche-Eau 15, 6950 Nassogne, Belgium</p>
             <p>Email: emd@mentionbox.be</p>
             <p>Site: {niche.siteName} — https://{niche.domain}</p>
           </div>
@@ -50,18 +52,25 @@ export default function PrivacyPage() {
           <h2 style={h2}>Data collected</h2>
           <p style={block}>{niche.siteName} collects the minimum data strictly necessary for the site to work:</p>
           <ul style={list}>
-            <li><strong style={strong}>Analytics cookies:</strong> anonymised browsing data (pages visited, session duration) via Vercel Analytics.</li>
+            <li><strong style={strong}>Audience measurement:</strong> anonymised browsing data (pages visited, session duration) via Vercel Analytics, only if you have accepted it.</li>
             <li><strong style={strong}>CMS forms:</strong> if you use a contact form, the information provided (name, email, message) is collected to handle your request.</li>
           </ul>
         </section>
 
         <section style={{ marginBottom: 36 }}>
           <h2 style={h2}>Cookies</h2>
-          <p style={block}>This site uses strictly necessary cookies and analytics cookies:</p>
+          <p style={block}>This site uses strictly necessary cookies and, with your consent, audience measurement. Nothing non-essential loads before you make a choice in the cookie banner:</p>
           <ul style={list}>
             <li><strong style={strong}>Vercel Analytics:</strong> anonymised audience measurement, with no advertising tracking.</li>
             <li><strong style={strong}>CMS session:</strong> a session cookie for the admin interface, where applicable.</li>
           </ul>
+        </section>
+
+        <section style={{ marginBottom: 36 }}>
+          <h2 style={h2}>Legal basis and consent</h2>
+          <p style={block}>Audience measurement relies on your consent (Article 6(1)(a) GDPR): Vercel Analytics only loads after you click &ldquo;Accept&rdquo;. Strictly necessary cookies and the handling of contact requests rely on our legitimate interest in running the site and answering you (Article 6(1)(f)).</p>
+          <p style={{ ...block, marginTop: 12 }}>You can withdraw or change your consent at any time, without giving a reason. Withdrawal does not affect measurement made before it.</p>
+          <CookieSettingsButton label="Manage cookies" />
         </section>
 
         <section style={{ marginBottom: 36 }}>
@@ -78,6 +87,7 @@ export default function PrivacyPage() {
             <li>Right to erasure of your data</li>
             <li>Right to object to processing</li>
             <li>Right to data portability</li>
+            <li>Right to withdraw your consent at any time</li>
           </ul>
           <p style={{ ...block, marginTop: 12 }}>To exercise these rights, contact us at the address above. You may also lodge a complaint with the Belgian Data Protection Authority (APD/GBA).</p>
         </section>

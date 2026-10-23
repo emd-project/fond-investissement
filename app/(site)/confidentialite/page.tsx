@@ -6,6 +6,7 @@
 
 import type { Metadata } from 'next'
 import { niche } from '@/niche.config'
+import { CookieSettingsButton } from '@/components/layout/CookieConsent'
 
 export const metadata: Metadata = {
   title: `Politique de confidentialité | ${niche.siteName}`,
@@ -40,18 +41,25 @@ export default function ConfidentialitePage() {
           <h2 style={h2}>Données collectées</h2>
           <p style={block}>{niche.siteName} collecte un minimum de données, strictement nécessaires au fonctionnement du site :</p>
           <ul style={list}>
-            <li><strong style={strong}>Cookies analytics :</strong> données de navigation anonymisées (pages visitées, durée de session) via Vercel Analytics.</li>
+            <li><strong style={strong}>Mesure d&rsquo;audience :</strong> données de navigation anonymisées (pages visitées, durée de session) via Vercel Analytics, uniquement si vous l&rsquo;avez acceptée.</li>
             <li><strong style={strong}>Formulaires CMS :</strong> si vous utilisez un formulaire de contact, les informations fournies (nom, email, message) sont collectées pour traiter votre demande.</li>
           </ul>
         </section>
 
         <section style={{ marginBottom: 36 }}>
           <h2 style={h2}>Cookies</h2>
-          <p style={block}>Ce site utilise des cookies strictement nécessaires et des cookies analytiques :</p>
+          <p style={block}>Ce site utilise des cookies strictement nécessaires et, avec votre accord, une mesure d&rsquo;audience. Rien de non essentiel n&rsquo;est chargé avant votre choix dans le bandeau cookies :</p>
           <ul style={list}>
             <li><strong style={strong}>Vercel Analytics :</strong> mesure d&rsquo;audience anonymisée, sans tracking publicitaire.</li>
             <li><strong style={strong}>Session CMS :</strong> cookie de session pour l&rsquo;interface d&rsquo;administration, le cas échéant.</li>
           </ul>
+        </section>
+
+        <section style={{ marginBottom: 36 }}>
+          <h2 style={h2}>Base légale et consentement</h2>
+          <p style={block}>La mesure d&rsquo;audience repose sur votre consentement (article 6.1.a du RGPD) : Vercel Analytics ne se charge qu&rsquo;après un clic sur « Accepter ». Les cookies strictement nécessaires et le traitement des demandes de contact reposent sur notre intérêt légitime à faire fonctionner le site et à vous répondre (article 6.1.f).</p>
+          <p style={{ ...block, marginTop: 12 }}>Vous pouvez retirer ou modifier votre consentement à tout moment, sans justification. Le retrait ne remet pas en cause les mesures faites avant.</p>
+          <CookieSettingsButton label="Gérer mes cookies" />
         </section>
 
         <section style={{ marginBottom: 36 }}>
@@ -68,6 +76,7 @@ export default function ConfidentialitePage() {
             <li>Droit de suppression de vos données</li>
             <li>Droit d&rsquo;opposition au traitement</li>
             <li>Droit à la portabilité de vos données</li>
+            <li>Droit de retirer votre consentement à tout moment</li>
           </ul>
           <p style={{ ...block, marginTop: 12 }}>Pour exercer ces droits, contactez-nous à l&rsquo;adresse e-mail indiquée ci-dessus. Vous pouvez également introduire une réclamation auprès de l&rsquo;Autorité de protection des données (APD/GBA) en Belgique.</p>
         </section>
