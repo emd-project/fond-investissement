@@ -214,6 +214,12 @@ export type NicheConfig = {
       categories?: Record<string, string>
       ctaPrimary?: { text?: string }
       ctaSecondary?: { text?: string }
+      /**
+       * Persona auteur dans la locale : seuls `title` et `bio` se traduisent.
+       * Le NOM et le SLUG restent ceux de la base (une seule personne, une seule URL
+       * par locale). Lire via `authorL(locale)` (lib/niche-l10n.ts).
+       */
+      author?: { title?: string; bio?: string }
     }
   }
 
@@ -380,6 +386,10 @@ export const niche: NicheConfig = {
       },
       ctaPrimary: { text: 'See the ranking →' },
       ctaSecondary: { text: 'Compare the funds' },
+      author: {
+        title: 'Former corporate credit analyst, SME funding in Wallonia and Brussels',
+        bio: "From 2009 to 2017, Cédric spent eight years in the corporate lending department of a Belgian bank in Namur, on the side that turns files down and writes the covenants. He then became financial controller at an industrial SME in Hainaut just as a provincial invest took a stake in its capital. Based in Gembloux, he rereads the terms published by Walloon and Brussels funds and invests every month.",
+      },
     },
   },
 

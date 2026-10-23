@@ -6,6 +6,7 @@ import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { AuthorCard } from '@/components/ui/AuthorCard'
 import { niche } from '@/niche.config'
+import { authorL } from '@/lib/niche-l10n'
 
 export const revalidate = 86400
 
@@ -20,15 +21,17 @@ function metaDescription(bio: string): string {
 }
 
 function getAuthors(): Record<string, AuthorData> {
-  if (!niche.author.slug) return {}
+  // Titre + bio EN (niche.localized.en.author), repli FR si absents.
+  const a = authorL('en')
+  if (!a.slug) return {}
   return {
-    [niche.author.slug]: {
-      slug: niche.author.slug,
-      name: niche.author.name,
-      role: niche.author.title,
-      bio: niche.author.bio,
-      longBio: [niche.author.bio],
-      url: `${SITE_URL}/en/auteurs/${niche.author.slug}`,
+    [a.slug]: {
+      slug: a.slug,
+      name: a.name,
+      role: a.title,
+      bio: a.bio,
+      longBio: [a.bio],
+      url: `${SITE_URL}/en/auteurs/${a.slug}`,
     },
   }
 }

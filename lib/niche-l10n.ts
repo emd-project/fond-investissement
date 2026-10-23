@@ -120,3 +120,18 @@ export function categoryLabelsL(locale: string): Record<string, string> {
   for (const c of niche.categories) map[c.slug] = categoryLabelL(locale, c.slug)
   return map
 }
+
+/**
+ * Persona auteur dans une locale. `name` et `slug` viennent TOUJOURS de la base ;
+ * `title` et `bio` prennent la surcharge `localized[locale].author` si elle est non
+ * vide, sinon la base (repli silencieux, comme le reste du module).
+ */
+export function authorL(locale: string): { name: string; slug: string; title: string; bio: string } {
+  const o = overrides(locale)?.author
+  return {
+    name: niche.author.name,
+    slug: niche.author.slug,
+    title: nonEmpty(o?.title) ?? niche.author.title,
+    bio: nonEmpty(o?.bio) ?? niche.author.bio,
+  }
+}

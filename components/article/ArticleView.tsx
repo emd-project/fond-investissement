@@ -27,7 +27,7 @@ import { type ArticleMeta } from '@/lib/blog'
 import { articleHrefL, formatDateL } from '@/lib/blog-l10n'
 import { extractHeadings, slugify, type TocItem } from '@/lib/utils/headings'
 import { niche, localePath } from '@/niche.config'
-import { categoryLabelL } from '@/lib/niche-l10n'
+import { categoryLabelL, authorL } from '@/lib/niche-l10n'
 import { tl } from '@/lib/i18n'
 import { resolveArticleVariant, type ArticleVariant } from '@/lib/variants'
 import { AISummarize } from '@/components/blog/AISummarize'
@@ -84,6 +84,8 @@ export async function ArticleView({
   const base = lp(`/blog/${categorie}/${slug}`)
   const url = `${SITE_URL}${base}`
   const authorName = niche.author.name || (isEn ? 'Author' : 'Auteur')
+  // Titre + bio dans la locale de l'article (repli FR) ; lien vers la page auteur de la même locale.
+  const author = authorL(locale)
 
   const { content: mdxContent } = await compileMDX({
     source: processShortcodes(content),
@@ -145,9 +147,9 @@ export async function ArticleView({
       url,
       author: {
         '@type': 'Person', name: authorName,
-        ...(niche.author.title ? { jobTitle: niche.author.title } : {}),
-        ...(niche.author.slug ? { url: `${SITE_URL}/auteurs/${niche.author.slug}` } : {}),
-        ...(niche.author.bio ? { description: niche.author.bio } : {}),
+        ...(author.title ? { jobTitle: author.title } : {}),
+        ...(author.slug ? { url: `${SITE_URL}${lp(`/auteurs/${author.slug}`)}` } : {}),
+        ...(author.bio ? { description: author.bio } : {}),
       },
       publisher: { '@type': 'Organization', name: niche.siteName, url: SITE_URL },
     },
@@ -262,7 +264,7 @@ export async function ArticleView({
                   <AuthorCard
                     authorSlug={niche.author.slug || 'auteur'}
                     authorName={authorName}
-                    bio={niche.author.bio || ''}
+                    bio={author.bio || ''}
                     variant="inline"
                     locale={locale}
                   />

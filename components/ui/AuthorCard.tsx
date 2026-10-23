@@ -14,7 +14,7 @@
 import Link from 'next/link'
 import Image from 'next/image'
 import { tl } from '@/lib/i18n'
-import { niche } from '@/niche.config'
+import { niche, localePath } from '@/niche.config'
 import { getAuthorImage } from '@/lib/image-slots'
 
 type AuthorCardVariant = 'inline' | 'full'
@@ -70,6 +70,7 @@ export function AuthorCard({
   const size = isInline ? 44 : 64
 
   const portrait = authorSlug === niche.author.slug ? getAuthorImage() : undefined
+  const authorHref = localePath(locale, `/auteurs/${authorSlug}`)
 
   return (
     <div
@@ -102,7 +103,7 @@ export function AuthorCard({
       <div style={{ flex: 1, minWidth: 0 }}>
         <div style={{ marginBottom: 'var(--space-1)' }}>
           <Link
-            href={`/auteurs/${authorSlug}`}
+            href={authorHref}
             style={{
               fontFamily: 'var(--next-font-display), system-ui, sans-serif',
               fontWeight: 700,
@@ -121,7 +122,7 @@ export function AuthorCard({
 
         {!isInline && (
           <Link
-            href={`/auteurs/${authorSlug}`}
+            href={authorHref}
             style={{
               display: 'inline-block',
               marginTop: 'var(--space-4)',

@@ -1,13 +1,14 @@
 /**
  * AuthorByline — byline éditorial textuel, zéro photo.
  * Format : "Par [Auteur] · 5 min · 23 mars 2026"
- * Lien vers /auteurs/[authorSlug].
+ * Lien vers /auteurs/[authorSlug], préfixé par la locale (/en/auteurs/… en EN).
  * Server Component — rendu côté serveur, indexable.
  * `onDark` : variante texte clair pour pose sur un hero sombre (lisibilité).
  */
 
 import Link from 'next/link'
 import { tl } from '@/lib/i18n'
+import { localePath } from '@/niche.config'
 
 type AuthorBylineProps = {
   authorSlug: string
@@ -53,7 +54,7 @@ export function AuthorByline({
     >
       <span>{tl(locale, 'article.by')}</span>
       <Link
-        href={`/auteurs/${authorSlug}`}
+        href={localePath(locale, `/auteurs/${authorSlug}`)}
         style={{
           color: onDark ? '#fff' : 'var(--text-primary)',
           fontWeight: 700,
