@@ -1,5 +1,21 @@
 # PROGRESS — fonds-investissement.be
 
+## 2026-10-23 — Article : dette mezzanine (tâche planifiée, run 2)
+
+- **Règle 0bis** : dernier classement publié le 20/10 (moins de 7 jours) → article normal. Prochain classement éligible à partir du 27/10.
+- **Pilier traité** : 3 · L'instrument → cat. `fonds-propres-ou-dette` (4 → 5 articles). Run précédent : pilier 5, `start-up-et-scale-up`.
+- **Forme** : réponse rapide (6/7 H2 en question) · **FAQ : 7 questions** · **TL;DR : 6 puces** (précédent : guide pratique, FAQ 6, TL;DR 5 ; avant : décryptage). Tableaux : calcul de coût, acteurs relevés, « cas → que faire ». Liste à puces hors TL;DR : 4 points à faire écrire sur le kicker.
+- **Slugs** : FR `/blog/fonds-propres-ou-dette/dette-mezzanine` · EN `/en/blog/fonds-propres-ou-dette/mezzanine-debt` · mapping ajouté dans `lib/i18n/article-slugs.ts`. Entrée `financement-mezzanine` du plan renommée `dette-mezzanine` et passée en `published`.
+- **Seeds Cuik** (BE 2056 puis FR 2250, language 1002) : `crowdfunding entreprise belgique`, `crowdlending pme`, `prêt convertible`, `financement mezzanine`, `prêt participatif`. Requête retenue : `dette mezzanine` / `capital mezzanine` (la plus forte de la grappe en BE et en FR). `crowdfunding entreprise belgique` et `crowdlending pme` : 0 en BE comme en FR (à re-miner avec d'autres formulations avant d'écrire l'entrée du plan).
+- **Grappe couverte** : dette mezzanine · financement mezzanine (définition) · capital mezzanine · fonds mezzanine · equity kicker mezzanine · dette unitranche vs mezzanine · mezzanine LBO / PME (H2 + FAQ).
+- **SERP** : Google.be tenu par unquote (EN), France Épargne, pages françaises de définition ; aucune page ne chiffre le coût total (cash + PIK + kicker) face au prêt subordonné public belge. Différenciateur : calcul sur 1 M€ / 6 ans (mezzanine 15,7 % pour le prêteur, ≈ 1,13 M€ de coût ; prêt subordonné WE ≈ 131 000 € ; fonds à 20 % = 1 M€), tableau des acteurs belges avec date de relevé, lecture par région (PMV / WE + invests + ORSA / finance&invest.brussels).
+- **Acteurs cités** : Mezzanine Partners (PMV + Capital@rent ; FSMA), Muzinich, Kartesia (P. Van De Velde, 2021), Wallonie Entreprendre, ORSA (Smart Bond, relevé du 15/10), Invest.BW (relevé du 15/10), finance&invest.brussels.
+- **Liens d'autorité (dofollow)** : guichet.public.lu, kmu.admin.ch (SECO), fiche prêt subordonné Wallonie Entreprendre, FSMA (Mezzanine Partners 2). Aucun lien produit.
+- **Mots (corps hors tableaux)** : FR ≈ 1 120 · EN ≈ 1 100.
+- **Image** : cover générée (v2 ; la v1 portait du pseudo-texte « LOAN AGREEMENT », rejetée), convertie en WebP 1280×720. In-content : couverture de catégorie réutilisée.
+- **Plan réalimenté** : 7 entrées non publiées après ce run → 6 entrées `planned` ajoutées (sortie forcée, droit de veto, garantie Wallonie Entreprendre, vocabulaire de la valorisation, donation d'entreprise par région, family office).
+- **À vérifier** : orsafund.be et investbw.be non rouverts ce run (autorisation de fetch restée sans réponse) : conditions reprises du relevé du 15/10/2026, datées comme telles dans l'article. Taux de Mezzanine Partners et Muzinich non publiés.
+
 ## 2026-10-22 — Article : stock options et warrants (tâche planifiée, run 1)
 
 - **Règle 0bis** : classement seed publié le 20/10 (moins de 7 jours) → article normal, pas de classement ce run. Prochain classement éligible à partir du 27/10 (`invests-wallons` ou le plus prioritaire des 4 `planned`).

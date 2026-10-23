@@ -45,6 +45,7 @@ export const articleSlugFrToEn: Record<string, string> = {
   'invests-wallons': 'walloon-invests',
   'financer-son-entreprise-a-bruxelles': 'financing-a-business-in-brussels',
   'stock-options-et-warrants-en-belgique': 'stock-options-and-warrants-belgium',
+  'dette-mezzanine': 'mezzanine-debt',
 }
 
 /** Réciproque EN → FR (dérivée automatiquement). */

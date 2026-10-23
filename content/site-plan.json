@@ -1096,25 +1096,41 @@
       ]
     },
     {
-      "slug": "financement-mezzanine",
+      "slug": "dette-mezzanine",
       "categorie": "fonds-propres-ou-dette",
       "cluster": "c-instruments",
       "type": "info",
       "owns": [
+        "dette mezzanine",
         "financement mezzanine",
-        "dette mezzanine"
+        "capital mezzanine",
+        "fonds mezzanine",
+        "equity kicker mezzanine",
+        "dette unitranche vs mezzanine"
       ],
       "questions": [
-        "Qu'est-ce que la mezzanine ?",
-        "Combien coûte-t-elle par rapport à un crédit bancaire ?"
+        "Qu'est-ce que la dette mezzanine ?",
+        "Combien coûte une mezzanine par rapport à un crédit bancaire ?",
+        "Qu'est-ce que l'equity kicker ?",
+        "Qui prête en mezzanine en Belgique ?",
+        "Mezzanine ou unitranche ?"
       ],
-      "status": "planned",
+      "status": "published",
       "priority": 3,
       "persona": "PME en croissance",
       "brands": [
-        "Gimv",
-        "Wallonie Entreprendre"
-      ]
+        "Mezzanine Partners",
+        "PMV",
+        "Wallonie Entreprendre",
+        "ORSA",
+        "Invest.BW",
+        "finance&invest.brussels",
+        "Muzinich",
+        "Kartesia"
+      ],
+      "localizedPaths": {
+        "en": "/en/blog/fonds-propres-ou-dette/mezzanine-debt"
+      }
     },
     {
       "slug": "crowdfunding-entreprise-belgique",
@@ -1237,6 +1253,133 @@
       "persona": "PME industrielle",
       "brands": [
         "BeAngels"
+      ]
+    },
+    {
+      "slug": "un-fonds-peut-il-me-forcer-a-vendre",
+      "categorie": "lever-des-fonds",
+      "cluster": "c-lever",
+      "type": "question",
+      "owns": [
+        "un fonds peut-il me forcer à vendre",
+        "clause drag along pme"
+      ],
+      "questions": [
+        "Un fonds peut-il me forcer à vendre mes parts ?",
+        "Dans quels cas la sortie forcée joue-t-elle ?"
+      ],
+      "status": "planned",
+      "priority": 3,
+      "persona": "dirigeant de PME",
+      "brands": [
+        "ORSA",
+        "Noshaq"
+      ]
+    },
+    {
+      "slug": "le-fonds-a-t-il-un-droit-de-veto",
+      "categorie": "lever-des-fonds",
+      "cluster": "c-lever",
+      "type": "question",
+      "owns": [
+        "droit de veto actionnaire minoritaire",
+        "majorité spéciale convention d'actionnaires"
+      ],
+      "questions": [
+        "Le fonds a-t-il un droit de veto ?",
+        "Sur quelles décisions un minoritaire peut-il bloquer ?"
+      ],
+      "status": "planned",
+      "priority": 3,
+      "persona": "dirigeant de PME",
+      "brands": [
+        "Sambrinvest",
+        "Invest.BW"
+      ]
+    },
+    {
+      "slug": "garantie-wallonie-entreprendre",
+      "categorie": "fonds-propres-ou-dette",
+      "cluster": "c-instruments",
+      "type": "pratique",
+      "owns": [
+        "garantie wallonie entreprendre",
+        "garantie bancaire pme wallonie"
+      ],
+      "questions": [
+        "Comment obtenir la garantie de Wallonie Entreprendre ?",
+        "Combien coûte la garantie ?"
+      ],
+      "status": "planned",
+      "priority": 3,
+      "persona": "dirigeant de PME",
+      "brands": [
+        "Wallonie Entreprendre",
+        "Belfius",
+        "BNP Paribas Fortis"
+      ]
+    },
+    {
+      "slug": "vocabulaire-de-la-valorisation",
+      "categorie": "comprendre-les-fonds",
+      "cluster": "c-comprendre",
+      "type": "info",
+      "owns": [
+        "valeur d'entreprise dette nette",
+        "multiple d'ebitda pme"
+      ],
+      "questions": [
+        "Valeur d'entreprise ou valeur des actions ?",
+        "Quel multiple d'EBITDA pour une PME belge ?"
+      ],
+      "status": "planned",
+      "priority": 3,
+      "persona": "cédant de PME",
+      "brands": [
+        "Gimv",
+        "ORSA"
+      ]
+    },
+    {
+      "slug": "donation-entreprise-wallonie-bruxelles",
+      "categorie": "reprise-et-transmission",
+      "cluster": "c-reprise",
+      "type": "info",
+      "owns": [
+        "donation entreprise wallonie",
+        "transmission familiale pme"
+      ],
+      "questions": [
+        "Combien coûte la donation d'une entreprise en Wallonie ?",
+        "Et à Bruxelles ou en Flandre ?"
+      ],
+      "status": "planned",
+      "priority": 3,
+      "persona": "cédant de PME",
+      "brands": [
+        "SPF Finances",
+        "Sowaccess"
+      ]
+    },
+    {
+      "slug": "family-office-belgique",
+      "categorie": "comprendre-les-fonds",
+      "cluster": "c-comprendre",
+      "type": "face-a-face",
+      "owns": [
+        "family office belgique",
+        "family office ou fonds d'investissement"
+      ],
+      "questions": [
+        "Family office ou fonds : qui reste le plus longtemps ?",
+        "Quels family offices investissent dans les PME wallonnes ?"
+      ],
+      "status": "planned",
+      "priority": 3,
+      "persona": "dirigeant de PME",
+      "brands": [
+        "Sofina",
+        "ORSA"
       ]
     }
   ],
