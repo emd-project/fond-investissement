@@ -1133,6 +1133,36 @@
       }
     },
     {
+      "slug": "rachat-de-parts-sociales-du-fonds",
+      "categorie": "lever-des-fonds",
+      "cluster": "c-lever",
+      "type": "question",
+      "owns": [
+        "rachat de parts sociales",
+        "rachat de parts sociales par la société elle-même",
+        "rachat de parts sociales par une holding",
+        "financement rachat de parts sociales",
+        "racheter les parts d'un associé (fonds)"
+      ],
+      "questions": [
+        "Puis-je racheter les parts du fonds ?",
+        "La société peut-elle racheter ses propres parts ?",
+        "À quel prix le fonds vend-il ?",
+        "Le fonds peut-il m'obliger à racheter ses parts ?"
+      ],
+      "status": "published",
+      "priority": 3,
+      "persona": "dirigeant de PME",
+      "brands": [
+        "ORSA",
+        "Invest.BW",
+        "Theodorus"
+      ],
+      "localizedPaths": {
+        "en": "/en/blog/lever-des-fonds/buying-back-the-funds-shares"
+      }
+    },
+    {
       "slug": "crowdfunding-entreprise-belgique",
       "categorie": "fonds-propres-ou-dette",
       "cluster": "c-instruments",

@@ -1,5 +1,23 @@
 # PROGRESS — fonds-investissement.be
 
+## 2026-10-26 — Article : rachat des parts du fonds (tâche planifiée, run 3)
+
+- **Règle 0bis** : dernier classement publié le 20/10 (6 jours) → article normal. Prochain classement éligible au prochain run (≥ 27/10).
+- **Pilier traité** : 8 · Questions pures (vide jusqu'ici) → cat. `lever-des-fonds` (10 → 11 articles). Run précédent : pilier 3, `fonds-propres-ou-dette` ; avant : pilier 5, `start-up-et-scale-up`. Les deux entrées « question » du plan (`un-fonds-peut-il-me-forcer-a-vendre`, `le-fonds-a-t-il-un-droit-de-veto`) écartées pour ce run : trop recouvrantes avec `clauses-de-sortie-tag-drag-leaver` et `le-fonds-au-capital` (doublon de traitement) ; elles restent `planned`, à reprendre sous un angle neuf.
+- **Forme** : face-à-face (trois voies de rachat comparées, tableau central ; 4/8 H2 en question) · **FAQ : 5 questions** · **TL;DR : 4 puces** (précédents : réponse rapide FAQ 7 / TL;DR 6 ; guide pratique FAQ 6 / TL;DR 5). Liste à puces hors TL;DR : conditions du rachat d'actions propres (CSA) + 5 clauses à écrire à l'entrée.
+- **Slugs** : FR `/blog/lever-des-fonds/rachat-de-parts-sociales-du-fonds` · EN `/en/blog/lever-des-fonds/buying-back-the-funds-shares` · mapping ajouté dans `lib/i18n/article-slugs.ts` · entrée `published` ajoutée à `content/site-plan.json`.
+- **Seeds Cuik** (BE 2056 puis FR 2250, language 1002) : `racheter les parts d'un associé`, `rachat d'actions propres srl`, `sortie d'un investisseur`, `rachat de parts sociales`, `droit de veto actionnaire`. Requête retenue : `rachat de parts sociales` (la plus forte de la grappe hors SCI). `droit de veto actionnaire`, `sortie d'un investisseur`, `rachat d'actions propres srl` : 0 en BE comme en FR.
+- **Grappe couverte** : rachat de parts sociales · rachat de parts sociales par la société elle-même · rachat de parts sociales par une holding · financement rachat de parts sociales · réduction de capital par rachat (annulation) · rachat forcé / obligation de rachat (FAQ put) · racheter les parts d'un associé.
+- **SERP** : Google.be tenu par des pages françaises (LegalPlace, Legalstart, LegalVision, JDN, swim.legal) sur la SARL/SAS ; rien sur le CSA belge ni sur la sortie d'un fonds. Différenciateur : cas chiffré 600 000 € pour 30 % → 1,5 M€ après 7 ans ; voie personnelle ≈ 3,06 M€ distribués (précompte 30 %, fonds servi à 30 %) ; holding 1,5 M€ sur 7 ans à 5 % (hypothèse) = 259 230 €/an, 864 100 € à distribuer si la holding ne détient que 30 % ; plancher de TRI 12 % = 1,33 M€ contre 1,05 M€ de valeur (+26 %), 10 % = 1,17 M€.
+- **Acteurs cités** (relevé du 15/10/2026, ticket + instrument + zone) : ORSA, Invest.BW, Theodorus ; PMV signalé hors relevé. ORSA cité factuellement (evergreen, conditions de rachat non publiées).
+- **Liens d'autorité (dofollow)** : CSA sur ejustice, Baker Tilly Belgique (rachat d'actions propres, seuil fiscal 20 %), OECCBB (A. Haelterman, boni de rachat et régime plus-values 2026). Aucun lien produit.
+- **Maillage** : clauses de sortie, OBO, valoriser une PME, classement, comparateur (FR et EN).
+- **Mots (corps, tableaux compris)** : FR ≈ 1 580 · EN ≈ 1 490.
+- **Image** : cover générée (v1, sans texte lisible), WebP 1280×720 ; source déposée sur la branche `img-staging`. In-content : couverture de catégorie réutilisée.
+- **Plan** : 13 entrées non publiées → pas de réalimentation.
+- **Vérifs** : `tsc` ✓ · `vitest` ✓ (119 passés, 7 sautés) · compilation MDX FR + EN ✓ · zéro tiret cadratin / demi-cadratin · aucune amorce « Ce que / Ce qui ».
+- **À vérifier** : orsafund.be, investbw.be et theodorus.be non rouverts (autorisation de fetch restée sans réponse) : conditions reprises du relevé du 15/10/2026, datées comme telles. Traitement fiscal du boni de rachat côté fonds vendeur non chiffré (renvoyé à l'expert-comptable / ruling).
+
 ## 2026-10-23 — Article : dette mezzanine (tâche planifiée, run 2)
 
 - **Règle 0bis** : dernier classement publié le 20/10 (moins de 7 jours) → article normal. Prochain classement éligible à partir du 27/10.
