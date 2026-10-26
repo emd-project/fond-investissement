@@ -37,7 +37,8 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
   }
 
   return {
-    title: `${meta.title} | ${niche.siteName}`,
+    // ≤ 60 caractères : le suffixe de marque n'est ajouté que s'il tient.
+    title: `${meta.title} | ${niche.siteName}`.length <= 60 ? `${meta.title} | ${niche.siteName}` : meta.title,
     description: meta.description,
     alternates: {
       canonical: `${SITE_URL}/en/blog/${categorie}/${slug}`,

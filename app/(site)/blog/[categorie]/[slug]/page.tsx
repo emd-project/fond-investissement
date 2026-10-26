@@ -36,7 +36,8 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
   // Titre : libellé de l'article + marque. PAS d'année ajoutée ici (l'année
   // éventuelle vit dans le H1/contenu via currentYear()) → évite "2026 2026".
   return {
-    title: `${meta.title} | ${niche.siteName}`,
+    // ≤ 60 caractères : le suffixe de marque n'est ajouté que s'il tient.
+    title: `${meta.title} | ${niche.siteName}`.length <= 60 ? `${meta.title} | ${niche.siteName}` : meta.title,
     description: meta.description,
     alternates: {
       canonical: `${SITE_URL}/blog/${categorie}/${slug}`,

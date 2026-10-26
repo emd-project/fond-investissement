@@ -27,6 +27,7 @@ import { type ArticleMeta } from '@/lib/blog'
 import { articleHrefL, formatDateL } from '@/lib/blog-l10n'
 import { extractHeadings, slugify, type TocItem } from '@/lib/utils/headings'
 import { niche, localePath } from '@/niche.config'
+import { PRODUIT_SLUGS } from '@/lib/comparateur'
 import { categoryLabelL, authorL } from '@/lib/niche-l10n'
 import { tl } from '@/lib/i18n'
 import { resolveArticleVariant, type ArticleVariant } from '@/lib/variants'
@@ -110,6 +111,15 @@ export async function ArticleView({
   const catLabel = categoryLabelL(locale, categorie)
   const catCls = `c${CAT_INDEX[categorie] ?? 1}`
   const hasHeroImage = Boolean(meta.featureImage)
+  // Sidebar : même garde-fou anti-lien-mort que ToolCTA. `/comparer/[produit]` n'existe
+  // que pour PRODUIT_SLUGS (clés de comparateurs.json), pas pour les slugs de catégorie.
+  const tocToolHref = lp(PRODUIT_SLUGS.includes(categorie) ? `/comparer/${categorie}` : '/comparer')
+  // JSON-LD : BCP 47 avec la région du marché (fr-BE / en-BE) ; image absolue.
+  const inLanguage = niche.market ? `${locale}-${niche.market}` : locale
+  const imageUrl = meta.featureImage
+    ? (meta.featureImage.startsWith('http') ? meta.featureImage : `${SITE_URL}${meta.featureImage}`)
+    : undefined
+  const hasSummary = Boolean(meta.aiSummary && meta.aiSummary.length > 0)
 
   const tocItems: TocItem[] = [
     ...(meta.aiSummary && meta.aiSummary.length > 0 ? [{ id: 'en-bref', text: tl(locale, 'sidebar.tocSummary'), level: 2 } as TocItem] : []),
@@ -143,8 +153,10 @@ export async function ArticleView({
       '@context': 'https://schema.org', '@type': 'Article',
       headline: meta.title, description: meta.description,
       datePublished: meta.publishedAt, dateModified: meta.updatedAt ?? meta.publishedAt,
-      inLanguage: locale,
+      inLanguage,
       url,
+      ...(imageUrl ? { image: imageUrl } : {}),
+      ...(hasSummary ? { speakable: { '@type': 'SpeakableSpecification', cssSelector: ['#en-bref'] } } : {}),
       author: {
         '@type': 'Person', name: authorName,
         ...(author.title ? { jobTitle: author.title } : {}),
@@ -221,7 +233,7 @@ export async function ArticleView({
                 {niche.comparator.enabled && !isEn && (
                   <div className="toc-cta">
                     <p>{tl(locale, 'sidebar.toolPromo', { label: catLabel })}</p>
-                    <Link href={lp(`/comparer/${categorie}`)} className="btn btn-accent">{tl(locale, 'sidebar.toolPromoCta')}</Link>
+                    <Link href={tocToolHref} className="btn btn-accent">{tl(locale, 'sidebar.toolPromoCta')}</Link>
                   </div>
                 )}
               </aside>
