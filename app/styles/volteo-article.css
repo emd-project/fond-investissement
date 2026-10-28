@@ -29,6 +29,9 @@
 .toc .sidebar-toc-link:hover { color: var(--ink); }
 
 @media (max-width: 980px) {
-  .art-wrap { grid-template-columns: 1fr; gap: 0; }
+  /* minmax(0, 1fr) et non 1fr : un tableau large (wrappé en .table-scroll-wrap) élargissait
+     la colonne au-delà de l'écran et le texte était rogné sur mobile (emd-fix-ux 2026-10-28). */
+  .art-wrap { grid-template-columns: minmax(0, 1fr); gap: 0; }
+  .art-wrap > * { min-width: 0; }
   .toc { display: none; }
 }
