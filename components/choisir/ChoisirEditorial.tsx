@@ -148,7 +148,7 @@ export function ChoisirEditorial({ content, produit, publishedAt }: Props) {
                             fontWeight: 600,
                             color: 'var(--accent-2)',
                             textDecoration: 'none',
-                            borderBottom: '1px solid rgba(255,210,63,0.35)',
+                            borderBottom: '1px solid color-mix(in srgb, var(--accent-2) 35%, transparent)',
                             paddingBottom: '1px',
                           }}
                         >
@@ -206,7 +206,7 @@ export function ChoisirEditorial({ content, produit, publishedAt }: Props) {
                 fontWeight: 600,
                 color: 'var(--accent-1)',
                 textDecoration: 'none',
-                borderBottom: '1px solid rgba(255,61,87,0.35)',
+                borderBottom: '1px solid color-mix(in srgb, var(--accent-1) 35%, transparent)',
                 paddingBottom: '2px',
               }}
             >
