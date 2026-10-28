@@ -23,6 +23,7 @@ import { compileMDX } from 'next-mdx-remote/rsc'
 import remarkGfm from 'remark-gfm'
 import type { ComponentProps, ReactNode } from 'react'
 import { processShortcodes } from '@/lib/content/shortcodes'
+import { applyInBodyImages } from '@/lib/content/inbody-images'
 import { type ArticleMeta } from '@/lib/blog'
 import { articleHrefL, formatDateL } from '@/lib/blog-l10n'
 import { extractHeadings, slugify, type TocItem } from '@/lib/utils/headings'
@@ -89,7 +90,7 @@ export async function ArticleView({
   const author = authorL(locale)
 
   const { content: mdxContent } = await compileMDX({
-    source: processShortcodes(content),
+    source: processShortcodes(applyInBodyImages(content, locale, slug)),
     options: { mdxOptions: { remarkPlugins: [remarkGfm] } },
     components: {
       Tip,
