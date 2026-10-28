@@ -9,6 +9,8 @@ import { niche } from '@/niche.config'
 
 export const revalidate = 86400
 
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? `https://www.${niche.domain}`
+
 type AuthorData = { slug: string; name: string; role: string; bio: string; longBio: string[]; url: string }
 
 /** Description SEO = bio tronquée à ~155 car. (au mot près), jamais la bio entière. */
@@ -26,7 +28,7 @@ function getAuthors(): Record<string, AuthorData> {
       role: niche.author.title,
       bio: niche.author.bio,
       longBio: [niche.author.bio],
-      url: `https://www.${niche.domain}/auteurs/${niche.author.slug}`,
+      url: `${SITE_URL}/auteurs/${niche.author.slug}`,
     },
   }
 }
@@ -43,7 +45,14 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: `${author.name} — ${author.role} | ${niche.siteName}`,
     description,
-    alternates: { canonical: author.url },
+    alternates: {
+      canonical: author.url,
+      languages: {
+        fr: author.url,
+        en: `${SITE_URL}/en/auteurs/${slug}`,
+        'x-default': author.url,
+      },
+    },
     openGraph: { title: `${author.name} — ${author.role}`, description, url: author.url, siteName: niche.siteName, type: 'profile' },
   }
 }
@@ -57,7 +66,7 @@ export default async function AuthorPage({ params }: { params: Promise<{ slug: s
   const jsonLd = {
     '@context': 'https://schema.org', '@type': 'Person',
     name: author.name, url: author.url, jobTitle: author.role, description: author.bio,
-    worksFor: { '@type': 'Organization', name: niche.siteName, url: `https://www.${niche.domain}` },
+    worksFor: { '@type': 'Organization', name: niche.siteName, url: SITE_URL },
   }
 
   return (

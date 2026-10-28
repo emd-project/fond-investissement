@@ -41,7 +41,14 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
   return {
     title: `Comparateur ${label} ${year} — quel modèle choisir ? | ${niche.siteName}`,
     description: data.description,
-    alternates: { canonical: `${SITE_URL}/comparer/${produit}` },
+    alternates: {
+      canonical: `${SITE_URL}/comparer/${produit}`,
+      languages: {
+        fr: `${SITE_URL}/comparer/${produit}`,
+        en: `${SITE_URL}/en/comparer/${produit}`,
+        'x-default': `${SITE_URL}/comparer/${produit}`,
+      },
+    },
     openGraph: { title: `Comparateur ${label} ${year}`, description: data.description, url: `${SITE_URL}/comparer/${produit}`, siteName: niche.siteName, type: 'website' },
   }
 }

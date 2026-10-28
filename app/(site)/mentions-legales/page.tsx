@@ -9,10 +9,20 @@ import Link from 'next/link'
 import type { Metadata } from 'next'
 import { niche } from '@/niche.config'
 
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? `https://www.${niche.domain}`
+
 export const metadata: Metadata = {
   title: `Mentions légales | ${niche.siteName}`,
   description: `Mentions légales du site ${niche.siteName}.`,
   robots: { index: false, follow: false },
+  alternates: {
+    canonical: `${SITE_URL}/mentions-legales`,
+    languages: {
+      fr: `${SITE_URL}/mentions-legales`,
+      en: `${SITE_URL}/en/legal-notice`,
+      'x-default': `${SITE_URL}/mentions-legales`,
+    },
+  },
 }
 
 const h2 = { fontFamily: 'var(--font-display)', fontSize: '20px', fontWeight: 700, color: 'var(--ink)', margin: '0 0 14px' } as const

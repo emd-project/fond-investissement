@@ -19,7 +19,14 @@ export function generateMetadata(): Metadata {
   return {
     title: `Comparateur ${year} | ${niche.siteName}`,
     description: `Comparez ${tousLes(niche.entityGender, true)} ${niche.entities} côte à côte. Données à jour, sourcées et neutres.`,
-    alternates: { canonical: `${SITE_URL}/comparer` },
+    alternates: {
+      canonical: `${SITE_URL}/comparer`,
+      languages: {
+        fr: `${SITE_URL}/comparer`,
+        en: `${SITE_URL}/en/comparer`,
+        'x-default': `${SITE_URL}/comparer`,
+      },
+    },
     openGraph: { title: `Comparateur ${year}`, description: `Tous les comparateurs ${niche.entities} en un endroit.`, url: `${SITE_URL}/comparer`, siteName: niche.siteName, type: 'website' },
   }
 }

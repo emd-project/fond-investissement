@@ -8,10 +8,20 @@ import type { Metadata } from 'next'
 import { niche } from '@/niche.config'
 import { CookieSettingsButton } from '@/components/layout/CookieConsent'
 
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? `https://www.${niche.domain}`
+
 export const metadata: Metadata = {
   title: `Politique de confidentialité | ${niche.siteName}`,
   description: `Politique de confidentialité du site ${niche.siteName}.`,
   robots: { index: false, follow: false },
+  alternates: {
+    canonical: `${SITE_URL}/confidentialite`,
+    languages: {
+      fr: `${SITE_URL}/confidentialite`,
+      en: `${SITE_URL}/en/privacy`,
+      'x-default': `${SITE_URL}/confidentialite`,
+    },
+  },
 }
 
 const h2 = { fontFamily: 'var(--font-display)', fontSize: '20px', fontWeight: 700, color: 'var(--ink)', margin: '0 0 14px' } as const

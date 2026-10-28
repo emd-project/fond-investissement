@@ -50,7 +50,7 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
       url: `${SITE_URL}/en/blog/${categorie}/${slug}`,
       siteName: niche.siteName,
       type: 'article',
-      locale: 'en',
+      locale: 'en_BE',
       publishedTime: meta.publishedAt,
       modifiedTime: meta.updatedAt ?? meta.publishedAt,
       ...(niche.author.name ? { authors: [niche.author.name] } : {}),

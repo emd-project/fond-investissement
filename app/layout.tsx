@@ -78,18 +78,14 @@ export const metadata: Metadata = {
     follow: true,
     googleBot: { index: true, follow: true },
   },
-  alternates: {
-    canonical: '/',
-    ...(niche.locales.length > 1 ? {
-      languages: Object.fromEntries(
-        niche.locales.map((locale) => [locale, `https://www.${niche.domain}/${locale === niche.defaultLocale ? '' : locale}`])
-      ),
-    } : {}),
-  },
+  // Pas d'`alternates` ici (emd-fix-tech 2026-10-28) : un canonical '/' et des
+  // hreflang en dur (sans SITE_URL ni x-default) étaient hérités par toute page
+  // sans `alternates` propre. Chaque page déclare désormais ses canonical/hreflang.
+  // Twitter : seulement le type de carte. Sans title/description ici, Next remplit
+  // twitter:title/description/image depuis l'`openGraph` de CHAQUE page (avant :
+  // le titre de la home était hérité sur les 68 articles).
   twitter: {
     card: 'summary_large_image',
-    title: HOME_TITLE,
-    description: niche.tagline,
   },
 }
 
