@@ -128,5 +128,152 @@
         }
       }
     ]
+  },
+  "invests-wallons": {
+    "tldr": [
+      "Votre siège d'exploitation désigne votre invest : neuf zones, neuf interlocuteurs, et ORSA qui couvre toute la Wallonie.",
+      "Sous 100 000 €, regardez Wapinvest (seuil publié de 15 000 €) ou l'invest de votre province ; au-delà de 500 000 €, ORSA publie un ticket jusqu'à 2,5 M€.",
+      "Si vous ne voulez céder aucune part, demandez d'abord un prêt subordonné : jusqu'à 10 ans chez Ostbelgieninvest, Smart Bond de 5 à 10 ans chez ORSA.",
+      "Avant de signer : ticket réaliste, partenaires du tour, durée et sortie, décisions réservées à l'administrateur de l'invest."
+    ],
+    "sections": [
+      {
+        "id": "zone",
+        "title": "Quel invest selon l'adresse de votre entreprise ?",
+        "intro": "Le premier filtre est géographique. Chaque invest finance les entreprises établies dans sa zone ou qui s'engagent à s'y implanter ; ORSA publie une zone qui couvre toute la Wallonie et peut compléter l'invest local.",
+        "table": {
+          "headers": [
+            "Votre siège d'exploitation",
+            "Invest à contacter",
+            "Données publiées"
+          ],
+          "rows": [
+            [
+              "Province de Liège",
+              "Noshaq",
+              "120 M€ décidés par an en moyenne ; ticket non publié"
+            ],
+            [
+              "Charleroi Métropole",
+              "Carbon (ex-Sambrinvest)",
+              "Plus de 200 M€ sous gestion ; ticket non publié"
+            ],
+            [
+              "Province de Namur",
+              "Namur Invest",
+              "100 000 € à 2,5 M€ en général"
+            ],
+            [
+              "Brabant wallon",
+              "Invest.BW",
+              "Jusqu'à 2,5 M€ au total, 5 à 10 ans"
+            ],
+            [
+              "Mons, Borinage, Centre",
+              "IMBC",
+              "De la création à la transmission ; ticket non publié"
+            ],
+            [
+              "Mouscron, Tournai, Ath, Lessines, Enghien, Silly",
+              "Wapinvest",
+              "Seuil d'intervention de 15 000 €"
+            ],
+            [
+              "Communauté germanophone, Malmedy, Welkenraedt et voisines",
+              "Ostbelgieninvest",
+              "Prêt subordonné jusqu'à 10 ans"
+            ],
+            [
+              "Province de Luxembourg",
+              "Luxembourg Développement",
+              "Prêts à taux fixe et capital"
+            ],
+            [
+              "Partout en Wallonie, besoin de 500 000 € ou plus",
+              "ORSA (ex-Investsud)",
+              "500 000 € à 2,5 M€, fonds evergreen"
+            ]
+          ]
+        },
+        "tip": "Une entreprise à cheval sur deux zones, Malmedy ou Welkenraedt par exemple, peut consulter Noshaq et Ostbelgieninvest.",
+        "internalLink": {
+          "text": "Voir le classement complet des invests wallons",
+          "href": "/classement/invests-wallons"
+        }
+      },
+      {
+        "id": "instrument",
+        "title": "Capital ou prêt : que voulez-vous céder ?",
+        "intro": "Un invest prête plus souvent qu'il n'entre au capital. Namur Invest annonce environ 80 % de dette dans son portefeuille.",
+        "paragraphs": [
+          "Un prêt subordonné ne vous prend aucune part de capital et compte souvent en quasi-fonds propres pour la banque. Ostbelgieninvest publie une durée jusqu'à 10 ans, ORSA un Smart Bond de 5 à 10 ans, Invest.BW des interventions de 5 à 10 ans.",
+          "Une entrée au capital coûte des points de capital et, en général, un siège d'administrateur. 300 000 € sur une valorisation pre-money de 900 000 € représentent 25 % du capital après l'opération. Faites le calcul avant le premier rendez-vous, et faites relire la convention par un avocat."
+        ],
+        "internalLink": {
+          "text": "Comparer les instruments : fonds propres, dette et quasi-capital",
+          "href": "/blog/fonds-propres-ou-dette/fonds-propres-dette-et-quasi-capital"
+        }
+      },
+      {
+        "id": "montant",
+        "title": "Quel invest selon le montant recherché ?",
+        "intro": "Trois invests publient un ticket, un quatrième un seuil. Pour les autres, posez la question avant de monter le dossier.",
+        "table": {
+          "headers": [
+            "Montant recherché",
+            "Piste à regarder",
+            "Source publiée"
+          ],
+          "rows": [
+            [
+              "Moins de 100 000 €",
+              "Wapinvest, ou l'invest de votre province",
+              "Seuil Wapinvest de 15 000 €"
+            ],
+            [
+              "100 000 € à 500 000 €",
+              "Namur Invest, Invest.BW, invest local",
+              "Namur Invest intervient aussi sous 500 000 €"
+            ],
+            [
+              "500 000 € à 2,5 M€",
+              "ORSA, Namur Invest, Invest.BW",
+              "Tickets publiés jusqu'à 2,5 M€"
+            ],
+            [
+              "Plus de 2,5 M€",
+              "Montage avec banque et plusieurs investisseurs",
+              "Invest.BW ne finance jamais seul la totalité d'un besoin"
+            ]
+          ]
+        },
+        "internalLink": {
+          "text": "Comparer les neuf invests côte à côte",
+          "href": "/comparer/invests-wallons"
+        }
+      }
+    ],
+    "faq": [
+      {
+        "q": "Faut-il passer par Wallonie Entreprendre avant un invest ?",
+        "a": "Non. Vous pouvez contacter directement l'invest de votre zone. Wallonie Entreprendre est actionnaire de la plupart des invests et peut co-intervenir, notamment en garantie, mais elle n'est pas un passage obligé."
+      },
+      {
+        "q": "Peut-on cumuler un invest et ORSA ?",
+        "a": "Oui, c'est courant sur un montage de plus de 500 000 €. L'invest local apporte un prêt ou une participation, ORSA un ticket plus important ou un Smart Bond, la banque le crédit d'investissement."
+      },
+      {
+        "q": "Un invest finance-t-il une entreprise en difficulté ?",
+        "a": "En principe non. Wapinvest écarte les entreprises qui ont perdu plus de la moitié de leur capital, Invest.BW exclut les entreprises en difficulté. Voyez d'abord votre expert-comptable."
+      },
+      {
+        "q": "Combien de temps prend une décision ?",
+        "a": "Aucun invest ne publie de délai ferme. Wapinvest indique que son conseil se réunit dix fois par an ; Namur Invest précise qu'il n'existe pas de délai fixe. Prévoyez plusieurs semaines."
+      },
+      {
+        "q": "Sambrinvest et Carbon, est-ce le même invest ?",
+        "a": "Oui. Sambrinvest a pris le nom de Carbon le 20 octobre 2026, avec la même zone : les 30 communes de Charleroi Métropole."
+      }
+    ]
   }
 }

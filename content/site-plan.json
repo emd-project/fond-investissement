@@ -212,9 +212,41 @@
       "owns": [
         "meilleurs invests wallons"
       ],
-      "status": "planned",
+      "status": "published",
       "wordsMin": 1000,
-      "mentionSlots": 7
+      "mentionSlots": 7,
+      "localizedPaths": {
+        "en": "/en/classement/invests-wallons"
+      },
+      "publishedAt": "2026-10-28"
+    },
+    {
+      "type": "comparateur",
+      "slug": "invests-wallons",
+      "cluster": "c-region",
+      "path": "/comparer/invests-wallons",
+      "localizedPaths": {
+        "en": "/en/comparer/invests-wallons"
+      },
+      "depth": 2,
+      "owns": [
+        "comparer invests wallons"
+      ],
+      "status": "published",
+      "publishedAt": "2026-10-28",
+      "mentionSlots": 9
+    },
+    {
+      "type": "choisir",
+      "slug": "invests-wallons",
+      "cluster": "c-region",
+      "path": "/choisir/invests-wallons",
+      "depth": 2,
+      "owns": [
+        "quel invest wallon choisir"
+      ],
+      "status": "published",
+      "publishedAt": "2026-10-28"
     },
     {
       "type": "classement",

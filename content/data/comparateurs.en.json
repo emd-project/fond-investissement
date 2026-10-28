@@ -120,5 +120,127 @@
         }
       }
     ]
+  },
+  "invests-wallons": {
+    "id": "invests-wallons",
+    "label": "Walloon invest",
+    "description": "The nine Walloon invests side by side: ticket, instruments, term, area and published figures, read on 15.10.2026 or 28.10.2026. The amount shown is the published minimum ticket; \"—\" when the invest does not publish it.",
+    "specsLabels": {
+      "ticket": "Published ticket",
+      "instruments": "Instruments",
+      "duree": "Published term",
+      "zone": "Area",
+      "chiffres": "Published figures"
+    },
+    "modeles": [
+      {
+        "nom": "ORSA (formerly Investsud)",
+        "prix": 500000,
+        "sourceUrl": "https://orsafund.be/a-propos/",
+        "specs": {
+          "ticket": "€500,000 to €2.5M",
+          "instruments": "Equity, quasi-equity, Smart Bond (subordinated loan)",
+          "duree": "Smart Bond 5 to 10 years; evergreen fund",
+          "zone": "All of Wallonia",
+          "chiffres": "Over 300 companies since 1985, over €120M under management"
+        }
+      },
+      {
+        "nom": "Namur Invest",
+        "prix": 100000,
+        "sourceUrl": "https://namurinvest.be/",
+        "specs": {
+          "ticket": "€100,000 to €2.5M as a rule",
+          "instruments": "Equity, convertible, subordinated, unsecured, secured and bullet loans, real estate leasing",
+          "duree": "not published",
+          "zone": "Province of Namur",
+          "chiffres": "About 20% equity, 80% debt"
+        }
+      },
+      {
+        "nom": "Invest.BW (formerly Nivelinvest)",
+        "prix": 0,
+        "sourceUrl": "https://investbw.be/",
+        "specs": {
+          "ticket": "Up to €2.5M in total",
+          "instruments": "Equity, subordinated or mezzanine loan, convertible",
+          "duree": "5 to 10 years",
+          "zone": "Walloon Brabant",
+          "chiffres": "not published"
+        }
+      },
+      {
+        "nom": "Noshaq (formerly Meusinvest)",
+        "prix": 0,
+        "sourceUrl": "https://noshaq.be/",
+        "specs": {
+          "ticket": "not published",
+          "instruments": "Equity, loans, leasing depending on the entity",
+          "duree": "not published",
+          "zone": "Province of Liège",
+          "chiffres": "€120M committed a year on average over five years"
+        }
+      },
+      {
+        "nom": "Carbon (formerly Sambrinvest)",
+        "prix": 0,
+        "sourceUrl": "https://www.carbon-fund.be/",
+        "specs": {
+          "ticket": "not published",
+          "instruments": "Risk capital, subordinated, convertible, participating and ordinary loans",
+          "duree": "not published",
+          "zone": "Charleroi Métropole (30 municipalities)",
+          "chiffres": "Over €200M under management; €220M of projects targeted by 2029"
+        }
+      },
+      {
+        "nom": "Wapinvest",
+        "prix": 15000,
+        "sourceUrl": "https://www.wapinvest.be/votre-projet/",
+        "specs": {
+          "ticket": "€15,000 floor",
+          "instruments": "not detailed",
+          "duree": "not published",
+          "zone": "Mouscron, Tournai, Ath, Lessines, Enghien, Silly",
+          "chiffres": "133 applications accepted in 2024 for €33.9M"
+        }
+      },
+      {
+        "nom": "Ostbelgieninvest",
+        "prix": 0,
+        "sourceUrl": "https://www.ostbelgieninvest.be/finanzierung/",
+        "specs": {
+          "ticket": "not published",
+          "instruments": "Minority stake, subordinated loan, short-term loan, convertible bond",
+          "duree": "Subordinated up to 10 years; short-term 3 months to 3 years",
+          "zone": "German-speaking Community and 7 neighbouring Liège municipalities",
+          "chiffres": "not published"
+        }
+      },
+      {
+        "nom": "IMBC",
+        "prix": 0,
+        "sourceUrl": "https://www.imbc.be/",
+        "specs": {
+          "ticket": "not published",
+          "instruments": "not specified",
+          "duree": "not published",
+          "zone": "Mons, Borinage, Centre",
+          "chiffres": "2014-2020 ERDF envelopes: €25.3M SMEs, €12.4M innovation"
+        }
+      },
+      {
+        "nom": "Luxembourg Développement",
+        "prix": 0,
+        "sourceUrl": "https://www.idelux.be/sites/default/files/2024-01/La_S_A__Luxembourg_D%C3%A9veloppement_Europe_2.pdf",
+        "specs": {
+          "ticket": "not published",
+          "instruments": "Fixed-rate loans, equity",
+          "duree": "not published",
+          "zone": "Province of Luxembourg",
+          "chiffres": "LDE2 fund of about €7.98M (2017)"
+        }
+      }
+    ]
   }
 }

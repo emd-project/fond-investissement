@@ -120,5 +120,127 @@
         }
       }
     ]
+  },
+  "invests-wallons": {
+    "id": "invests-wallons",
+    "label": "Invest wallon",
+    "description": "Les neuf invests wallons côte à côte : ticket, instruments, durée, zone et chiffres publiés, relevés le 15.10.2026 ou le 28.10.2026. Le montant affiché est le ticket minimum publié ; « — » quand l'invest ne le publie pas.",
+    "specsLabels": {
+      "ticket": "Ticket publié",
+      "instruments": "Instruments",
+      "duree": "Durée publiée",
+      "zone": "Zone",
+      "chiffres": "Chiffres publiés"
+    },
+    "modeles": [
+      {
+        "nom": "ORSA (ex-Investsud)",
+        "prix": 500000,
+        "sourceUrl": "https://orsafund.be/a-propos/",
+        "specs": {
+          "ticket": "500 000 € à 2,5 M€",
+          "instruments": "Capital, quasi-capital, Smart Bond (prêt subordonné)",
+          "duree": "Smart Bond 5 à 10 ans ; fonds evergreen",
+          "zone": "Toute la Wallonie",
+          "chiffres": "Plus de 300 entreprises depuis 1985, plus de 120 M€ sous gestion"
+        }
+      },
+      {
+        "nom": "Namur Invest",
+        "prix": 100000,
+        "sourceUrl": "https://namurinvest.be/",
+        "specs": {
+          "ticket": "100 000 € à 2,5 M€ en général",
+          "instruments": "Participation, prêts convertible, subordonné, chirographaire, garanti, bullet, leasing immobilier",
+          "duree": "non publié",
+          "zone": "Province de Namur",
+          "chiffres": "Environ 20 % capital, 80 % dette"
+        }
+      },
+      {
+        "nom": "Invest.BW (ex-Nivelinvest)",
+        "prix": 0,
+        "sourceUrl": "https://investbw.be/",
+        "specs": {
+          "ticket": "Jusqu'à 2,5 M€ au total",
+          "instruments": "Participation, prêt subordonné ou mezzanine, convertible",
+          "duree": "5 à 10 ans",
+          "zone": "Brabant wallon",
+          "chiffres": "non publié"
+        }
+      },
+      {
+        "nom": "Noshaq (ex-Meusinvest)",
+        "prix": 0,
+        "sourceUrl": "https://noshaq.be/",
+        "specs": {
+          "ticket": "non publié",
+          "instruments": "Capital, prêts, leasings selon l'entité",
+          "duree": "non publié",
+          "zone": "Province de Liège",
+          "chiffres": "120 M€ décidés par an en moyenne sur cinq ans"
+        }
+      },
+      {
+        "nom": "Carbon (ex-Sambrinvest)",
+        "prix": 0,
+        "sourceUrl": "https://www.carbon-fund.be/",
+        "specs": {
+          "ticket": "non publié",
+          "instruments": "Capital à risque, prêts subordonnés, convertibles, participatifs, ordinaires",
+          "duree": "non publié",
+          "zone": "Charleroi Métropole (30 communes)",
+          "chiffres": "Plus de 200 M€ sous gestion ; 220 M€ de projets visés d'ici 2029"
+        }
+      },
+      {
+        "nom": "Wapinvest",
+        "prix": 15000,
+        "sourceUrl": "https://www.wapinvest.be/votre-projet/",
+        "specs": {
+          "ticket": "Seuil de 15 000 €",
+          "instruments": "non détaillé",
+          "duree": "non publié",
+          "zone": "Mouscron, Tournai, Ath, Lessines, Enghien, Silly",
+          "chiffres": "133 dossiers acceptés en 2024 pour 33,9 M€"
+        }
+      },
+      {
+        "nom": "Ostbelgieninvest",
+        "prix": 0,
+        "sourceUrl": "https://www.ostbelgieninvest.be/finanzierung/",
+        "specs": {
+          "ticket": "non publié",
+          "instruments": "Participation minoritaire, prêt subordonné, prêt court, obligation convertible",
+          "duree": "Subordonné jusqu'à 10 ans ; court 3 mois à 3 ans",
+          "zone": "Communauté germanophone et 7 communes liégeoises voisines",
+          "chiffres": "non publié"
+        }
+      },
+      {
+        "nom": "IMBC",
+        "prix": 0,
+        "sourceUrl": "https://www.imbc.be/",
+        "specs": {
+          "ticket": "non publié",
+          "instruments": "non précisé",
+          "duree": "non publié",
+          "zone": "Mons, Borinage, Centre",
+          "chiffres": "Enveloppes FEDER 2014-2020 : 25,3 M€ PME, 12,4 M€ innovation"
+        }
+      },
+      {
+        "nom": "Luxembourg Développement",
+        "prix": 0,
+        "sourceUrl": "https://www.idelux.be/sites/default/files/2024-01/La_S_A__Luxembourg_D%C3%A9veloppement_Europe_2.pdf",
+        "specs": {
+          "ticket": "non publié",
+          "instruments": "Prêts à taux fixe, capital",
+          "duree": "non publié",
+          "zone": "Province de Luxembourg",
+          "chiffres": "Fonds LDE2 d'environ 7,98 M€ (2017)"
+        }
+      }
+    ]
   }
 }

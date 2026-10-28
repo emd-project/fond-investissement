@@ -288,5 +288,307 @@
         "url": "https://theodorus.be/"
       }
     ]
+  },
+  "invests-wallons": {
+    "slug": "invests-wallons",
+    "label": "Walloon invests",
+    "genre": "m",
+    "title": "Walloon invests: the 9 provincial investment companies compared",
+    "updated": "2026-10-28",
+    "excerpt": "The nine Walloon invests, from Noshaq to Wapinvest, ranked on what they publish: ticket, instruments, term and area, dated at the time of reading.",
+    "intro": "For a Walloon SME looking for equity or a subordinated loan from an invest, I put ORSA (formerly Investsud) first, ahead of Namur Invest and Invest.BW, because those three publish a ticket and instruments you can check. Noshaq and Carbon (formerly Sambrinvest) come next: the largest portfolios in Wallonia, but no published ticket. Wapinvest, Ostbelgieninvest, IMBC and Luxembourg Développement close the list, not because they finance less well, but because they tell you less before the first meeting.\n\nWallonia has nine invests, one per main economic area, most of them created in the 1980s. An invest is an investment company with public and private shareholders, in which the Region holds a stake through Wallonie Entreprendre (WE, the Walloon public financing agency), and which finances companies in its area with equity and loans. The Walloon government confirmed to Parliament on 12 May 2025 that their capital is mostly private, Noshaq being the exception.\n\nOne limit to state up front: this ranking does not move you to another province. An SME in Tournai goes to Wapinvest, an SME in Eupen to Ostbelgieninvest, whatever their rank here. The rank measures the quality of the published information and the breadth of instruments, not the odds of a given application. ORSA is the partner featured by this site; its rank rests on conditions it publishes itself, and no invest reviewed this ranking. Data read on the invests' websites on 15.10.2026 (ORSA, Namur Invest, Invest.BW, Noshaq, IMBC) and on 28.10.2026 (Carbon, Wapinvest, Ostbelgieninvest, Luxembourg Développement).",
+    "tldr": [
+      "Nine invests cover Wallonia, one per area: your operating site decides which one is yours long before this ranking does.",
+      "Only three publish a ticket: ORSA (€500,000 to €2.5M), Namur Invest (€100,000 to €2.5M as a rule) and Invest.BW (up to €2.5M in total); Wapinvest publishes a €15,000 floor.",
+      "Noshaq commits €120M a year on average and Carbon, Sambrinvest's new name since 20.10.2026, announces €220M of projects by 2029: high volume, no published ticket.",
+      "An invest lends more than it invests: about 80% debt at Namur Invest, subordinated loans of up to 10 years at Ostbelgieninvest, a 5 to 10-year Smart Bond at ORSA."
+    ],
+    "sections": [
+      {
+        "q": "Which invest matches your province?",
+        "body": "The one where your operating site is, almost always. The invests split Wallonia into areas, and each requires the company to be established there or to commit to setting up there.\n\nThe split published as of 28.10.2026: Noshaq for the province of Liège; Carbon for the 30 municipalities of Charleroi Métropole; Namur Invest for the province of Namur; Invest.BW for Walloon Brabant; IMBC for Mons, the Borinage and the Centre; Wapinvest for the districts of Mouscron, Tournai and Ath, plus Lessines, Enghien and Silly; Ostbelgieninvest for the nine German-speaking municipalities and seven neighbouring Liège municipalities (Plombières, Welkenraedt, Baelen, Malmedy, Waimes, Stavelot, Trois-Ponts); Luxembourg Développement, based in Arlon, for the province of Luxembourg. ORSA, based in Marche-en-Famenne, publishes an area of intervention covering the whole of Wallonia.\n\nTwo cases deserve a check. An SME in Malmedy or Welkenraedt can knock on Noshaq's door and on Ostbelgieninvest's. And an SME with its registered office in Brussels but its plant in Wavre falls under Invest.BW for the Walloon site, and under finance&invest.brussels for the rest."
+      },
+      {
+        "q": "Why do only three invests publish a ticket?",
+        "body": "Because the amount is decided case by case, and an invest would rather not set a ceiling it will exceed by co-investing. Yet it is the piece of information that saves you a meeting.\n\nORSA publishes €500,000 to €2,500,000. Namur Invest announces €100,000 to €2.5M as a rule, and says it also invests below €500,000. Invest.BW caps at €2.5M in total, in one or several rounds: take €1M today and €1.5M remains for later. Wapinvest publishes no ceiling but a €15,000 intervention floor, the lowest in the panel. Noshaq, Carbon, IMBC, Ostbelgieninvest and Luxembourg Développement: not published.\n\nWithout a ticket, volumes give an order of magnitude. Noshaq commits €120M of investments a year on average over five years. Wapinvest accepted 133 applications in 2024 for €33.9M, or about €255,000 per application on average. I calculated that from its annual report: an average is not a ticket, but it tells you which range of amounts the invest works in most often."
+      },
+      {
+        "q": "Does an invest take equity or lend?",
+        "body": "It lends more often than it takes equity. Namur Invest reports a portfolio split roughly 20% equity and 80% debt, with three to four interventions per company on average over time.\n\nThe published range varies a lot from one invest to the next. Namur Invest lists equity stakes, convertible, subordinated, unsecured, secured and bullet loans, and real estate leasing. Ostbelgieninvest describes four instruments: a minority, time-limited stake whose exit is set in the contract from the start, a subordinated loan of up to 10 years usually without collateral, a short-term loan of 3 months to 3 years, and a convertible bond. Luxembourg Développement announces fixed-rate loans and equity interventions. IMBC does not detail its instruments on the pages consulted.\n\nFor the owner, the difference is counted in points of capital. €300,000 of subordinated loan takes no stake. The same €300,000 in equity on a pre-money valuation of €900,000 costs you 25% (300,000 out of €1.2M post-money), plus a board member: Namur Invest writes that it usually asks for one when it takes equity."
+      },
+      {
+        "q": "Will the invests merge?",
+        "body": "Perhaps, which is a reason to ask who will decide on your file in two years' time. The regional policy statement aims to rationalise and reduce the number of invests; a parliamentary question of 16 April 2025 mentioned going from nine to four or five.\n\nThe Economy minister did not confirm that figure. His reply of 12 May 2025 says he will examine proposals coming from the invests themselves, that an evaluation of the agreements between the invests and Wallonie Entreprendre was planned for the end of 2025, and that ending advances to the invests would free €30M a year. Some invests might then look for new shareholders.\n\nRecent renamings show a network on the move: Meusinvest became Noshaq, Nivelinvest became Invest.BW, Investsud became ORSA, and Sambrinvest took the name Carbon on 20 October 2026. If your shareholders' agreement runs for ten years, have it state what happens if the invest merges or transfers its stake to another entity."
+      },
+      {
+        "q": "What should you ask an invest before signing?",
+        "body": "Four things, in writing, before the letter of intent.\n\nThe realistic ticket for your file and the share of capital it represents under two or three valuations. The partner or partners it proposes to bring in: Invest.BW writes that it never finances the whole need alone, and most invests structure deals with the bank. The term and the exit: a subordinated loan has a maturity, an equity stake should have one too, and Ostbelgieninvest sets the exit in the contract at entry. The list of decisions subject to the invest's board member, to be negotiated in the shareholders' agreement before the price.\n\nOne last point applies to all of them: the invests exclude companies in difficulty. Wapinvest, for example, rules out those that have lost more than half of their capital. An SME in turnaround should first see its accountant, and a lawyer before signing anything."
+      }
+    ],
+    "criteria": [
+      "Transparency: ticket, instruments and term published on the invest's website, checkable before the first meeting.",
+      "Breadth of instruments: equity, subordinated loan, convertible, short-term loan or leasing; the wider the range, the more situations the invest can serve.",
+      "Published financial capacity: annual volume invested, assets under management or number of applications accepted.",
+      "Size of the area: an invest covering a whole province serves more companies than one limited to a few districts.",
+      "Clarity of status: public and private shareholding, role of Wallonie Entreprendre, written eligibility conditions."
+    ],
+    "methodology": "Each entry reflects what the invest publishes on its website, in its annual report or in a press release, with the date it was read: 15.10.2026 for ORSA, Namur Invest, Invest.BW, Noshaq and IMBC, 28.10.2026 for Carbon, Wapinvest, Ostbelgieninvest and Luxembourg Développement. Sambrinvest's renaming to Carbon and its €220M plan come from the press of 20.10.2026 (La DH, Télésambre). Wapinvest's average per application is my calculation (€33.9M divided by 133 applications accepted in 2024). Information missing from the invest's site is marked \"not published\". I did not submit an application to any invest: the rank compares published information and breadth of instruments, not the quality of support. The score out of 100 weights transparency (35 points), range of instruments (25), published capacity (20), area (10) and clarity of status (10).",
+    "sources": [
+      {
+        "label": "1890.be, list of the nine Walloon invests and their areas, read on 28.10.2026",
+        "url": "https://www.1890.be/solution/invests-wallons/"
+      },
+      {
+        "label": "Parliament of Wallonia, written question on merging the invests (16.04.2025) and minister's reply (12.05.2025)",
+        "url": "https://www.parlement-wallonie.be/pwpages?p=interp-questions-voir&type=28&iddoc=134003"
+      },
+      {
+        "label": "ORSA, about (evergreen, ticket), read on 15.10.2026",
+        "url": "https://orsafund.be/a-propos/"
+      },
+      {
+        "label": "Namur Invest, frequently asked questions, read on 15.10.2026",
+        "url": "https://namurinvest.be/nos-solutions-de-financement/reponsesaux-questions-courantes/"
+      },
+      {
+        "label": "Invest.BW, partnership, read on 15.10.2026",
+        "url": "https://investbw.be/partenariat/"
+      },
+      {
+        "label": "Noshaq, group structure, read on 15.10.2026",
+        "url": "https://noshaq.be/a-propos/structure-du-groupe/"
+      },
+      {
+        "label": "Télésambre, \"Sambrinvest devient Carbon\" (20.10.2026)",
+        "url": "https://www.telesambre.be/info/societe/sambrinvest-devient-carbon-une-nouvelle-identite-pour-le-developpement-economique-carolo/83440"
+      },
+      {
+        "label": "La DH, Carbon targets €220M by 2029 (20.10.2026)",
+        "url": "https://www.dhnet.be/regions/charleroi/2026/10/20/sambrinvest-devient-carbon-un-element-essentiel-a-la-structure-de-charleroi-et-vise-toujours-plus-dinvestissements-SPGPOGL24FDUNN2IVOLM7TPUJQ/"
+      },
+      {
+        "label": "Wapinvest, your project (area, eligibility), read on 28.10.2026",
+        "url": "https://www.wapinvest.be/votre-projet/"
+      },
+      {
+        "label": "Wapinvest, 2024 annual report (8 pages)",
+        "url": "https://www.wapinvest.be/wp-content/uploads/2025/05/Wapinvest_RA-2024_8pages_A5_MEP-10_250527.pdf"
+      },
+      {
+        "label": "Ostbelgieninvest, Finanzierung (instruments and terms), read on 28.10.2026",
+        "url": "https://www.ostbelgieninvest.be/finanzierung/"
+      },
+      {
+        "label": "IDELUX, Luxembourg Développement Europe 2 fact sheet",
+        "url": "https://www.idelux.be/sites/default/files/2024-01/La_S_A__Luxembourg_D%C3%A9veloppement_Europe_2.pdf"
+      },
+      {
+        "label": "IMBC, about, read on 15.10.2026",
+        "url": "https://www.imbc.be/about/"
+      }
+    ],
+    "faq": [
+      {
+        "q": "How many invests are there in Wallonia?",
+        "a": "Nine: Noshaq, Carbon (formerly Sambrinvest), Namur Invest, Invest.BW, IMBC, Wapinvest, Ostbelgieninvest, Luxembourg Développement and ORSA (formerly Investsud). The Walloon government confirmed that number to Parliament in May 2025, while aiming to streamline the network."
+      },
+      {
+        "q": "Can you approach the invest of another province?",
+        "a": "As a rule, no: each invest finances companies established in its area or committing to set up there. ORSA publishes an area covering the whole of Wallonia, and Ostbelgieninvest can work elsewhere in cooperation with the other invests."
+      },
+      {
+        "q": "What is the minimum amount for an invest?",
+        "a": "Wapinvest publishes a €15,000 intervention floor. Namur Invest usually invests from €100,000, ORSA from €500,000. The other invests publish no minimum: ask before you build the file."
+      },
+      {
+        "q": "Does Sambrinvest still exist?",
+        "a": "Under another name. Sambrinvest became Carbon on 20 October 2026, with the same area (the 30 municipalities of Charleroi Métropole) and an announced target of €220M of projects by 2029. Its managing director is Grégoire Dupuis."
+      },
+      {
+        "q": "Is an invest a public body?",
+        "a": "It is a company with mixed shareholding. Wapinvest is 60% privately held and 40% held by Wallonie Entreprendre, Namur Invest in the same proportion. Noshaq is the exception, with mostly public capital according to the minister."
+      },
+      {
+        "q": "How long does an invest's subordinated loan last?",
+        "a": "Ostbelgieninvest publishes a term of up to 10 years with a jointly agreed repayment plan, ORSA a Smart Bond of 5 to 10 years. Invest.BW announces interventions of 5 to 10 years. The others publish no term."
+      },
+      {
+        "q": "Is this ranking sponsored?",
+        "a": "This site features ORSA and says so in the introduction. ORSA's rank rests on conditions it publishes; the other entries come from the invests' own websites and reports, and none of them reviewed or paid for this ranking."
+      }
+    ],
+    "items": [
+      {
+        "rank": 1,
+        "nom": "ORSA (formerly Investsud)",
+        "score": "90/100",
+        "badge": "All of Wallonia",
+        "bestFor": "Walloon SME with 20 to 150 staff looking for €500,000 or more",
+        "verdict": "The only invest in the panel that publishes a ticket, an area covering all of Wallonia and an evergreen fund with no imposed exit date. Not the right door below €500,000.",
+        "pros": [
+          "Published ticket of €500,000 to €2.5M",
+          "Smart Bond: 5 to 10-year subordinated loan, no dilution",
+          "Over 300 companies backed since 1985, over €120M under management"
+        ],
+        "cons": [
+          "Nothing below €500,000",
+          "Restricted to companies rooted in Wallonia"
+        ],
+        "prix": "€500,000 to €2.5M",
+        "url": "https://orsafund.be/a-propos/"
+      },
+      {
+        "rank": 2,
+        "nom": "Namur Invest",
+        "score": "88/100",
+        "badge": "Widest range",
+        "bestFor": "SME in the province of Namur, from €100,000 to €2.5M",
+        "verdict": "The most explicit invest: ticket, equity and debt split, average number of interventions and board seat rule are all written down. Its area stops at the provincial border.",
+        "pros": [
+          "€100,000 to €2.5M as a rule, also below €500,000",
+          "Seven instruments listed, from convertible to real estate leasing",
+          "Published portfolio: about 20% equity, 80% debt"
+        ],
+        "cons": [
+          "Province of Namur only",
+          "No fixed decision time"
+        ],
+        "prix": "€100,000 to €2.5M",
+        "url": "https://namurinvest.be/"
+      },
+      {
+        "rank": 3,
+        "nom": "Invest.BW (formerly Nivelinvest)",
+        "score": "84/100",
+        "badge": "Published horizon",
+        "bestFor": "SME or tech start-up in Walloon Brabant",
+        "verdict": "Ceiling and 5 to 10-year horizon published, co-financing rule written in plain terms. The €2.5M ceiling applies to the whole relationship, not to one round.",
+        "pros": [
+          "Up to €2.5M in total, in one or several rounds",
+          "Equity, subordinated or mezzanine loan, convertible",
+          "Interventions of 5 to 10 years"
+        ],
+        "cons": [
+          "Never finances the whole need alone",
+          "Excludes companies in difficulty"
+        ],
+        "prix": "up to €2.5M",
+        "url": "https://investbw.be/"
+      },
+      {
+        "rank": 4,
+        "nom": "Noshaq (formerly Meusinvest)",
+        "score": "81/100",
+        "badge": "Largest volume",
+        "bestFor": "Company in the province of Liège, from start-up to growth",
+        "verdict": "The largest Walloon invest by volume, organised as a group of specialised companies. It publishes no ticket, and it is the only invest with mostly public capital according to the minister.",
+        "pros": [
+          "€120M of investments committed a year on average over five years",
+          "Equity, loans and leasing depending on the group entity",
+          "Published team of 60 staff"
+        ],
+        "cons": [
+          "Ticket not published",
+          "Several entities to understand before approaching"
+        ],
+        "prix": "not published",
+        "url": "https://noshaq.be/"
+      },
+      {
+        "rank": 5,
+        "nom": "Carbon (formerly Sambrinvest)",
+        "score": "79/100",
+        "badge": "Renamed in 2026",
+        "bestFor": "SME in Charleroi Métropole: industry, materials, food, life sciences",
+        "verdict": "Large portfolio and wide range of loans, but no published ticket and a brand-new identity: ask which conditions changed along with the name.",
+        "pros": [
+          "Over €200M under management and nearly 300 SMEs in portfolio (read on 15.10.2026)",
+          "Risk capital, subordinated, convertible or participating loans, ordinary loans",
+          "€220M of projects announced for 2026 to 2029"
+        ],
+        "cons": [
+          "Ticket not published",
+          "Website and conditions in transition after the 20.10.2026 renaming"
+        ],
+        "prix": "not published",
+        "url": "https://www.carbon-fund.be/"
+      },
+      {
+        "rank": 6,
+        "nom": "Wapinvest",
+        "score": "77/100",
+        "badge": "Lowest floor",
+        "bestFor": "Micro and small businesses in Walloon Picardy, from €15,000",
+        "verdict": "The only invest that publishes an intervention floor, plus an annual report with figures. Its area is limited to three districts and three municipalities in western Hainaut.",
+        "pros": [
+          "€15,000 intervention floor",
+          "133 applications accepted in 2024 for €33.9M",
+          "Written eligibility: under 250 FTE, 75% independence"
+        ],
+        "cons": [
+          "Mouscron, Tournai, Ath, Lessines, Enghien and Silly only",
+          "Instruments not detailed on the project page"
+        ],
+        "prix": "from €15,000",
+        "url": "https://www.wapinvest.be/votre-projet/"
+      },
+      {
+        "rank": 7,
+        "nom": "Ostbelgieninvest",
+        "score": "75/100",
+        "badge": "Published terms",
+        "bestFor": "German-speaking SME or SME in the east of the province of Liège",
+        "verdict": "The only invest that states the term of each instrument and sets the exit of an equity stake in the contract. No published ticket, and a website primarily in German.",
+        "pros": [
+          "Subordinated loan of up to 10 years, usually without collateral",
+          "Short-term loan of 3 months to 3 years, convertible bond",
+          "Minority stake with exit set in the contract"
+        ],
+        "cons": [
+          "Ticket not published",
+          "Sectors limited to those eligible for Walloon investment aid"
+        ],
+        "prix": "not published",
+        "url": "https://www.ostbelgieninvest.be/finanzierung/"
+      },
+      {
+        "rank": 8,
+        "nom": "IMBC",
+        "score": "68/100",
+        "badge": "Central Hainaut",
+        "bestFor": "SME, innovative company or craftsman in Mons, the Borinage or the Centre",
+        "verdict": "Covers the whole cycle, from creation to transfer, but publishes little: neither ticket nor list of instruments on the pages consulted.",
+        "pros": [
+          "From creation to business transfer",
+          "Published 2014-2020 ERDF envelopes: €25.3M for SMEs and €12.4M for innovation",
+          "Area dense in industrial SMEs"
+        ],
+        "cons": [
+          "Ticket not published",
+          "Instruments not specified"
+        ],
+        "prix": "not published",
+        "url": "https://www.imbc.be/"
+      },
+      {
+        "rank": 9,
+        "nom": "Luxembourg Développement",
+        "score": "64/100",
+        "badge": "Province of Luxembourg",
+        "bestFor": "SME with an operating site in the Belgian province of Luxembourg",
+        "verdict": "Fixed-rate loans and equity for SMEs in the province, with a fund co-financed by the EU. The least documented of the nine, and the smallest published fund.",
+        "pros": [
+          "Fixed-rate loans and equity interventions",
+          "LDE2 fund created in 2017, endowed with about €7.98M (ERDF and Region)",
+          "Written eligibility criteria"
+        ],
+        "cons": [
+          "Ticket and rates not published",
+          "Lowest published capacity in the panel"
+        ],
+        "prix": "not published",
+        "url": "https://www.idelux.be/sites/default/files/2024-01/La_S_A__Luxembourg_D%C3%A9veloppement_Europe_2.pdf"
+      }
+    ]
   }
 }

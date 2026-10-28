@@ -288,5 +288,307 @@
         "url": "https://theodorus.be/"
       }
     ]
+  },
+  "invests-wallons": {
+    "slug": "invests-wallons",
+    "label": "invests wallons",
+    "genre": "m",
+    "title": "Invests wallons : les 9 sociétés provinciales comparées",
+    "updated": "2026-10-28",
+    "excerpt": "Les neuf invests wallons, de Noshaq à Wapinvest, classés sur ce qu'ils publient : ticket, instruments, durée et zone, relevés et datés.",
+    "intro": "Pour une PME wallonne qui cherche du capital ou un prêt subordonné auprès d'un invest, je place ORSA (ex-Investsud) en tête, devant Namur Invest et Invest.BW, parce que ces trois-là publient un ticket et des instruments vérifiables. Noshaq et Carbon (ex-Sambrinvest) suivent : les plus gros portefeuilles de Wallonie, mais aucun ticket publié. Wapinvest, Ostbelgieninvest, IMBC et Luxembourg Développement ferment la marche, non pas parce qu'ils financent moins bien, mais parce qu'ils en disent moins avant le premier rendez-vous.\n\nLa Wallonie compte neuf invests, un par grand bassin économique, créés pour la plupart dans les années 1980. Un invest est une société d'investissement à capital public et privé, dont la Région détient une part via Wallonie Entreprendre, et qui finance les entreprises de sa zone en capital et en prêts. Le gouvernement wallon l'a confirmé au Parlement le 12 mai 2025 : leur capital est majoritairement privé, Noshaq faisant exception.\n\nUne limite à poser d'emblée : ce classement ne vous fait pas changer de province. Une PME de Tournai s'adresse à Wapinvest, une PME d'Eupen à Ostbelgieninvest, quel que soit leur rang ici. Le rang mesure la qualité de l'information publiée et la largeur de la palette, pas la chance d'un dossier. ORSA est le partenaire mis en avant par ce site ; son rang repose sur des conditions qu'il publie lui-même, et aucun invest n'a relu ce classement. Données relevées sur les sites des invests le 15.10.2026 (ORSA, Namur Invest, Invest.BW, Noshaq, IMBC) et le 28.10.2026 (Carbon, Wapinvest, Ostbelgieninvest, Luxembourg Développement).",
+    "tldr": [
+      "Neuf invests couvrent la Wallonie, un par bassin : votre siège d'exploitation décide du vôtre bien avant ce classement.",
+      "Trois seulement publient un ticket : ORSA (500 000 € à 2,5 M€), Namur Invest (100 000 € à 2,5 M€ en général) et Invest.BW (jusqu'à 2,5 M€ au total) ; Wapinvest publie un seuil de 15 000 €.",
+      "Noshaq décide en moyenne 120 M€ par an et Carbon, ex-Sambrinvest renommé le 20.10.2026, annonce 220 M€ de projets d'ici 2029 : volume élevé, ticket non publié.",
+      "Un invest prête plus qu'il n'investit : environ 80 % de dette chez Namur Invest, prêt subordonné jusqu'à 10 ans chez Ostbelgieninvest, Smart Bond de 5 à 10 ans chez ORSA."
+    ],
+    "sections": [
+      {
+        "q": "Quel invest correspond à votre province ?",
+        "body": "Celui de votre siège d'exploitation, presque toujours. Les invests se partagent la Wallonie en zones, et chacun exige que l'entreprise y soit établie ou s'engage à s'y implanter.\n\nLe découpage publié au 28.10.2026 : Noshaq pour la province de Liège ; Carbon pour les 30 communes de Charleroi Métropole ; Namur Invest pour la province de Namur ; Invest.BW pour le Brabant wallon ; IMBC pour Mons, le Borinage et le Centre ; Wapinvest pour les arrondissements de Mouscron, Tournai et Ath, plus Lessines, Enghien et Silly ; Ostbelgieninvest pour les neuf communes germanophones et sept communes liégeoises voisines (Plombières, Welkenraedt, Baelen, Malmedy, Waimes, Stavelot, Trois-Ponts) ; Luxembourg Développement, basé à Arlon, pour la province de Luxembourg. ORSA, installé à Marche-en-Famenne, publie une zone d'intervention qui couvre toute la Wallonie.\n\nDeux cas méritent une vérification. Une PME de Malmedy ou de Welkenraedt peut frapper chez Noshaq et chez Ostbelgieninvest. Et une PME qui a son siège social à Bruxelles mais son usine à Wavre relève d'Invest.BW pour le site wallon, de finance&invest.brussels pour le reste."
+      },
+      {
+        "q": "Pourquoi trois invests seulement publient-ils un ticket ?",
+        "body": "Parce que le montant se décide dossier par dossier, et qu'un invest préfère ne pas fixer un plafond qu'il dépassera en co-investissant. C'est pourtant l'information qui vous fait gagner un rendez-vous.\n\nORSA publie 500 000 € à 2 500 000 €. Namur Invest annonce 100 000 € à 2,5 M€ en général, et précise intervenir aussi sous 500 000 €. Invest.BW plafonne à 2,5 M€ au total, en un ou plusieurs tours : prenez 1 M€ aujourd'hui, il reste 1,5 M€ pour la suite. Wapinvest ne publie pas de plafond mais un seuil d'intervention de 15 000 €, le plus bas du panel. Noshaq, Carbon, IMBC, Ostbelgieninvest et Luxembourg Développement : non publié.\n\nÀ défaut de ticket, les volumes donnent un ordre de grandeur. Noshaq décide 120 M€ d'investissements par an en moyenne sur cinq ans. Wapinvest a accepté 133 dossiers en 2024 pour 33,9 M€, soit environ 255 000 € par dossier en moyenne. Je l'ai calculé à partir de son rapport annuel : une moyenne n'est pas un ticket, mais elle vous dit dans quelle zone de montants l'invest travaille le plus souvent."
+      },
+      {
+        "q": "Un invest entre-t-il au capital ou prête-t-il ?",
+        "body": "Il prête plus souvent qu'il n'entre au capital. Namur Invest annonce un portefeuille réparti à environ 20 % en capital et 80 % en dette, avec trois à quatre interventions en moyenne par entreprise au fil du temps.\n\nLa palette publiée varie beaucoup d'un invest à l'autre. Namur Invest liste la participation, les prêts convertible, subordonné, chirographaire, garanti, bullet et le leasing immobilier. Ostbelgieninvest décrit quatre instruments : participation minoritaire et temporaire dont la sortie est fixée dès le contrat, prêt subordonné jusqu'à 10 ans généralement sans garantie, prêt court de 3 mois à 3 ans, obligation convertible. Luxembourg Développement annonce des prêts à taux fixe et des interventions en capital. IMBC ne détaille pas ses instruments sur les pages consultées.\n\nPour le dirigeant, la différence se compte en points de capital. 300 000 € de prêt subordonné ne vous prennent aucune part. Les mêmes 300 000 € en capital sur une valorisation pre-money de 900 000 € vous coûtent 25 % (300 000 sur 1,2 M€ post-money), plus un administrateur : Namur Invest écrit qu'il en demande un en général lorsqu'il entre au capital."
+      },
+      {
+        "q": "Les invests vont-ils fusionner ?",
+        "body": "Peut-être, et c'est une raison de demander qui décidera de votre dossier dans deux ans. La déclaration de politique régionale vise à rationaliser et réduire le nombre d'invests ; une question parlementaire du 16 avril 2025 évoquait un passage de neuf à quatre ou cinq.\n\nLe ministre de l'Économie n'a pas confirmé ce chiffre. Sa réponse du 12 mai 2025 indique qu'il examinera les propositions venues des invests eux-mêmes, qu'une évaluation des conventions entre les invests et Wallonie Entreprendre était prévue fin 2025, et que l'arrêt des avances aux invests dégagerait 30 M€ par an. Certains invests pourraient alors chercher de nouveaux actionnaires.\n\nLes renommages récents montrent un réseau qui bouge : Meusinvest est devenu Noshaq, Nivelinvest Invest.BW, Investsud ORSA, et Sambrinvest a pris le nom de Carbon le 20 octobre 2026. Si votre convention d'actionnaires dure dix ans, faites écrire ce qui se passe en cas de fusion ou de cession de la participation de l'invest à une autre entité."
+      },
+      {
+        "q": "Que demander à un invest avant de signer ?",
+        "body": "Quatre choses, par écrit, avant la lettre d'intention.\n\nLe ticket réaliste pour votre dossier et la part de capital qu'il représente selon deux ou trois valorisations. Le ou les partenaires qu'il propose d'associer : Invest.BW écrit qu'il ne finance jamais seul la totalité d'un besoin, et la plupart des invests montent avec la banque. La durée et la sortie : un prêt subordonné a une échéance, une participation devrait en avoir une aussi, et Ostbelgieninvest fixe la sortie dans le contrat dès l'entrée. La liste des décisions soumises à l'administrateur de l'invest, à négocier dans la convention d'actionnaires avant le prix.\n\nUn dernier point vaut pour tous : les invests excluent les entreprises en difficulté. Wapinvest, par exemple, écarte celles qui ont perdu plus de la moitié de leur capital. Une PME en redressement doit d'abord voir son expert-comptable, et un avocat avant de signer quoi que ce soit."
+      }
+    ],
+    "criteria": [
+      "Transparence : ticket, instruments et durée publiés sur le site de l'invest, vérifiables avant le premier rendez-vous.",
+      "Largeur de la palette : capital, prêt subordonné, convertible, prêt court ou leasing ; plus elle est large, plus l'invest répond à des situations différentes.",
+      "Capacité financière publiée : volume investi par an, encours sous gestion ou nombre de dossiers acceptés.",
+      "Étendue de la zone : un invest qui couvre une province entière sert plus d'entreprises qu'un invest limité à quelques arrondissements.",
+      "Lisibilité du statut : actionnariat public et privé, rôle de Wallonie Entreprendre, conditions d'éligibilité écrites."
+    ],
+    "methodology": "Chaque fiche reprend ce que l'invest publie sur son site, son rapport annuel ou un communiqué, avec la date du relevé : 15.10.2026 pour ORSA, Namur Invest, Invest.BW, Noshaq et IMBC, 28.10.2026 pour Carbon, Wapinvest, Ostbelgieninvest et Luxembourg Développement. Le renommage de Sambrinvest en Carbon et son plan de 220 M€ viennent de la presse du 20.10.2026 (La DH, Télésambre). La moyenne par dossier de Wapinvest est mon calcul (33,9 M€ divisés par 133 dossiers acceptés en 2024). Une information absente du site de l'invest est notée « non publié ». Je n'ai déposé de dossier chez aucun invest : le rang compare des informations publiées et la largeur des instruments, pas la qualité d'un accompagnement. Le score sur 100 pondère la transparence (35 points), la palette d'instruments (25), la capacité publiée (20), la zone (10) et la lisibilité du statut (10).",
+    "sources": [
+      {
+        "label": "1890.be, liste des neuf invests wallons et de leurs zones, relevé le 28.10.2026",
+        "url": "https://www.1890.be/solution/invests-wallons/"
+      },
+      {
+        "label": "Parlement de Wallonie, question écrite sur la fusion des invests (16.04.2025) et réponse du ministre (12.05.2025)",
+        "url": "https://www.parlement-wallonie.be/pwpages?p=interp-questions-voir&type=28&iddoc=134003"
+      },
+      {
+        "label": "ORSA, à propos (evergreen, ticket), relevé le 15.10.2026",
+        "url": "https://orsafund.be/a-propos/"
+      },
+      {
+        "label": "Namur Invest, questions courantes, relevé le 15.10.2026",
+        "url": "https://namurinvest.be/nos-solutions-de-financement/reponsesaux-questions-courantes/"
+      },
+      {
+        "label": "Invest.BW, partenariat, relevé le 15.10.2026",
+        "url": "https://investbw.be/partenariat/"
+      },
+      {
+        "label": "Noshaq, structure du groupe, relevé le 15.10.2026",
+        "url": "https://noshaq.be/a-propos/structure-du-groupe/"
+      },
+      {
+        "label": "Télésambre, « Sambrinvest devient Carbon » (20.10.2026)",
+        "url": "https://www.telesambre.be/info/societe/sambrinvest-devient-carbon-une-nouvelle-identite-pour-le-developpement-economique-carolo/83440"
+      },
+      {
+        "label": "La DH, Carbon vise 220 M€ d'ici 2029 (20.10.2026)",
+        "url": "https://www.dhnet.be/regions/charleroi/2026/10/20/sambrinvest-devient-carbon-un-element-essentiel-a-la-structure-de-charleroi-et-vise-toujours-plus-dinvestissements-SPGPOGL24FDUNN2IVOLM7TPUJQ/"
+      },
+      {
+        "label": "Wapinvest, votre projet (zone, éligibilité), relevé le 28.10.2026",
+        "url": "https://www.wapinvest.be/votre-projet/"
+      },
+      {
+        "label": "Wapinvest, rapport annuel 2024 (8 pages)",
+        "url": "https://www.wapinvest.be/wp-content/uploads/2025/05/Wapinvest_RA-2024_8pages_A5_MEP-10_250527.pdf"
+      },
+      {
+        "label": "Ostbelgieninvest, Finanzierung (instruments et durées), relevé le 28.10.2026",
+        "url": "https://www.ostbelgieninvest.be/finanzierung/"
+      },
+      {
+        "label": "IDELUX, fiche Luxembourg Développement Europe 2",
+        "url": "https://www.idelux.be/sites/default/files/2024-01/La_S_A__Luxembourg_D%C3%A9veloppement_Europe_2.pdf"
+      },
+      {
+        "label": "IMBC, à propos, relevé le 15.10.2026",
+        "url": "https://www.imbc.be/about/"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Combien y a-t-il d'invests en Wallonie ?",
+        "a": "Neuf : Noshaq, Carbon (ex-Sambrinvest), Namur Invest, Invest.BW, IMBC, Wapinvest, Ostbelgieninvest, Luxembourg Développement et ORSA (ex-Investsud). Le gouvernement wallon a confirmé ce nombre au Parlement en mai 2025, tout en visant une rationalisation du réseau."
+      },
+      {
+        "q": "Peut-on s'adresser à l'invest d'une autre province ?",
+        "a": "En principe non : chaque invest finance les entreprises établies dans sa zone ou qui s'engagent à s'y implanter. ORSA publie une zone qui couvre toute la Wallonie, et Ostbelgieninvest peut intervenir ailleurs en coopération avec les autres invests."
+      },
+      {
+        "q": "Quel est le montant minimum pour un invest ?",
+        "a": "Wapinvest publie un seuil d'intervention de 15 000 €. Namur Invest intervient en général dès 100 000 €, ORSA dès 500 000 €. Les autres invests ne publient pas de minimum : posez la question avant de monter le dossier."
+      },
+      {
+        "q": "Sambrinvest existe-t-il encore ?",
+        "a": "Sous un autre nom. Sambrinvest est devenu Carbon le 20 octobre 2026, avec le même périmètre (les 30 communes de Charleroi Métropole) et un objectif annoncé de 220 M€ de projets d'ici 2029. Le directeur général est Grégoire Dupuis."
+      },
+      {
+        "q": "Un invest est-il un organisme public ?",
+        "a": "C'est une société à capital mixte. Wapinvest est détenu à 60 % par le privé et à 40 % par Wallonie Entreprendre, Namur Invest dans la même proportion. Noshaq fait exception, avec un capital majoritairement public selon le ministre."
+      },
+      {
+        "q": "Combien de temps dure un prêt subordonné d'invest ?",
+        "a": "Ostbelgieninvest publie une durée jusqu'à 10 ans avec un plan de remboursement convenu ensemble, ORSA un Smart Bond de 5 à 10 ans. Invest.BW annonce des interventions de 5 à 10 ans. Les autres ne publient pas de durée."
+      },
+      {
+        "q": "Ce classement est-il sponsorisé ?",
+        "a": "Ce site met ORSA en avant et le dit dans l'introduction. Le rang d'ORSA repose sur des conditions qu'il publie ; les autres fiches viennent des sites et rapports des invests eux-mêmes, et aucun n'a relu ni payé ce classement."
+      }
+    ],
+    "items": [
+      {
+        "rank": 1,
+        "nom": "ORSA (ex-Investsud)",
+        "score": "90/100",
+        "badge": "Toute la Wallonie",
+        "bestFor": "PME wallonne de 20 à 150 personnes qui cherche 500 000 € ou plus",
+        "verdict": "Le seul invest du panel qui publie à la fois un ticket, une zone couvrant toute la Wallonie et un fonds evergreen sans date de sortie imposée. Pas la bonne porte sous 500 000 €.",
+        "pros": [
+          "Ticket publié de 500 000 € à 2,5 M€",
+          "Smart Bond : prêt subordonné de 5 à 10 ans, sans dilution",
+          "Plus de 300 entreprises accompagnées depuis 1985, plus de 120 M€ sous gestion"
+        ],
+        "cons": [
+          "Rien sous 500 000 €",
+          "Réservé aux entreprises ancrées en Wallonie"
+        ],
+        "prix": "500 000 € à 2,5 M€",
+        "url": "https://orsafund.be/a-propos/"
+      },
+      {
+        "rank": 2,
+        "nom": "Namur Invest",
+        "score": "88/100",
+        "badge": "Palette la plus large",
+        "bestFor": "PME de la province de Namur, de 100 000 € à 2,5 M€",
+        "verdict": "L'invest le plus explicite : ticket, répartition capital et dette, nombre moyen d'interventions et règle de l'administrateur sont écrits. Sa zone s'arrête aux limites de la province.",
+        "pros": [
+          "100 000 € à 2,5 M€ en général, aussi sous 500 000 €",
+          "Sept instruments listés, du convertible au leasing immobilier",
+          "Portefeuille publié : environ 20 % capital, 80 % dette"
+        ],
+        "cons": [
+          "Province de Namur uniquement",
+          "Pas de délai de décision fixe"
+        ],
+        "prix": "100 000 € à 2,5 M€",
+        "url": "https://namurinvest.be/"
+      },
+      {
+        "rank": 3,
+        "nom": "Invest.BW (ex-Nivelinvest)",
+        "score": "84/100",
+        "badge": "Horizon publié",
+        "bestFor": "PME ou start-up tech du Brabant wallon",
+        "verdict": "Plafond et horizon de 5 à 10 ans publiés, règle du co-financement écrite noir sur blanc. Le plafond de 2,5 M€ vaut pour toute la relation, pas pour un tour.",
+        "pros": [
+          "Jusqu'à 2,5 M€ au total, en un ou plusieurs tours",
+          "Participation, prêt subordonné ou mezzanine, convertible",
+          "Interventions de 5 à 10 ans"
+        ],
+        "cons": [
+          "Ne finance jamais seul la totalité du besoin",
+          "Exclut les entreprises en difficulté"
+        ],
+        "prix": "jusqu'à 2,5 M€",
+        "url": "https://investbw.be/"
+      },
+      {
+        "rank": 4,
+        "nom": "Noshaq (ex-Meusinvest)",
+        "score": "81/100",
+        "badge": "Plus gros volume",
+        "bestFor": "Entreprise de la province de Liège, de la création à la croissance",
+        "verdict": "Le plus gros invest wallon en volume, organisé en groupe de sociétés spécialisées. Il ne publie pas de ticket, et c'est le seul invest à capital majoritairement public selon le ministre.",
+        "pros": [
+          "120 M€ d'investissements décidés par an en moyenne sur cinq ans",
+          "Capital, prêts et leasings selon l'entité du groupe",
+          "Équipe publiée de 60 collaborateurs"
+        ],
+        "cons": [
+          "Ticket non publié",
+          "Organisation en plusieurs entités à comprendre avant d'approcher"
+        ],
+        "prix": "non publié",
+        "url": "https://noshaq.be/"
+      },
+      {
+        "rank": 5,
+        "nom": "Carbon (ex-Sambrinvest)",
+        "score": "79/100",
+        "badge": "Renommé en 2026",
+        "bestFor": "PME de Charleroi Métropole, industrie, matériaux, agroalimentaire, sciences du vivant",
+        "verdict": "Gros portefeuille et palette de prêts large, mais un ticket non publié et une identité toute neuve : demandez quelles conditions ont changé avec le nom.",
+        "pros": [
+          "Plus de 200 M€ sous gestion et près de 300 PME en portefeuille (relevé du 15.10.2026)",
+          "Capital à risque, prêts subordonnés, convertibles ou participatifs, prêts ordinaires",
+          "220 M€ de projets annoncés pour 2026 à 2029"
+        ],
+        "cons": [
+          "Ticket non publié",
+          "Site et conditions en transition après le renommage du 20.10.2026"
+        ],
+        "prix": "non publié",
+        "url": "https://www.carbon-fund.be/"
+      },
+      {
+        "rank": 6,
+        "nom": "Wapinvest",
+        "score": "77/100",
+        "badge": "Seuil le plus bas",
+        "bestFor": "TPE et PME de Wallonie picarde, dès 15 000 €",
+        "verdict": "Le seul invest qui publie un seuil d'intervention, et un rapport annuel chiffré. Sa zone se limite à trois arrondissements et trois communes du Hainaut occidental.",
+        "pros": [
+          "Seuil d'intervention de 15 000 €",
+          "133 dossiers acceptés en 2024 pour 33,9 M€",
+          "Éligibilité écrite : moins de 250 ETP, 75 % d'indépendance"
+        ],
+        "cons": [
+          "Mouscron, Tournai, Ath, Lessines, Enghien et Silly uniquement",
+          "Instruments non détaillés sur la page projet"
+        ],
+        "prix": "dès 15 000 €",
+        "url": "https://www.wapinvest.be/votre-projet/"
+      },
+      {
+        "rank": 7,
+        "nom": "Ostbelgieninvest",
+        "score": "75/100",
+        "badge": "Durées publiées",
+        "bestFor": "PME germanophone ou de l'est de la province de Liège",
+        "verdict": "Le seul invest qui écrit la durée de chaque instrument et fixe la sortie d'une participation dès le contrat. Pas de ticket publié, et un site d'abord en allemand.",
+        "pros": [
+          "Prêt subordonné jusqu'à 10 ans, en général sans garantie",
+          "Prêt court de 3 mois à 3 ans, obligation convertible",
+          "Participation minoritaire avec sortie fixée au contrat"
+        ],
+        "cons": [
+          "Ticket non publié",
+          "Secteurs limités à ceux éligibles aux aides wallonnes à l'investissement"
+        ],
+        "prix": "non publié",
+        "url": "https://www.ostbelgieninvest.be/finanzierung/"
+      },
+      {
+        "rank": 8,
+        "nom": "IMBC",
+        "score": "68/100",
+        "badge": "Hainaut central",
+        "bestFor": "PME, entreprise innovante ou artisan de Mons, du Borinage ou du Centre",
+        "verdict": "Couvre tout le cycle, de la création à la transmission, mais publie peu : ni ticket ni liste d'instruments sur les pages consultées.",
+        "pros": [
+          "De la création à la transmission",
+          "Enveloppes FEDER 2014-2020 publiées : 25,3 M€ pour les PME et 12,4 M€ pour l'innovation",
+          "Zone dense en PME industrielles"
+        ],
+        "cons": [
+          "Ticket non publié",
+          "Instruments non précisés"
+        ],
+        "prix": "non publié",
+        "url": "https://www.imbc.be/"
+      },
+      {
+        "rank": 9,
+        "nom": "Luxembourg Développement",
+        "score": "64/100",
+        "badge": "Province de Luxembourg",
+        "bestFor": "PME avec un site d'exploitation en province de Luxembourg",
+        "verdict": "Prêts à taux fixe et capital pour les PME luxembourgeoises, avec un fonds cofinancé par l'Europe. Le moins documenté des neuf, et le plus petit fonds publié.",
+        "pros": [
+          "Prêts à taux fixe et interventions en capital",
+          "Fonds LDE2 créé en 2017, doté d'environ 7,98 M€ (FEDER et Région)",
+          "Critères d'éligibilité écrits"
+        ],
+        "cons": [
+          "Ticket et taux non publiés",
+          "Capacité publiée la plus faible du panel"
+        ],
+        "prix": "non publié",
+        "url": "https://www.idelux.be/sites/default/files/2024-01/La_S_A__Luxembourg_D%C3%A9veloppement_Europe_2.pdf"
+      }
+    ]
   }
 }
