@@ -47,6 +47,7 @@ export const articleSlugFrToEn: Record<string, string> = {
   'stock-options-et-warrants-en-belgique': 'stock-options-and-warrants-belgium',
   'dette-mezzanine': 'mezzanine-debt',
   'rachat-de-parts-sociales-du-fonds': 'buying-back-the-funds-shares',
+  'liquidation-preferentielle': 'liquidation-preference',
 }
 
 /** Réciproque EN → FR (dérivée automatiquement). */

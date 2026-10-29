@@ -1283,19 +1283,29 @@
       "type": "info",
       "owns": [
         "liquidation préférentielle",
+        "clause de liquidation préférentielle",
+        "préférence de liquidation participating non participating",
         "vocabulaire du pacte d'actionnaires"
       ],
       "questions": [
         "Qu'est-ce qu'une liquidation préférentielle ?",
-        "Participating ou non participating ?"
+        "Participating ou non participating : lequel coûte le plus ?",
+        "La 1x non participating est-elle inoffensive ?",
+        "Deux tours, deux préférences : qui passe en premier ?"
       ],
-      "status": "planned",
+      "status": "published",
       "priority": 3,
-      "persona": "fondateur de start-up",
+      "persona": "dirigeant de PME",
       "brands": [
+        "ORSA",
         "Theodorus",
-        "Noshaq"
-      ]
+        "Noshaq",
+        "finance&invest.brussels",
+        "Orrick"
+      ],
+      "localizedPaths": {
+        "en": "/en/blog/comprendre-les-fonds/liquidation-preference"
+      }
     },
     {
       "slug": "business-angels-pour-pme-industrielle",
