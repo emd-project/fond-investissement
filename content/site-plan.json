@@ -1453,6 +1453,40 @@
         "Sofina",
         "ORSA"
       ]
+    },
+    {
+      "slug": "pre-seed-et-seed-en-belgique",
+      "categorie": "start-up-et-scale-up",
+      "cluster": "c-innovation",
+      "type": "question",
+      "owns": [
+        "pré-seed",
+        "pré seed startup",
+        "levée de fonds seed",
+        "levée de fonds en seed définition",
+        "fonds seed"
+      ],
+      "questions": [
+        "Qu'est-ce que le pré-seed, et où commence le seed ?",
+        "Combien lever en pré-seed ?",
+        "Combien de capital cède-t-on au pré-seed ?",
+        "Qui finance un pré-seed en Wallonie et à Bruxelles ?",
+        "Prêt convertible ou actions : que cédez-vous vraiment ?",
+        "Le prêt Coup de pouce dilue-t-il ?"
+      ],
+      "status": "published",
+      "priority": 3,
+      "persona": "fondateur de start-up",
+      "brands": [
+        "Wallonie Entreprendre",
+        "finance&invest.brussels",
+        "Theodorus",
+        "ORSA",
+        "Carta"
+      ],
+      "localizedPaths": {
+        "en": "/en/blog/start-up-et-scale-up/pre-seed-and-seed-in-belgium"
+      }
     }
   ],
   "budget": {

@@ -48,6 +48,7 @@ export const articleSlugFrToEn: Record<string, string> = {
   'dette-mezzanine': 'mezzanine-debt',
   'rachat-de-parts-sociales-du-fonds': 'buying-back-the-funds-shares',
   'liquidation-preferentielle': 'liquidation-preference',
+  'pre-seed-et-seed-en-belgique': 'pre-seed-and-seed-in-belgium',
 }
 
 /** Réciproque EN → FR (dérivée automatiquement). */
