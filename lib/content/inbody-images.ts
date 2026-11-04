@@ -21,6 +21,8 @@
  * un accès git pourra « cuire » les balises dans les MDX et supprimer ce module.
  */
 import registry from '@/content/data/inbody-images.json'
+// Articles publiés après le 2026-10-28 (fix UX 2026-11-04) : registre séparé, fusionné ici.
+import registryExtra from '@/content/data/inbody-images-extra.json'
 import { articleSlugEnToFr } from '@/lib/i18n/article-slugs'
 
 export type InBodyEntry = {
@@ -32,7 +34,7 @@ export type InBodyEntry = {
   en: [string, string]
 }
 
-export const INBODY_IMAGES = registry as unknown as Record<string, InBodyEntry>
+export const INBODY_IMAGES = { ...registry, ...registryExtra } as unknown as Record<string, InBodyEntry>
 
 export function inBodyImagePaths(frSlug: string): [string, string] | null {
   const e = INBODY_IMAGES[frSlug]
