@@ -590,5 +590,274 @@
         "url": "https://www.idelux.be/sites/default/files/2024-01/La_S_A__Luxembourg_D%C3%A9veloppement_Europe_2.pdf"
       }
     ]
+  },
+  "fonds-capital-risque-belgique": {
+    "slug": "fonds-capital-risque-belgique",
+    "label": "venture capital funds",
+    "genre": "m",
+    "title": "Venture capital funds in Belgium: 7 funds compared",
+    "updated": "2026-11-04",
+    "excerpt": "Seven Belgian venture capital funds ranked for a Walloon or Brussels start-up: ticket, instrument and area as published, read and dated.",
+    "intro": "For a Walloon or Brussels start-up raising between €250,000 and €2.5M, I put Theodorus first, ahead of finance&invest.brussels and Wallonie Entreprendre. Theodorus publishes a precise ticket, from €250,000 on the first investment up to €2.5M per company, and backs spin-offs whether or not they come out of ULB (Université libre de Bruxelles). Volta Ventures and VIVES follow: the first publishes the clearest range in the panel (€100,000 to €1M) but only backs B2B software, the second goes up to €5M per company but starts from the universities. Noshaq and Capricorn Partners close the list, because neither publishes a ticket.\n\nA venture capital fund takes a minority stake in a young unlisted company, planning to sell it at a higher price five to ten years later. It is not buying a fixed return: it is buying a percentage of your company, and usually a board seat along with it. That is the difference with a Walloon invest that lends you a subordinated loan, and it is why the ticket matters less than the share of the company it costs you.\n\nThree limits, stated up front. The rank measures what each fund publishes and how well it fits a company based in Wallonia or Brussels, not your odds of getting a term sheet. No fund reviewed this ranking, and I have not filed an application with any of them. Finally, ORSA, the partner featured by this site, is not in this panel: it is a fund for established SMEs, not a venture capital fund, and I explain why below. Data read on the funds' websites on 04.11.2026 unless stated otherwise.",
+    "tldr": [
+      "Theodorus publishes the clearest ticket for a Brussels or Walloon start-up: €250,000 in the first round, up to €2.5M per company, more than €70M under management.",
+      "Below €100,000, the public door is Wallonie Entreprendre's Startup Boost: convertible loan of up to €100,000, start-ups under three years old, 20% or 25% discount on conversion.",
+      "Volta Ventures publishes €100,000 to €1M at pre-seed and seed, but for B2B software only; VIVES goes up to €5M per company, starting from the UCLouvain ecosystem.",
+      "At a €3M pre-money valuation, €1M of venture capital costs you 25% of the company; at €6M, 14.3%: negotiate the valuation before the ticket.",
+      "Noshaq (Noshaq Europe 4, nearly €38M, province of Liège) and Capricorn Partners publish no ticket: ask for it on the first call."
+    ],
+    "sections": [
+      {
+        "q": "Which venture capital fund fits your start-up's stage?",
+        "body": "Stage decides the shortlist well before region does. A fund that writes €5M cheques will not look at a pre-seed file, and a €100,000 convertible loan will never fund a Series A.\n\nAt pre-seed, two doors publish their terms. Wallonie Entreprendre's Startup Boost lends up to €100,000 as a convertible to Walloon start-ups under three years old (page of 27.02.2026). Volta Ventures comes in from €100,000, at pre-seed as well as seed, for B2B software in the Benelux (announcement of 22.04.2025).\n\nAt seed, between €250,000 and €2.5M, Theodorus is the most explicit fund: €250,000 for a first investment, then up to €2.5M per company over time. finance&invest.brussels invests in Brussels as a minority shareholder, through convertibles or subordinated loans, with loans of up to €5M. LeanSquare, a Liège-based fund of the Noshaq group, covers seed and Series A, but only in what it calls the experience industry (music, sport, e-sport, video games, events).\n\nAt Series A and beyond, VIVES publishes up to €5M per company, from the spin-off's creation to its growth. Capricorn Partners says it invests from start-up to scale-up in digital, health and clean technologies, without putting a figure on its ticket.\n\nOne piece of method: write down your eighteen-month need before calling anyone. A fund that reads \"€600,000 to reach €1M of recurring revenue\" knows within a minute whether you sit in its range."
+      },
+      {
+        "q": "How much of the company do you give up for a venture capital ticket?",
+        "body": "The stake is one division: the ticket divided by the post-money valuation, that is the pre-money valuation plus the ticket. The ticket alone tells you nothing.\n\nI ran the numbers on two pre-money valuations, €3M and €6M, for the amounts that keep coming up in the published ranges. €100,000 costs 3.2% of the company at €3M and 1.6% at €6M. €250,000, Theodorus's first ticket: 7.7% and 4.0%. €500,000: 14.3% and 7.7%. €1M, Volta Ventures's ceiling: 25.0% and 14.3%. €2.5M, Theodorus's ceiling: 45.5% and 29.4%.\n\nThe last line is the painful one. A founder who takes €2.5M on a €3M pre-money keeps barely more than half of the company after a single round, and less again after the Series A. Doubling the pre-money valuation brings the stake down from 45.5% to 29.4% for the same cheque: that is where the negotiation happens, not on the amount.\n\nThese percentages ignore the team's option pool and the conversion of any earlier convertible loan, both of which dilute further. Have your accountant rerun the calculation on the real cap table before you sign the letter of intent."
+      },
+      {
+        "q": "Do you need to be a university spin-off to interest Theodorus or VIVES?",
+        "body": "No, but the university remains their main source of deals.\n\nTheodorus has ULB as its historical partner and priority access to its research output. Its entrepreneurs page states that it backs spin-offs \"whether or not from ULB\", in biotech, medtech and engineering sciences; Theodorus III could place up to 15% of its money outside the ULB scope, Theodorus IV covers Belgium and Canada, with an office in Montréal.\n\nVIVES operates in the UCLouvain orbit. VIVES IUF, its inter-university fund launched in 2020, invests in spin-offs from UCLouvain, KU Leuven, Université de Paris, Wageningen and the University of Luxembourg, and in start-ups located in the European Union. Its About page states €75M; the first closing, announced on 02.07.2020, reached €32M.\n\nA start-up with no university link can therefore knock on both doors, provided it has proprietary technology. A web agency or a cosmetics brand does not belong there."
+      },
+      {
+        "q": "Public or private fund: who backs a Walloon or Brussels start-up?",
+        "body": "Both, and often in the same round. The line is blurrier than it looks: almost every private Belgian fund has a public player among its investors.\n\nOn the public side, Wallonie Entreprendre merged its digital-deeptech and life sciences teams into WE Venture Capital on 22.01.2026, investing patient capital in Wallonia (artificial intelligence, industrial software, cybersecurity, new materials, robotics, biotech, medtech). finance&invest.brussels does the same job for the Brussels-Capital Region, across all sectors, and promises a first answer within three weeks. Noshaq manages Noshaq Europe 4, created in July 2024 with nearly €38M from the ERDF 2021-2027 programme (FEDER in French), which provides fixed-rate loans or equity to SMEs based in the province of Liège.\n\nOn the private side, the list of VIVES IUF investors published in 2020 includes Investsud (now ORSA), Namur Invest, Nivelinvest (now Invest.BW), Sambrinvest (now Carbon), IMBC Spinnova, finance&invest.brussels and SFPI-FPIM, the federal holding. Capricorn's Digital Growth Fund held its first closing on 28.06.2019 with PMV, SFPI-FPIM and KU Leuven.\n\nFor you, the consequence is practical: a public fund rarely invests alone. It looks for a private co-investor, and the reverse is true as well. Arriving with a first investor already committed shortens the conversation with the second."
+      },
+      {
+        "q": "What if your company is not a start-up?",
+        "body": "Then this is the wrong ranking. A profitable 40-person SME that wants to fund a plant is not looking for a fund aiming to sell at ten times its money: it is looking for a patient minority shareholder or a subordinated loan.\n\nORSA (formerly Investsud), the partner featured by this site, publishes a ticket of €500,000 to €2.5M for established SMEs across Wallonia, an evergreen fund with no imposed exit date and a Smart Bond, a 5 to 10-year subordinated loan (read on 15.10.2026). That is not venture capital, which is why ORSA is not in this panel. The provincial invests do the same job area by area, and Gimv, at the other end, states capital needs of €20M to €100M on its platforms, out of reach for an SME.\n\nThe ranking of funds for SMEs and the ranking of Walloon invests cover this case."
+      }
+    ],
+    "criteria": [
+      "Ticket transparency: minimum or maximum amount published by the fund itself, verifiable before the first call.",
+      "Fit with a Walloon or Brussels start-up: published investment area and presence in Wallonia or Brussels.",
+      "Stage coverage: from pre-seed to Series A, the more rounds a fund covers, the longer it can follow the same company.",
+      "Published capacity: size of the current fund, assets under management, number of portfolio companies.",
+      "Clear eligibility: sectors, company age, university link or response time written down in black and white."
+    ],
+    "methodology": "Each entry reflects what the fund publishes on its website, in a press release or a call page, with the document's date where there is one. All pages were read on 04.11.2026; finance&invest.brussels's €100,000 to €5M range comes from its June 2025 brochure, read on 01.11.2026, and ORSA's terms, quoted outside the panel, from the reading of 15.10.2026. The percentages of the company given up are my calculations (ticket divided by the sum of the pre-money valuation and the ticket), on pre-money valuations of €3M and €6M chosen as examples. Information missing from the fund's website is marked \"not published\"; third-party fund directories were only used to spot candidates, never to fill a cell. The score out of 100 weights ticket transparency (30 points), fit with a Walloon or Brussels start-up (25), stage coverage (20), published capacity (15) and clear eligibility (10). I have not filed an application with any of these funds: the rank compares published information, not the quality of support.",
+    "sources": [
+      {
+        "label": "Theodorus, about us (tickets, funds I to IV, assets under management), read on 04.11.2026",
+        "url": "https://theodorus.be/about-us/"
+      },
+      {
+        "label": "Theodorus, entrepreneurs page (sectors, ULB or non-ULB spin-offs, Brussels and Montréal offices), read on 04.11.2026",
+        "url": "https://theodorus.be/en"
+      },
+      {
+        "label": "finance&invest.brussels, solutions for start-ups and scale-ups, read on 04.11.2026",
+        "url": "https://finance.brussels/en/our-financing-solutions/start-ups-and-scale-ups/"
+      },
+      {
+        "label": "finance&invest.brussels, brochure \"Mieux comprendre notre offre\" (June 2025, in French)",
+        "url": "https://finance.brussels/wp-content/uploads/2025/06/Mieux-comprendre-notre-offre.pdf"
+      },
+      {
+        "label": "Wallonie Entreprendre, WE Venture Capital (22.01.2026, in French)",
+        "url": "https://www.wallonie-entreprendre.be/fr/actualites/financement/we-venture-capital-une-nouvelle-expertise/"
+      },
+      {
+        "label": "Wallonie Entreprendre, StartUp Boost up to €100,000 (27.02.2026, in French)",
+        "url": "https://www.wallonie-entreprendre.be/fr/actualites/financement/startup-boost-jusqua-100-000-e-pour-financer-les-startups-wallonnes-en-early-stage/"
+      },
+      {
+        "label": "Volta Ventures, launch of the €20M Benelux seed fund (22.04.2025)",
+        "url": "https://www.volta.ventures/volta-launches-e20m-dedicated-seed-fund-for-benelux-startups-and-announces-first-investments/"
+      },
+      {
+        "label": "VIVES, about (VIVES I, II and IUF), read on 04.11.2026",
+        "url": "https://www.vivesfund.com/en/about-vives"
+      },
+      {
+        "label": "VIVES IUF, first closing of €32M (02.07.2020)",
+        "url": "https://www.vivesfund.com/en/news/vives-iuf-new-european-inter-university-fund-eu32m-accelerate-innovation"
+      },
+      {
+        "label": "Noshaq, Noshaq Europe 3 and 4 funds (ERDF), read on 04.11.2026",
+        "url": "https://noshaq.be/en/noshaq-europe-2/"
+      },
+      {
+        "label": "LeanSquare, invest (seed and Series A, Liège, Noshaq group), read on 04.11.2026",
+        "url": "https://leansquare.be/en/invest/"
+      },
+      {
+        "label": "Capricorn Partners, about us, read on 04.11.2026",
+        "url": "https://capricorn.be/en/about-us"
+      },
+      {
+        "label": "Capricorn Partners, Digital Growth Fund first closing at €48M (28.06.2019)",
+        "url": "https://capricorn.be/en/news_items/first-closing-of-capricorn-digital-growth-fund-at-e48-million"
+      },
+      {
+        "label": "Capricorn Partners, Capricorn Healthtech Fund II second closing (12.11.2025)",
+        "url": "https://capricorn.be/storage/files/f6ba7076-1dc6-4a9d-8485-2ffda28cf60f/pr-2025-11-12-chf-ii-second-closing.pdf"
+      },
+      {
+        "label": "Gimv, about Gimv (capital needs of €20M to €100M), read on 04.11.2026",
+        "url": "https://www.gimv.com/en/about-gimv"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is the difference between a venture capital fund and a Walloon invest?",
+        "a": "A venture capital fund takes a minority stake in a young company and aims to sell it at a gain within five to ten years. A Walloon invest lends more often than it takes equity: Namur Invest reports roughly 80% debt in its portfolio. The first costs you percentage points of the company, the second mostly interest."
+      },
+      {
+        "q": "What is the minimum ticket of a venture capital fund in Belgium?",
+        "a": "Among the funds in this ranking, the lowest published figure is €100,000: at Volta Ventures at pre-seed, and as a convertible loan through Wallonie Entreprendre's Startup Boost. Theodorus starts at €250,000. Below €100,000, look at business angels, the Walloon Coup de pouce loan or your province's invest instead."
+      },
+      {
+        "q": "How long does a round with a venture capital fund take?",
+        "a": "Allow several months between the first meeting and the notarial deed: letter of intent, due diligence, shareholders' agreement, capital increase. finance&invest.brussels publishes a three-week deadline for a first answer; the other funds in the panel publish no timeline."
+      },
+      {
+        "q": "Does a venture capital fund take a majority stake?",
+        "a": "In principle no: Theodorus, VIVES, Volta Ventures and finance&invest.brussels invest as minority shareholders. But several successive rounds can take the founders below 50%: at a €3M pre-money, a single €2.5M ticket already costs 45.5% of the company. Control is also negotiated in the shareholders' agreement, through reserved matters."
+      },
+      {
+        "q": "Can the tax shelter be combined with a venture capital fund?",
+        "a": "The start-up tax shelter is aimed at individuals who subscribe directly or through certain approved funds and platforms, within the ceilings set by the SPF Finances (the federal tax administration). It can top up a round led by a fund, provided the company meets the size and age criteria. Have your accountant validate the structure before telling investors about the benefit."
+      },
+      {
+        "q": "Why is ORSA not in this ranking?",
+        "a": "Because ORSA funds established SMEs, with a published ticket of €500,000 to €2.5M, an evergreen fund and a subordinated loan (Smart Bond), not start-ups at seed stage. ORSA is the partner featured by this site; it ranks first in the ranking of funds for SMEs and in the ranking of Walloon invests."
+      }
+    ],
+    "items": [
+      {
+        "rank": 1,
+        "nom": "Theodorus",
+        "score": "88/100",
+        "badge": "Seed, Brussels",
+        "bestFor": "Deeptech, biotech or medtech spin-off or start-up raising €250,000 to €2.5M",
+        "verdict": "The only fund in the panel that publishes both an entry ticket and a per-company ceiling, with more than €70M under management. Reserved for proprietary technology.",
+        "pros": [
+          "Published ticket: €250,000 on the first investment, up to €2.5M per company",
+          "Spin-offs from ULB or elsewhere, in Belgium and Canada",
+          "More than €70M under management across four funds"
+        ],
+        "cons": [
+          "Biotech, medtech and engineering sciences only",
+          "Instrument not detailed on its pages"
+        ],
+        "prix": "€250,000 to €2.5M",
+        "url": "https://theodorus.be/about-us/"
+      },
+      {
+        "rank": 2,
+        "nom": "finance&invest.brussels",
+        "score": "83/100",
+        "badge": "Brussels",
+        "bestFor": "Start-up or scale-up based in the Brussels-Capital Region, any sector",
+        "verdict": "The widest toolkit in the panel (minority equity, convertible, subordinated loan) and a published response time. Only funds Brussels companies, and never alone in equity.",
+        "pros": [
+          "Minority equity, convertible loan, subordinated loan, Proxi loan",
+          "€100,000 to €5M per the June 2025 brochure; loans up to €5M",
+          "First answer promised within three weeks"
+        ],
+        "cons": [
+          "Brussels-Capital Region only",
+          "In equity, always alongside other investors"
+        ],
+        "prix": "€100,000 to €5M",
+        "url": "https://finance.brussels/en/our-financing-solutions/start-ups-and-scale-ups/"
+      },
+      {
+        "rank": 3,
+        "nom": "Wallonie Entreprendre (WE Venture Capital, Startup Boost)",
+        "score": "79/100",
+        "badge": "Wallonia, pre-seed",
+        "bestFor": "Walloon start-up under three years old looking for its first €100,000",
+        "verdict": "The only public door in the panel that publishes a pre-seed ticket and its conversion terms. Beyond that, WE Venture Capital does not put a figure on its ticket.",
+        "pros": [
+          "Startup Boost: convertible loan up to €100,000, 20% or 25% discount",
+          "WE Venture Capital: patient capital in digital, deeptech and life sciences",
+          "Can co-invest with the provincial invests"
+        ],
+        "cons": [
+          "WE Venture Capital ticket not published",
+          "Selective Startup Boost: about 15 start-ups a year"
+        ],
+        "prix": "up to €100,000 (Startup Boost)",
+        "url": "https://www.wallonie-entreprendre.be/fr/actualites/financement/startup-boost-jusqua-100-000-e-pour-financer-les-startups-wallonnes-en-early-stage/"
+      },
+      {
+        "rank": 4,
+        "nom": "Volta Ventures",
+        "score": "78/100",
+        "badge": "Pre-seed and seed, B2B",
+        "bestFor": "B2B software company in the Benelux raising €100,000 to €1M",
+        "verdict": "The clearest range in the panel and a €20M seed fund launched in April 2025. No point applying outside B2B software.",
+        "pros": [
+          "Published ticket: €100,000 to €1M, with follow-on potential",
+          "Pre-seed and seed",
+          "€145M under management"
+        ],
+        "cons": [
+          "B2B software only",
+          "No published Walloon presence"
+        ],
+        "prix": "€100,000 to €1M",
+        "url": "https://www.volta.ventures/volta-launches-e20m-dedicated-seed-fund-for-benelux-startups-and-announces-first-investments/"
+      },
+      {
+        "rank": 5,
+        "nom": "VIVES (UCLouvain)",
+        "score": "76/100",
+        "badge": "Spin-offs, through growth",
+        "bestFor": "Spin-off from UCLouvain or a partner university, from seed to growth",
+        "verdict": "The highest ceiling among the seed funds in the panel, up to €5M per company, with Walloon invests among its investors. No published minimum ticket.",
+        "pros": [
+          "Up to €5M per company, from creation to growth",
+          "VIVES IUF: €75M stated, multi-sector",
+          "Walloon public and private investors, including Investsud (ORSA) and Namur Invest"
+        ],
+        "cons": [
+          "Minimum ticket not published",
+          "Priority to spin-offs from partner universities"
+        ],
+        "prix": "up to €5M",
+        "url": "https://www.vivesfund.com/en/about-vives"
+      },
+      {
+        "rank": 6,
+        "nom": "Noshaq (Noshaq Europe 4, LeanSquare)",
+        "score": "70/100",
+        "badge": "Province of Liège",
+        "bestFor": "Innovative start-up or SME based in the province of Liège",
+        "verdict": "The largest published public seed vehicle in the province of Liège, nearly €38M for Noshaq Europe 4, but no ticket. LeanSquare covers seed and Series A in entertainment.",
+        "pros": [
+          "Noshaq Europe 4: nearly €38M (ERDF 2021-2027), loans or equity",
+          "LeanSquare: seed and Series A, group fund based in Liège",
+          "Written eligibility criteria (SME, fewer than 250 FTE)"
+        ],
+        "cons": [
+          "Ticket not published",
+          "Operating site in the province of Liège required for Noshaq Europe 4"
+        ],
+        "prix": "not published",
+        "url": "https://noshaq.be/en/noshaq-europe-2/"
+      },
+      {
+        "rank": 7,
+        "nom": "Capricorn Partners",
+        "score": "61/100",
+        "badge": "Digital, health, cleantech",
+        "bestFor": "Belgian or Dutch tech scale-up preparing a European round",
+        "verdict": "The oldest manager in the panel (1993), with published sector funds, but no ticket and no precise Belgian area. A Series A counterpart rather than a seed one.",
+        "pros": [
+          "Cleantech, Digital, Fusion and Health funds",
+          "Digital Growth Fund: €48M at first closing (2019)",
+          "Healthtech Fund II: €100M target, focus on Belgium and the Netherlands"
+        ],
+        "cons": [
+          "Ticket not published",
+          "European area, no published Walloon or Brussels priority"
+        ],
+        "prix": "not published",
+        "url": "https://capricorn.be/en/about-us"
+      }
+    ]
   }
 }

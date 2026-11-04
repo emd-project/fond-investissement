@@ -590,5 +590,274 @@
         "url": "https://www.idelux.be/sites/default/files/2024-01/La_S_A__Luxembourg_D%C3%A9veloppement_Europe_2.pdf"
       }
     ]
+  },
+  "fonds-capital-risque-belgique": {
+    "slug": "fonds-capital-risque-belgique",
+    "label": "fonds de capital-risque",
+    "genre": "m",
+    "title": "Fonds de capital-risque en Belgique : 7 fonds comparés",
+    "updated": "2026-11-04",
+    "excerpt": "Sept fonds de capital-risque belges classés pour une start-up wallonne ou bruxelloise : ticket, instrument et zone tels que publiés, relevés et datés.",
+    "intro": "Pour une start-up wallonne ou bruxelloise qui lève entre 250 000 € et 2,5 M€, je place Theodorus en tête, devant finance&invest.brussels et Wallonie Entreprendre. Theodorus publie un ticket précis, de 250 000 € au premier investissement jusqu'à 2,5 M€ par entreprise, et finance des spin-offs issues ou non de l'ULB. Volta Ventures et VIVES suivent : le premier publie la fourchette la plus lisible du panel (100 000 € à 1 M€) mais ne finance que le logiciel B2B, le second va jusqu'à 5 M€ par entreprise mais part des universités. Noshaq et Capricorn Partners ferment la marche, faute de ticket publié.\n\nUn fonds de capital-risque prend une part minoritaire du capital d'une jeune entreprise non cotée, avec l'idée de la revendre plus cher cinq à dix ans plus tard. Il n'achète pas un rendement fixe : il achète un pourcentage de votre société, et souvent un siège au conseil d'administration avec lui. C'est la différence avec un invest qui vous prête en prêt subordonné, et c'est pour ça que le ticket compte moins que la part qu'il vous coûte.\n\nTrois limites, posées tout de suite. Le rang mesure ce que chaque fonds publie et l'adéquation à une entreprise établie en Wallonie ou à Bruxelles, pas vos chances d'obtenir un term sheet. Aucun fonds n'a relu ce classement, et je n'ai déposé de dossier chez aucun d'eux. Enfin, ORSA, partenaire mis en avant par ce site, n'apparaît pas dans ce panel : c'est un fonds pour PME établies, pas un fonds de capital-risque, et je l'explique plus bas. Données relevées sur les sites des fonds le 04.11.2026, sauf mention contraire.",
+    "tldr": [
+      "Theodorus publie le ticket le plus net pour une start-up bruxelloise ou wallonne : 250 000 € au premier tour, jusqu'à 2,5 M€ par entreprise, plus de 70 M€ sous gestion.",
+      "Sous 100 000 €, la porte publique est le Startup Boost de Wallonie Entreprendre : prêt convertible jusqu'à 100 000 €, start-up de moins de trois ans, décote de 20 % ou 25 % à la conversion.",
+      "Volta Ventures publie 100 000 € à 1 M€ en pré-seed et seed, mais pour le seul logiciel B2B ; VIVES va jusqu'à 5 M€ par entreprise à partir de l'écosystème UCLouvain.",
+      "À 3 M€ de valorisation pre-money, 1 M€ de capital-risque vous coûte 25 % du capital ; à 6 M€, 14,3 % : négociez la valorisation avant le ticket.",
+      "Noshaq (Noshaq Europe 4, près de 38 M€, province de Liège) et Capricorn Partners ne publient aucun ticket : demandez-le au premier appel."
+    ],
+    "sections": [
+      {
+        "q": "Quel fonds de capital-risque selon le stade de votre start-up ?",
+        "body": "Le stade décide de la liste bien avant la région. Un fonds qui investit 5 M€ ne regardera pas un dossier de pré-seed, et un prêt convertible de 100 000 € ne financera jamais une série A.\n\nAu pré-seed, deux portes publient leurs conditions. Le Startup Boost de Wallonie Entreprendre prête jusqu'à 100 000 € en convertible aux start-up wallonnes de moins de trois ans (page du 27.02.2026). Volta Ventures entre dès 100 000 €, en pré-seed comme en seed, pour du logiciel B2B au Benelux (annonce du 22.04.2025).\n\nAu seed, entre 250 000 € et 2,5 M€, Theodorus est le fonds le plus explicite : 250 000 € pour un premier investissement, puis jusqu'à 2,5 M€ par entreprise sur la durée. finance&invest.brussels intervient à Bruxelles en capital minoritaire, en convertible ou en prêt subordonné, avec des prêts jusqu'à 5 M€. LeanSquare, fonds du groupe Noshaq basé à Liège, annonce le seed et la série A, mais seulement dans ce qu'il appelle l'industrie de l'expérience (musique, sport, e-sport, jeu vidéo, événementiel).\n\nÀ la série A et au-delà, VIVES publie jusqu'à 5 M€ par entreprise, de la création de la spin-off à la croissance. Capricorn Partners dit investir du start-up au scale-up dans le digital, la santé et les technologies propres, sans chiffrer son ticket.\n\nUn conseil de méthode : écrivez votre besoin sur dix-huit mois avant d'appeler qui que ce soit. Un fonds qui lit « 600 000 € pour atteindre 1 M€ de revenus récurrents » sait en une minute si vous êtes dans sa fourchette."
+      },
+      {
+        "q": "Combien de capital cède-t-on pour un ticket de capital-risque ?",
+        "body": "La part cédée se calcule en une division : le ticket divisé par la valorisation post-money, c'est-à-dire la valorisation pre-money plus le ticket. Le ticket seul ne vous dit rien.\n\nJ'ai fait le calcul sur deux valorisations pre-money, 3 M€ et 6 M€, pour les montants qui reviennent dans les fourchettes publiées. 100 000 € coûtent 3,2 % du capital à 3 M€ et 1,6 % à 6 M€. 250 000 €, le premier ticket de Theodorus : 7,7 % et 4,0 %. 500 000 € : 14,3 % et 7,7 %. 1 M€, le plafond de Volta Ventures : 25,0 % et 14,3 %. 2,5 M€, le plafond de Theodorus : 45,5 % et 29,4 %.\n\nLa ligne qui fâche est la dernière. Un fondateur qui accepte 2,5 M€ sur 3 M€ de pre-money garde à peine plus de la moitié de sa société après un seul tour, et il lui en restera moins après la série A. Doubler la valorisation pre-money fait passer la part cédée de 45,5 % à 29,4 % pour le même chèque : c'est là que se joue la négociation, pas sur le montant.\n\nCes pourcentages ignorent le pool d'options pour l'équipe et la conversion d'un éventuel prêt convertible antérieur, qui diluent encore. Faites refaire le calcul par votre expert-comptable sur la table de capitalisation réelle avant de signer la lettre d'intention."
+      },
+      {
+        "q": "Faut-il être une spin-off universitaire pour intéresser Theodorus ou VIVES ?",
+        "body": "Non, mais l'université reste leur premier réservoir de dossiers.\n\nTheodorus a l'ULB pour partenaire historique et un accès prioritaire à ses résultats de recherche. Sa page entrepreneurs précise qu'il finance des spin-offs « issues ou non de l'ULB », en biotech, medtech et sciences de l'ingénieur ; Theodorus III pouvait placer jusqu'à 15 % de ses montants hors du périmètre ULB, Theodorus IV couvre la Belgique et le Canada, avec un bureau à Montréal.\n\nVIVES est géré dans l'orbite de l'UCLouvain. VIVES IUF, son fonds interuniversitaire lancé en 2020, investit dans les spin-offs de l'UCLouvain, de la KU Leuven, de l'Université de Paris, de Wageningen et de l'Université du Luxembourg, et dans des start-up situées dans l'Union européenne. Sa page À propos annonce 75 M€ ; le premier closing, annoncé le 02.07.2020, atteignait 32 M€.\n\nUne start-up sans lien universitaire peut donc frapper chez les deux, à condition d'avoir une technologie propriétaire. Une agence web ou une marque de cosmétiques n'y a pas sa place."
+      },
+      {
+        "q": "Fonds public ou fonds privé : qui finance une start-up wallonne ou bruxelloise ?",
+        "body": "Les deux, et souvent dans le même tour. La frontière est moins nette qu'on ne le croit : les fonds privés belges ont presque tous un acteur public parmi leurs souscripteurs.\n\nCôté public, Wallonie Entreprendre a regroupé le 22.01.2026 ses équipes digital-deeptech et sciences de la vie dans WE Venture Capital, qui investit du capital patient en Wallonie (intelligence artificielle, logiciel industriel, cybersécurité, nouveaux matériaux, robotique, biotech, medtech). finance&invest.brussels fait le même métier pour la Région de Bruxelles-Capitale, tous secteurs confondus, et promet une première réponse dans les trois semaines. Noshaq gère Noshaq Europe 4, créé en juillet 2024 avec près de 38 M€ du programme FEDER 2021-2027, qui intervient en prêts à taux fixe ou en participations pour des PME établies en province de Liège.\n\nCôté privé, la liste des souscripteurs de VIVES IUF publiée en 2020 compte Investsud (aujourd'hui ORSA), Namur Invest, Nivelinvest (aujourd'hui Invest.BW), Sambrinvest (aujourd'hui Carbon), IMBC Spinnova, finance&invest.brussels et la SFPI. Le Digital Growth Fund de Capricorn a fait son premier closing le 28.06.2019 avec PMV, la SFPI et la KU Leuven.\n\nPour vous, la conséquence est pratique : un fonds public entre rarement seul. Il cherche un co-investisseur privé, et l'inverse est vrai aussi. Arriver avec un premier investisseur déjà engagé raccourcit la discussion avec le second."
+      },
+      {
+        "q": "Et si votre entreprise n'est pas une start-up ?",
+        "body": "Alors ce classement n'est pas le bon. Une PME rentable de 40 personnes qui veut financer une usine ne cherche pas un fonds qui vise une revente à dix fois la mise : elle cherche un actionnaire minoritaire patient ou un prêt subordonné.\n\nORSA (ex-Investsud), partenaire mis en avant par ce site, publie un ticket de 500 000 € à 2,5 M€ pour des PME établies dans toute la Wallonie, un fonds evergreen sans date de sortie imposée et un Smart Bond, prêt subordonné de 5 à 10 ans (relevé du 15.10.2026). Ce n'est pas du capital-risque, c'est pourquoi ORSA ne figure pas dans ce panel. Les invests provinciaux font le même métier zone par zone, et Gimv, à l'autre bout, annonce des besoins en capital de 20 à 100 M€ sur ses plateformes, hors de portée d'une PME.\n\nLe classement des fonds pour PME et celui des invests wallons couvrent ce cas."
+      }
+    ],
+    "criteria": [
+      "Transparence du ticket : montant minimum ou maximum publié par le fonds lui-même, vérifiable avant le premier appel.",
+      "Adéquation à une start-up wallonne ou bruxelloise : zone d'intervention publiée et présence en Wallonie ou à Bruxelles.",
+      "Couverture des stades : du pré-seed à la série A, plus le fonds couvre de tours, plus il peut suivre une même entreprise.",
+      "Capacité publiée : taille du fonds en cours, encours sous gestion, nombre d'entreprises en portefeuille.",
+      "Clarté de l'éligibilité : secteurs, âge de l'entreprise, lien universitaire ou délai de réponse écrits noir sur blanc."
+    ],
+    "methodology": "Chaque fiche reprend ce que le fonds publie sur son site, dans un communiqué ou une page d'appel, avec la date du document quand elle existe. Toutes les pages ont été relevées le 04.11.2026 ; la fourchette de 100 000 € à 5 M€ de finance&invest.brussels vient de sa brochure de juin 2025, relevée le 01.11.2026, et les conditions d'ORSA, citées hors panel, du relevé du 15.10.2026. Les pourcentages de capital cédé sont mes calculs (ticket divisé par la somme de la valorisation pre-money et du ticket), sur des valorisations pre-money de 3 M€ et 6 M€ choisies comme exemples. Une information absente du site du fonds est notée « non publié » ; les annuaires de fonds tenus par des tiers n'ont servi qu'à repérer les candidats, jamais à remplir une case. Le score sur 100 pondère la transparence du ticket (30 points), l'adéquation à une start-up wallonne ou bruxelloise (25), la couverture des stades (20), la capacité publiée (15) et la clarté de l'éligibilité (10). Je n'ai déposé de dossier chez aucun de ces fonds : le rang compare des informations publiées, pas la qualité d'un accompagnement.",
+    "sources": [
+      {
+        "label": "Theodorus, about us (tickets, fonds I à IV, encours), relevé le 04.11.2026",
+        "url": "https://theodorus.be/about-us/"
+      },
+      {
+        "label": "Theodorus, page entrepreneurs (secteurs, spin-offs ULB ou non, bureaux de Bruxelles et Montréal), relevé le 04.11.2026",
+        "url": "https://theodorus.be/en"
+      },
+      {
+        "label": "finance&invest.brussels, solutions pour start-up et scale-up, relevé le 04.11.2026",
+        "url": "https://finance.brussels/en/our-financing-solutions/start-ups-and-scale-ups/"
+      },
+      {
+        "label": "finance&invest.brussels, brochure « Mieux comprendre notre offre » (juin 2025)",
+        "url": "https://finance.brussels/wp-content/uploads/2025/06/Mieux-comprendre-notre-offre.pdf"
+      },
+      {
+        "label": "Wallonie Entreprendre, WE Venture Capital (22.01.2026)",
+        "url": "https://www.wallonie-entreprendre.be/fr/actualites/financement/we-venture-capital-une-nouvelle-expertise/"
+      },
+      {
+        "label": "Wallonie Entreprendre, StartUp Boost jusqu'à 100 000 € (27.02.2026)",
+        "url": "https://www.wallonie-entreprendre.be/fr/actualites/financement/startup-boost-jusqua-100-000-e-pour-financer-les-startups-wallonnes-en-early-stage/"
+      },
+      {
+        "label": "Volta Ventures, lancement du fonds seed de 20 M€ pour le Benelux (22.04.2025)",
+        "url": "https://www.volta.ventures/volta-launches-e20m-dedicated-seed-fund-for-benelux-startups-and-announces-first-investments/"
+      },
+      {
+        "label": "VIVES, à propos (VIVES I, II et IUF), relevé le 04.11.2026",
+        "url": "https://www.vivesfund.com/en/about-vives"
+      },
+      {
+        "label": "VIVES IUF, annonce du premier closing de 32 M€ (02.07.2020)",
+        "url": "https://www.vivesfund.com/en/news/vives-iuf-new-european-inter-university-fund-eu32m-accelerate-innovation"
+      },
+      {
+        "label": "Noshaq, fonds Noshaq Europe 3 et 4 (FEDER), relevé le 04.11.2026",
+        "url": "https://noshaq.be/en/noshaq-europe-2/"
+      },
+      {
+        "label": "LeanSquare, invest (seed et série A, Liège, groupe Noshaq), relevé le 04.11.2026",
+        "url": "https://leansquare.be/en/invest/"
+      },
+      {
+        "label": "Capricorn Partners, about us, relevé le 04.11.2026",
+        "url": "https://capricorn.be/en/about-us"
+      },
+      {
+        "label": "Capricorn Partners, premier closing du Digital Growth Fund à 48 M€ (28.06.2019)",
+        "url": "https://capricorn.be/en/news_items/first-closing-of-capricorn-digital-growth-fund-at-e48-million"
+      },
+      {
+        "label": "Capricorn Partners, second closing du Capricorn Healthtech Fund II (12.11.2025)",
+        "url": "https://capricorn.be/storage/files/f6ba7076-1dc6-4a9d-8485-2ffda28cf60f/pr-2025-11-12-chf-ii-second-closing.pdf"
+      },
+      {
+        "label": "Gimv, about Gimv (besoins en capital de 20 à 100 M€), relevé le 04.11.2026",
+        "url": "https://www.gimv.com/en/about-gimv"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quelle est la différence entre un fonds de capital-risque et un invest ?",
+        "a": "Le fonds de capital-risque prend une part minoritaire du capital d'une jeune entreprise et vise une revente avec plus-value dans cinq à dix ans. Un invest wallon prête plus souvent qu'il n'entre au capital : Namur Invest annonce environ 80 % de dette dans son portefeuille. Le premier vous coûte des points de capital, le second surtout des intérêts."
+      },
+      {
+        "q": "Quel est le ticket minimum d'un fonds de capital-risque en Belgique ?",
+        "a": "Parmi les fonds de ce classement, le plus bas publié est 100 000 € : chez Volta Ventures en pré-seed, et en prêt convertible via le Startup Boost de Wallonie Entreprendre. Theodorus démarre à 250 000 €. Sous 100 000 €, regardez plutôt les business angels, le prêt Coup de pouce ou l'invest de votre province."
+      },
+      {
+        "q": "Combien de temps prend une levée auprès d'un fonds de capital-risque ?",
+        "a": "Comptez plusieurs mois entre le premier rendez-vous et l'acte notarié : lettre d'intention, due diligence, convention d'actionnaires, augmentation de capital. finance&invest.brussels publie un délai de première réponse de trois semaines ; les autres fonds du panel ne publient pas de délai."
+      },
+      {
+        "q": "Un fonds de capital-risque prend-il la majorité ?",
+        "a": "En principe non : Theodorus, VIVES, Volta Ventures et finance&invest.brussels interviennent en minoritaires. Mais plusieurs tours successifs peuvent faire passer les fondateurs sous 50 % : à 3 M€ de pre-money, un seul ticket de 2,5 M€ coûte déjà 45,5 % du capital. Le contrôle se négocie aussi dans la convention, via les décisions réservées."
+      },
+      {
+        "q": "Peut-on cumuler le tax shelter et un fonds de capital-risque ?",
+        "a": "Le tax shelter start-up s'adresse aux particuliers qui souscrivent directement ou via certains fonds et plateformes agréés, sous les plafonds fixés par le SPF Finances. Il peut compléter un tour mené par un fonds, à condition que l'entreprise remplisse les critères de taille et d'âge. Faites valider le montage par votre expert-comptable avant de communiquer l'avantage aux investisseurs."
+      },
+      {
+        "q": "Pourquoi ORSA n'est-il pas dans ce classement ?",
+        "a": "Parce qu'ORSA finance des PME établies, avec un ticket publié de 500 000 € à 2,5 M€, un fonds evergreen et un prêt subordonné (Smart Bond), et non des start-up en amorçage. ORSA est le partenaire mis en avant par ce site ; il figure en tête du classement des fonds pour PME et de celui des invests wallons."
+      }
+    ],
+    "items": [
+      {
+        "rank": 1,
+        "nom": "Theodorus",
+        "score": "88/100",
+        "badge": "Seed, Bruxelles",
+        "bestFor": "Spin-off ou start-up deeptech, biotech ou medtech qui lève 250 000 € à 2,5 M€",
+        "verdict": "Le seul fonds du panel qui publie un ticket d'entrée et un plafond par entreprise, avec plus de 70 M€ sous gestion. Réservé aux technologies propriétaires.",
+        "pros": [
+          "Ticket publié : 250 000 € au premier investissement, jusqu'à 2,5 M€ par entreprise",
+          "Spin-offs issues ou non de l'ULB, en Belgique et au Canada",
+          "Plus de 70 M€ sous gestion sur quatre fonds"
+        ],
+        "cons": [
+          "Biotech, medtech et sciences de l'ingénieur uniquement",
+          "Instrument non détaillé sur ses pages"
+        ],
+        "prix": "250 000 € à 2,5 M€",
+        "url": "https://theodorus.be/about-us/"
+      },
+      {
+        "rank": 2,
+        "nom": "finance&invest.brussels",
+        "score": "83/100",
+        "badge": "Bruxelles",
+        "bestFor": "Start-up ou scale-up établie dans la Région de Bruxelles-Capitale, tous secteurs",
+        "verdict": "La palette la plus large du panel (capital minoritaire, convertible, prêt subordonné) et un délai de réponse publié. Ne finance que des entreprises bruxelloises, et jamais seul en capital.",
+        "pros": [
+          "Capital minoritaire, prêt convertible, prêt subordonné, prêt Proxi",
+          "100 000 € à 5 M€ selon la brochure de juin 2025 ; prêts jusqu'à 5 M€",
+          "Première réponse promise dans les trois semaines"
+        ],
+        "cons": [
+          "Région de Bruxelles-Capitale uniquement",
+          "En capital, toujours aux côtés d'autres investisseurs"
+        ],
+        "prix": "100 000 € à 5 M€",
+        "url": "https://finance.brussels/en/our-financing-solutions/start-ups-and-scale-ups/"
+      },
+      {
+        "rank": 3,
+        "nom": "Wallonie Entreprendre (WE Venture Capital, Startup Boost)",
+        "score": "79/100",
+        "badge": "Wallonie, pré-seed",
+        "bestFor": "Start-up wallonne de moins de trois ans qui cherche ses premiers 100 000 €",
+        "verdict": "La seule porte publique du panel qui publie un ticket de pré-seed et ses conditions de conversion. Au-delà, WE Venture Capital ne chiffre pas son ticket.",
+        "pros": [
+          "Startup Boost : prêt convertible jusqu'à 100 000 €, décote de 20 % ou 25 %",
+          "WE Venture Capital : capital patient en digital, deeptech et sciences de la vie",
+          "Peut co-investir avec les invests provinciaux"
+        ],
+        "cons": [
+          "Ticket de WE Venture Capital non publié",
+          "Startup Boost sélectif : environ 15 start-up par an"
+        ],
+        "prix": "jusqu'à 100 000 € (Startup Boost)",
+        "url": "https://www.wallonie-entreprendre.be/fr/actualites/financement/startup-boost-jusqua-100-000-e-pour-financer-les-startups-wallonnes-en-early-stage/"
+      },
+      {
+        "rank": 4,
+        "nom": "Volta Ventures",
+        "score": "78/100",
+        "badge": "Pré-seed et seed, B2B",
+        "bestFor": "Éditeur de logiciel B2B au Benelux qui lève 100 000 € à 1 M€",
+        "verdict": "La fourchette la plus lisible du panel et un fonds seed de 20 M€ lancé en avril 2025. Inutile de candidater hors du logiciel B2B.",
+        "pros": [
+          "Ticket publié : 100 000 € à 1 M€, avec réinvestissement possible",
+          "Pré-seed et seed",
+          "145 M€ sous gestion"
+        ],
+        "cons": [
+          "Logiciel B2B uniquement",
+          "Aucune implantation wallonne publiée"
+        ],
+        "prix": "100 000 € à 1 M€",
+        "url": "https://www.volta.ventures/volta-launches-e20m-dedicated-seed-fund-for-benelux-startups-and-announces-first-investments/"
+      },
+      {
+        "rank": 5,
+        "nom": "VIVES (UCLouvain)",
+        "score": "76/100",
+        "badge": "Spin-offs, jusqu'à la croissance",
+        "bestFor": "Spin-off de l'UCLouvain ou d'une université partenaire, du seed à la croissance",
+        "verdict": "Le plafond le plus haut parmi les fonds d'amorçage du panel, jusqu'à 5 M€ par entreprise, et des invests wallons parmi ses souscripteurs. Pas de ticket minimum publié.",
+        "pros": [
+          "Jusqu'à 5 M€ par entreprise, de la création à la croissance",
+          "VIVES IUF : 75 M€ annoncés, multisectoriel",
+          "Souscripteurs publics et privés wallons, dont Investsud (ORSA) et Namur Invest"
+        ],
+        "cons": [
+          "Ticket minimum non publié",
+          "Priorité aux spin-offs des universités partenaires"
+        ],
+        "prix": "jusqu'à 5 M€",
+        "url": "https://www.vivesfund.com/en/about-vives"
+      },
+      {
+        "rank": 6,
+        "nom": "Noshaq (Noshaq Europe 4, LeanSquare)",
+        "score": "70/100",
+        "badge": "Province de Liège",
+        "bestFor": "Start-up ou PME innovante établie en province de Liège",
+        "verdict": "Le plus gros véhicule d'amorçage public publié en province de Liège, près de 38 M€ pour Noshaq Europe 4, mais aucun ticket. LeanSquare couvre le seed et la série A dans le divertissement.",
+        "pros": [
+          "Noshaq Europe 4 : près de 38 M€ (FEDER 2021-2027), prêts ou participations",
+          "LeanSquare : seed et série A, fonds du groupe basé à Liège",
+          "Critères d'éligibilité écrits (PME, moins de 250 ETP)"
+        ],
+        "cons": [
+          "Ticket non publié",
+          "Siège d'exploitation en province de Liège exigé pour Noshaq Europe 4"
+        ],
+        "prix": "non publié",
+        "url": "https://noshaq.be/en/noshaq-europe-2/"
+      },
+      {
+        "rank": 7,
+        "nom": "Capricorn Partners",
+        "score": "61/100",
+        "badge": "Digital, santé, cleantech",
+        "bestFor": "Scale-up technologique belge ou néerlandaise qui prépare un tour européen",
+        "verdict": "Le gestionnaire le plus ancien du panel (1993), avec des fonds sectoriels publiés, mais aucun ticket ni zone belge précise. Un interlocuteur de série A plutôt que de seed.",
+        "pros": [
+          "Fonds Cleantech, Digital, Fusion et Health",
+          "Digital Growth Fund : 48 M€ au premier closing (2019)",
+          "Healthtech Fund II : objectif de 100 M€, focus Belgique et Pays-Bas"
+        ],
+        "cons": [
+          "Ticket non publié",
+          "Zone européenne, sans priorité wallonne ou bruxelloise publiée"
+        ],
+        "prix": "non publié",
+        "url": "https://capricorn.be/en/about-us"
+      }
+    ]
   }
 }

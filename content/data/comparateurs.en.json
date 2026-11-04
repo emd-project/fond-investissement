@@ -242,5 +242,103 @@
         }
       }
     ]
+  },
+  "fonds-capital-risque-belgique": {
+    "id": "fonds-capital-risque-belgique",
+    "label": "Venture capital fund",
+    "description": "Seven Belgian venture capital funds side by side: ticket, instruments, stage, area and published figures, read on 04.11.2026. The amount shown is the published minimum ticket; a dash is shown when the fund does not publish it.",
+    "specsLabels": {
+      "ticket": "Published ticket",
+      "instruments": "Instruments",
+      "stade": "Stage",
+      "zone": "Area",
+      "chiffres": "Published figures"
+    },
+    "modeles": [
+      {
+        "nom": "Theodorus",
+        "prix": 250000,
+        "sourceUrl": "https://theodorus.be/about-us/",
+        "specs": {
+          "ticket": "€250,000 (first investment) to €2.5M per company",
+          "instruments": "Equity (instrument not detailed)",
+          "stade": "Seed and early stage",
+          "zone": "Belgium and Canada; ULB or non-ULB spin-offs",
+          "chiffres": "More than €70M under management, four funds"
+        }
+      },
+      {
+        "nom": "finance&invest.brussels",
+        "prix": 100000,
+        "sourceUrl": "https://finance.brussels/en/our-financing-solutions/start-ups-and-scale-ups/",
+        "specs": {
+          "ticket": "€100,000 to €5M (June 2025 brochure)",
+          "instruments": "Minority equity, convertible loan, subordinated loan, Proxi loan",
+          "stade": "All stages",
+          "zone": "Brussels-Capital Region",
+          "chiffres": "First answer within three weeks"
+        }
+      },
+      {
+        "nom": "Wallonie Entreprendre (WE Venture Capital, Startup Boost)",
+        "prix": 0,
+        "sourceUrl": "https://www.wallonie-entreprendre.be/fr/actualites/financement/startup-boost-jusqua-100-000-e-pour-financer-les-startups-wallonnes-en-early-stage/",
+        "specs": {
+          "ticket": "Up to €100,000 (Startup Boost); WE Venture Capital not published",
+          "instruments": "Convertible loan (20% or 25% discount), patient capital",
+          "stade": "Pre-seed (under 3 years) then venture capital",
+          "zone": "Wallonia",
+          "chiffres": "Startup Boost: €1.5M a year, about 15 start-ups"
+        }
+      },
+      {
+        "nom": "Volta Ventures",
+        "prix": 100000,
+        "sourceUrl": "https://www.volta.ventures/volta-launches-e20m-dedicated-seed-fund-for-benelux-startups-and-announces-first-investments/",
+        "specs": {
+          "ticket": "€100,000 to €1M",
+          "instruments": "Equity, follow-on possible",
+          "stade": "Pre-seed and seed",
+          "zone": "Benelux, B2B software",
+          "chiffres": "€20M seed fund (2025), €145M under management"
+        }
+      },
+      {
+        "nom": "VIVES (UCLouvain)",
+        "prix": 0,
+        "sourceUrl": "https://www.vivesfund.com/en/about-vives",
+        "specs": {
+          "ticket": "Up to €5M per company",
+          "instruments": "Equity (instrument not detailed)",
+          "stade": "Seed, start-up, growth",
+          "zone": "European Union; UCLouvain and partner-university spin-offs",
+          "chiffres": "VIVES IUF: €75M stated"
+        }
+      },
+      {
+        "nom": "Noshaq (Noshaq Europe 4, LeanSquare)",
+        "prix": 0,
+        "sourceUrl": "https://noshaq.be/en/noshaq-europe-2/",
+        "specs": {
+          "ticket": "not published",
+          "instruments": "Fixed-rate loans or equity; LeanSquare in equity",
+          "stade": "Seed; LeanSquare seed and Series A",
+          "zone": "Province of Liège",
+          "chiffres": "Noshaq Europe 4: nearly €38M (ERDF 2021-2027)"
+        }
+      },
+      {
+        "nom": "Capricorn Partners",
+        "prix": 0,
+        "sourceUrl": "https://capricorn.be/en/about-us",
+        "specs": {
+          "ticket": "not published",
+          "instruments": "Equity",
+          "stade": "From start-up to scale-up",
+          "zone": "Europe; Healthtech Fund II focused on Belgium and the Netherlands",
+          "chiffres": "Digital Growth Fund: €48M at first closing (2019)"
+        }
+      }
+    ]
   }
 }

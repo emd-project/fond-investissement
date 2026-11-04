@@ -275,5 +275,137 @@
         "a": "Oui. Sambrinvest a pris le nom de Carbon le 20 octobre 2026, avec la même zone : les 30 communes de Charleroi Métropole."
       }
     ]
+  },
+  "fonds-capital-risque-belgique": {
+    "tldr": [
+      "Le stade décide de la liste : Startup Boost ou Volta Ventures dès 100 000 €, Theodorus de 250 000 € à 2,5 M€, VIVES jusqu'à 5 M€ par entreprise.",
+      "Votre adresse filtre ensuite : finance&invest.brussels à Bruxelles, Wallonie Entreprendre en Wallonie, Noshaq Europe 4 en province de Liège.",
+      "Votre secteur filtre enfin : logiciel B2B chez Volta, biotech, medtech et ingénierie chez Theodorus, divertissement chez LeanSquare.",
+      "Avant de signer : calculez la part cédée (ticket divisé par pre-money plus ticket) et faites relire la convention par un avocat."
+    ],
+    "sections": [
+      {
+        "id": "stade",
+        "title": "Quel fonds selon le montant et le stade ?",
+        "intro": "Les fourchettes publiées se recouvrent peu. Partez de votre besoin sur dix-huit mois.",
+        "table": {
+          "headers": [
+            "Besoin",
+            "Piste à regarder",
+            "Source publiée"
+          ],
+          "rows": [
+            [
+              "Moins de 100 000 €, start-up wallonne de moins de 3 ans",
+              "Startup Boost (Wallonie Entreprendre)",
+              "Prêt convertible jusqu'à 100 000 €"
+            ],
+            [
+              "100 000 € à 1 M€, logiciel B2B",
+              "Volta Ventures",
+              "Ticket de 100 000 € à 1 M€"
+            ],
+            [
+              "250 000 € à 2,5 M€, biotech, medtech, ingénierie",
+              "Theodorus",
+              "250 000 € au premier tour, 2,5 M€ par entreprise"
+            ],
+            [
+              "100 000 € à 5 M€, entreprise bruxelloise",
+              "finance&invest.brussels",
+              "Capital, convertible ou subordonné"
+            ],
+            [
+              "Jusqu'à 5 M€, spin-off universitaire",
+              "VIVES",
+              "Jusqu'à 5 M€ par entreprise"
+            ]
+          ]
+        },
+        "tip": "Une entreprise qui n'est pas une start-up mais une PME établie relève plutôt d'ORSA ou de l'invest de sa province.",
+        "internalLink": {
+          "text": "Voir le classement complet des fonds de capital-risque",
+          "href": "/classement/fonds-capital-risque-belgique"
+        }
+      },
+      {
+        "id": "dilution",
+        "title": "Combien de capital allez-vous céder ?",
+        "intro": "La part cédée vaut le ticket divisé par la valorisation post-money. Mes calculs, sur deux valorisations pre-money :",
+        "table": {
+          "headers": [
+            "Ticket",
+            "Pre-money 3 M€",
+            "Pre-money 6 M€"
+          ],
+          "rows": [
+            [
+              "100 000 €",
+              "3,2 %",
+              "1,6 %"
+            ],
+            [
+              "250 000 €",
+              "7,7 %",
+              "4,0 %"
+            ],
+            [
+              "500 000 €",
+              "14,3 %",
+              "7,7 %"
+            ],
+            [
+              "1 M€",
+              "25,0 %",
+              "14,3 %"
+            ],
+            [
+              "2,5 M€",
+              "45,5 %",
+              "29,4 %"
+            ]
+          ]
+        },
+        "internalLink": {
+          "text": "Comprendre la liquidation préférentielle avant de signer",
+          "href": "/blog/comprendre-les-fonds/liquidation-preferentielle"
+        }
+      },
+      {
+        "id": "region",
+        "title": "Fonds public ou fonds privé ?",
+        "intro": "Les deux entrent souvent dans le même tour, et un fonds public cherche presque toujours un co-investisseur privé.",
+        "paragraphs": [
+          "Wallonie Entreprendre (WE Venture Capital), finance&invest.brussels et Noshaq investissent de l'argent public régional ou européen, chacun dans sa zone. Theodorus, VIVES, Volta Ventures et Capricorn Partners sont des fonds gérés par des équipes privées, avec des acteurs publics parmi leurs souscripteurs.",
+          "Arriver avec un premier investisseur déjà engagé raccourcit la discussion avec le second. Le délai le plus court publié est celui de finance&invest.brussels : première réponse sous trois semaines."
+        ],
+        "internalLink": {
+          "text": "Comparer les sept fonds côte à côte",
+          "href": "/comparer/fonds-capital-risque-belgique"
+        }
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quel est le ticket minimum d'un fonds de capital-risque en Belgique ?",
+        "a": "Parmi les fonds de ce classement, le plus bas publié est 100 000 € : chez Volta Ventures en pré-seed, et en prêt convertible via le Startup Boost de Wallonie Entreprendre. Theodorus démarre à 250 000 €. Sous 100 000 €, regardez plutôt les business angels, le prêt Coup de pouce ou l'invest de votre province."
+      },
+      {
+        "q": "Un fonds de capital-risque prend-il la majorité ?",
+        "a": "En principe non : Theodorus, VIVES, Volta Ventures et finance&invest.brussels interviennent en minoritaires. Mais plusieurs tours successifs peuvent faire passer les fondateurs sous 50 % : à 3 M€ de pre-money, un seul ticket de 2,5 M€ coûte déjà 45,5 % du capital. Le contrôle se négocie aussi dans la convention, via les décisions réservées."
+      },
+      {
+        "q": "Pourquoi ORSA n'est-il pas dans ce classement ?",
+        "a": "Parce qu'ORSA finance des PME établies, avec un ticket publié de 500 000 € à 2,5 M€, un fonds evergreen et un prêt subordonné (Smart Bond), et non des start-up en amorçage. ORSA est le partenaire mis en avant par ce site ; il figure en tête du classement des fonds pour PME et de celui des invests wallons."
+      },
+      {
+        "q": "Quelle est la différence entre un fonds de capital-risque et un invest ?",
+        "a": "Le fonds de capital-risque prend une part minoritaire du capital d'une jeune entreprise et vise une revente avec plus-value dans cinq à dix ans. Un invest wallon prête plus souvent qu'il n'entre au capital : Namur Invest annonce environ 80 % de dette dans son portefeuille. Le premier vous coûte des points de capital, le second surtout des intérêts."
+      },
+      {
+        "q": "Combien de temps prend une levée auprès d'un fonds de capital-risque ?",
+        "a": "Comptez plusieurs mois entre le premier rendez-vous et l'acte notarié : lettre d'intention, due diligence, convention d'actionnaires, augmentation de capital. finance&invest.brussels publie un délai de première réponse de trois semaines ; les autres fonds du panel ne publient pas de délai."
+      }
+    ]
   }
 }

@@ -242,5 +242,103 @@
         }
       }
     ]
+  },
+  "fonds-capital-risque-belgique": {
+    "id": "fonds-capital-risque-belgique",
+    "label": "Fonds de capital-risque",
+    "description": "Sept fonds de capital-risque belges côte à côte : ticket, instruments, stade, zone et chiffres publiés, relevés le 04.11.2026. Le montant affiché est le ticket minimum publié ; un tiret s'affiche quand le fonds ne le publie pas.",
+    "specsLabels": {
+      "ticket": "Ticket publié",
+      "instruments": "Instruments",
+      "stade": "Stade",
+      "zone": "Zone",
+      "chiffres": "Chiffres publiés"
+    },
+    "modeles": [
+      {
+        "nom": "Theodorus",
+        "prix": 250000,
+        "sourceUrl": "https://theodorus.be/about-us/",
+        "specs": {
+          "ticket": "250 000 € (premier investissement) à 2,5 M€ par entreprise",
+          "instruments": "Capital (instrument non détaillé)",
+          "stade": "Seed et early stage",
+          "zone": "Belgique et Canada ; spin-offs ULB ou non",
+          "chiffres": "Plus de 70 M€ sous gestion, quatre fonds"
+        }
+      },
+      {
+        "nom": "finance&invest.brussels",
+        "prix": 100000,
+        "sourceUrl": "https://finance.brussels/en/our-financing-solutions/start-ups-and-scale-ups/",
+        "specs": {
+          "ticket": "100 000 € à 5 M€ (brochure juin 2025)",
+          "instruments": "Capital minoritaire, prêt convertible, prêt subordonné, prêt Proxi",
+          "stade": "Tous stades",
+          "zone": "Région de Bruxelles-Capitale",
+          "chiffres": "Première réponse sous trois semaines"
+        }
+      },
+      {
+        "nom": "Wallonie Entreprendre (WE Venture Capital, Startup Boost)",
+        "prix": 0,
+        "sourceUrl": "https://www.wallonie-entreprendre.be/fr/actualites/financement/startup-boost-jusqua-100-000-e-pour-financer-les-startups-wallonnes-en-early-stage/",
+        "specs": {
+          "ticket": "Jusqu'à 100 000 € (Startup Boost) ; WE Venture Capital non publié",
+          "instruments": "Prêt convertible (décote 20 % ou 25 %), capital patient",
+          "stade": "Pré-seed (moins de 3 ans) puis capital-risque",
+          "zone": "Wallonie",
+          "chiffres": "Startup Boost : 1,5 M€ par an, environ 15 start-up"
+        }
+      },
+      {
+        "nom": "Volta Ventures",
+        "prix": 100000,
+        "sourceUrl": "https://www.volta.ventures/volta-launches-e20m-dedicated-seed-fund-for-benelux-startups-and-announces-first-investments/",
+        "specs": {
+          "ticket": "100 000 € à 1 M€",
+          "instruments": "Capital, réinvestissement possible",
+          "stade": "Pré-seed et seed",
+          "zone": "Benelux, logiciel B2B",
+          "chiffres": "Fonds seed de 20 M€ (2025), 145 M€ sous gestion"
+        }
+      },
+      {
+        "nom": "VIVES (UCLouvain)",
+        "prix": 0,
+        "sourceUrl": "https://www.vivesfund.com/en/about-vives",
+        "specs": {
+          "ticket": "Jusqu'à 5 M€ par entreprise",
+          "instruments": "Capital (instrument non détaillé)",
+          "stade": "Seed, start-up, croissance",
+          "zone": "Union européenne ; spin-offs UCLouvain et universités partenaires",
+          "chiffres": "VIVES IUF : 75 M€ annoncés"
+        }
+      },
+      {
+        "nom": "Noshaq (Noshaq Europe 4, LeanSquare)",
+        "prix": 0,
+        "sourceUrl": "https://noshaq.be/en/noshaq-europe-2/",
+        "specs": {
+          "ticket": "non publié",
+          "instruments": "Prêts à taux fixe ou participations ; LeanSquare en capital",
+          "stade": "Amorçage ; LeanSquare seed et série A",
+          "zone": "Province de Liège",
+          "chiffres": "Noshaq Europe 4 : près de 38 M€ (FEDER 2021-2027)"
+        }
+      },
+      {
+        "nom": "Capricorn Partners",
+        "prix": 0,
+        "sourceUrl": "https://capricorn.be/en/about-us",
+        "specs": {
+          "ticket": "non publié",
+          "instruments": "Capital",
+          "stade": "Du start-up au scale-up",
+          "zone": "Europe ; Healthtech Fund II centré Belgique et Pays-Bas",
+          "chiffres": "Digital Growth Fund : 48 M€ au premier closing (2019)"
+        }
+      }
+    ]
   }
 }

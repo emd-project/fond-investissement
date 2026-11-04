@@ -256,9 +256,41 @@
       "owns": [
         "fonds capital risque belgique"
       ],
-      "status": "planned",
+      "status": "published",
       "wordsMin": 1000,
-      "mentionSlots": 6
+      "mentionSlots": 6,
+      "localizedPaths": {
+        "en": "/en/classement/fonds-capital-risque-belgique"
+      },
+      "publishedAt": "2026-11-04"
+    },
+    {
+      "type": "comparateur",
+      "slug": "fonds-capital-risque-belgique",
+      "cluster": "c-innovation",
+      "path": "/comparer/fonds-capital-risque-belgique",
+      "localizedPaths": {
+        "en": "/en/comparer/fonds-capital-risque-belgique"
+      },
+      "depth": 2,
+      "owns": [
+        "comparer fonds capital risque"
+      ],
+      "status": "published",
+      "publishedAt": "2026-11-04",
+      "mentionSlots": 7
+    },
+    {
+      "type": "choisir",
+      "slug": "fonds-capital-risque-belgique",
+      "cluster": "c-innovation",
+      "path": "/choisir/fonds-capital-risque-belgique",
+      "depth": 2,
+      "owns": [
+        "quel fonds de capital-risque choisir"
+      ],
+      "status": "published",
+      "publishedAt": "2026-11-04"
     },
     {
       "type": "classement",
