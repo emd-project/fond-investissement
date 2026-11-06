@@ -49,6 +49,7 @@ export const articleSlugFrToEn: Record<string, string> = {
   'rachat-de-parts-sociales-du-fonds': 'buying-back-the-funds-shares',
   'liquidation-preferentielle': 'liquidation-preference',
   'pre-seed-et-seed-en-belgique': 'pre-seed-and-seed-in-belgium',
+  'noshaq-invest-liegeois': 'noshaq-liege-invest',
 }
 
 /** Réciproque EN → FR (dérivée automatiquement). */

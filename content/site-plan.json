@@ -1519,6 +1519,35 @@
       "localizedPaths": {
         "en": "/en/blog/start-up-et-scale-up/pre-seed-and-seed-in-belgium"
       }
+    },
+    {
+      "slug": "noshaq-invest-liegeois",
+      "categorie": "fonds-par-region",
+      "cluster": "c-region",
+      "type": "marque",
+      "owns": [
+        "noshaq",
+        "noshaq financement pme"
+      ],
+      "questions": [
+        "Combien Noshaq met-il sur la table ?",
+        "Qui décide de votre dossier ?",
+        "Combien de temps Noshaq reste-t-il au capital ?"
+      ],
+      "status": "published",
+      "priority": 2,
+      "localizedPaths": {
+        "en": "/en/blog/fonds-par-region/noshaq-liege-invest"
+      },
+      "persona": "dirigeant de PME liégeoise",
+      "brands": [
+        "Noshaq",
+        "Noshaq Europe 4",
+        "LeanSquare",
+        "ORSA",
+        "Theodorus",
+        "Wallonie Entreprendre"
+      ]
     }
   ],
   "budget": {
