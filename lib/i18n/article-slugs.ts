@@ -50,6 +50,7 @@ export const articleSlugFrToEn: Record<string, string> = {
   'liquidation-preferentielle': 'liquidation-preference',
   'pre-seed-et-seed-en-belgique': 'pre-seed-and-seed-in-belgium',
   'noshaq-invest-liegeois': 'noshaq-liege-invest',
+  'credit-vendeur-et-earn-out': 'vendor-loan-or-earn-out',
 }
 
 /** Réciproque EN → FR (dérivée automatiquement). */

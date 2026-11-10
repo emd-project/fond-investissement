@@ -1259,12 +1259,18 @@
         "Qu'est-ce qu'un crédit vendeur ?",
         "Comment se calcule un earn-out ?"
       ],
-      "status": "planned",
+      "status": "published",
       "priority": 3,
+      "localizedPaths": {
+        "en": "/en/blog/reprise-et-transmission/vendor-loan-or-earn-out"
+      },
       "persona": "cédant de PME",
       "brands": [
         "ORSA",
-        "Sowaccess"
+        "Sowaccess",
+        "Wallonie Entreprendre",
+        "WE Cession & Acquisition",
+        "finance&invest.brussels"
       ]
     },
     {
