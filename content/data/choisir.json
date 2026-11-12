@@ -407,5 +407,127 @@
         "a": "Comptez plusieurs mois entre le premier rendez-vous et l'acte notarié : lettre d'intention, due diligence, convention d'actionnaires, augmentation de capital. finance&invest.brussels publie un délai de première réponse de trois semaines ; les autres fonds du panel ne publient pas de délai."
       }
     ]
+  },
+  "reseaux-business-angels": {
+    "tldr": [
+      "Pour un premier tour de 100 000 € à 500 000 € en Wallonie ou à Bruxelles, BeAngels est le seul réseau qui publie ticket et commission (3 % à 5 %).",
+      "Pour 25 000 € à 1 M€, BAN Vlaanderen est ouvert à Bruxelles et au Brabant wallon ; pour une start-up tech qui vise 500 000 €, Syndicate One.",
+      "Pour réunir communauté et angels dans un même tour, Spreds ; pour un mentor sans céder de parts, Réseau Entreprendre Wallonie.",
+      "Avant de signer : calculez la part cédée (ticket divisé par pre-money plus ticket) et demandez les frais par écrit."
+    ],
+    "sections": [
+      {
+        "id": "montant",
+        "title": "Quel réseau selon le montant et le profil ?",
+        "intro": "Les fourchettes publiées se recouvrent. Partez de votre besoin sur dix-huit mois et de ce que vous acceptez de céder.",
+        "table": {
+          "headers": [
+            "Besoin",
+            "Piste à regarder",
+            "Source publiée"
+          ],
+          "rows": [
+            [
+              "100 000 € à 500 000 €, start-up wallonne ou bruxelloise",
+              "BeAngels",
+              "Ticket de 100 000 € à 500 000 €, commission de 3 % à 5 %"
+            ],
+            [
+              "25 000 € à 1 M€, Bruxelles ou Brabant wallon",
+              "BAN Vlaanderen",
+              "Ticket de 25 000 € à 1 M€, toujours minoritaire"
+            ],
+            [
+              "Environ 500 000 €, start-up tech",
+              "Syndicate One",
+              "Ticket moyen d'environ 500 000 €"
+            ],
+            [
+              "50 000 € à 250 000 €, avec sa communauté",
+              "Spreds",
+              "Environ 170 000 € par start-up en 2025"
+            ],
+            [
+              "Un mentor, sans céder de parts",
+              "Réseau Entreprendre Wallonie",
+              "Accompagnement gratuit, prêt d'honneur non chiffré"
+            ]
+          ]
+        },
+        "tip": "Une PME établie et rentable relève plutôt d'ORSA, de l'invest de sa province ou de finance&invest.brussels que d'un réseau de business angels.",
+        "internalLink": {
+          "text": "Voir le classement complet des réseaux de business angels",
+          "href": "/classement/reseaux-business-angels"
+        }
+      },
+      {
+        "id": "dilution",
+        "title": "Combien de capital allez-vous céder ?",
+        "intro": "La part cédée vaut le ticket divisé par la valorisation post-money. Mes calculs, sur deux valorisations pre-money :",
+        "table": {
+          "headers": [
+            "Ticket",
+            "Pre-money 1 M€",
+            "Pre-money 2 M€"
+          ],
+          "rows": [
+            [
+              "150 000 €",
+              "13,0 %",
+              "7,0 %"
+            ],
+            [
+              "300 000 €",
+              "23,1 %",
+              "13,0 %"
+            ],
+            [
+              "500 000 €",
+              "33,3 %",
+              "20,0 %"
+            ]
+          ]
+        },
+        "internalLink": {
+          "text": "Le tax shelter qui allège l'effort de vos business angels",
+          "href": "/blog/start-up-et-scale-up/tax-shelter-start-up-scale-up"
+        }
+      },
+      {
+        "id": "frais",
+        "title": "Combien coûte le réseau ?",
+        "intro": "Un seul réseau du panel publie sa commission. Pour les autres, demandez le détail par écrit.",
+        "paragraphs": [
+          "BeAngels prélève 3 % à 5 % du montant levé auprès de ses membres, seulement en cas d'investissement : 9 000 € à 15 000 € sur 300 000 € levés. BAN Vlaanderen, Spreds (côté société) et Syndicate One ne publient pas leurs frais pour l'entrepreneur. Réseau Entreprendre Wallonie annonce un accompagnement gratuit.",
+          "Trois questions à poser au premier rendez-vous : les frais fixes avant le forum, la base de calcul de la commission, et son sort si le tour se boucle avec des investisseurs extérieurs au réseau."
+        ],
+        "internalLink": {
+          "text": "Comparer les cinq réseaux côte à côte",
+          "href": "/comparer/reseaux-business-angels"
+        }
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quel pourcentage prend un business angel ?",
+        "a": "Il n'y a pas de pourcentage standard : la part vaut le ticket divisé par la valorisation post-money. 150 000 € sur 1 M€ de pre-money représentent 13,0 % du capital, sur 2 M€ 7,0 %. La négociation porte donc d'abord sur la valorisation, puis sur les clauses de la convention d'actionnaires."
+      },
+      {
+        "q": "Combien peut-on lever auprès de business angels en Belgique ?",
+        "a": "Les fourchettes publiées vont de 25 000 € (BAN Vlaanderen) à 1 M€, et BeAngels annonce 100 000 € à 500 000 € pour un premier tour. Les moyennes réelles sont plus basses : 144 000 € par deal chez BAN Vlaanderen en 2024, environ 170 000 € par start-up chez Spreds en 2025."
+      },
+      {
+        "q": "Faut-il payer pour présenter son projet à un réseau de business angels ?",
+        "a": "BeAngels publie une commission de 3 % à 5 % sur le montant levé auprès de ses membres, due seulement en cas d'investissement. Les autres réseaux du panel ne publient pas leurs frais pour l'entrepreneur. Demandez le détail par écrit avant de signer un mandat."
+      },
+      {
+        "q": "Y a-t-il des business angels en Wallonie ?",
+        "a": "Oui. BeAngels couvre Bruxelles et la Wallonie, BAN Vlaanderen a un interlocuteur pour Bruxelles et le Brabant wallon, et Réseau Entreprendre Wallonie a cinq antennes (Liège, Namur-Luxembourg, Charleroi-Hainaut, Brabant wallon, Wallonie picarde). Les invests provinciaux et Wallonie Entreprendre co-investissent souvent à leurs côtés."
+      },
+      {
+        "q": "Les business angels profitent-ils du tax shelter ?",
+        "a": "Oui, s'ils souscrivent des actions nouvelles d'une petite entreprise qui remplit les conditions : 45 % de réduction d'impôt pour une micro-entreprise de moins de quatre ans, 30 % pour une petite entreprise, 25 % en scale-up, dans la limite de 100 000 € par investisseur et par an selon le SPF Finances. Le dirigeant de la société en est exclu."
+      }
+    ]
   }
 }

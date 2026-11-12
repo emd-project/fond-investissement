@@ -300,9 +300,41 @@
       "owns": [
         "business angels belgique"
       ],
-      "status": "planned",
+      "status": "published",
       "wordsMin": 1000,
+      "mentionSlots": 5,
+      "localizedPaths": {
+        "en": "/en/classement/reseaux-business-angels"
+      },
+      "publishedAt": "2026-11-12"
+    },
+    {
+      "type": "comparateur",
+      "slug": "reseaux-business-angels",
+      "cluster": "c-innovation",
+      "path": "/comparer/reseaux-business-angels",
+      "localizedPaths": {
+        "en": "/en/comparer/reseaux-business-angels"
+      },
+      "depth": 2,
+      "owns": [
+        "comparer réseaux business angels"
+      ],
+      "status": "published",
+      "publishedAt": "2026-11-12",
       "mentionSlots": 5
+    },
+    {
+      "type": "choisir",
+      "slug": "reseaux-business-angels",
+      "cluster": "c-innovation",
+      "path": "/choisir/reseaux-business-angels",
+      "depth": 2,
+      "owns": [
+        "quel réseau de business angels choisir"
+      ],
+      "status": "published",
+      "publishedAt": "2026-11-12"
     },
     {
       "type": "classement",

@@ -859,5 +859,244 @@
         "url": "https://capricorn.be/en/about-us"
       }
     ]
+  },
+  "reseaux-business-angels": {
+    "slug": "reseaux-business-angels",
+    "label": "réseaux de business angels",
+    "genre": "m",
+    "title": "Business angels en Belgique : 5 réseaux comparés",
+    "updated": "2026-11-12",
+    "excerpt": "Cinq réseaux de business angels classés pour une start-up wallonne ou bruxelloise : ticket, frais et part cédée tels que publiés, relevés et datés.",
+    "intro": "Pour une start-up wallonne ou bruxelloise qui cherche entre 100 000 € et 500 000 € auprès de business angels, je place BeAngels en tête. C'est le seul réseau du panel qui publie à la fois son ticket (100 000 € à 500 000 € pour un premier tour) et sa commission (3 % à 5 % du montant levé auprès de ses membres). BAN Vlaanderen suit, avec la fourchette la plus large (25 000 € à 1 M€) et des chiffres annuels publiés, mais un centre de gravité flamand. Spreds, Syndicate One et Réseau Entreprendre Wallonie complètent la liste, chacun pour un cas précis.\n\nUn business angel est un particulier qui investit son propre argent dans une jeune société non cotée, en échange d'une part minoritaire du capital, et qui apporte en général son carnet d'adresses et un peu de son temps. Un réseau de business angels ne vous finance pas lui-même : il trie les dossiers, organise les présentations et met en relation. La décision d'investir reste celle de chaque membre, ticket par ticket.\n\nTrois limites, posées tout de suite. Le rang mesure ce que chaque réseau publie et son adéquation à une entreprise installée en Wallonie ou à Bruxelles, pas vos chances de lever. Aucun réseau n'a relu ce classement, et je n'ai présenté de dossier à aucun d'eux. Enfin, ORSA, partenaire mis en avant par ce site, ne figure pas dans ce panel : c'est un fonds pour PME établies, pas un réseau d'investisseurs particuliers. Données relevées le 12.11.2026 sur les pages citées en sources, chacune avec sa propre date.",
+    "tldr": [
+      "BeAngels publie le ticket le plus net pour un premier tour en Wallonie ou à Bruxelles : 100 000 € à 500 000 €, contre une commission de 3 % à 5 % du montant levé auprès de ses membres.",
+      "BAN Vlaanderen accepte de 25 000 € à 1 M€ et publie ses chiffres : 203 membres, 18 deals et 2,45 M€ investis en 2024, soit 144 000 € en moyenne par deal.",
+      "Les montants réellement levés par start-up se ressemblent d'un réseau à l'autre : environ 152 000 € chez BeAngels (2023, mon calcul), 144 000 € chez BAN, 170 000 € chez Spreds (2025).",
+      "À 1 M€ de valorisation pre-money, 150 000 € de business angels vous coûtent 13,0 % du capital ; à 2 M€, 7,0 % : la valorisation compte plus que le réseau.",
+      "Réseau Entreprendre Wallonie ne prend aucune part : 266 chefs d'entreprise y accompagnent des créateurs et des repreneurs, avec un prêt d'honneur dont le montant n'est pas publié."
+    ],
+    "sections": [
+      {
+        "q": "Qu'est-ce qu'un business angel, et que lui cédez-vous ?",
+        "body": "Une part de votre société, presque toujours. Le business angel souscrit des actions nouvelles lors d'une augmentation de capital, ou un prêt convertible qui deviendra des actions au tour suivant. Il ne prête pas à taux fixe comme une banque ou un invest.\n\nSa part est minoritaire. BeAngels parle d'une prise de participation minoritaire, BAN Vlaanderen écrit noir sur blanc que la participation est toujours minoritaire. Mais minoritaire ne veut pas dire sans pouvoir : la convention d'actionnaires qui accompagne l'entrée prévoit en général un droit d'information, parfois un siège d'observateur au conseil, souvent une clause de sortie conjointe. Ce sont ces clauses, plus que le pourcentage, qui décident de votre liberté pendant cinq ans.\n\nDeux différences avec un fonds. Le business angel investit son propre patrimoine, ce qui rend les tickets plus petits : la moyenne publiée par BAN Vlaanderen pour 2024 est de 144 000 € par deal, souvent répartis entre plusieurs membres. Et il n'a pas de date de fin de fonds qui l'oblige à vendre, même s'il attend une sortie, en principe par revente à un industriel ou à un fonds, dans un horizon de cinq à dix ans.\n\nLe tax shelter change aussi le calcul de l'investisseur, pas le vôtre. Un particulier qui met 50 000 € dans une micro-entreprise de moins de quatre ans récupère 45 % en réduction d'impôt, soit 22 500 € ; son effort net tombe à 27 500 € pour la même part. Dans une petite entreprise du même âge, la réduction est de 30 %, soit 15 000 €. Le plafond est de 100 000 € par investisseur et par an, selon le SPF Finances. Vérifiez avec votre expert-comptable que votre société remplit les conditions avant de le promettre à qui que ce soit."
+      },
+      {
+        "q": "Quel réseau de business angels en Wallonie et à Bruxelles ?",
+        "body": "La carte est plus courte qu'on ne le croit. Un seul réseau généraliste publie à la fois un ticket et des conditions pour une start-up francophone : BeAngels. Les autres sont soit flamands d'origine, soit spécialisés, soit d'une autre nature.\n\nBeAngels revendique près de 600 business angels (juin 2025), organise une dizaine de forums d'investissement par an selon hub.brussels et couvre la Belgique, le Luxembourg et le nord de la France. Le parcours est publié : dossier en ligne, sept minutes de présentation devant un comité de sélection, puis forum devant les investisseurs. Le réseau gère aussi ScaleFund, dont la troisième génération vise 30 M€ et investit 500 000 € au départ par start-up.\n\nBAN Vlaanderen, fondé en 2004 et basé à Hasselt, couvre aussi Bruxelles, la Wallonie et les régions voisines, avec un interlocuteur pour Bruxelles et le Brabant wallon (page VLAIO du 19.01.2026). Mais ses antennes sont à Courtrai, Gand, Anvers, Geel, Louvain et Hasselt : une start-up namuroise ou liégeoise y sera bien reçue, sans être au centre du réseau.\n\nSpreds, à Bruxelles, mélange business angels et petits investisseurs dans des campagnes en ligne. Syndicate One réunit plus de 120 fondateurs et opérateurs de la tech belge autour d'un fonds de 22 M€. Réseau Entreprendre Wallonie, lui, n'achète rien : il accompagne, avec cinq antennes (Liège, Namur-Luxembourg, Charleroi-Hainaut, Brabant wallon, Wallonie picarde).\n\nUn conseil pratique : ne vous inscrivez pas partout le même mois. Les membres se recoupent entre réseaux, et un dossier vu trois fois en trois semaines perd de sa fraîcheur."
+      },
+      {
+        "q": "Combien de capital cède-t-on à des business angels ?",
+        "body": "La part cédée se calcule comme pour un fonds : le ticket divisé par la valorisation post-money, c'est-à-dire la valorisation pre-money plus le ticket.\n\nJ'ai fait le calcul sur deux valorisations pre-money qui reviennent souvent à ce stade, 1 M€ et 2 M€, pour trois montants tirés des chiffres publiés. 150 000 €, l'ordre de grandeur levé par start-up chez BeAngels, BAN Vlaanderen et Spreds : 13,0 % du capital à 1 M€, 7,0 % à 2 M€. 300 000 € : 23,1 % et 13,0 %. 500 000 €, le ticket moyen de Syndicate One et le ticket de départ de ScaleFund III : 33,3 % et 20,0 %.\n\nLa commission s'ajoute au coût. Sur 300 000 € levés auprès des membres de BeAngels, 3 % à 5 % représentent 9 000 € à 15 000 €. À 1,2 M€ de pre-money, le fondateur cède alors 20 % de sa société et encaisse 285 000 € à 291 000 € nets. Ce n'est pas un scandale, c'est le prix d'un tri et d'une mise en relation, mais il faut le mettre dans le plan de trésorerie dès le départ.\n\nCes pourcentages ignorent le pool d'options pour l'équipe et la conversion d'un éventuel prêt convertible, qui diluent encore. Faites refaire le calcul sur votre table de capitalisation réelle par votre expert-comptable avant de signer la lettre d'intention."
+      },
+      {
+        "q": "Combien coûte un réseau de business angels à l'entrepreneur ?",
+        "body": "Ça dépend du réseau, et la plupart ne le publient pas.\n\nBeAngels est le plus clair : sa fiche d'offre de financement indique une commission de 3 % à 5 % du montant levé auprès de ses membres, dégressive selon le montant, due seulement si des membres investissent. Je n'y ai pas trouvé de frais de dossier.\n\nBAN Vlaanderen ne publie aucun tarif sur les pages consultées. Le réseau est soutenu par le gouvernement flamand, qui lui a accordé 1,92 M€ sur quatre ans en janvier 2019. Spreds prélève des frais de souscription sur les investisseurs, fixés dans le document d'émission de chaque offre (conditions générales du 08.04.2026) ; les frais à charge de la société ne sont pas chiffrés dans ce document. Syndicate One ne publie pas de procédure de candidature. Réseau Entreprendre Wallonie annonce un accompagnement gratuit pour ses lauréats.\n\nDemandez donc trois chiffres au premier rendez-vous, par écrit : les frais fixes avant le forum, la commission au succès et sa base de calcul, et ce qui se passe si le tour se boucle avec des investisseurs extérieurs au réseau."
+      },
+      {
+        "q": "Business angels ou fonds : lequel pour votre entreprise ?",
+        "body": "Les business angels financent le début : un premier tour de 100 000 € à 500 000 €, quand il n'y a encore ni chiffre d'affaires récurrent ni historique pour rassurer une banque. Leurs avantages sont connus : des tickets accessibles, des investisseurs qui ont souvent dirigé une entreprise, un tax shelter qui allège leur effort. Les inconvénients aussi : une table de capitalisation qui se fragmente quand dix membres mettent chacun 15 000 €, et peu de capacité à suivre au tour suivant.\n\nBeAngels donne d'ailleurs un chiffre qui le montre : en 2023, environ 70 % de ses investissements ont été des réinvestissements dans des sociétés déjà en portefeuille. Les membres suivent, mais sur des montants qui restent ceux de particuliers.\n\nAu-delà de 500 000 €, regardez les fonds de capital-risque, souvent aux côtés des angels du premier tour. Et si votre entreprise n'est pas une start-up mais une PME rentable de 20 ou 50 personnes, ce classement n'est pas le bon. ORSA, partenaire mis en avant par ce site, publie un ticket de 500 000 € à 2,5 M€ pour des PME établies en Wallonie, en fonds propres ou en Smart Bond, prêt subordonné de 5 à 10 ans (relevé du 15.10.2026). Les invests provinciaux et finance&invest.brussels font ce métier zone par zone."
+      }
+    ],
+    "criteria": [
+      "Transparence du ticket et des frais : fourchette d'investissement et commission publiées par le réseau lui-même, vérifiables avant le premier contact.",
+      "Adéquation à une start-up wallonne ou bruxelloise : zone couverte, antennes ou interlocuteur en Wallonie et à Bruxelles.",
+      "Activité publiée : nombre de membres, montants investis, nombre de deals ou de campagnes sur une année datée.",
+      "Accès pour l'entrepreneur : procédure de candidature, sélection et calendrier écrits noir sur blanc.",
+      "Lisibilité de la contrepartie : instrument utilisé (capital, convertible, prêt d'honneur) et part minoritaire ou non."
+    ],
+    "methodology": "Chaque fiche reprend ce que le réseau publie sur son site ou dans un document daté, et ce que publient à son sujet une administration (VLAIO, hub.brussels, Wallonie Entreprendre) ou la presse économique, avec la date du document. Les pages ont été relevées le 12.11.2026 ; les conditions d'ORSA, citées hors panel, viennent du relevé du 15.10.2026. Les montants moyens par start-up sont, soit publiés (BAN Vlaanderen, Spreds), soit calculés par moi (BeAngels : 7,6 M€ divisés par une cinquantaine de start-up en 2023, réinvestissements compris). Les pourcentages de capital cédé sont mes calculs (ticket divisé par la somme de la valorisation pre-money et du ticket) sur des valorisations pre-money de 1 M€ et 2 M€ choisies comme exemples. Une information introuvable est notée « non publié » ; les annuaires d'investisseurs tenus par des tiers n'ont servi qu'à repérer des candidats, jamais à remplir une case. Le score sur 100 pondère la transparence du ticket et des frais (30 points), l'adéquation à une start-up wallonne ou bruxelloise (25), l'activité publiée (20), l'accès pour l'entrepreneur (15) et la lisibilité de la contrepartie (10). Je n'ai présenté de dossier à aucun de ces réseaux : le rang compare des informations publiées, pas la qualité d'un accompagnement.",
+    "sources": [
+      {
+        "label": "BeAngels, fiche d'offre de financement (ticket de 100 000 € à 500 000 €, commission de 3 % à 5 %), circulareconomy.brussels, 2022",
+        "url": "https://www.circulareconomy.brussels/wp-content/uploads/2019/05/2022_Fiche-Offre_Financement-FR-Be-angels-2_FR.pdf"
+      },
+      {
+        "label": "hub.brussels, réseaux de business angels (BeAngels, BAN Flanders : procédure, forums, membres), relevé le 12.11.2026",
+        "url": "https://info.hub.brussels/en/node/17561"
+      },
+      {
+        "label": "La Libre, ScaleFund III et les près de 600 business angels de BeAngels (03.06.2025)",
+        "url": "https://www.lalibre.be/economie/entreprises-startup/2025/06/03/jamais-deux-sans-trois-pour-scalefund-un-nouveau-fonds-est-cree-pour-accompagner-les-pepites-technologiques-belges-OUGUFVUQTVAIBMKHJW7QCVB4TI/"
+      },
+      {
+        "label": "La Libre, entretien avec Claire Munck, BeAngels : montants investis en 2022 et 2023 (14.01.2024)",
+        "url": "https://www.lalibre.be/economie/entreprises-startup/2024/01/14/claire-munck-beangels-quand-les-plus-belles-start-up-belges-partiront-a-letranger-il-sera-trop-tard-pour-pleurer-UKG5SOXTCRAT3O73FC3DROFUIA/"
+      },
+      {
+        "label": "BDO Belgique, le marché belge des start-up et les syndicats d'angels (25.06.2026)",
+        "url": "https://www.bdo.be/en-gb/news/2026/belgian-start-up-market-gets-a-boost-from-next-gen-start-ups"
+      },
+      {
+        "label": "VLAIO, fiche BAN Flanders (ticket de 25 000 € à 1 M€, antennes, Angelwise), mise à jour le 19.01.2026",
+        "url": "https://www.vlaio.be/nl/begeleiding-advies/financiering/risicokapitaal/ban-flanders"
+      },
+      {
+        "label": "Made in, bilan 2024 de BAN Vlaanderen (203 membres, 18 deals, 2,45 M€) (20.08.2025)",
+        "url": "https://www.made-in.be/limburg/ban-blijft-beste-van-business-angels/"
+      },
+      {
+        "label": "VLAIO, 1,92 M€ de soutien flamand à BAN Vlaanderen sur quatre ans (07.01.2019)",
+        "url": "https://www.vlaio.be/nl/nieuws/1920000-euro-voor-business-angels-network-vlaanderen"
+      },
+      {
+        "label": "VLAIO, fiche Spreds (instruments, fourchettes), mise à jour le 28.01.2026",
+        "url": "https://www.vlaio.be/nl/begeleiding-advies/financiering/risicokapitaal/spreds"
+      },
+      {
+        "label": "La Libre, Spreds : 49 000 membres, 70 campagnes en 2025, lancement du prêt aux PME (17.04.2026)",
+        "url": "https://www.lalibre.be/economie/entreprises-startup/2026/04/17/pionniere-du-financement-participatif-dans-les-start-up-belges-la-plateforme-spreds-se-lance-dans-le-pret-aux-pme-5M45P5LJJ5F3XPJIXXDJKZIP7Q/"
+      },
+      {
+        "label": "Spreds, conditions générales en vigueur au 08.04.2026",
+        "url": "https://www.spreds.com/fr/general_terms_and_conditions.pdf"
+      },
+      {
+        "label": "Wallonie Entreprendre (Startup Wallonia), Syndicate One : fonds de 22 M€, ticket moyen d'environ 500 000 €, relevé le 12.11.2026",
+        "url": "https://startup.wallonie-entreprendre.be/en/news/syndicate-one/"
+      },
+      {
+        "label": "Tech.eu, Syndicate One boucle un second fonds de 22 M€ (23.02.2026)",
+        "url": "https://tech.eu/2026/02/23/syndicate-one-closes-eur22m-second-fund-to-back-belgian-tech-founders"
+      },
+      {
+        "label": "Réseau Entreprendre Wallonie, qui sommes-nous (266 membres, 604 lauréats, cinq antennes), relevé le 12.11.2026",
+        "url": "https://www.reseau-entreprendre.org/wallonie/"
+      },
+      {
+        "label": "La Libre, Réseau Entreprendre en Belgique : accompagnement de deux à trois ans (11.10.2017)",
+        "url": "https://www.lalibre.be/economie/entreprises-startup/2017/10/11/reseau-entreprendre-a-deja-genere-plus-de-2-000-emplois-en-belgique-G73PEUBPHRARXPHWOYAACG6AEA/"
+      },
+      {
+        "label": "SPF Finances, tax shelter start-up et scale-up (taux et plafonds)",
+        "url": "https://fin.belgium.be/fr/particuliers/avantages-fiscaux/investir-start-up-scale-up-tax-shelter"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Un business angel, c'est quoi ?",
+        "a": "Un particulier qui investit son propre argent dans une jeune société non cotée, contre une part minoritaire du capital, et qui apporte souvent son expérience de dirigeant. Il intervient en général au premier tour, avant les fonds. Un réseau de business angels sélectionne les dossiers et organise les présentations, mais chaque membre décide seul d'investir."
+      },
+      {
+        "q": "Quel pourcentage prend un business angel ?",
+        "a": "Il n'y a pas de pourcentage standard : la part vaut le ticket divisé par la valorisation post-money. 150 000 € sur 1 M€ de pre-money représentent 13,0 % du capital, sur 2 M€ 7,0 %. La négociation porte donc d'abord sur la valorisation, puis sur les clauses de la convention d'actionnaires."
+      },
+      {
+        "q": "Combien peut-on lever auprès de business angels en Belgique ?",
+        "a": "Les fourchettes publiées vont de 25 000 € (BAN Vlaanderen) à 1 M€, et BeAngels annonce 100 000 € à 500 000 € pour un premier tour. Les moyennes réelles sont plus basses : 144 000 € par deal chez BAN Vlaanderen en 2024, environ 170 000 € par start-up chez Spreds en 2025."
+      },
+      {
+        "q": "Faut-il payer pour présenter son projet à un réseau de business angels ?",
+        "a": "BeAngels publie une commission de 3 % à 5 % sur le montant levé auprès de ses membres, due seulement en cas d'investissement. Les autres réseaux du panel ne publient pas leurs frais pour l'entrepreneur. Demandez le détail par écrit avant de signer un mandat."
+      },
+      {
+        "q": "Y a-t-il des business angels en Wallonie ?",
+        "a": "Oui. BeAngels couvre Bruxelles et la Wallonie, BAN Vlaanderen a un interlocuteur pour Bruxelles et le Brabant wallon, et Réseau Entreprendre Wallonie a cinq antennes (Liège, Namur-Luxembourg, Charleroi-Hainaut, Brabant wallon, Wallonie picarde). Les invests provinciaux et Wallonie Entreprendre co-investissent souvent à leurs côtés."
+      },
+      {
+        "q": "Les business angels profitent-ils du tax shelter ?",
+        "a": "Oui, s'ils souscrivent des actions nouvelles d'une petite entreprise qui remplit les conditions : 45 % de réduction d'impôt pour une micro-entreprise de moins de quatre ans, 30 % pour une petite entreprise, 25 % en scale-up, dans la limite de 100 000 € par investisseur et par an selon le SPF Finances. Le dirigeant de la société en est exclu."
+      },
+      {
+        "q": "Pourquoi ORSA n'est-il pas dans ce classement ?",
+        "a": "Parce qu'ORSA est un fonds qui finance des PME établies, avec un ticket publié de 500 000 € à 2,5 M€ en fonds propres ou en prêt subordonné (Smart Bond), et non un réseau de particuliers. ORSA est le partenaire mis en avant par ce site ; il figure en tête du classement des fonds pour PME et de celui des invests wallons."
+      }
+    ],
+    "items": [
+      {
+        "rank": 1,
+        "nom": "BeAngels",
+        "score": "87/100",
+        "badge": "Bruxelles et Wallonie",
+        "bestFor": "Start-up wallonne ou bruxelloise qui lève 100 000 € à 500 000 € pour un premier tour",
+        "verdict": "Le seul réseau du panel qui publie son ticket et sa commission, avec le plus grand nombre de membres francophones. La commission de 3 % à 5 % se paie au succès, à prévoir dans la trésorerie.",
+        "pros": [
+          "Ticket publié : 100 000 € à 500 000 € pour un premier tour, en part minoritaire",
+          "Près de 600 business angels (juin 2025) ; environ 7,6 M€ investis en 2023 dans une cinquantaine de start-up",
+          "Procédure publiée : comité de sélection, puis forum ; ScaleFund III investit 500 000 € au départ"
+        ],
+        "cons": [
+          "Commission de 3 % à 5 % du montant levé auprès des membres",
+          "Horeca et immobilier exclus"
+        ],
+        "prix": "100 000 € à 500 000 €",
+        "url": "https://www.beangels.eu"
+      },
+      {
+        "rank": 2,
+        "nom": "BAN Vlaanderen (BAN Flanders)",
+        "score": "78/100",
+        "badge": "Flandre, Bruxelles",
+        "bestFor": "Start-up ou PME en croissance, à Bruxelles ou en Brabant wallon, qui cherche 25 000 € à 1 M€",
+        "verdict": "La fourchette la plus large et les chiffres annuels les plus détaillés du panel. Un réseau ouvert à la Wallonie, mais dont toutes les antennes sont en Flandre.",
+        "pros": [
+          "Ticket publié : 25 000 € à 1 M€, toujours en minoritaire",
+          "203 membres ; 18 deals et 2,45 M€ investis en 2024 (144 000 € en moyenne)",
+          "Capital, convertible, warrants ; fonds Angelwise de 20 M€ pour des projets jusqu'à 3 M€"
+        ],
+        "cons": [
+          "Antennes en Flandre seulement, un interlocuteur pour Bruxelles et le Brabant wallon",
+          "Frais pour l'entrepreneur non publiés ; retail, horeca et promotion immobilière exclus"
+        ],
+        "prix": "25 000 € à 1 M€",
+        "url": "https://www.ban.be"
+      },
+      {
+        "rank": 3,
+        "nom": "Spreds",
+        "score": "72/100",
+        "badge": "En ligne, tax shelter",
+        "bestFor": "Start-up qui veut réunir sa communauté et des business angels dans un même tour",
+        "verdict": "La plus grande base d'investisseurs particuliers de Belgique et un historique publié. Mais les frais à charge de la société ne sont pas chiffrés, et les fourchettes publiées divergent.",
+        "pros": [
+          "Plus de 49 000 membres investisseurs ; plus de 350 start-up belges financées depuis 2012",
+          "2025 : 70 campagnes en capital, environ 170 000 € levés par start-up",
+          "Capital, convertible, prêt subordonné ; tax shelter utilisé quand c'est possible"
+        ],
+        "cons": [
+          "Frais à charge de la société non publiés",
+          "Fourchettes divergentes : 150 000 € minimum en capital (VLAIO), 50 000 € à 250 000 € en seed (La Libre)"
+        ],
+        "prix": "50 000 € à 250 000 € en seed",
+        "url": "https://www.spreds.com"
+      },
+      {
+        "rank": 4,
+        "nom": "Syndicate One",
+        "score": "68/100",
+        "badge": "Tech, fondateurs",
+        "bestFor": "Start-up tech belge, logiciel surtout, qui veut des fondateurs expérimentés à son capital",
+        "verdict": "Le ticket moyen le plus élevé du panel, porté par plus de 120 fondateurs et quatre fonds publics. Réservé à la tech, sans procédure de candidature publiée.",
+        "pros": [
+          "Fonds de 22 M€ (février 2026), après un premier fonds de 6,5 M€",
+          "Ticket moyen d'environ 500 000 € par start-up, une douzaine de start-up par an",
+          "Souscripteurs : PMV, SFPIM, finance&invest.brussels, Wallonie Entreprendre, Sofina"
+        ],
+        "cons": [
+          "Technologie, surtout logiciel, uniquement",
+          "Procédure de candidature non publiée"
+        ],
+        "prix": "environ 500 000 € en moyenne",
+        "url": "https://startup.wallonie-entreprendre.be/en/news/syndicate-one/"
+      },
+      {
+        "rank": 5,
+        "nom": "Réseau Entreprendre Wallonie",
+        "score": "63/100",
+        "badge": "Sans céder de parts",
+        "bestFor": "Créateur ou repreneur wallon qui cherche un mentor chef d'entreprise plutôt qu'un actionnaire",
+        "verdict": "Le seul acteur du panel qui ne prend aucune part de capital. Il complète un tour de business angels, il ne le remplace pas, et le montant de son prêt d'honneur n'est pas publié.",
+        "pros": [
+          "266 chefs d'entreprise membres, cinq antennes en Wallonie",
+          "604 lauréats accompagnés depuis 2004, 4 416 emplois créés ou maintenus",
+          "Accompagnement gratuit, de deux à trois ans"
+        ],
+        "cons": [
+          "Montant du prêt d'honneur non publié sur la page relevée",
+          "Pas d'apport en capital"
+        ],
+        "prix": "non publié",
+        "url": "https://www.reseau-entreprendre.org/wallonie/"
+      }
+    ]
   }
 }

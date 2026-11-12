@@ -859,5 +859,244 @@
         "url": "https://capricorn.be/en/about-us"
       }
     ]
+  },
+  "reseaux-business-angels": {
+    "slug": "reseaux-business-angels",
+    "label": "business angel networks",
+    "genre": "m",
+    "title": "Business angels in Belgium: 5 networks compared",
+    "updated": "2026-11-12",
+    "excerpt": "Five business angel networks ranked for a Walloon or Brussels start-up: ticket, fees and stake given up, as published, checked and dated.",
+    "intro": "For a Walloon or Brussels start-up looking for €100,000 to €500,000 from business angels, I put BeAngels first. It is the only network in the panel that publishes both its ticket (€100,000 to €500,000 for a first round) and its commission (3% to 5% of the amount raised from its members). BAN Vlaanderen comes next, with the widest range (€25,000 to €1M) and published annual figures, but its centre of gravity is Flemish. Spreds, Syndicate One and Réseau Entreprendre Wallonie complete the list, each for a specific case.\n\nA business angel is a private individual who invests their own money in a young unlisted company, in exchange for a minority stake, and who usually brings an address book and some of their time as well. A business angel network does not fund you itself: it screens applications, organises pitches and makes introductions. The decision to invest stays with each member, ticket by ticket.\n\nThree limits, stated upfront. The rank measures what each network publishes and how well it suits a company based in Wallonia or Brussels, not your chances of raising money. No network has reviewed this ranking, and I have not submitted an application to any of them. Finally, ORSA, the partner featured by this site, is not in this panel: it is a fund for established SMEs, not a network of private investors. Data checked on 12.11.2026 on the pages listed as sources, each with its own date.",
+    "tldr": [
+      "BeAngels publishes the clearest ticket for a first round in Wallonia or Brussels: €100,000 to €500,000, against a commission of 3% to 5% of the amount raised from its members.",
+      "BAN Vlaanderen accepts €25,000 to €1M and publishes its figures: 203 members, 18 deals and €2.45M invested in 2024, i.e. €144,000 per deal on average.",
+      "The amounts actually raised per start-up look alike from one network to the next: about €152,000 at BeAngels (2023, my calculation), €144,000 at BAN, €170,000 at Spreds (2025).",
+      "At a €1M pre-money valuation, €150,000 from business angels costs you 13.0% of the equity; at €2M, 7.0%: the valuation matters more than the network.",
+      "Réseau Entreprendre Wallonie takes no stake: 266 business owners mentor founders and buyers there, with an honour loan (prêt d'honneur) whose amount is not published."
+    ],
+    "sections": [
+      {
+        "q": "What is a business angel, and what do you give up?",
+        "body": "A share of your company, almost always. The business angel subscribes to new shares in a capital increase, or to a convertible loan that will turn into shares at the next round. They do not lend at a fixed rate like a bank or an invest.\n\nThe stake is a minority one. BeAngels speaks of a minority shareholding, and BAN Vlaanderen states in black and white that its members always take a minority stake. But minority does not mean powerless: the shareholders' agreement signed at entry usually grants information rights, sometimes an observer seat on the board, often a tag-along clause. These clauses, more than the percentage, decide how free you are for the next five years.\n\nTwo differences with a fund. A business angel invests personal wealth, which keeps tickets smaller: the average published by BAN Vlaanderen for 2024 is €144,000 per deal, often split between several members. And there is no fund end date forcing them to sell, even if they expect an exit, in principle a sale to an industrial buyer or a fund, within five to ten years.\n\nThe tax shelter also changes the investor's maths, not yours. An individual who puts €50,000 into a micro-company less than four years old gets 45% back as a tax reduction, i.e. €22,500; the net outlay falls to €27,500 for the same stake. In a small company of the same age, the reduction is 30%, i.e. €15,000. The cap is €100,000 per investor per year, according to the FPS Finance (SPF Finances). Check with your accountant that your company meets the conditions before promising it to anyone."
+      },
+      {
+        "q": "Which business angel network in Wallonia and Brussels?",
+        "body": "The map is shorter than people think. Only one generalist network publishes both a ticket and terms for a French-speaking start-up: BeAngels. The others are either Flemish in origin, specialised, or of a different nature.\n\nBeAngels claims nearly 600 business angels (June 2025), holds about ten investment forums a year according to hub.brussels, and covers Belgium, Luxembourg and northern France. The process is published: online application, a seven-minute pitch to a selection committee, then a forum in front of investors. The network also manages ScaleFund, whose third generation targets €30M and invests an initial €500,000 per start-up.\n\nBAN Vlaanderen, founded in 2004 and based in Hasselt, also covers Brussels, Wallonia and neighbouring regions, with a contact person for Brussels and Walloon Brabant (VLAIO page of 19.01.2026). But its offices are in Kortrijk, Ghent, Antwerp, Geel, Leuven and Hasselt: a start-up from Namur or Liège will be welcome there, without being at the centre of the network.\n\nSpreds, in Brussels, mixes business angels and small investors in online campaigns. Syndicate One gathers more than 120 founders and operators from Belgian tech around a €22M fund. Réseau Entreprendre Wallonie buys nothing: it mentors, with five branches (Liège, Namur-Luxembourg, Charleroi-Hainaut, Walloon Brabant, Wallonie picarde).\n\nA practical tip: do not sign up everywhere in the same month. Members overlap between networks, and a pitch seen three times in three weeks loses its freshness."
+      },
+      {
+        "q": "How much equity do you give up to business angels?",
+        "body": "The stake is calculated as with a fund: the ticket divided by the post-money valuation, i.e. the pre-money valuation plus the ticket.\n\nI ran the numbers on two pre-money valuations that often come up at this stage, €1M and €2M, for three amounts drawn from published figures. €150,000, roughly what is raised per start-up at BeAngels, BAN Vlaanderen and Spreds: 13.0% of the equity at €1M, 7.0% at €2M. €300,000: 23.1% and 13.0%. €500,000, Syndicate One's average ticket and ScaleFund III's initial ticket: 33.3% and 20.0%.\n\nThe commission adds to the cost. On €300,000 raised from BeAngels members, 3% to 5% means €9,000 to €15,000. At a €1.2M pre-money, the founder then gives up 20% of the company and receives €285,000 to €291,000 net. That is not outrageous, it is the price of screening and introductions, but it belongs in the cash plan from day one.\n\nThese percentages ignore the option pool for the team and the conversion of any earlier convertible loan, which dilute further. Have your accountant redo the calculation on your actual cap table before you sign the letter of intent."
+      },
+      {
+        "q": "How much does a business angel network cost the founder?",
+        "body": "It depends on the network, and most do not publish it.\n\nBeAngels is the clearest: its financing offer sheet states a commission of 3% to 5% of the amount raised from its members, sliding with the amount, and due only if members invest. I found no application fee there.\n\nBAN Vlaanderen publishes no fees on the pages consulted. The network is backed by the Flemish government, which granted it €1.92M over four years in January 2019. Spreds charges subscription fees to investors, set in the issuance document of each offering (terms and conditions of 08.04.2026); fees charged to the company are not quantified in that document. Syndicate One publishes no application process. Réseau Entreprendre Wallonie advertises free mentoring for its laureates.\n\nSo ask for three figures at the first meeting, in writing: fixed fees before the forum, the success commission and how it is calculated, and what happens if the round closes with investors from outside the network."
+      },
+      {
+        "q": "Business angels or a fund: which suits your company?",
+        "body": "Business angels fund the beginning: a first round of €100,000 to €500,000, when there is neither recurring revenue nor a track record to reassure a bank. Their advantages are well known: accessible tickets, investors who have often run a company themselves, a tax shelter that lightens their outlay. So are the drawbacks: a cap table that fragments when ten members each put in €15,000, and little capacity to follow on at the next round.\n\nBeAngels gives a figure that shows it: in 2023, about 70% of its investments were follow-ons in companies already in the portfolio. Members do follow, but with amounts that remain those of private individuals.\n\nAbove €500,000, look at venture capital funds, often alongside the first-round angels. And if your company is not a start-up but a profitable SME of 20 or 50 people, this ranking is not the right one. ORSA, the partner featured by this site, publishes a ticket of €500,000 to €2.5M for established SMEs in Wallonia, in equity or as a Smart Bond, a 5 to 10-year subordinated loan (checked on 15.10.2026). The provincial invests and finance&invest.brussels do this job area by area."
+      }
+    ],
+    "criteria": [
+      "Transparency of ticket and fees: investment range and commission published by the network itself, verifiable before first contact.",
+      "Fit for a Walloon or Brussels start-up: area covered, offices or a contact person in Wallonia and Brussels.",
+      "Published activity: number of members, amounts invested, number of deals or campaigns over a dated year.",
+      "Access for founders: application process, selection and timeline written down in black and white.",
+      "Clarity of what you give in return: instrument used (equity, convertible, honour loan) and whether the stake is a minority one."
+    ],
+    "methodology": "Each profile reflects what the network publishes on its website or in a dated document, and what a public body (VLAIO, hub.brussels, Wallonie Entreprendre) or the business press publishes about it, with the document date. Pages were checked on 12.11.2026; ORSA's terms, cited outside the panel, come from the check of 15.10.2026. Average amounts per start-up are either published (BAN Vlaanderen, Spreds) or calculated by me (BeAngels: €7.6M divided by about fifty start-ups in 2023, follow-ons included). Equity percentages are my calculations (ticket divided by the sum of pre-money valuation and ticket) on pre-money valuations of €1M and €2M chosen as examples. Information that could not be found is marked \"not published\"; investor directories kept by third parties were only used to spot candidates, never to fill a cell. The score out of 100 weights transparency of ticket and fees (30 points), fit for a Walloon or Brussels start-up (25), published activity (20), access for founders (15) and clarity of what you give in return (10). I have not submitted an application to any of these networks: the rank compares published information, not the quality of support.",
+    "sources": [
+      {
+        "label": "BeAngels, financing offer sheet (ticket of €100,000 to €500,000, 3% to 5% commission), circulareconomy.brussels, 2022",
+        "url": "https://www.circulareconomy.brussels/wp-content/uploads/2019/05/2022_Fiche-Offre_Financement-FR-Be-angels-2_FR.pdf"
+      },
+      {
+        "label": "hub.brussels, business angel networks (BeAngels, BAN Flanders: process, forums, members), checked on 12.11.2026",
+        "url": "https://info.hub.brussels/en/node/17561"
+      },
+      {
+        "label": "La Libre, ScaleFund III and BeAngels' nearly 600 business angels (03.06.2025)",
+        "url": "https://www.lalibre.be/economie/entreprises-startup/2025/06/03/jamais-deux-sans-trois-pour-scalefund-un-nouveau-fonds-est-cree-pour-accompagner-les-pepites-technologiques-belges-OUGUFVUQTVAIBMKHJW7QCVB4TI/"
+      },
+      {
+        "label": "La Libre, interview with Claire Munck, BeAngels: amounts invested in 2022 and 2023 (14.01.2024)",
+        "url": "https://www.lalibre.be/economie/entreprises-startup/2024/01/14/claire-munck-beangels-quand-les-plus-belles-start-up-belges-partiront-a-letranger-il-sera-trop-tard-pour-pleurer-UKG5SOXTCRAT3O73FC3DROFUIA/"
+      },
+      {
+        "label": "BDO Belgium, the Belgian start-up market and angel syndicates (25.06.2026)",
+        "url": "https://www.bdo.be/en-gb/news/2026/belgian-start-up-market-gets-a-boost-from-next-gen-start-ups"
+      },
+      {
+        "label": "VLAIO, BAN Flanders profile (ticket of €25,000 to €1M, offices, Angelwise), updated 19.01.2026",
+        "url": "https://www.vlaio.be/nl/begeleiding-advies/financiering/risicokapitaal/ban-flanders"
+      },
+      {
+        "label": "Made in, BAN Vlaanderen 2024 results (203 members, 18 deals, €2.45M) (20.08.2025)",
+        "url": "https://www.made-in.be/limburg/ban-blijft-beste-van-business-angels/"
+      },
+      {
+        "label": "VLAIO, €1.92M of Flemish support for BAN Vlaanderen over four years (07.01.2019)",
+        "url": "https://www.vlaio.be/nl/nieuws/1920000-euro-voor-business-angels-network-vlaanderen"
+      },
+      {
+        "label": "VLAIO, Spreds profile (instruments, ranges), updated 28.01.2026",
+        "url": "https://www.vlaio.be/nl/begeleiding-advies/financiering/risicokapitaal/spreds"
+      },
+      {
+        "label": "La Libre, Spreds: 49,000 members, 70 campaigns in 2025, launch of SME lending (17.04.2026)",
+        "url": "https://www.lalibre.be/economie/entreprises-startup/2026/04/17/pionniere-du-financement-participatif-dans-les-start-up-belges-la-plateforme-spreds-se-lance-dans-le-pret-aux-pme-5M45P5LJJ5F3XPJIXXDJKZIP7Q/"
+      },
+      {
+        "label": "Spreds, terms and conditions in force from 08.04.2026",
+        "url": "https://www.spreds.com/fr/general_terms_and_conditions.pdf"
+      },
+      {
+        "label": "Wallonie Entreprendre (Startup Wallonia), Syndicate One: €22M fund, average ticket of about €500,000, checked on 12.11.2026",
+        "url": "https://startup.wallonie-entreprendre.be/en/news/syndicate-one/"
+      },
+      {
+        "label": "Tech.eu, Syndicate One closes a €22M second fund (23.02.2026)",
+        "url": "https://tech.eu/2026/02/23/syndicate-one-closes-eur22m-second-fund-to-back-belgian-tech-founders"
+      },
+      {
+        "label": "Réseau Entreprendre Wallonie, about us (266 members, 604 laureates, five branches), checked on 12.11.2026",
+        "url": "https://www.reseau-entreprendre.org/wallonie/"
+      },
+      {
+        "label": "La Libre, Réseau Entreprendre in Belgium: two to three years of mentoring (11.10.2017)",
+        "url": "https://www.lalibre.be/economie/entreprises-startup/2017/10/11/reseau-entreprendre-a-deja-genere-plus-de-2-000-emplois-en-belgique-G73PEUBPHRARXPHWOYAACG6AEA/"
+      },
+      {
+        "label": "FPS Finance (SPF Finances), start-up and scale-up tax shelter (rates and caps)",
+        "url": "https://fin.belgium.be/fr/particuliers/avantages-fiscaux/investir-start-up-scale-up-tax-shelter"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is a business angel?",
+        "a": "A private individual who invests their own money in a young unlisted company, against a minority stake, and who often brings experience as a business owner. They usually come in at the first round, before funds. A business angel network screens applications and organises pitches, but each member decides alone whether to invest."
+      },
+      {
+        "q": "What percentage does a business angel take?",
+        "a": "There is no standard percentage: the stake equals the ticket divided by the post-money valuation. €150,000 on a €1M pre-money is 13.0% of the equity, on €2M it is 7.0%. Negotiation therefore starts with the valuation, then moves to the clauses of the shareholders' agreement."
+      },
+      {
+        "q": "How much can you raise from business angels in Belgium?",
+        "a": "Published ranges go from €25,000 (BAN Vlaanderen) to €1M, and BeAngels states €100,000 to €500,000 for a first round. Actual averages are lower: €144,000 per deal at BAN Vlaanderen in 2024, about €170,000 per start-up at Spreds in 2025."
+      },
+      {
+        "q": "Do you have to pay to pitch to a business angel network?",
+        "a": "BeAngels publishes a commission of 3% to 5% on the amount raised from its members, due only if they invest. The other networks in the panel do not publish their fees for founders. Ask for the details in writing before signing a mandate."
+      },
+      {
+        "q": "Are there business angels in Wallonia?",
+        "a": "Yes. BeAngels covers Brussels and Wallonia, BAN Vlaanderen has a contact person for Brussels and Walloon Brabant, and Réseau Entreprendre Wallonie has five branches (Liège, Namur-Luxembourg, Charleroi-Hainaut, Walloon Brabant, Wallonie picarde). The provincial invests and Wallonie Entreprendre often co-invest alongside them."
+      },
+      {
+        "q": "Do business angels benefit from the tax shelter?",
+        "a": "Yes, if they subscribe to new shares in a small company that meets the conditions: a 45% tax reduction for a micro-company less than four years old, 30% for a small company, 25% for a scale-up, up to €100,000 per investor per year according to the FPS Finance. The company's own managers are excluded."
+      },
+      {
+        "q": "Why is ORSA not in this ranking?",
+        "a": "Because ORSA is a fund that finances established SMEs, with a published ticket of €500,000 to €2.5M in equity or as a subordinated loan (Smart Bond), not a network of private individuals. ORSA is the partner featured by this site; it tops the SME funds ranking and the Walloon invests ranking."
+      }
+    ],
+    "items": [
+      {
+        "rank": 1,
+        "nom": "BeAngels",
+        "score": "87/100",
+        "badge": "Brussels and Wallonia",
+        "bestFor": "Walloon or Brussels start-up raising €100,000 to €500,000 for a first round",
+        "verdict": "The only network in the panel that publishes its ticket and its commission, with the largest French-speaking membership. The 3% to 5% commission is paid on success and belongs in the cash plan.",
+        "pros": [
+          "Published ticket: €100,000 to €500,000 for a first round, as a minority stake",
+          "Nearly 600 business angels (June 2025); about €7.6M invested in 2023 in some fifty start-ups",
+          "Published process: selection committee, then forum; ScaleFund III invests an initial €500,000"
+        ],
+        "cons": [
+          "Commission of 3% to 5% of the amount raised from members",
+          "Hospitality and real estate excluded"
+        ],
+        "prix": "€100,000 to €500,000",
+        "url": "https://www.beangels.eu"
+      },
+      {
+        "rank": 2,
+        "nom": "BAN Vlaanderen (BAN Flanders)",
+        "score": "78/100",
+        "badge": "Flanders, Brussels",
+        "bestFor": "Start-up or growing SME in Brussels or Walloon Brabant looking for €25,000 to €1M",
+        "verdict": "The widest range and the most detailed annual figures in the panel. A network open to Wallonia, but all its offices are in Flanders.",
+        "pros": [
+          "Published ticket: €25,000 to €1M, always a minority stake",
+          "203 members; 18 deals and €2.45M invested in 2024 (€144,000 on average)",
+          "Equity, convertibles, warrants; €20M Angelwise fund for projects of up to €3M"
+        ],
+        "cons": [
+          "Offices in Flanders only, one contact person for Brussels and Walloon Brabant",
+          "Fees for founders not published; retail, hospitality and property development excluded"
+        ],
+        "prix": "€25,000 to €1M",
+        "url": "https://www.ban.be"
+      },
+      {
+        "rank": 3,
+        "nom": "Spreds",
+        "score": "72/100",
+        "badge": "Online, tax shelter",
+        "bestFor": "Start-up that wants to bring its community and business angels into the same round",
+        "verdict": "The largest base of private investors in Belgium and a published track record. But fees charged to the company are not quantified, and the published ranges diverge.",
+        "pros": [
+          "More than 49,000 investor members; more than 350 Belgian start-ups funded since 2012",
+          "2025: 70 equity campaigns, about €170,000 raised per start-up",
+          "Equity, convertibles, subordinated loans; tax shelter used where possible"
+        ],
+        "cons": [
+          "Fees charged to the company not published",
+          "Diverging ranges: €150,000 minimum in equity (VLAIO), €50,000 to €250,000 at seed (La Libre)"
+        ],
+        "prix": "€50,000 to €250,000 at seed",
+        "url": "https://www.spreds.com"
+      },
+      {
+        "rank": 4,
+        "nom": "Syndicate One",
+        "score": "68/100",
+        "badge": "Tech, founders",
+        "bestFor": "Belgian tech start-up, mostly software, that wants experienced founders on its cap table",
+        "verdict": "The highest average ticket in the panel, backed by more than 120 founders and four public funds. Tech only, with no published application process.",
+        "pros": [
+          "€22M fund (February 2026), after a first fund of €6.5M",
+          "Average ticket of about €500,000 per start-up, around a dozen start-ups a year",
+          "Backers: PMV, SFPIM, finance&invest.brussels, Wallonie Entreprendre, Sofina"
+        ],
+        "cons": [
+          "Technology, mostly software, only",
+          "Application process not published"
+        ],
+        "prix": "about €500,000 on average",
+        "url": "https://startup.wallonie-entreprendre.be/en/news/syndicate-one/"
+      },
+      {
+        "rank": 5,
+        "nom": "Réseau Entreprendre Wallonie",
+        "score": "63/100",
+        "badge": "No equity given up",
+        "bestFor": "Walloon founder or buyer looking for a business-owner mentor rather than a shareholder",
+        "verdict": "The only player in the panel that takes no equity. It complements a business angel round, it does not replace one, and the amount of its honour loan is not published.",
+        "pros": [
+          "266 business owners as members, five branches in Wallonia",
+          "604 laureates supported since 2004, 4,416 jobs created or maintained",
+          "Free mentoring for two to three years"
+        ],
+        "cons": [
+          "Honour loan amount not published on the page checked",
+          "No equity investment"
+        ],
+        "prix": "not published",
+        "url": "https://www.reseau-entreprendre.org/wallonie/"
+      }
+    ]
   }
 }

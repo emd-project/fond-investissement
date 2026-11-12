@@ -340,5 +340,79 @@
         }
       }
     ]
+  },
+  "reseaux-business-angels": {
+    "id": "reseaux-business-angels",
+    "label": "Réseaux de business angels",
+    "description": "Cinq réseaux de business angels belges côte à côte : ticket, contrepartie, frais, zone et chiffres publiés, relevés le 12.11.2026. Le montant affiché est le ticket minimum publié ; un tiret s'affiche quand le réseau ne le publie pas.",
+    "specsLabels": {
+      "ticket": "Ticket publié",
+      "contrepartie": "Contrepartie",
+      "frais": "Frais pour l'entrepreneur",
+      "zone": "Zone",
+      "chiffres": "Chiffres publiés"
+    },
+    "modeles": [
+      {
+        "nom": "BeAngels",
+        "prix": 100000,
+        "sourceUrl": "https://www.beangels.eu",
+        "specs": {
+          "ticket": "100 000 € à 500 000 € (premier tour)",
+          "contrepartie": "Part minoritaire du capital",
+          "frais": "Commission de 3 % à 5 % du montant levé auprès des membres",
+          "zone": "Bruxelles, Wallonie, Flandre, Luxembourg, nord de la France",
+          "chiffres": "Près de 600 business angels (2025) ; environ 7,6 M€ investis en 2023"
+        }
+      },
+      {
+        "nom": "BAN Vlaanderen (BAN Flanders)",
+        "prix": 25000,
+        "sourceUrl": "https://www.ban.be",
+        "specs": {
+          "ticket": "25 000 € à 1 M€",
+          "contrepartie": "Part minoritaire : capital, convertible, warrants",
+          "frais": "non publié",
+          "zone": "Flandre ; interlocuteur pour Bruxelles et le Brabant wallon",
+          "chiffres": "203 membres ; 18 deals et 2,45 M€ en 2024"
+        }
+      },
+      {
+        "nom": "Spreds",
+        "prix": 50000,
+        "sourceUrl": "https://www.spreds.com",
+        "specs": {
+          "ticket": "50 000 € à 250 000 € en seed (La Libre) ; jusqu'à 5 M€ (VLAIO)",
+          "contrepartie": "Capital, convertible ou prêt",
+          "frais": "non publié pour la société ; frais de souscription côté investisseurs",
+          "zone": "Belgique (Bruxelles), Europe",
+          "chiffres": "49 000 membres ; 70 campagnes en 2025, environ 170 000 € par start-up"
+        }
+      },
+      {
+        "nom": "Syndicate One",
+        "prix": 0,
+        "sourceUrl": "https://startup.wallonie-entreprendre.be/en/news/syndicate-one/",
+        "specs": {
+          "ticket": "Environ 500 000 € en moyenne (pas de fourchette publiée)",
+          "contrepartie": "Capital, en co-investissement",
+          "frais": "non publié",
+          "zone": "Belgique, tech et logiciel",
+          "chiffres": "Fonds de 22 M€ (2026), plus de 120 fondateurs investisseurs"
+        }
+      },
+      {
+        "nom": "Réseau Entreprendre Wallonie",
+        "prix": 0,
+        "sourceUrl": "https://www.reseau-entreprendre.org/wallonie/",
+        "specs": {
+          "ticket": "non publié",
+          "contrepartie": "Aucune part : accompagnement et prêt d'honneur",
+          "frais": "Accompagnement gratuit",
+          "zone": "Wallonie, cinq antennes",
+          "chiffres": "266 membres ; 604 lauréats depuis 2004"
+        }
+      }
+    ]
   }
 }
