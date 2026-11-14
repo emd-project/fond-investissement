@@ -51,6 +51,7 @@ export const articleSlugFrToEn: Record<string, string> = {
   'pre-seed-et-seed-en-belgique': 'pre-seed-and-seed-in-belgium',
   'noshaq-invest-liegeois': 'noshaq-liege-invest',
   'credit-vendeur-et-earn-out': 'vendor-loan-or-earn-out',
+  'crowdfunding-entreprise-belgique': 'business-crowdfunding-belgium',
 }
 
 /** Réciproque EN → FR (dérivée automatiquement). */

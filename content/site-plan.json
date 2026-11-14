@@ -1262,21 +1262,32 @@
       "slug": "crowdfunding-entreprise-belgique",
       "categorie": "fonds-propres-ou-dette",
       "cluster": "c-instruments",
-      "type": "face-a-face",
+      "type": "pratique",
       "owns": [
         "crowdfunding entreprise belgique",
-        "crowdlending pme"
+        "crowdlending pme",
+        "crowdfunding entreprise",
+        "financement participatif entreprise"
       ],
       "questions": [
         "Crowdfunding en capital ou en prêt ?",
         "Quelles plateformes agréées FSMA ?"
       ],
-      "status": "planned",
+      "status": "published",
       "priority": 3,
       "persona": "dirigeant de PME",
       "brands": [
-        "FSMA"
-      ]
+        "FSMA",
+        "Bolero Crowdfunding",
+        "Spreds",
+        "Look&Fin",
+        "WinWinner",
+        "Ecco Nova",
+        "ORSA"
+      ],
+      "localizedPaths": {
+        "en": "/en/blog/fonds-propres-ou-dette/business-crowdfunding-belgium"
+      }
     },
     {
       "slug": "credit-vendeur-et-earn-out",
