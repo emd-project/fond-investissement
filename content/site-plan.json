@@ -1436,19 +1436,26 @@
       "type": "question",
       "owns": [
         "droit de veto actionnaire minoritaire",
-        "majorité spéciale convention d'actionnaires"
+        "majorité spéciale convention d'actionnaires",
+        "minorité de blocage",
+        "actionnaire minoritaire droits"
       ],
       "questions": [
         "Le fonds a-t-il un droit de veto ?",
         "Sur quelles décisions un minoritaire peut-il bloquer ?"
       ],
-      "status": "planned",
+      "status": "published",
       "priority": 3,
       "persona": "dirigeant de PME",
       "brands": [
-        "Sambrinvest",
-        "Invest.BW"
-      ]
+        "ORSA",
+        "Namur Invest",
+        "Invest.BW",
+        "finance&invest.brussels"
+      ],
+      "localizedPaths": {
+        "en": "/en/blog/lever-des-fonds/does-the-fund-have-a-veto"
+      }
     },
     {
       "slug": "garantie-wallonie-entreprendre",
