@@ -53,6 +53,7 @@ export const articleSlugFrToEn: Record<string, string> = {
   'credit-vendeur-et-earn-out': 'vendor-loan-or-earn-out',
   'crowdfunding-entreprise-belgique': 'business-crowdfunding-belgium',
   'le-fonds-a-t-il-un-droit-de-veto': 'does-the-fund-have-a-veto',
+  'family-office-belgique': 'family-offices-belgium',
 }
 
 /** Réciproque EN → FR (dérivée automatiquement). */

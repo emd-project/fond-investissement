@@ -1534,13 +1534,18 @@
         "Family office ou fonds : qui reste le plus longtemps ?",
         "Quels family offices investissent dans les PME wallonnes ?"
       ],
-      "status": "planned",
+      "status": "published",
       "priority": 3,
       "persona": "dirigeant de PME",
       "brands": [
+        "Korys",
         "Sofina",
+        "SPDG",
         "ORSA"
-      ]
+      ],
+      "localizedPaths": {
+        "en": "/en/blog/comprendre-les-fonds/family-offices-belgium"
+      }
     },
     {
       "slug": "pre-seed-et-seed-en-belgique",
