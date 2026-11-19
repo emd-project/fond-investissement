@@ -20,5 +20,60 @@
       "Two founders show an electronic prototype to a grey-haired woman investor in a brick workshop",
       "Grey-haired man reading a letter at a kitchen table by a window, lit brass lamp and a cup of coffee"
     ]
+  },
+  "credit-vendeur-et-earn-out": {
+    "cat": "reprise-et-transmission",
+    "fr": [
+      "Chemise ivoire nouée d'un ruban prune, loupe en laiton posée sur un registre vierge et stylo plume sur une table en chêne",
+      "Femme aux cheveux courts foncés triant trois piles de dossiers nouées de rubans prune, laiton et vert sur une longue table en bois"
+    ],
+    "en": [
+      "Ivory folder tied with a plum ribbon, brass magnifying glass on a blank ledger and a fountain pen on an oak table",
+      "Woman with short dark hair sorting three stacks of folders tied with plum, brass and green ribbons on a long wooden table"
+    ]
+  },
+  "noshaq-invest-liegeois": {
+    "cat": "fonds-par-region",
+    "fr": [
+      "Registre ouvert aux colonnes vierges, tampon en bois et encreur violet, règle en laiton posée sur la page",
+      "Homme barbu en chemise en jean assis à son bureau dans un atelier en briques, boîtes d'archives grises et horloge en laiton au mur"
+    ],
+    "en": [
+      "Open register with blank columns, wooden stamp and violet ink pad, brass ruler laid across the page",
+      "Bearded man in a denim shirt at his desk in a brick workshop, grey archive boxes and a brass wall clock behind him"
+    ]
+  },
+  "crowdfunding-entreprise-belgique": {
+    "cat": "fonds-propres-ou-dette",
+    "fr": [
+      "Boulangère en tablier de lin travaillant sur un ordinateur portable au comptoir fariné, après la fermeture, lampe en laiton allumée",
+      "Une douzaine de personnes assises sur des chaises en bois écoutent un homme présenter son projet devant les cuves en cuivre d'une brasserie"
+    ],
+    "en": [
+      "Baker in a linen apron working on a laptop at the floury counter after closing, brass lamp lit",
+      "A dozen people on wooden chairs listen to a man presenting his project in front of a brewery's copper tanks"
+    ]
+  },
+  "le-fonds-a-t-il-un-droit-de-veto": {
+    "cat": "lever-des-fonds",
+    "fr": [
+      "Convention agrafée marquée d'un signet prune, stylo plume ouvert et sonnette de bureau en laiton sur un sous-main en cuir vert",
+      "Réunion autour d'une table ovale en bois : une femme aux cheveux gris lève la main pour prendre la parole, quatre personnes l'écoutent"
+    ],
+    "en": [
+      "Stapled agreement marked with a plum tab, open fountain pen and brass desk bell on a green leather blotter",
+      "Meeting around an oval wooden table: a grey-haired woman raises her hand to speak while four people listen"
+    ]
+  },
+  "family-office-belgique": {
+    "cat": "comprendre-les-fonds",
+    "fr": [
+      "Bureau lambrissé d'une maison de famille : fauteuil en cuir, porte-documents fermé sur la table, photos de famille encadrées et lampe en laiton",
+      "Homme aux cheveux blancs et femme d'une trentaine d'années traversant un atelier de métallurgie, il désigne une machine"
+    ],
+    "en": [
+      "Wood-panelled study in a family house: leather armchair, closed portfolio on the desk, framed family photos and a brass lamp",
+      "White-haired man and a woman in her thirties walking through a metalworking shop, he points at a machine"
+    ]
   }
 }
