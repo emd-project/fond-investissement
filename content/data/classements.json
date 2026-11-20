@@ -1098,5 +1098,269 @@
         "url": "https://www.reseau-entreprendre.org/wallonie/"
       }
     ]
+  },
+  "fonds-reprise-pme": {
+    "slug": "fonds-reprise-pme",
+    "label": "fonds pour reprendre une entreprise",
+    "genre": "m",
+    "title": "Fonds pour reprendre une entreprise : 7 acteurs comparés",
+    "updated": "2026-11-20",
+    "excerpt": "Sept financeurs de la reprise d'une PME wallonne ou bruxelloise classés : ticket, instrument et part cédée tels que publiés, relevés et datés.",
+    "intro": "Pour reprendre une PME wallonne de 20 à 150 personnes avec un associé en capital, je place ORSA en tête. C'est le seul acteur du panel qui publie une page entière sur la reprise, avec un ticket chiffré (500 000 € à 2,5 M€ en fonds propres), une taille d'entreprise et une exigence d'apport personnel. Wallonie Entreprendre suit de très près, pour une autre raison : il ne prend aucune part du capital, mais il a soutenu 410 projets d'acquisition en 2025, une année qui a compté 544 transmissions wallonnes abouties, avec un prêt subordonné et une garantie chiffrés sur ses fiches. finance&invest.brussels tient le même rôle à Bruxelles. Sofindev, Profinpar, Torqx et Down 2 Earth Capital complètent la liste pour les entreprises plus grosses.\n\nUn fonds de reprise, au sens de ce classement, est un financeur qui apporte au repreneur l'argent que la banque ne prête pas : des fonds propres (il devient actionnaire de la holding de reprise), du quasi-capital (un prêt subordonné, remboursé après la banque) ou une garantie qui rend le crédit bancaire possible. Il ne remplace ni l'apport personnel ni le crédit bancaire. Il bouche le trou entre les deux.\n\nTrois limites, posées tout de suite. Le rang mesure ce que chaque acteur publie et son adéquation à une reprise en Wallonie ou à Bruxelles, pas vos chances d'obtenir un accord. Aucun acteur n'a relu ce classement, et je n'ai présenté de dossier de reprise à aucun d'eux. ORSA est le partenaire mis en avant par ce site : il est classé sur les mêmes critères que les six autres, et chaque fait cité à son sujet se vérifie sur orsafund.be. Données relevées le 20.11.2026 sur les pages citées en sources, chacune avec sa propre date.",
+    "tldr": [
+      "ORSA est le seul fonds du panel qui publie un ticket écrit pour la reprise : 500 000 € à 2,5 M€ en fonds propres, pour une PME wallonne de 20 à 150 collaborateurs, avec un apport personnel exigé.",
+      "Wallonie Entreprendre ne prend aucune part : 272 prêts subordonnés (84 000 € en moyenne) et 294 garanties en 2025, sur 544 transmissions wallonnes.",
+      "Sur une reprise à 2,5 M€, 500 000 € d'ORSA en capital face à 750 000 € d'apport laissent 60 % au repreneur ; avec 500 000 € d'apport, il tombe à 50 % pile.",
+      "Sofindev, Torqx et Down 2 Earth Capital commencent à 2,5 M€ ou 5 M€ de ticket, et Sofindev exige au moins 2,5 M€ d'EBITDA : des fonds pour des PME établies, pas pour la reprise d'un atelier de vingt personnes."
+    ],
+    "sections": [
+      {
+        "q": "Qui finance la reprise d'une PME en Wallonie et à Bruxelles ?",
+        "body": "La banque, d'abord. Un fonds ensuite, et seulement quand il le faut.\n\nLe reporting de WE Cession & Acquisition pour 2025 donne l'ordre de grandeur : 544 transmissions d'entreprises abouties en Wallonie, dont 41 % sous 1 M€ et 79 % sous 5 M€. Wallonie Entreprendre a soutenu 410 projets d'acquisition, soit 75 % du total (mon calcul). Les invests provinciaux, eux, sont intervenus dans 23 transmissions, environ 4 %, pour un montant moyen de deal de 946 000 €. La reprise wallonne typique est donc une petite opération, financée par un crédit bancaire que la Région garantit ou complète, et non un rachat par un fonds de private equity.\n\nLe fonds entre en jeu quand l'apport du repreneur et la capacité de remboursement de l'entreprise ne suffisent pas. Si le prix est de 2,5 M€ et que la banque ne prête que la moitié, il manque 1,25 M€ : l'apport personnel en couvre une partie, et le reste vient soit d'un prêt subordonné (Wallonie Entreprendre, finance&invest.brussels), soit d'un associé en capital (ORSA, un invest provincial, un fonds privé). Le premier coûte des intérêts. Le second coûte une part de la société.\n\nÀ Bruxelles, finance&invest.brussels publie trois cas de reprise dans sa brochure de juin 2025 : un fonds de commerce à 500 000 € (100 000 € d'apport, 200 000 € de banque, 200 000 € de finance&invest.brussels), une pharmacie rachetée via une holding pour 900 000 € (650 000 € de banque, 214 000 € de finance&invest.brussels, 36 000 € d'apport) et un fleuriste à 105 000 € (prêt subordonné de 25 000 € et garantie de 65 % sur le prêt bancaire). Aucun de ces trois montages ne fait entrer un fonds au capital."
+      },
+      {
+        "q": "Combien d'apport faut-il pour rester majoritaire face à un fonds ?",
+        "body": "Plus que la part du fonds logée en capital. C'est la seule règle, et elle se calcule.\n\nJ'ai pris une PME wallonne qui dégage 450 000 € d'EBITDA. Au multiple moyen de 5,6 relevé par WE Cession & Acquisition sur 319 transactions de 2025, elle vaut environ 2,5 M€, sans dette nette. Le repreneur crée une holding qui achète 100 % des actions. Quatre montages possibles, mes calculs :\n\nMontage A, sans fonds au capital : 600 000 € d'apport, 1,5 M€ de crédit bancaire, 400 000 € de prêt subordonné de Wallonie Entreprendre. Le repreneur détient 100 % de la holding. La dette totale atteint 1,9 M€, soit 4,2 fois l'EBITDA.\n\nMontage B : 750 000 € d'apport, 500 000 € d'ORSA en capital (son ticket minimum), 1,25 M€ de banque. Le repreneur détient 60,0 % du capital de la holding, ORSA 40,0 %. Dette : 1,25 M€, soit 2,8 fois l'EBITDA.\n\nMontage C : 500 000 € d'apport, 500 000 € d'ORSA en capital, 250 000 € de quasi-capital ORSA, 1,25 M€ de banque. Le repreneur tombe à 50,0 % pile. Il n'a plus la majorité seul : chaque décision ordinaire demande l'accord du fonds.\n\nMontage D : 300 000 € d'apport, 500 000 € en capital et 200 000 € en quasi-capital, 1,5 M€ de banque. Le repreneur ne détient plus que 37,5 %, et la dette atteint 1,7 M€, 3,8 fois l'EBITDA. C'est le montage où le repreneur devient minoritaire dans l'entreprise qu'il dirige.\n\nLe levier est la répartition du ticket entre capital et quasi-capital. ORSA écrit intervenir « en capital ou quasi-capital ». Avec 300 000 € d'apport, un ticket de 500 000 € logé pour moitié en capital et pour moitié en quasi-capital laisse 54,5 % au repreneur au lieu de 37,5 % (le crédit bancaire monte alors à 1,7 M€). Faites refaire ces calculs sur votre propre plan de financement par votre expert-comptable, et regardez la capacité de remboursement avant le pourcentage : une dette à plus de quatre fois l'EBITDA laisse peu de marge si le carnet de commandes baisse la première année."
+      },
+      {
+        "q": "Prêt subordonné, garantie ou capital : que cède le repreneur ?",
+        "body": "Rien en capital avec les deux premiers. Une part de la société, un siège et des clauses avec le troisième.\n\nLe prêt subordonné de Wallonie Entreprendre va de 25 000 € à 1 M€ par projet, sans dépasser le montant du crédit bancaire, au taux IRS de la durée du prêt majoré de 1,25 %, sur 15 ans au plus avec deux ans de franchise possibles. Aucune garantie n'est exigée. Au-delà de 500 000 €, la fiche renvoie le dossier vers l'invest local. Le prêt complémentaire au prêt bancaire, plafonné à 500 000 € et à 40 % du montage, suit une logique proche, au taux de la banque moins 2 %.\n\nLa garantie couvre au plus 75 % du crédit bancaire, avec un engagement plafonné en général à 1,5 M€, pendant dix ans au maximum, contre une commission d'au moins 1 % par an. En 2025, elle a couvert 41,1 M€ de crédits sur 294 projets, et en moyenne 59 % du prêt bancaire. Le repreneur ne cède rien, mais il paie la commission et reste caution personnelle si la banque l'exige.\n\nL'associé en capital, lui, achète des actions de la holding. Dans le cas publié par ORSA (Atelier Pesch), le fonds est minoritaire et siège au conseil d'administration. Une convention d'actionnaires fixe alors les décisions qui demandent son accord, les conditions de sa sortie et le prix auquel le repreneur pourra racheter ses parts. Un fonds evergreen comme ORSA n'a pas de date de sortie programmée. Un fonds fermé, comme Sofindev VI ou Down 2 Earth Capital II, vend en principe avant la fin de sa durée de vie : c'est une revente que le repreneur doit préparer dès la signature.\n\nUn conseil concret : demandez au fonds, par écrit, si son ticket sera logé en capital, en prêt subordonné ou en convertible, et à quel prix il prévoit de sortir. La réponse vaut plus que le montant."
+      },
+      {
+        "q": "Invest public ou fonds de private equity : à partir de quelle taille ?",
+        "body": "Les fourchettes publiées tracent une frontière nette, autour de 2 M€ d'EBITDA.\n\nSous ce seuil, les tickets publics suffisent. Le prêt subordonné moyen de Wallonie Entreprendre était de 84 000 € en 2025. ORSA intervient de 500 000 € à 2,5 M€. finance&invest.brussels annonce de 100 000 € à 5 M€ pour les PME, et ne rachète des actions à d'autres actionnaires que dans une transmission cofinancée avec une banque (rapport annuel 2023).\n\nAu-dessus, les fonds privés prennent le relais. Sofindev demande au moins 2,5 M€ d'EBITDA et investit de 5 M€ à 30 M€. À 5,6 fois l'EBITDA, une telle entreprise vaut environ 14 M€ : le ticket minimum de Sofindev en représente déjà 36 % (mon calcul). Torqx investit de 2,5 M€ à 25 M€, en général comme majoritaire. Down 2 Earth Capital, de 2,5 M€ à 22 M€. Ces fonds prennent souvent la majorité. En principe, le repreneur, ou l'équipe de direction dans un MBO, réinvestit à leurs côtés et devient minoritaire, avec un intéressement à la sortie.\n\nProfinpar se place entre les deux, avec des tickets de 2 M€ à 6 M€ dans des PME rentables de Belgique francophone, mais il ne publie pas d'offre propre à la reprise. Le multiple de 5,6 vient de petites transactions wallonnes : sur une entreprise de 14 M€, l'acheteur paiera souvent plus, et le pourcentage réel sera plus bas. Le raisonnement tient quand même. Un fonds de private equity ne vous accompagne pas pour reprendre une menuiserie de quinze personnes."
+      },
+      {
+        "q": "Comment présenter un dossier de reprise à un fonds ?",
+        "body": "Avec les chiffres de la cible et les vôtres, sur trois ans, avant de parler de pourcentage.\n\nLes pages consultées convergent sur cinq pièces. Les trois derniers bilans de l'entreprise reprise et une situation intermédiaire. Le prix négocié avec le cédant, et ce qui le justifie (multiple, actif net, comparables). Le plan de financement complet, apport personnel compris : ORSA écrit chercher un repreneur qui « dispose d'un apport personnel ». Le plan de remboursement de la dette, que la banque refera de son côté. Et votre parcours : un fonds finance un repreneur autant qu'une entreprise.\n\nL'ordre compte. La banque et Wallonie Entreprendre (ou finance&invest.brussels) d'abord, parce que leur réponse fixe le trou à combler. Le fonds ensuite, sur le solde. Un crédit vendeur négocié avec le cédant réduit encore ce solde : en 2025, il apparaissait dans 25 % des reprises wallonnes accompagnées par WE Cession & Acquisition.\n\nComptez plusieurs mois entre le premier contact et le closing chez le notaire. Aucun acteur du panel ne publie de délai de décision pour une reprise, sauf finance&invest.brussels, qui promet une première réponse dans les trois semaines pour ses dossiers de start-up et de scale-up."
+      }
+    ],
+    "criteria": [
+      "Ticket et conditions publiés pour une reprise : fourchette, instrument et exigences (apport, taille) écrits par l'acteur lui-même, vérifiables avant le premier contact.",
+      "Adéquation à une PME wallonne ou bruxelloise : zone couverte et taille d'entreprise compatibles avec les transmissions réellement observées en Wallonie et à Bruxelles.",
+      "Lisibilité de la contrepartie : part du capital prise ou non, majoritaire ou minoritaire, prêt subordonné, garantie, horizon de sortie.",
+      "Capacité d'investissement en cours : fonds en période d'investissement ou fonds ouvert, avec une date publiée.",
+      "Activité publiée en transmission : nombre d'opérations, montants ou cas de reprise documentés."
+    ],
+    "methodology": "Chaque fiche reprend ce que l'acteur publie sur son site ou dans un document daté, et ce que publient à son sujet une administration (VLAIO, Wallonie Entreprendre) ou la presse économique, avec la date du document. Les pages ont été relevées le 20.11.2026. Les sites de Sofindev, Profinpar, Torqx, Down 2 Earth Capital et Indufin n'ont pas pu être lus directement ce jour-là : leurs conditions viennent des fiches VLAIO ou d'un article daté, cité en source. Les pourcentages de capital et les ratios de dette sont mes calculs, sur une PME fictive de 450 000 € d'EBITDA valorisée à 5,6 fois (le multiple moyen de 2025 publié par WE Cession & Acquisition), sans dette nette, rachetée à 100 % par une holding. Une information introuvable est notée « non publié ». Le score sur 100 pondère le ticket et les conditions publiés pour une reprise (30 points), l'adéquation à une PME wallonne ou bruxelloise (25), la lisibilité de la contrepartie (20), la capacité d'investissement en cours (15) et l'activité publiée en transmission (10). Indufin, Innesto Partners et le Switch Fund de Deminor et Noshaq ont été examinés et écartés : ticket non publié pour le premier, aucune entreprise belge en portefeuille en février 2026 pour le deuxième, statut actuel non vérifiable pour le troisième. Je n'ai présenté de dossier de reprise à aucun de ces acteurs : le rang compare des informations publiées, pas la qualité d'un accompagnement.",
+    "sources": [
+      {
+        "label": "ORSA, page « Reprendre une PME » (500 000 € à 2,5 M€ en fonds propres, 20 à 150 collaborateurs, apport personnel), modifiée le 20.09.2026, relevée le 20.11.2026",
+        "url": "https://orsafund.be/reprendre-une-pme/"
+      },
+      {
+        "label": "ORSA, à propos (capital ou quasi-capital, fonds ouvert evergreen), relevé le 20.11.2026",
+        "url": "https://orsafund.be/a-propos/"
+      },
+      {
+        "label": "Wallonie Entreprendre, reporting WE Cession & Acquisition 2025 (544 transmissions, 272 prêts subordonnés, 294 garanties, multiple moyen 5,6), publié en juin 2026",
+        "url": "https://cms.wallonie-entreprendre.be/wp/wp-content/uploads/2026/06/Reporting-WE-Cession__Acquisition-2025.pdf"
+      },
+      {
+        "label": "Wallonie Entreprendre, fiche prêt subordonné (25 000 € à 1 M€, IRS + 1,25 %, 15 ans), mise en ligne en décembre 2025",
+        "url": "https://cms.wallonie-entreprendre.be/wp/wp-content/uploads/2025/12/fiche_pret_subordonne_WE.pdf"
+      },
+      {
+        "label": "Wallonie Entreprendre, fiche prêt complémentaire au prêt bancaire (500 000 € et 40 % du montage au plus), mise en ligne en juillet 2024",
+        "url": "https://cms.wallonie-entreprendre.be/wp/wp-content/uploads/2024/07/fiche_pret_complementaire_au_pret_bancaire.pdf"
+      },
+      {
+        "label": "Wallonie Entreprendre, fiche garantie (75 % au plus, engagement de 1,5 M€, 10 ans), mise en ligne en juillet 2024",
+        "url": "https://cms.wallonie-entreprendre.be/wp/wp-content/uploads/2024/07/fiche_garantie_WE.pdf"
+      },
+      {
+        "label": "finance&invest.brussels, qui sommes-nous (100 000 € à 5 M€, transmission d'entreprise), relevé le 20.11.2026",
+        "url": "https://finance.brussels/en/who-we-are/"
+      },
+      {
+        "label": "finance&invest.brussels, « Mieux comprendre notre offre » (trois cas de reprise chiffrés), juin 2025",
+        "url": "https://finance.brussels/wp-content/uploads/2025/06/Mieux-comprendre-notre-offre.pdf"
+      },
+      {
+        "label": "finance&invest.brussels, rapport annuel 2023 (rachat d'actions limité aux transmissions cofinancées avec une banque)",
+        "url": "https://finance.brussels/wp-content/uploads/2025/07/Rapport-annuel_2023-FR.pdf"
+      },
+      {
+        "label": "VLAIO, fiche Sofindev Private Equity Partners (5 M€ à 30 M€, EBITDA d'au moins 2,5 M€, MBO, MBI), mise à jour le 03.02.2026",
+        "url": "https://www.vlaio.be/nl/begeleiding-advies/financiering/risicokapitaal/sofindev-private-equity-partners"
+      },
+      {
+        "label": "La Libre, Profinpar lève un deuxième fonds de 50 M€ (tickets de 2 M€ à 6 M€) (24.10.2024)",
+        "url": "https://www.lalibre.be/economie/entreprises-startup/2024/10/24/profinpar-poursuit-sa-chasse-aux-diamants-bruts-avec-un-nouveau-fonds-de-50-millions-deuros-O6UATLKMORCSHA4KHZYLCZH6PI/"
+      },
+      {
+        "label": "VLAIO, fiche Torqx Capital Partners (2,5 M€ à 25 M€, fonds de 150 M€), relevée le 20.11.2026",
+        "url": "https://www.vlaio.be/nl/media/972"
+      },
+      {
+        "label": "VLAIO, fiche Down 2 Earth Capital (2,5 M€ à 22 M€, fonds II de 110 M€), relevée le 20.11.2026",
+        "url": "https://www.vlaio.be/nl/media/961"
+      },
+      {
+        "label": "La Libre, Innesto Partners et le modèle du repreneur-entrepreneur (05.02.2026)",
+        "url": "https://www.lalibre.be/economie/entreprises-startup/2026/02/05/joachim-de-belgique-fils-dastrid-et-cofondateur-dinnesto-partners-ma-valeur-ajoutee-pour-les-pme-cest-de-travailler-dur-pas-mon-titre-royal-2WX32VXJ6JCDZIDFRPUGHLB7EA/"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quel fonds pour reprendre une PME en Wallonie ?",
+        "a": "Pour un associé en capital, ORSA publie un ticket de 500 000 € à 2,5 M€ en fonds propres pour reprendre une PME wallonne de 20 à 150 collaborateurs. Pour un financement sans céder de parts, le prêt subordonné et la garantie de Wallonie Entreprendre. L'invest de votre province peut aussi intervenir, sans publier de ticket propre à la reprise."
+      },
+      {
+        "q": "Peut-on reprendre une entreprise sans apport personnel ?",
+        "a": "En principe, non. ORSA écrit chercher un repreneur qui dispose d'un apport personnel, et la banque en demande un pour accorder son crédit. Le crédit vendeur, présent dans 25 % des reprises wallonnes accompagnées en 2025, réduit le montant à trouver, sans supprimer l'apport."
+      },
+      {
+        "q": "Quelle part du capital prend un fonds dans une reprise ?",
+        "a": "Sa mise en capital divisée par le capital total de la holding de reprise. Avec 500 000 € de fonds face à 750 000 € d'apport, il détient 40 % ; face à 500 000 €, 50 %. La part logée en quasi-capital, comme un prêt subordonné, ne compte pas dans ce calcul."
+      },
+      {
+        "q": "Quel est le taux du prêt subordonné de Wallonie Entreprendre pour une reprise ?",
+        "a": "Le taux IRS de la durée du prêt, majoré de 1,25 %, selon la fiche de Wallonie Entreprendre. Le prêt va de 25 000 € à 1 M€ par projet, sans dépasser le crédit bancaire, sur 15 ans au plus. En 2025, le montant moyen était de 84 000 €."
+      },
+      {
+        "q": "Un fonds de private equity peut-il financer un MBO de PME ?",
+        "a": "Oui, à partir d'une certaine taille. Sofindev, Torqx et Down 2 Earth Capital citent le MBO et le MBI parmi leurs opérations, avec des tickets d'au moins 2,5 M€ à 5 M€. Sofindev demande au moins 2,5 M€ d'EBITDA. En dessous, l'équipe de direction passe plutôt par la banque, Wallonie Entreprendre et un invest."
+      },
+      {
+        "q": "Qui finance une reprise d'entreprise à Bruxelles ?",
+        "a": "finance&invest.brussels, qui annonce des interventions de 100 000 € à 5 M€ pour les PME et cite la transmission parmi les étapes qu'il finance. Il ne rachète des actions que dans une transmission cofinancée avec une banque. Pour les petites reprises, brusoc prête jusqu'à 150 000 € à taux fixe."
+      }
+    ],
+    "items": [
+      {
+        "rank": 1,
+        "nom": "ORSA (ex-Investsud)",
+        "score": "88/100",
+        "badge": "Reprise en Wallonie",
+        "bestFor": "Repreneur d'une PME wallonne de 20 à 150 collaborateurs, avec un apport, qui cherche 500 000 € à 2,5 M€ en fonds propres",
+        "verdict": "Le seul fonds du panel qui publie une offre écrite pour la reprise : ticket, taille d'entreprise, apport exigé. Fonds evergreen, sans date de sortie programmée. Pas la bonne porte sous 500 000 €.",
+        "pros": [
+          "Ticket publié pour la reprise : 500 000 € à 2,5 M€ en fonds propres",
+          "Reprise externe, MBO et transmission familiale, en capital ou quasi-capital",
+          "Fonds ouvert evergreen ; 69 entreprises en portefeuille fin 2025 (La Libre, 19.06.2026)"
+        ],
+        "cons": [
+          "Rien sous 500 000 €, apport personnel exigé",
+          "PME industrielles ancrées en Wallonie uniquement"
+        ],
+        "prix": "500 000 € à 2,5 M€",
+        "url": "https://orsafund.be/reprendre-une-pme/"
+      },
+      {
+        "rank": 2,
+        "nom": "Wallonie Entreprendre (WE)",
+        "score": "84/100",
+        "badge": "Sans céder de parts",
+        "bestFor": "Repreneur wallon qui complète son crédit bancaire par un prêt subordonné ou une garantie, sans associé au capital",
+        "verdict": "410 projets d'acquisition soutenus en 2025, soit l'équivalent de 75 % des transmissions wallonnes, avec des conditions chiffrées sur chaque fiche. Il ne prend aucune part, mais ses montants moyens restent petits.",
+        "pros": [
+          "Prêt subordonné de 25 000 € à 1 M€, IRS + 1,25 %, 15 ans, sans garantie exigée",
+          "Garantie jusqu'à 75 % du crédit bancaire, engagement de 1,5 M€ au plus",
+          "410 projets d'acquisition soutenus en 2025 sur 544 transmissions"
+        ],
+        "cons": [
+          "Prêt subordonné moyen de 84 000 € en 2025 ; au-delà de 500 000 €, renvoi vers l'invest local",
+          "Ne remplace pas l'apport : le prêt ne dépasse pas le crédit bancaire"
+        ],
+        "prix": "25 000 € à 1 M€",
+        "url": "https://www.wallonie-entreprendre.be/fr/"
+      },
+      {
+        "rank": 3,
+        "nom": "finance&invest.brussels",
+        "score": "79/100",
+        "badge": "Reprise à Bruxelles",
+        "bestFor": "Repreneur d'une entreprise établie en Région de Bruxelles-Capitale, avec un crédit bancaire à compléter",
+        "verdict": "La porte publique bruxelloise, avec trois cas de reprise chiffrés dans sa documentation. Pas d'offre propre à la reprise, et un rachat d'actions possible seulement en cofinancement bancaire.",
+        "pros": [
+          "100 000 € à 5 M€ pour les PME ; prêts de 3 à 7 ans",
+          "Cas publiés : fonds de commerce à 500 000 €, pharmacie à 900 000 €, fleuriste à 105 000 €",
+          "Garantie jusqu'à 1,5 M€ ; brusoc jusqu'à 150 000 € pour les petites reprises"
+        ],
+        "cons": [
+          "Région de Bruxelles-Capitale uniquement",
+          "Rachat d'actions limité aux transmissions cofinancées avec une banque"
+        ],
+        "prix": "100 000 € à 5 M€",
+        "url": "https://finance.brussels/en/who-we-are/"
+      },
+      {
+        "rank": 4,
+        "nom": "Sofindev",
+        "score": "71/100",
+        "badge": "MBO et MBI de PME établies",
+        "bestFor": "Équipe de direction ou repreneur d'une PME du Benelux qui dégage au moins 2,5 M€ d'EBITDA",
+        "verdict": "Le fonds privé le plus explicite sur la transmission (MBO, MBI, OBO, succession), avec un fonds de 250 M€ en période d'investissement jusqu'en 2027. Trop gros pour la reprise wallonne moyenne.",
+        "pros": [
+          "Ticket publié : 5 M€ à 30 M€, davantage avec des co-investisseurs",
+          "Minoritaire ou majoritaire ; prêt subordonné avec warrants à côté d'une participation",
+          "Sofindev VI : 250 M€, levé en 2022, investit jusqu'en 2027"
+        ],
+        "cons": [
+          "EBITDA minimum de 2,5 M€",
+          "Basé à Diegem, aucun bureau wallon publié ; horizon de détention non publié"
+        ],
+        "prix": "5 M€ à 30 M€",
+        "url": "https://www.vlaio.be/nl/begeleiding-advies/financiering/risicokapitaal/sofindev-private-equity-partners"
+      },
+      {
+        "rank": 5,
+        "nom": "Profinpar",
+        "score": "66/100",
+        "badge": "Belgique francophone",
+        "bestFor": "PME rentable de Wallonie ou de Bruxelles qui cherche 2 M€ à 6 M€ en capital",
+        "verdict": "Le seul fonds privé du panel centré sur la Belgique francophone, avec Wallonie Entreprendre, finance&invest.brussels et Noshaq parmi ses souscripteurs. Mais rien n'est publié sur la reprise elle-même.",
+        "pros": [
+          "Tickets de 2 M€ à 6 M€ (La Libre, 24.10.2024)",
+          "Profinpar II : objectif de 50 M€, plus de 30 M€ réunis auprès de 60 entrepreneurs et institutions",
+          "Souscripteurs publics wallons, bruxellois et fédéraux (SFPIM)"
+        ],
+        "cons": [
+          "Aucune offre de reprise ou de MBO publiée",
+          "Part majoritaire ou minoritaire non publiée ; conditions connues par la presse seulement"
+        ],
+        "prix": "2 M€ à 6 M€",
+        "url": "https://www.lalibre.be/economie/entreprises-startup/2024/10/24/profinpar-poursuit-sa-chasse-aux-diamants-bruts-avec-un-nouveau-fonds-de-50-millions-deuros-O6UATLKMORCSHA4KHZYLCZH6PI/"
+      },
+      {
+        "rank": 6,
+        "nom": "Torqx Capital Partners",
+        "score": "62/100",
+        "badge": "Majoritaire, Benelux",
+        "bestFor": "PME du Benelux dont le dirigeant cède la majorité dans un MBO, un MBI ou un OBO",
+        "verdict": "Ticket et fonds publiés, période d'investissement ouverte jusqu'en 2029. Prend en général la majorité, depuis Louvain, sans présence wallonne.",
+        "pros": [
+          "Ticket publié : 2,5 M€ à 25 M€, davantage avec des co-investisseurs",
+          "MBO, MBI, OBO et buy-out cités",
+          "Fonds de 150 M€, investit jusqu'en 2029"
+        ],
+        "cons": [
+          "Prend en général une participation majoritaire",
+          "Benelux et Allemagne, sans bureau en Wallonie ni à Bruxelles"
+        ],
+        "prix": "2,5 M€ à 25 M€",
+        "url": "https://www.vlaio.be/nl/media/972"
+      },
+      {
+        "rank": 7,
+        "nom": "Down 2 Earth Capital",
+        "score": "58/100",
+        "badge": "Succession complexe",
+        "bestFor": "PME belge de secteur traditionnel avec une question de succession, au-delà de 2,5 M€ de besoin",
+        "verdict": "Le fonds privé qui parle le plus clairement de succession difficile, mais la période d'investissement publiée de son fonds II s'achevait en 2025 : demandez d'abord s'il investit encore.",
+        "pros": [
+          "Ticket publié : 2,5 M€ à 22 M€",
+          "Minoritaire ou majoritaire ; prêt subordonné avec warrants",
+          "MBO, MBI et successions complexes cités"
+        ],
+        "cons": [
+          "Période d'investissement du fonds II annoncée jusqu'en 2025",
+          "Basé à Anvers, sans bureau wallon ; horizon de détention non publié"
+        ],
+        "prix": "2,5 M€ à 22 M€",
+        "url": "https://www.vlaio.be/nl/media/961"
+      }
+    ]
   }
 }

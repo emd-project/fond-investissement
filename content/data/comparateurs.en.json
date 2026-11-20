@@ -414,5 +414,103 @@
         }
       }
     ]
+  },
+  "fonds-reprise-pme": {
+    "id": "fonds-reprise-pme",
+    "label": "Funds for buying a business",
+    "description": "Seven financiers of an SME takeover side by side: published ticket, what you give, target company, area and horizon, checked on 20.11.2026. The amount shown is the published minimum ticket.",
+    "specsLabels": {
+      "ticket": "Published ticket",
+      "contrepartie": "What you give",
+      "cible": "Target company",
+      "zone": "Area",
+      "horizon": "Horizon or fund"
+    },
+    "modeles": [
+      {
+        "nom": "ORSA (formerly Investsud)",
+        "prix": 500000,
+        "sourceUrl": "https://orsafund.be/reprendre-une-pme/",
+        "specs": {
+          "ticket": "€500,000 to €2.5M in equity",
+          "contrepartie": "Equity or quasi-equity, minority",
+          "cible": "SMEs with 20 to 150 staff, personal contribution required",
+          "zone": "Wallonia",
+          "horizon": "Evergreen fund, no scheduled exit date"
+        }
+      },
+      {
+        "nom": "Wallonie Entreprendre (WE)",
+        "prix": 25000,
+        "sourceUrl": "https://www.wallonie-entreprendre.be/fr/",
+        "specs": {
+          "ticket": "Subordinated loan of €25,000 to €1M; guarantee of up to 75% (€1.5M)",
+          "contrepartie": "No stake: subordinated loan (IRS + 1.25%) or guarantee",
+          "cible": "Capped at the amount of the bank loan",
+          "zone": "Wallonia",
+          "horizon": "Loan up to 15 years; guarantee up to 10 years"
+        }
+      },
+      {
+        "nom": "finance&invest.brussels",
+        "prix": 100000,
+        "sourceUrl": "https://finance.brussels/en/who-we-are/",
+        "specs": {
+          "ticket": "€100,000 to €5M",
+          "contrepartie": "Loans, guarantees; shares only with bank co-financing",
+          "cible": "Company established in Brussels",
+          "zone": "Brussels-Capital Region",
+          "horizon": "Loans of 3 to 7 years"
+        }
+      },
+      {
+        "nom": "Sofindev",
+        "prix": 5000000,
+        "sourceUrl": "https://www.vlaio.be/nl/begeleiding-advies/financiering/risicokapitaal/sofindev-private-equity-partners",
+        "specs": {
+          "ticket": "€5M to €30M",
+          "contrepartie": "Minority or majority; subordinated loan with warrants",
+          "cible": "EBITDA of at least €2.5M",
+          "zone": "Benelux",
+          "horizon": "Sofindev VI (€250M) invests until 2027"
+        }
+      },
+      {
+        "nom": "Profinpar",
+        "prix": 2000000,
+        "sourceUrl": "https://www.lalibre.be/economie/entreprises-startup/2024/10/24/profinpar-poursuit-sa-chasse-aux-diamants-bruts-avec-un-nouveau-fonds-de-50-millions-deuros-O6UATLKMORCSHA4KHZYLCZH6PI/",
+        "specs": {
+          "ticket": "€2M to €6M",
+          "contrepartie": "Equity; majority or minority not published",
+          "cible": "Profitable, growing SMEs",
+          "zone": "French-speaking Belgium",
+          "horizon": "not published"
+        }
+      },
+      {
+        "nom": "Torqx Capital Partners",
+        "prix": 2500000,
+        "sourceUrl": "https://www.vlaio.be/nl/media/972",
+        "specs": {
+          "ticket": "€2.5M to €25M",
+          "contrepartie": "Usually majority",
+          "cible": "not published",
+          "zone": "Benelux and Germany",
+          "horizon": "€150M fund, investing until 2029"
+        }
+      },
+      {
+        "nom": "Down 2 Earth Capital",
+        "prix": 2500000,
+        "sourceUrl": "https://www.vlaio.be/nl/media/961",
+        "specs": {
+          "ticket": "€2.5M to €22M",
+          "contrepartie": "Minority or majority; subordinated loan with warrants",
+          "cible": "SMEs in traditional sectors, no start-ups",
+          "zone": "Mainly Belgium",
+          "horizon": "Fund II investment period announced until 2025"
+        }
+      }
+    ]
   }
 }

@@ -414,5 +414,103 @@
         }
       }
     ]
+  },
+  "fonds-reprise-pme": {
+    "id": "fonds-reprise-pme",
+    "label": "Fonds pour reprendre une entreprise",
+    "description": "Sept financeurs de la reprise d'une PME côte à côte : ticket, contrepartie, cible, zone et horizon publiés, relevés le 20.11.2026. Le montant affiché est le ticket minimum publié.",
+    "specsLabels": {
+      "ticket": "Ticket publié",
+      "contrepartie": "Contrepartie",
+      "cible": "Entreprise visée",
+      "zone": "Zone",
+      "horizon": "Horizon ou fonds"
+    },
+    "modeles": [
+      {
+        "nom": "ORSA (ex-Investsud)",
+        "prix": 500000,
+        "sourceUrl": "https://orsafund.be/reprendre-une-pme/",
+        "specs": {
+          "ticket": "500 000 € à 2,5 M€ en fonds propres",
+          "contrepartie": "Capital ou quasi-capital, minoritaire",
+          "cible": "PME de 20 à 150 collaborateurs, apport personnel exigé",
+          "zone": "Wallonie",
+          "horizon": "Fonds evergreen, sans date de sortie programmée"
+        }
+      },
+      {
+        "nom": "Wallonie Entreprendre (WE)",
+        "prix": 25000,
+        "sourceUrl": "https://www.wallonie-entreprendre.be/fr/",
+        "specs": {
+          "ticket": "Prêt subordonné de 25 000 € à 1 M€ ; garantie jusqu'à 75 % (1,5 M€)",
+          "contrepartie": "Aucune part : prêt subordonné (IRS + 1,25 %) ou garantie",
+          "cible": "Plafonné au montant du crédit bancaire",
+          "zone": "Wallonie",
+          "horizon": "Prêt jusqu'à 15 ans ; garantie jusqu'à 10 ans"
+        }
+      },
+      {
+        "nom": "finance&invest.brussels",
+        "prix": 100000,
+        "sourceUrl": "https://finance.brussels/en/who-we-are/",
+        "specs": {
+          "ticket": "100 000 € à 5 M€",
+          "contrepartie": "Prêts, garanties ; actions seulement en cofinancement bancaire",
+          "cible": "Entreprise établie à Bruxelles",
+          "zone": "Région de Bruxelles-Capitale",
+          "horizon": "Prêts de 3 à 7 ans"
+        }
+      },
+      {
+        "nom": "Sofindev",
+        "prix": 5000000,
+        "sourceUrl": "https://www.vlaio.be/nl/begeleiding-advies/financiering/risicokapitaal/sofindev-private-equity-partners",
+        "specs": {
+          "ticket": "5 M€ à 30 M€",
+          "contrepartie": "Minoritaire ou majoritaire ; prêt subordonné avec warrants",
+          "cible": "EBITDA d'au moins 2,5 M€",
+          "zone": "Benelux",
+          "horizon": "Sofindev VI (250 M€) investit jusqu'en 2027"
+        }
+      },
+      {
+        "nom": "Profinpar",
+        "prix": 2000000,
+        "sourceUrl": "https://www.lalibre.be/economie/entreprises-startup/2024/10/24/profinpar-poursuit-sa-chasse-aux-diamants-bruts-avec-un-nouveau-fonds-de-50-millions-deuros-O6UATLKMORCSHA4KHZYLCZH6PI/",
+        "specs": {
+          "ticket": "2 M€ à 6 M€",
+          "contrepartie": "Capital ; majoritaire ou minoritaire non publié",
+          "cible": "PME rentables et en croissance",
+          "zone": "Belgique francophone",
+          "horizon": "non publié"
+        }
+      },
+      {
+        "nom": "Torqx Capital Partners",
+        "prix": 2500000,
+        "sourceUrl": "https://www.vlaio.be/nl/media/972",
+        "specs": {
+          "ticket": "2,5 M€ à 25 M€",
+          "contrepartie": "En général majoritaire",
+          "cible": "non publié",
+          "zone": "Benelux et Allemagne",
+          "horizon": "Fonds de 150 M€, investit jusqu'en 2029"
+        }
+      },
+      {
+        "nom": "Down 2 Earth Capital",
+        "prix": 2500000,
+        "sourceUrl": "https://www.vlaio.be/nl/media/961",
+        "specs": {
+          "ticket": "2,5 M€ à 22 M€",
+          "contrepartie": "Minoritaire ou majoritaire ; prêt subordonné avec warrants",
+          "cible": "PME de secteurs traditionnels, pas de start-up",
+          "zone": "Belgique surtout",
+          "horizon": "Période d'investissement du fonds II annoncée jusqu'en 2025"
+        }
+      }
+    ]
   }
 }

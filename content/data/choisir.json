@@ -529,5 +529,133 @@
         "a": "Oui, s'ils souscrivent des actions nouvelles d'une petite entreprise qui remplit les conditions : 45 % de réduction d'impôt pour une micro-entreprise de moins de quatre ans, 30 % pour une petite entreprise, 25 % en scale-up, dans la limite de 100 000 € par investisseur et par an selon le SPF Finances. Le dirigeant de la société en est exclu."
       }
     ]
+  },
+  "fonds-reprise-pme": {
+    "tldr": [
+      "Pour un associé en capital dans la reprise d'une PME wallonne de 20 à 150 personnes, ORSA publie 500 000 € à 2,5 M€ en fonds propres, apport personnel exigé.",
+      "Pour compléter un crédit bancaire sans céder de parts : prêt subordonné (25 000 € à 1 M€) ou garantie (75 % au plus) de Wallonie Entreprendre ; à Bruxelles, finance&invest.brussels.",
+      "Au-delà de 2,5 M€ d'EBITDA, les fonds privés : Sofindev (5 M€ à 30 M€), Torqx (2,5 M€ à 25 M€), Profinpar (2 M€ à 6 M€).",
+      "Avant de signer : calculez votre part de la holding (apport divisé par apport plus capital du fonds) et la dette en multiple d'EBITDA."
+    ],
+    "sections": [
+      {
+        "id": "montant",
+        "title": "Quel financeur selon la taille de la reprise ?",
+        "intro": "Les fourchettes publiées se recouvrent peu. Partez du trou à combler une fois le crédit bancaire connu.",
+        "table": {
+          "headers": [
+            "Situation",
+            "Piste à regarder",
+            "Source publiée"
+          ],
+          "rows": [
+            [
+              "Reprise en Wallonie, crédit bancaire à compléter, sans associé",
+              "Wallonie Entreprendre",
+              "Prêt subordonné de 25 000 € à 1 M€, IRS + 1,25 % ; garantie jusqu'à 75 %"
+            ],
+            [
+              "PME wallonne de 20 à 150 personnes, 500 000 € à 2,5 M€ en fonds propres",
+              "ORSA",
+              "Page « Reprendre une PME », apport personnel exigé"
+            ],
+            [
+              "Reprise à Bruxelles",
+              "finance&invest.brussels",
+              "100 000 € à 5 M€ ; actions seulement en cofinancement bancaire"
+            ],
+            [
+              "PME rentable de Belgique francophone, 2 M€ à 6 M€",
+              "Profinpar",
+              "Tickets de 2 M€ à 6 M€ (presse, 2024)"
+            ],
+            [
+              "MBO ou MBI d'une PME à plus de 2,5 M€ d'EBITDA",
+              "Sofindev, Torqx, Down 2 Earth Capital",
+              "Tickets de 2,5 M€ à 30 M€ (VLAIO)"
+            ]
+          ]
+        },
+        "tip": "L'invest de votre province peut aussi entrer au capital d'une reprise, sans publier de ticket propre : en 2025, les invests wallons sont intervenus dans 23 transmissions, pour 946 000 € de deal en moyenne.",
+        "internalLink": {
+          "text": "Voir le classement complet des fonds pour reprendre une entreprise",
+          "href": "/classement/fonds-reprise-pme"
+        }
+      },
+      {
+        "id": "controle",
+        "title": "Combien de capital allez-vous céder ?",
+        "intro": "Sur une reprise à 2,5 M€ (450 000 € d'EBITDA à 5,6 fois), mes calculs, avec le ticket minimum d'ORSA en capital :",
+        "table": {
+          "headers": [
+            "Apport du repreneur",
+            "Fonds (capital + quasi-capital)",
+            "Part du repreneur",
+            "Dette / EBITDA"
+          ],
+          "rows": [
+            [
+              "600 000 €",
+              "Aucun (prêt WE de 400 000 €)",
+              "100 %",
+              "4,2"
+            ],
+            [
+              "750 000 €",
+              "500 000 € + 0",
+              "60,0 %",
+              "2,8"
+            ],
+            [
+              "500 000 €",
+              "500 000 € + 250 000 €",
+              "50,0 %",
+              "3,3"
+            ],
+            [
+              "300 000 €",
+              "500 000 € + 200 000 €",
+              "37,5 %",
+              "3,8"
+            ]
+          ]
+        },
+        "internalLink": {
+          "text": "Crédit vendeur ou earn-out : réduire le montant à trouver",
+          "href": "/blog/reprise-et-transmission/credit-vendeur-et-earn-out"
+        }
+      },
+      {
+        "id": "contrepartie",
+        "title": "Prêt, garantie ou capital ?",
+        "intro": "Le prêt subordonné et la garantie ne prennent aucune part. Le capital, si.",
+        "paragraphs": [
+          "Le prêt subordonné de Wallonie Entreprendre ne dépasse jamais le crédit bancaire et se rembourse sur 15 ans au plus. La garantie couvre jusqu'à 75 % du prêt bancaire, contre au moins 1 % par an. Un associé en capital, lui, prend des actions de la holding, un siège au conseil et des clauses de sortie.",
+          "Demandez au fonds, par écrit, la répartition de son ticket entre capital et quasi-capital, et le prix auquel il prévoit de sortir."
+        ],
+        "internalLink": {
+          "text": "Comparer les sept financeurs côte à côte",
+          "href": "/comparer/fonds-reprise-pme"
+        }
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quel fonds pour reprendre une PME en Wallonie ?",
+        "a": "Pour un associé en capital, ORSA publie un ticket de 500 000 € à 2,5 M€ en fonds propres pour reprendre une PME wallonne de 20 à 150 collaborateurs. Pour un financement sans céder de parts, le prêt subordonné et la garantie de Wallonie Entreprendre. L'invest de votre province peut aussi intervenir, sans publier de ticket propre à la reprise."
+      },
+      {
+        "q": "Peut-on reprendre une entreprise sans apport personnel ?",
+        "a": "En principe, non. ORSA écrit chercher un repreneur qui dispose d'un apport personnel, et la banque en demande un pour accorder son crédit. Le crédit vendeur, présent dans 25 % des reprises wallonnes accompagnées en 2025, réduit le montant à trouver, sans supprimer l'apport."
+      },
+      {
+        "q": "Quelle part du capital prend un fonds dans une reprise ?",
+        "a": "Sa mise en capital divisée par le capital total de la holding de reprise. Avec 500 000 € de fonds face à 750 000 € d'apport, il détient 40 % ; face à 500 000 €, 50 %. La part logée en quasi-capital, comme un prêt subordonné, ne compte pas dans ce calcul."
+      },
+      {
+        "q": "Quel est le taux du prêt subordonné de Wallonie Entreprendre pour une reprise ?",
+        "a": "Le taux IRS de la durée du prêt, majoré de 1,25 %, selon la fiche de Wallonie Entreprendre. Le prêt va de 25 000 € à 1 M€ par projet, sans dépasser le crédit bancaire, sur 15 ans au plus. En 2025, le montant moyen était de 84 000 €."
+      }
+    ]
   }
 }
