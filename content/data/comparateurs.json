@@ -414,5 +414,91 @@
         }
       }
     ]
+  },
+  "fonds-reprise-pme": {
+    "id": "fonds-reprise-pme",
+    "label": "Fonds pour reprendre une entreprise",
+    "description": "Six financeurs de reprise de PME en Wallonie et à Bruxelles côte à côte : ticket, instrument, part prise, zone et chiffres publiés, relevés le 22.11.2026. Le montant affiché est le ticket minimum publié ; un tiret s'affiche quand l'acteur ne le publie pas.",
+    "specsLabels": {
+      "ticket": "Ticket publié",
+      "instrument": "Instrument",
+      "part": "Part prise",
+      "zone": "Zone",
+      "chiffres": "Chiffres publiés"
+    },
+    "modeles": [
+      {
+        "nom": "ORSA (ex-Investsud)",
+        "prix": 500000,
+        "sourceUrl": "https://orsafund.be/reprendre-une-pme/",
+        "specs": {
+          "ticket": "500 000 € à 2,5 M€",
+          "instrument": "Capital, quasi-capital ou Smart Bond (prêt subordonné de 5 à 10 ans)",
+          "part": "Minoritaire en capital ; aucune action avec le Smart Bond",
+          "zone": "Wallonie, PME de 20 à 150 collaborateurs",
+          "chiffres": "69 participations et 55 M€ investis fin 2025"
+        }
+      },
+      {
+        "nom": "Wallonie Entreprendre (WE)",
+        "prix": 25000,
+        "sourceUrl": "https://cms.wallonie-entreprendre.be/wp/wp-content/uploads/2025/12/fiche_pret_subordonne_WE.pdf",
+        "specs": {
+          "ticket": "25 000 € à 1 M€ (au plus le crédit bancaire)",
+          "instrument": "Prêt subordonné IRS + 1,25 %, 15 ans max ; garantie bancaire",
+          "part": "Aucune action",
+          "zone": "Wallonie",
+          "chiffres": "2025 : 272 prêts (22,97 M€), 294 garanties (41,09 M€ couverts)"
+        }
+      },
+      {
+        "nom": "finance&invest.brussels",
+        "prix": 0,
+        "sourceUrl": "https://finance.brussels/",
+        "specs": {
+          "ticket": "Jusqu'à 5 M€ (minimum non publié)",
+          "instrument": "Prêt, garantie, participation, co-financement bancaire",
+          "part": "Minoritaire, toujours en co-investissement",
+          "zone": "Bruxelles",
+          "chiffres": "Cas publiés : 200 000 € sur une reprise à 500 000 €, 214 000 € sur 900 000 €"
+        }
+      },
+      {
+        "nom": "Profinpar",
+        "prix": 2000000,
+        "sourceUrl": "https://www.lalibre.be/economie/entreprises-startup/2024/10/24/profinpar-poursuit-sa-chasse-aux-diamants-bruts-avec-un-nouveau-fonds-de-50-millions-deuros-O6UATLKMORCSHA4KHZYLCZH6PI/",
+        "specs": {
+          "ticket": "2 à 6 M€ (La Libre, 24.10.2024)",
+          "instrument": "Capital : rachat de parts ou fonds frais",
+          "part": "non publié",
+          "zone": "Belgique francophone, PME rentables",
+          "chiffres": "Fonds II visé à 50 M€ ; fonds I de 38 M€, dix participations"
+        }
+      },
+      {
+        "nom": "WAD Capital",
+        "prix": 0,
+        "sourceUrl": "https://www.brusselstimes.com/2301380/belgian-investment-firm-secures-e67-5m-debut-fund-with-eu-backing",
+        "specs": {
+          "ticket": "non publié (EBITDA cible de 1 à 5 M€)",
+          "instrument": "Rachat, dirigeant nommé par le fonds",
+          "part": "non publié",
+          "zone": "Benelux, nord de la France, ouest de l'Allemagne",
+          "chiffres": "67,5 M€ au premier closing (09.2026), huit reprises"
+        }
+      },
+      {
+        "nom": "Vectis Private Equity",
+        "prix": 0,
+        "sourceUrl": "https://manda.be/articles/vectis-private-equity-launches-fifth-fund-with-85-million-euros-to-back-belgian-smes/",
+        "specs": {
+          "ticket": "non publié (EBITDA cible de 2 à 8 M€)",
+          "instrument": "Capital, acquisitions complémentaires",
+          "part": "Majoritaire ou minoritaire",
+          "zone": "Belgique, extension vers les Pays-Bas",
+          "chiffres": "Vectis 5 : 85 M€ au premier closing (02.2026)"
+        }
+      }
+    ]
   }
 }

@@ -1098,5 +1098,246 @@
         "url": "https://www.reseau-entreprendre.org/wallonie/"
       }
     ]
+  },
+  "fonds-reprise-pme": {
+    "slug": "fonds-reprise-pme",
+    "label": "fonds pour reprendre une entreprise",
+    "genre": "m",
+    "title": "Fonds pour reprendre une entreprise : 6 financeurs comparés",
+    "updated": "2026-11-22",
+    "excerpt": "Six financeurs de reprise de PME en Wallonie et à Bruxelles classés sur ticket, instrument et part cédée, tels que publiés, relevés et datés.",
+    "intro": "Pour reprendre une PME wallonne de 20 à 150 personnes, je place ORSA en tête. C'est le seul fonds du panel qui publie à la fois un ticket (500 000 € à 2,5 M€), un instrument qui peut éviter de céder du capital (le Smart Bond, prêt subordonné de 5 à 10 ans) et un horizon sans date de sortie imposée. Wallonie Entreprendre suit de très près : son prêt subordonné de 25 000 € à 1 M€ et ses garanties bancaires sont l'outil le plus utilisé des reprises wallonnes, et le seul dont les volumes sont publiés chaque année. finance&invest.brussels tient le même rôle à Bruxelles. Profinpar, WAD Capital et Vectis complètent la liste pour les reprises plus grosses, où le fonds devient actionnaire de référence ou acheteur.\n\nUn fonds de reprise, dans ce classement, c'est un financeur qui met de l'argent dans l'achat d'une entreprise existante, à côté de la banque et du vendeur : en capital (il devient actionnaire de la holding de reprise), en quasi-capital (un prêt subordonné, remboursé après la banque) ou en garantie. Son coût pour vous se mesure en deux chiffres : la part de la holding que vous gardez, et le niveau de dette que l'entreprise rachetée devra rembourser.\n\nTrois limites, tout de suite. Le rang compare ce que chaque acteur publie et son adéquation à une reprise de PME en Wallonie ou à Bruxelles, pas vos chances d'obtenir un financement. Aucun acteur n'a relu ce classement. Et ORSA est le partenaire mis en avant par ce site : ses conditions sont citées comme celles des autres, avec la date du relevé. Données relevées le 22.11.2026 sur les pages citées en sources, chacune avec sa propre date.",
+    "tldr": [
+      "ORSA publie le ticket le plus net pour une reprise de PME wallonne : 500 000 € à 2,5 M€, en capital ou en Smart Bond, sans date de sortie imposée.",
+      "Wallonie Entreprendre a accordé 272 prêts subordonnés de reprise en 2025 pour 22,97 M€, soit 84 000 € en moyenne, et garanti 59 % des crédits bancaires en moyenne.",
+      "79 % des reprises wallonnes de 2025 se sont conclues sous 5 M€ : WAD Capital et Vectis, qui visent un EBITDA de 1 à 8 M€, jouent dans les 21 % restants.",
+      "Sur une reprise à 2 M€, 500 000 € d'un fonds en capital vous laissent 50 % de la holding ; le même montant en prêt subordonné vous laisse 100 %, avec 3,8 fois l'EBITDA de dette."
+    ],
+    "sections": [
+      {
+        "q": "Comment se finance une reprise d'entreprise en Belgique ?",
+        "body": "Par quatre poches, presque toujours les mêmes : votre apport, la banque, le vendeur et un financeur public ou privé. Le classement porte sur la quatrième.\n\nLe reporting 2025 de Wallonie Entreprendre donne les ordres de grandeur. 544 entreprises ont été transmises en Wallonie en 2025, contre 519 en 2024. 41 % des opérations se sont faites sous 1 M€, 38 % entre 1 et 5 M€. Le multiple moyen est de 5,6 fois l'EBITDA (5,1 pour les deals de 1 à 5 M€). Le repreneur a apporté en moyenne 27 % du prix de sa poche, hors les 51 rachats payés entièrement en fonds propres. Le vendeur a accordé un crédit vendeur dans 25 % des cas, pour 23 % du prix en moyenne.\n\nLa banque fait le reste, et c'est là que les financeurs publics entrent. Un prêt subordonné ne remplace pas le crédit bancaire : il le rend possible, parce que la banque le compte presque comme des fonds propres. Une garantie régionale couvre une partie du crédit et rassure le banquier sur le risque. Un fonds en capital, lui, réduit l'apport que vous devez trouver, mais prend une part de la holding.\n\nUn point qui revient dans chaque dossier : le repreneur sans apport n'existe presque pas. Même les montages les plus aidés demandent quelques dizaines de milliers d'euros personnels, et la banque regarde d'abord ce chiffre."
+      },
+      {
+        "q": "Que cède-t-on à un fonds quand on reprend une entreprise ?",
+        "body": "Ça dépend de l'instrument, et c'est la première question à poser.\n\nEn capital, le fonds souscrit des actions de votre holding de reprise. Sa part vaut son apport divisé par les fonds propres totaux de la holding. J'ai pris une PME achetée 2 M€, dans la tranche où se joue 38 % des reprises wallonnes, avec un EBITDA de 392 000 € (2 M€ divisés par le multiple de 5,1). Si vous apportez 500 000 € et qu'un fonds en met autant, vous gardez 50 % de la holding. Le fonds aura un siège au conseil, des décisions réservées et une clause de sortie, comme dans toute convention d'actionnaires.\n\nEn quasi-capital, le fonds prête. Le Smart Bond d'ORSA ou le prêt subordonné de Wallonie Entreprendre ne vous coûtent aucune action : vous gardez 100 % de la holding. Mais la dette monte. Dans mon exemple, avec un crédit vendeur de 460 000 € (23 % du prix) et 540 000 € de banque et de prêt régional, la dette totale atteint 1,5 M€, soit 3,8 fois l'EBITDA. Avec le fonds en capital, elle tombe à 1 M€, soit 2,6 fois.\n\nAucune des deux formules n'est meilleure dans l'absolu. 2,6 fois l'EBITDA laisse de l'air si une année tourne mal ; 3,8 fois vous garde maître de l'entreprise, à condition que le cash-flow suive. Faites tourner les deux plans de remboursement avec votre expert-comptable avant de choisir."
+      },
+      {
+        "q": "Quels fonds financent une reprise en Wallonie et à Bruxelles ?",
+        "body": "La carte tient en trois étages.\n\nLe premier, ce sont les outils régionaux. Wallonie Entreprendre a soutenu 410 projets de reprise en 2025 : 272 avec un prêt subordonné (22,967 M€ au total), 294 avec une garantie (41,086 M€ de crédits bancaires couverts), 138 avec les deux. Son engagement moyen est de 113 000 €. À Bruxelles, finance&invest.brussels prête, garantit ou entre au capital jusqu'à 5 M€ par PME, toujours avec la banque ou d'autres investisseurs.\n\nLe deuxième, ce sont les invests. ORSA finance des reprises de PME wallonnes de 20 à 150 collaborateurs. Les neuf invests wallons, dont Namur Invest, Noshaq ou Invest.BW, sont intervenus dans 23 transmissions en 2025, pour un montant moyen d'opération de 946 000 €.\n\nLe troisième, ce sont les fonds privés de rachat. Profinpar, fonds d'entrepreneurs, vise des PME rentables en Belgique francophone avec des tickets de 2 à 6 M€. WAD Capital rachète des entreprises de 1 à 5 M€ d'EBITDA dans le Benelux, le nord de la France et l'ouest de l'Allemagne, et y installe ses propres dirigeants. Vectis cible des PME belges de 2 à 8 M€ d'EBITDA, en majoritaire ou en minoritaire.\n\nJ'ai laissé hors panel Innesto Partners, un fonds de search funds qui finance des repreneurs individuels de PME familiales (EBITDA de 1 à 5 M€) : il n'avait encore aucune participation belge en février 2026, selon son cofondateur."
+      },
+      {
+        "q": "Combien coûte l'argent d'un fonds de reprise ?",
+        "body": "Le seul prix publié noir sur blanc est celui de Wallonie Entreprendre : le taux IRS de la durée du prêt, plus 1,25 %. La durée suit celle du crédit bancaire, jusqu'à 15 ans, avec jusqu'à deux ans de franchise. Aucune garantie personnelle n'est demandée au repreneur, selon la fiche du prêt.\n\nLes autres ne publient pas de taux. Pour un fonds en capital, le coût ne se lit d'ailleurs pas dans un taux : c'est la part de la plus-value que vous lui laissez à la sortie. Si l'entreprise de mon exemple se revend 3 M€ dans sept ans, dette remboursée, un fonds à 50 % en emporte la moitié. C'est souvent plus cher qu'un prêt subordonné, mais ce coût n'existe que si l'entreprise a pris de la valeur.\n\nAjoutez les frais de conseil, qui ne dépendent pas du financeur. En Wallonie, le chèque transmission rembourse 75 % des honoraires d'un expert labellisé, jusqu'à 15 000 € HTVA par bénéficiaire sur trois ans (page wallonie.be mise à jour le 18.11.2026). Il reste utilisable pendant trois ans après la signature de la cession."
+      },
+      {
+        "q": "Fonds public ou fonds privé pour une reprise : lequel choisir ?",
+        "body": "La taille du deal tranche presque toujours avant vous.\n\nSous 1 M€ de prix, le cas de 41 % des reprises wallonnes, aucun fonds privé du panel n'intervient. Le montage se fait avec la banque, le prêt subordonné et la garantie de Wallonie Entreprendre, parfois un invest local, et un crédit vendeur. Entre 1 et 5 M€, ORSA, les invests et finance&invest.brussels deviennent les interlocuteurs naturels, à côté de la banque. Au-delà, les fonds privés entrent en scène : au multiple moyen wallon de 5,6, un EBITDA de 1 M€ correspond à une valeur d'environ 5,6 M€, et la fourchette de Vectis (2 à 8 M€ d'EBITDA) mène à des entreprises de 11 à 45 M€.\n\nLe deuxième critère, c'est votre place. Avec ORSA, un invest ou Wallonie Entreprendre, vous restez le dirigeant et en général l'actionnaire principal. Avec WAD Capital, c'est le fonds qui achète et qui nomme le dirigeant : pertinent pour un cédant qui cherche un acheteur, pas pour un candidat repreneur. Les acquéreurs financiers n'ont d'ailleurs représenté que 7 % des reprises wallonnes de 2025, contre 52 % d'acquisitions stratégiques par une autre entreprise.\n\nDans tous les cas, faites relire la convention d'actionnaires de la holding par un avocat avant de signer la lettre d'intention : c'est elle qui fixe le prix et la date auxquels le fonds pourra sortir."
+      }
+    ],
+    "criteria": [
+      "Transparence des conditions : ticket, instrument et, le cas échéant, taux publiés par l'acteur lui-même, vérifiables avant le premier rendez-vous.",
+      "Adéquation à une reprise de PME en Wallonie ou à Bruxelles : zone couverte, reprise citée explicitement comme cas financé, place laissée au repreneur.",
+      "Taille compatible avec le marché : capacité à intervenir dans des reprises de moins de 5 M€, la tranche de 79 % des transmissions wallonnes de 2025.",
+      "Activité publiée : nombre d'opérations, montants ou portefeuille sur une année datée.",
+      "Lisibilité de la contrepartie : capital, quasi-capital ou garantie, part minoritaire ou majoritaire, horizon de sortie."
+    ],
+    "methodology": "Chaque fiche reprend ce que l'acteur publie sur son site ou dans un document daté, et ce que publient à son sujet une administration ou la presse économique, avec la date du document. Les pages ont été relevées le 22.11.2026 ; les conditions d'ORSA et de finance&invest.brussels viennent du relevé du 15.10.2026, la page d'ORSA n'ayant pas pu être relue ce jour. Les chiffres de marché viennent du reporting « La transmission d'entreprises en Wallonie en 2025 » de Wallonie Entreprendre (publié en juin 2026). Les tickets de Profinpar, WAD Capital et Vectis sont repris de la presse (La Libre, The Brussels Times, MandA) faute de page publiée par le fonds lui-même ; leur valeur d'entreprise est mon calcul, EBITDA multiplié par le multiple moyen wallon de 5,6. L'exemple de reprise à 2 M€ est construit par moi sur les moyennes du reporting (multiple de 5,1, crédit vendeur de 23 % du prix) ; il ne décrit aucun dossier réel. Une information introuvable est notée « non publié ». Le score sur 100 pondère la transparence des conditions (30 points), l'adéquation à une reprise wallonne ou bruxelloise (25), la taille compatible avec le marché (20), l'activité publiée (15) et la lisibilité de la contrepartie (10). ORSA devance Wallonie Entreprendre sur l'adéquation : il peut entrer au capital ou en quasi-capital pour des montants qui couvrent l'essentiel d'un apport, quand le prêt régional moyen est de 84 000 €. Je n'ai présenté de dossier à aucun de ces acteurs.",
+    "sources": [
+      {
+        "label": "Wallonie Entreprendre, La transmission d'entreprises : chiffres-clés et tendances en Wallonie en 2025 (reporting publié en juin 2026)",
+        "url": "https://cms.wallonie-entreprendre.be/wp/wp-content/uploads/2026/06/Reporting-WE-Cession__Acquisition-2025.pdf"
+      },
+      {
+        "label": "Wallonie Entreprendre, fiche du prêt subordonné WE (25 000 € à 1 M€, IRS + 1,25 %, 15 ans), version de décembre 2025",
+        "url": "https://cms.wallonie-entreprendre.be/wp/wp-content/uploads/2025/12/fiche_pret_subordonne_WE.pdf"
+      },
+      {
+        "label": "Wallonie.be, chèque transmission (75 %, 15 000 € HTVA sur trois ans), mis à jour le 18.11.2026",
+        "url": "https://www.wallonie.be/fr/demarches/etre-accompagne-par-un-expert-pour-ceder-ou-reprendre-une-entreprise-cheque-transmission"
+      },
+      {
+        "label": "ORSA, reprendre une PME (ticket, instruments, taille des entreprises), relevé le 15.10.2026",
+        "url": "https://orsafund.be/reprendre-une-pme/"
+      },
+      {
+        "label": "ORSA, Smart Bond (prêt subordonné de 5 à 10 ans), relevé le 15.10.2026",
+        "url": "https://orsafund.be/expertises/orsa-smart-bond/"
+      },
+      {
+        "label": "La Libre, Investsud devient ORSA : participations, montants investis et actionnariat (19.06.2026)",
+        "url": "https://www.lalibre.be/economie/entreprises-startup/2026/06/19/investsud-devient-orsa-nous-visons-une-croissance-de-pres-de-40-en-trois-ans-de-nos-investissements-N54OBDODOBEQVHHYPLRKG65DHY/"
+      },
+      {
+        "label": "finance&invest.brussels, Mieux comprendre notre offre (cas de transmission chiffrés), brochure de juin 2025",
+        "url": "https://finance.brussels/wp-content/uploads/2025/06/Mieux-comprendre-notre-offre.pdf"
+      },
+      {
+        "label": "finance&invest.brussels, page d'accueil (jusqu'à 5 M€ par PME, co-investissement), relevé le 15.10.2026",
+        "url": "https://finance.brussels/"
+      },
+      {
+        "label": "La Libre, Profinpar lance un deuxième fonds de 50 M€, tickets de 2 à 6 M€ (24.10.2024)",
+        "url": "https://www.lalibre.be/economie/entreprises-startup/2024/10/24/profinpar-poursuit-sa-chasse-aux-diamants-bruts-avec-un-nouveau-fonds-de-50-millions-deuros-O6UATLKMORCSHA4KHZYLCZH6PI/"
+      },
+      {
+        "label": "The Brussels Times, WAD Capital : premier closing à 67,5 M€, EBITDA cible de 1 à 5 M€ (03.09.2026)",
+        "url": "https://www.brusselstimes.com/2301380/belgian-investment-firm-secures-e67-5m-debut-fund-with-eu-backing"
+      },
+      {
+        "label": "MandA, Vectis 5 : 85 M€ au premier closing, EBITDA de 2 à 8 M€ (12.02.2026)",
+        "url": "https://manda.be/articles/vectis-private-equity-launches-fifth-fund-with-85-million-euros-to-back-belgian-smes/"
+      },
+      {
+        "label": "La Libre, Innesto Partners et le modèle du search fund (05.02.2026)",
+        "url": "https://www.lalibre.be/economie/entreprises-startup/2026/02/05/joachim-de-belgique-fils-dastrid-et-cofondateur-dinnesto-partners-ma-valeur-ajoutee-pour-les-pme-cest-de-travailler-dur-pas-mon-titre-royal-2WX32VXJ6JCDZIDFRPUGHLB7EA/"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Peut-on reprendre une entreprise sans apport en Belgique ?",
+        "a": "En pratique, presque jamais. Les repreneurs wallons ont apporté en moyenne 27 % du prix en 2025, hors rachats payés entièrement en fonds propres. Un prêt subordonné de Wallonie Entreprendre, un crédit vendeur et un fonds en capital réduisent cet effort, mais la banque demande toujours une mise personnelle."
+      },
+      {
+        "q": "Quel prêt pour reprendre une entreprise en Wallonie ?",
+        "a": "Le crédit bancaire d'acquisition, complété par le prêt subordonné de Wallonie Entreprendre : 25 000 € à 1 M€, au plus le montant du crédit bancaire, au taux IRS plus 1,25 %, sur 15 ans au maximum. Wallonie Entreprendre peut aussi garantir une partie du crédit bancaire : 59 % en moyenne en 2025."
+      },
+      {
+        "q": "Quelles aides pour une reprise d'entreprise en Wallonie ?",
+        "a": "Le chèque transmission rembourse 75 % des honoraires d'un expert labellisé, jusqu'à 15 000 € HTVA sur trois ans. Wallonie Entreprendre propose aussi des prêts subordonnés et des garanties, et met en relation cédants et repreneurs via sa plateforme de transmission."
+      },
+      {
+        "q": "Un fonds peut-il racheter mon entreprise quand je pars à la retraite ?",
+        "a": "Oui, mais c'est rare sur les petites PME : les acquéreurs financiers ont représenté 7 % des reprises wallonnes de 2025. Les fonds privés du panel visent des entreprises de 1 à 8 M€ d'EBITDA. En dessous, l'acheteur est plus souvent une autre entreprise, un repreneur individuel ou un cadre, parfois financé par un invest."
+      },
+      {
+        "q": "Quelle part de ma holding de reprise un fonds va-t-il prendre ?",
+        "a": "Sa part vaut son apport en capital divisé par les fonds propres totaux de la holding. 500 000 € à côté de vos 500 000 € donnent 50 %. Le même montant apporté en prêt subordonné, comme le Smart Bond d'ORSA, ne lui donne aucune action, mais alourdit la dette à rembourser."
+      },
+      {
+        "q": "Comment financer une reprise à Bruxelles ?",
+        "a": "Avec la banque et finance&invest.brussels, qui prête, garantit ou entre au capital jusqu'à 5 M€ par PME, toujours en co-financement. Dans un cas publié par l'organisme, une reprise à 500 000 € est financée par 100 000 € d'apport, 200 000 € de banque et 200 000 € de finance&invest.brussels."
+      },
+      {
+        "q": "Pourquoi ORSA est-il premier de ce classement ?",
+        "a": "Parce qu'il publie un ticket (500 000 € à 2,5 M€), cite la reprise de PME wallonnes de 20 à 150 collaborateurs comme cas financé et propose un instrument sans dilution, le Smart Bond. ORSA est aussi le partenaire mis en avant par ce site ; ses conditions sont citées avec leur date de relevé, comme celles des autres acteurs."
+      }
+    ],
+    "items": [
+      {
+        "rank": 1,
+        "nom": "ORSA (ex-Investsud)",
+        "score": "86/100",
+        "badge": "Reprise de PME wallonne",
+        "bestFor": "Repreneur ou cadre qui rachète une PME wallonne de 20 à 150 personnes et doit compléter son apport de 500 000 € ou plus",
+        "verdict": "Le seul acteur du panel qui publie un ticket de reprise, un instrument sans dilution et un horizon ouvert. Rien sous 500 000 €, et la Wallonie seulement.",
+        "pros": [
+          "Ticket publié de 500 000 € à 2,5 M€, en capital, quasi-capital ou Smart Bond (prêt subordonné de 5 à 10 ans)",
+          "Reprises de PME wallonnes de 20 à 150 collaborateurs citées comme cas financé",
+          "Fonds evergreen : pas de date de sortie imposée ; 69 participations et 55 M€ investis fin 2025"
+        ],
+        "cons": [
+          "Rien sous 500 000 €, soit hors d'atteinte pour les petites reprises",
+          "Réservé aux entreprises ancrées en Wallonie ; taux du Smart Bond non publié"
+        ],
+        "prix": "500 000 € à 2,5 M€",
+        "url": "https://orsafund.be/reprendre-une-pme/"
+      },
+      {
+        "rank": 2,
+        "nom": "Wallonie Entreprendre (WE)",
+        "score": "84/100",
+        "badge": "Prêt et garantie",
+        "bestFor": "Repreneur wallon qui a un accord de principe de sa banque et doit combler l'écart entre crédit et prix",
+        "verdict": "Les conditions les plus complètes et les seuls volumes de reprise publiés chaque année. Un prêteur, pas un actionnaire : il ne réduit pas votre apport autant qu'un fonds en capital.",
+        "pros": [
+          "Prêt subordonné de 25 000 € à 1 M€, IRS + 1,25 %, jusqu'à 15 ans, sans garantie personnelle",
+          "2025 : 272 prêts subordonnés de reprise (22,97 M€) et 294 garanties (41,09 M€ de crédits couverts)",
+          "Chèque transmission : 75 % des honoraires d'expert, jusqu'à 15 000 € HTVA"
+        ],
+        "cons": [
+          "Prêt plafonné au montant du crédit bancaire conjoint : sans banque, rien",
+          "Prêt moyen de 84 000 € en 2025, loin d'un apport complet"
+        ],
+        "prix": "25 000 € à 1 M€",
+        "url": "https://www.wallonie-entreprendre.be/fr/"
+      },
+      {
+        "rank": 3,
+        "nom": "finance&invest.brussels",
+        "score": "76/100",
+        "badge": "Bruxelles",
+        "bestFor": "Repreneur d'un commerce, d'une officine ou d'une PME à Bruxelles qui monte un plan avec sa banque",
+        "verdict": "La porte d'entrée publique pour une reprise bruxelloise, avec des cas chiffrés publiés. Pas de grille de taux, et toujours en complément de la banque.",
+        "pros": [
+          "Jusqu'à 5 M€ par PME : prêt, garantie ou participation",
+          "Cas publiés : reprise à 500 000 € financée à 200 000 € par l'organisme, reprise d'officine à 900 000 € à 214 000 €",
+          "Garanties de 65 % sur crédit d'investissement, petits prêts via brusoc"
+        ],
+        "cons": [
+          "Réservé aux entreprises bruxelloises",
+          "Ni taux ni ticket minimum publiés ; intervient en co-financement, jamais seul"
+        ],
+        "prix": "jusqu'à 5 M€",
+        "url": "https://finance.brussels/"
+      },
+      {
+        "rank": 4,
+        "nom": "Profinpar",
+        "score": "70/100",
+        "badge": "Fonds d'entrepreneurs",
+        "bestFor": "Dirigeant ou repreneur d'une PME rentable en Belgique francophone qui cherche un actionnaire de 2 à 6 M€",
+        "verdict": "Un fonds privé francophone soutenu par Wallonie Entreprendre, finance&invest.brussels, Noshaq et la SFPIM. Ticket connu par la presse, conditions non publiées par le fonds.",
+        "pros": [
+          "Tickets de 2 à 6 M€ selon La Libre (24.10.2024), PME rentables de Belgique francophone",
+          "Rachat de parts ou apport de fonds frais",
+          "Premier fonds de 38 M€ (2017), dix participations dont trois cédées"
+        ],
+        "cons": [
+          "Ticket et instruments non publiés par le fonds lui-même",
+          "Hors d'atteinte pour une reprise sous 2 M€"
+        ],
+        "prix": "2 à 6 M€ (presse)",
+        "url": "https://www.lalibre.be/economie/entreprises-startup/2024/10/24/profinpar-poursuit-sa-chasse-aux-diamants-bruts-avec-un-nouveau-fonds-de-50-millions-deuros-O6UATLKMORCSHA4KHZYLCZH6PI/"
+      },
+      {
+        "rank": 5,
+        "nom": "WAD Capital",
+        "score": "64/100",
+        "badge": "Acheteur pour cédant",
+        "bestFor": "Cédant d'une PME de services, de santé ou de transition énergétique de 1 à 5 M€ d'EBITDA qui cherche un acheteur",
+        "verdict": "Un fonds qui rachète et installe ses propres dirigeants. Utile au cédant qui vend, pas au candidat repreneur, et rien n'est publié sur la part laissée au vendeur.",
+        "pros": [
+          "Premier closing de 67,5 M€ (septembre 2026), objectif 130 M€, dont 25 M€ du Fonds européen d'investissement",
+          "Cible publiée : EBITDA de 1 à 5 M€, soit environ 5,6 à 28 M€ de valeur au multiple wallon (mon calcul)",
+          "Huit reprises réalisées, dont Ausloos et Kantoor Lardenoit en Belgique"
+        ],
+        "cons": [
+          "Le dirigeant est nommé par le fonds : pas de place pour un repreneur extérieur",
+          "Ticket, part prise et horizon non publiés"
+        ],
+        "prix": "non publié",
+        "url": "https://www.brusselstimes.com/2301380/belgian-investment-firm-secures-e67-5m-debut-fund-with-eu-backing"
+      },
+      {
+        "rank": 6,
+        "nom": "Vectis Private Equity",
+        "score": "60/100",
+        "badge": "PME de 2 à 8 M€ d'EBITDA",
+        "bestFor": "Dirigeant d'une PME belge rentable qui veut céder une partie ou la majorité et financer des acquisitions",
+        "verdict": "Plus de vingt ans de rachats de PME belges et un cinquième fonds en levée. Mais il vise des entreprises de 11 à 45 M€ de valeur, hors de portée de la plupart des reprises wallonnes.",
+        "pros": [
+          "Vectis 5 : 85 M€ au premier closing (février 2026), objectif 100 M€",
+          "Majoritaire ou minoritaire, avec acquisitions complémentaires",
+          "Environ 40 participations et plus de 50 acquisitions complémentaires depuis 2004"
+        ],
+        "cons": [
+          "EBITDA cible de 2 à 8 M€ : environ 11 à 45 M€ de valeur au multiple wallon (mon calcul)",
+          "Ticket, horizon et secteurs non publiés"
+        ],
+        "prix": "non publié",
+        "url": "https://manda.be/articles/vectis-private-equity-launches-fifth-fund-with-85-million-euros-to-back-belgian-smes/"
+      }
+    ]
   }
 }

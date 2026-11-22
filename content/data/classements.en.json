@@ -1098,5 +1098,246 @@
         "url": "https://www.reseau-entreprendre.org/wallonie/"
       }
     ]
+  },
+  "fonds-reprise-pme": {
+    "slug": "fonds-reprise-pme",
+    "label": "funds to take over a business",
+    "genre": "m",
+    "title": "Funds to take over a business: 6 financiers compared",
+    "updated": "2026-11-22",
+    "excerpt": "Six financiers of SME takeovers in Wallonia and Brussels ranked on ticket, instrument and stake given up, as published, read and dated.",
+    "intro": "To take over a Walloon SME with 20 to 150 staff, I put ORSA first. It is the only fund in the panel that publishes a ticket (€500,000 to €2.5m), an instrument that can avoid giving up equity (the Smart Bond, a subordinated loan over 5 to 10 years) and a horizon with no forced exit date. Wallonie Entreprendre (WE, the Walloon Region's financing body) is a very close second: its subordinated loan of €25,000 to €1m and its bank guarantees are the most used tools in Walloon takeovers, and the only ones whose volumes are published every year. finance&invest.brussels plays the same role in Brussels. Profinpar, WAD Capital and Vectis complete the list for larger deals, where the fund becomes the lead shareholder or the buyer.\n\nIn this ranking, a takeover fund is a financier that puts money into the purchase of an existing company, alongside the bank and the seller: as equity (it becomes a shareholder of the acquisition holding company), as quasi-equity (a subordinated loan, repaid after the bank) or as a guarantee. Its cost to you comes down to two figures: the share of the holding you keep, and the level of debt the acquired company will have to repay.\n\nThree limits, right away. The rank compares what each player publishes and how well it fits an SME takeover in Wallonia or Brussels, not your chances of being financed. No player has reviewed this ranking. And ORSA is the partner featured by this site: its terms are quoted like everyone else's, with the date they were read. Data read on 22.11.2026 from the pages listed as sources, each with its own date.",
+    "tldr": [
+      "ORSA publishes the clearest ticket for taking over a Walloon SME: €500,000 to €2.5m, as equity or Smart Bond, with no forced exit date.",
+      "Wallonie Entreprendre granted 272 subordinated takeover loans in 2025 for €22.97m, or €84,000 on average, and guaranteed 59% of bank loans on average.",
+      "79% of Walloon takeovers in 2025 closed below €5m: WAD Capital and Vectis, which target EBITDA of €1m to €8m, play in the remaining 21%.",
+      "On a €2m takeover, €500,000 of fund equity leaves you 50% of the holding; the same amount as a subordinated loan leaves you 100%, with debt at 3.8 times EBITDA."
+    ],
+    "sections": [
+      {
+        "q": "How is a business takeover financed in Belgium?",
+        "body": "From four pockets, almost always the same: your own contribution, the bank, the seller, and a public or private financier. This ranking is about the fourth.\n\nWallonie Entreprendre's 2025 report gives the orders of magnitude. 544 companies changed hands in Wallonia in 2025, against 519 in 2024. 41% of deals were below €1m, 38% between €1m and €5m. The average multiple was 5.6 times EBITDA (5.1 for deals of €1m to €5m). Buyers put in 27% of the price from their own pocket on average, excluding the 51 purchases paid entirely in equity. The seller granted a vendor loan in 25% of cases, for 23% of the price on average.\n\nThe bank does the rest, and that is where public financiers come in. A subordinated loan does not replace the bank loan: it makes it possible, because the bank counts it almost as equity. A regional guarantee covers part of the loan and reassures the banker about the risk. An equity fund reduces the contribution you have to find, but takes a share of the holding.\n\nOne point comes back in every file: the buyer with no contribution at all barely exists. Even the most supported structures require a few tens of thousands of euros of personal money, and the bank looks at that figure first."
+      },
+      {
+        "q": "What do you give up to a fund when you take over a business?",
+        "body": "It depends on the instrument, and that is the first question to ask.\n\nWith equity, the fund subscribes shares in your acquisition holding. Its stake equals its contribution divided by the holding's total equity. I took an SME bought for €2m, in the bracket where 38% of Walloon takeovers happen, with EBITDA of €392,000 (€2m divided by the 5.1 multiple). If you put in €500,000 and a fund puts in the same, you keep 50% of the holding. The fund will get a board seat, reserved matters and an exit clause, as in any shareholders' agreement.\n\nWith quasi-equity, the fund lends. ORSA's Smart Bond or Wallonie Entreprendre's subordinated loan cost you no shares: you keep 100% of the holding. But debt goes up. In my example, with a vendor loan of €460,000 (23% of the price) and €540,000 of bank and regional loans, total debt reaches €1.5m, or 3.8 times EBITDA. With the fund in equity, it falls to €1m, or 2.6 times.\n\nNeither formula is better in absolute terms. 2.6 times EBITDA leaves room if a year goes badly; 3.8 times keeps you in control of the company, as long as cash flow follows. Run both repayment plans with your accountant before choosing."
+      },
+      {
+        "q": "Which funds finance a takeover in Wallonia and Brussels?",
+        "body": "The map has three tiers.\n\nThe first is the regional tools. Wallonie Entreprendre supported 410 takeover projects in 2025: 272 with a subordinated loan (€22.967m in total), 294 with a guarantee (€41.086m of bank loans covered), 138 with both. Its average commitment was €113,000. In Brussels, finance&invest.brussels lends, guarantees or takes equity up to €5m per SME, always alongside the bank or other investors.\n\nThe second is the invests, the Walloon public-private investment companies. ORSA finances takeovers of Walloon SMEs with 20 to 150 employees. The nine Walloon invests, including Namur Invest, Noshaq and Invest.BW, took part in 23 transfers in 2025, with an average deal size of €946,000.\n\nThe third is private buyout funds. Profinpar, an entrepreneurs' fund, targets profitable SMEs in French-speaking Belgium with tickets of €2m to €6m. WAD Capital buys companies with €1m to €5m of EBITDA in the Benelux, northern France and western Germany, and installs its own managers. Vectis targets Belgian SMEs with €2m to €8m of EBITDA, as a majority or minority shareholder.\n\nI left Innesto Partners out of the panel. It is a search fund investor that backs individual buyers of family SMEs (EBITDA of €1m to €5m), but it had no Belgian holding yet in February 2026, according to its co-founder."
+      },
+      {
+        "q": "How much does takeover fund money cost?",
+        "body": "The only price published in black and white is Wallonie Entreprendre's: the IRS rate for the loan's term, plus 1.25%. The term follows the bank loan's, up to 15 years, with up to two years of grace period. No personal guarantee is required from the buyer, according to the loan's fact sheet.\n\nThe others publish no rate. For an equity fund, the cost is not read in a rate anyway: it is the share of the capital gain you leave to it at exit. If the company in my example is resold for €3m in seven years, debt repaid, a fund holding 50% takes half. That is often more expensive than a subordinated loan, but the cost only exists if the company has gained value.\n\nAdd advisory fees, which do not depend on the financier. In Wallonia, the transmission voucher (chèque transmission) reimburses 75% of a certified expert's fees, up to €15,000 excluding VAT per beneficiary over three years (wallonie.be page updated on 18.11.2026). It remains usable for three years after the sale agreement is signed."
+      },
+      {
+        "q": "Public or private fund for a takeover: which one should you choose?",
+        "body": "The size of the deal almost always decides before you do.\n\nBelow a €1m price, the case for 41% of Walloon takeovers, no private fund in the panel steps in. The deal is built with the bank, Wallonie Entreprendre's subordinated loan and guarantee, sometimes a local invest, and a vendor loan. Between €1m and €5m, ORSA, the invests and finance&invest.brussels become the natural counterparts, alongside the bank. Above that, private funds come in: at the average Walloon multiple of 5.6, EBITDA of €1m corresponds to a value of about €5.6m, and Vectis's range (€2m to €8m of EBITDA) points to companies worth €11m to €45m.\n\nThe second criterion is your place. With ORSA, an invest or Wallonie Entreprendre, you remain the manager and usually the main shareholder. With WAD Capital, the fund buys and appoints the manager: relevant for a seller looking for a buyer, not for a would-be buyer. Financial acquirers accounted for only 7% of Walloon takeovers in 2025, against 52% strategic acquisitions by another company.\n\nIn every case, have a lawyer review the holding's shareholders' agreement before you sign the letter of intent: it sets the price and the date at which the fund will be able to exit."
+      }
+    ],
+    "criteria": [
+      "Transparency of terms: ticket, instrument and, where relevant, rate published by the player itself, verifiable before the first meeting.",
+      "Fit with an SME takeover in Wallonia or Brussels: area covered, takeover explicitly named as a financed case, room left for the buyer.",
+      "Size compatible with the market: ability to step into takeovers below €5m, the bracket of 79% of Walloon transfers in 2025.",
+      "Published activity: number of deals, amounts or portfolio over a dated year.",
+      "Clarity of what you give up: equity, quasi-equity or guarantee, minority or majority stake, exit horizon."
+    ],
+    "methodology": "Each entry restates what the player publishes on its website or in a dated document, and what a public administration or the business press publishes about it, with the document's date. Pages were read on 22.11.2026; the terms of ORSA and finance&invest.brussels come from the reading of 15.10.2026, as ORSA's page could not be read again today. Market figures come from Wallonie Entreprendre's report on business transfers in Wallonia in 2025 (published in June 2026). The tickets of Profinpar, WAD Capital and Vectis come from the press (La Libre, The Brussels Times, MandA), as the funds publish no page of their own with them; their enterprise values are my calculation, EBITDA multiplied by the average Walloon multiple of 5.6. The €2m takeover example is built by me from the report's averages (5.1 multiple, vendor loan of 23% of the price); it describes no real file. Information that could not be found is marked \"not published\". The score out of 100 weights transparency of terms (30 points), fit with a Walloon or Brussels takeover (25), size compatible with the market (20), published activity (15) and clarity of what you give up (10). ORSA ranks above Wallonie Entreprendre on fit: it can come in as equity or quasi-equity for amounts that cover most of a buyer's contribution, while the average regional loan is €84,000. I have not submitted a file to any of these players.",
+    "sources": [
+      {
+        "label": "Wallonie Entreprendre, business transfers: key figures and trends in Wallonia in 2025 (report published in June 2026)",
+        "url": "https://cms.wallonie-entreprendre.be/wp/wp-content/uploads/2026/06/Reporting-WE-Cession__Acquisition-2025.pdf"
+      },
+      {
+        "label": "Wallonie Entreprendre, WE subordinated loan fact sheet (€25,000 to €1m, IRS + 1.25%, 15 years), December 2025 version",
+        "url": "https://cms.wallonie-entreprendre.be/wp/wp-content/uploads/2025/12/fiche_pret_subordonne_WE.pdf"
+      },
+      {
+        "label": "Wallonie.be, transmission voucher (75%, €15,000 excl. VAT over three years), updated on 18.11.2026",
+        "url": "https://www.wallonie.be/fr/demarches/etre-accompagne-par-un-expert-pour-ceder-ou-reprendre-une-entreprise-cheque-transmission"
+      },
+      {
+        "label": "ORSA, taking over an SME (ticket, instruments, company size), read on 15.10.2026",
+        "url": "https://orsafund.be/reprendre-une-pme/"
+      },
+      {
+        "label": "ORSA, Smart Bond (subordinated loan over 5 to 10 years), read on 15.10.2026",
+        "url": "https://orsafund.be/expertises/orsa-smart-bond/"
+      },
+      {
+        "label": "La Libre, Investsud becomes ORSA: holdings, amounts invested and shareholders (19.06.2026)",
+        "url": "https://www.lalibre.be/economie/entreprises-startup/2026/06/19/investsud-devient-orsa-nous-visons-une-croissance-de-pres-de-40-en-trois-ans-de-nos-investissements-N54OBDODOBEQVHHYPLRKG65DHY/"
+      },
+      {
+        "label": "finance&invest.brussels, understanding our offer (costed transmission cases), June 2025 brochure",
+        "url": "https://finance.brussels/wp-content/uploads/2025/06/Mieux-comprendre-notre-offre.pdf"
+      },
+      {
+        "label": "finance&invest.brussels, home page (up to €5m per SME, co-investment), read on 15.10.2026",
+        "url": "https://finance.brussels/"
+      },
+      {
+        "label": "La Libre, Profinpar launches a second €50m fund, tickets of €2m to €6m (24.10.2024)",
+        "url": "https://www.lalibre.be/economie/entreprises-startup/2024/10/24/profinpar-poursuit-sa-chasse-aux-diamants-bruts-avec-un-nouveau-fonds-de-50-millions-deuros-O6UATLKMORCSHA4KHZYLCZH6PI/"
+      },
+      {
+        "label": "The Brussels Times, WAD Capital: first close at €67.5m, target EBITDA of €1m to €5m (03.09.2026)",
+        "url": "https://www.brusselstimes.com/2301380/belgian-investment-firm-secures-e67-5m-debut-fund-with-eu-backing"
+      },
+      {
+        "label": "MandA, Vectis 5: €85m at first close, EBITDA of €2m to €8m (12.02.2026)",
+        "url": "https://manda.be/articles/vectis-private-equity-launches-fifth-fund-with-85-million-euros-to-back-belgian-smes/"
+      },
+      {
+        "label": "La Libre, Innesto Partners and the search fund model (05.02.2026)",
+        "url": "https://www.lalibre.be/economie/entreprises-startup/2026/02/05/joachim-de-belgique-fils-dastrid-et-cofondateur-dinnesto-partners-ma-valeur-ajoutee-pour-les-pme-cest-de-travailler-dur-pas-mon-titre-royal-2WX32VXJ6JCDZIDFRPUGHLB7EA/"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Can you take over a business in Belgium with no personal contribution?",
+        "a": "In practice, almost never. Walloon buyers put in 27% of the price on average in 2025, excluding purchases paid entirely in equity. A Wallonie Entreprendre subordinated loan, a vendor loan and an equity fund reduce that effort, but the bank always asks for personal money."
+      },
+      {
+        "q": "Which loan to take over a business in Wallonia?",
+        "a": "The bank acquisition loan, topped up by Wallonie Entreprendre's subordinated loan: €25,000 to €1m, at most the amount of the bank loan, at the IRS rate plus 1.25%, over 15 years at most. Wallonie Entreprendre can also guarantee part of the bank loan: 59% on average in 2025."
+      },
+      {
+        "q": "What support is there for a business takeover in Wallonia?",
+        "a": "The transmission voucher reimburses 75% of a certified expert's fees, up to €15,000 excluding VAT over three years. Wallonie Entreprendre also offers subordinated loans and guarantees, and connects sellers and buyers through its transmission platform."
+      },
+      {
+        "q": "Can a fund buy my company when I retire?",
+        "a": "Yes, but it is rare for small SMEs: financial acquirers accounted for 7% of Walloon takeovers in 2025. The private funds in the panel target companies with €1m to €8m of EBITDA. Below that, the buyer is more often another company, an individual buyer or a manager, sometimes financed by an invest."
+      },
+      {
+        "q": "What share of my acquisition holding will a fund take?",
+        "a": "Its stake equals its equity contribution divided by the holding's total equity. €500,000 next to your €500,000 gives 50%. The same amount provided as a subordinated loan, such as ORSA's Smart Bond, gives it no shares, but increases the debt to repay."
+      },
+      {
+        "q": "How do you finance a takeover in Brussels?",
+        "a": "With the bank and finance&invest.brussels, which lends, guarantees or takes equity up to €5m per SME, always as co-financing. In a case published by the organisation, a €500,000 takeover is financed by €100,000 of own funds, €200,000 from the bank and €200,000 from finance&invest.brussels."
+      },
+      {
+        "q": "Why is ORSA first in this ranking?",
+        "a": "Because it publishes a ticket (€500,000 to €2.5m), names the takeover of Walloon SMEs with 20 to 150 employees as a financed case and offers a non-dilutive instrument, the Smart Bond. ORSA is also the partner featured by this site; its terms are quoted with the date they were read, like those of the other players."
+      }
+    ],
+    "items": [
+      {
+        "rank": 1,
+        "nom": "ORSA (formerly Investsud)",
+        "score": "86/100",
+        "badge": "Walloon SME takeover",
+        "bestFor": "Buyer or manager acquiring a Walloon SME with 20 to 150 staff who must top up a contribution of €500,000 or more",
+        "verdict": "The only player in the panel that publishes a takeover ticket, a non-dilutive instrument and an open horizon. Nothing below €500,000, and Wallonia only.",
+        "pros": [
+          "Published ticket of €500,000 to €2.5m, as equity, quasi-equity or Smart Bond (subordinated loan over 5 to 10 years)",
+          "Takeovers of Walloon SMEs with 20 to 150 employees named as a financed case",
+          "Evergreen fund: no forced exit date; 69 holdings and €55m invested at end-2025"
+        ],
+        "cons": [
+          "Nothing below €500,000, out of reach for small takeovers",
+          "Reserved for companies rooted in Wallonia; Smart Bond rate not published"
+        ],
+        "prix": "€500,000 to €2.5m",
+        "url": "https://orsafund.be/reprendre-une-pme/"
+      },
+      {
+        "rank": 2,
+        "nom": "Wallonie Entreprendre (WE)",
+        "score": "84/100",
+        "badge": "Loan and guarantee",
+        "bestFor": "Walloon buyer with an agreement in principle from the bank who must bridge the gap between loan and price",
+        "verdict": "The most complete terms and the only takeover volumes published every year. A lender, not a shareholder: it does not reduce your contribution as much as an equity fund.",
+        "pros": [
+          "Subordinated loan of €25,000 to €1m, IRS + 1.25%, up to 15 years, no personal guarantee",
+          "2025: 272 subordinated takeover loans (€22.97m) and 294 guarantees (€41.09m of loans covered)",
+          "Transmission voucher: 75% of expert fees, up to €15,000 excl. VAT"
+        ],
+        "cons": [
+          "Loan capped at the amount of the joint bank loan: no bank, no loan",
+          "Average loan of €84,000 in 2025, far from a full contribution"
+        ],
+        "prix": "€25,000 to €1m",
+        "url": "https://www.wallonie-entreprendre.be/fr/"
+      },
+      {
+        "rank": 3,
+        "nom": "finance&invest.brussels",
+        "score": "76/100",
+        "badge": "Brussels",
+        "bestFor": "Buyer of a shop, a pharmacy or an SME in Brussels who builds a plan with the bank",
+        "verdict": "The public gateway for a Brussels takeover, with published costed cases. No rate grid, and always alongside the bank.",
+        "pros": [
+          "Up to €5m per SME: loan, guarantee or equity",
+          "Published cases: a €500,000 takeover financed €200,000 by the organisation, a €900,000 pharmacy takeover €214,000",
+          "65% guarantees on investment loans, small loans through brusoc"
+        ],
+        "cons": [
+          "Reserved for Brussels companies",
+          "No rate or minimum ticket published; co-finances, never alone"
+        ],
+        "prix": "up to €5m",
+        "url": "https://finance.brussels/"
+      },
+      {
+        "rank": 4,
+        "nom": "Profinpar",
+        "score": "70/100",
+        "badge": "Entrepreneurs' fund",
+        "bestFor": "Manager or buyer of a profitable SME in French-speaking Belgium looking for a €2m to €6m shareholder",
+        "verdict": "A French-speaking private fund backed by Wallonie Entreprendre, finance&invest.brussels, Noshaq and SFPIM (the federal investment company). Ticket known from the press, terms not published by the fund.",
+        "pros": [
+          "Tickets of €2m to €6m according to La Libre (24.10.2024), profitable SMEs in French-speaking Belgium",
+          "Buys existing shares or injects fresh money",
+          "First fund of €38m (2017), ten holdings including three sold"
+        ],
+        "cons": [
+          "Ticket and instruments not published by the fund itself",
+          "Out of reach for a takeover below €2m"
+        ],
+        "prix": "€2m to €6m (press)",
+        "url": "https://www.lalibre.be/economie/entreprises-startup/2024/10/24/profinpar-poursuit-sa-chasse-aux-diamants-bruts-avec-un-nouveau-fonds-de-50-millions-deuros-O6UATLKMORCSHA4KHZYLCZH6PI/"
+      },
+      {
+        "rank": 5,
+        "nom": "WAD Capital",
+        "score": "64/100",
+        "badge": "Buyer for sellers",
+        "bestFor": "Seller of a services, healthcare or energy transition SME with €1m to €5m of EBITDA looking for a buyer",
+        "verdict": "A fund that buys and installs its own managers. Useful to a seller, not to a would-be buyer, and nothing is published on the share left to the seller.",
+        "pros": [
+          "First close of €67.5m (September 2026), target €130m, including €25m from the European Investment Fund",
+          "Published target: EBITDA of €1m to €5m, about €5.6m to €28m of value at the Walloon multiple (my calculation)",
+          "Eight takeovers completed, including Ausloos and Kantoor Lardenoit in Belgium"
+        ],
+        "cons": [
+          "The manager is appointed by the fund: no room for an outside buyer",
+          "Ticket, stake taken and horizon not published"
+        ],
+        "prix": "not published",
+        "url": "https://www.brusselstimes.com/2301380/belgian-investment-firm-secures-e67-5m-debut-fund-with-eu-backing"
+      },
+      {
+        "rank": 6,
+        "nom": "Vectis Private Equity",
+        "score": "60/100",
+        "badge": "SMEs with €2m to €8m EBITDA",
+        "bestFor": "Manager of a profitable Belgian SME who wants to sell part or a majority and finance acquisitions",
+        "verdict": "More than twenty years of Belgian SME buyouts and a fifth fund being raised. But it targets companies worth €11m to €45m, out of reach of most Walloon takeovers.",
+        "pros": [
+          "Vectis 5: €85m at first close (February 2026), target €100m",
+          "Majority or minority stakes, with add-on acquisitions",
+          "Around 40 platform companies and more than 50 add-on acquisitions since 2004"
+        ],
+        "cons": [
+          "Target EBITDA of €2m to €8m: about €11m to €45m of value at the Walloon multiple (my calculation)",
+          "Ticket, horizon and sectors not published"
+        ],
+        "prix": "not published",
+        "url": "https://manda.be/articles/vectis-private-equity-launches-fifth-fund-with-85-million-euros-to-back-belgian-smes/"
+      }
+    ]
   }
 }
