@@ -529,5 +529,132 @@
         "a": "Oui, s'ils souscrivent des actions nouvelles d'une petite entreprise qui remplit les conditions : 45 % de réduction d'impôt pour une micro-entreprise de moins de quatre ans, 30 % pour une petite entreprise, 25 % en scale-up, dans la limite de 100 000 € par investisseur et par an selon le SPF Finances. Le dirigeant de la société en est exclu."
       }
     ]
+  },
+  "fonds-reprise-pme": {
+    "tldr": [
+      "Pour une reprise wallonne sous 1 M€, partez de Wallonie Entreprendre (prêt subordonné de 25 000 € à 1 M€, garantie) et de l'invest de votre province.",
+      "Entre 1 et 5 M€ en Wallonie, ORSA publie 500 000 € à 2,5 M€ en fonds propres ; à Bruxelles, finance&invest.brussels va jusqu'à 5 M€ avec la banque.",
+      "Au-delà d'un EBITDA de 2,5 M€, les fonds privés de buy-out (Sofindev, Down2Earth) entrent en jeu.",
+      "Avant de signer : calculez la part de la holding que vous gardez (votre apport divisé par le capital total)."
+    ],
+    "sections": [
+      {
+        "id": "taille",
+        "title": "Quel financeur selon la taille de la reprise ?",
+        "intro": "La taille de l'opération trie les acteurs. 41 % des transmissions wallonnes de 2025 se sont conclues sous 1 M€, 79 % sous 5 M€.",
+        "table": {
+          "headers": [
+            "Reprise",
+            "Piste à regarder",
+            "Source publiée"
+          ],
+          "rows": [
+            [
+              "Sous 1 M€, en Wallonie",
+              "Wallonie Entreprendre, invest de la province",
+              "Prêt subordonné de 25 000 € à 1 M€ ; 84 000 € en moyenne sur les reprises de 2025"
+            ],
+            [
+              "1 à 5 M€, PME wallonne de 20 à 150 collaborateurs",
+              "ORSA",
+              "500 000 € à 2,5 M€ en fonds propres"
+            ],
+            [
+              "Commerce ou PME à Bruxelles",
+              "finance&invest.brussels",
+              "Jusqu'à 5 M€, en co-investissement avec la banque"
+            ],
+            [
+              "EBITDA d'au moins 2,5 M€",
+              "Sofindev",
+              "5 à 30 M€, Benelux"
+            ],
+            [
+              "PME belge traditionnelle, succession complexe",
+              "Down2Earth Capital",
+              "2,5 à 22 M€ (fonds II, période d'investissement close en 2025)"
+            ]
+          ]
+        },
+        "tip": "En Flandre, PMV prête pour un MBO à partir de 700 000 €, pour 50 % du besoin au plus.",
+        "internalLink": {
+          "text": "Voir le classement complet des fonds pour reprendre une PME",
+          "href": "/classement/fonds-reprise-pme"
+        }
+      },
+      {
+        "id": "controle",
+        "title": "Quelle part de votre holding allez-vous garder ?",
+        "intro": "Mes calculs sur une reprise à 2 M€, avec un fonds qui apporte 500 000 € :",
+        "table": {
+          "headers": [
+            "Montage",
+            "Part du fonds",
+            "Part du repreneur"
+          ],
+          "rows": [
+            [
+              "Sans fonds (apport 540 000 €, banque, crédit vendeur, prêt WE)",
+              "0 %",
+              "100 %"
+            ],
+            [
+              "Fonds au capital, apport de 300 000 €",
+              "62,5 %",
+              "37,5 %"
+            ],
+            [
+              "Fonds au capital, apport de 540 000 €",
+              "48,1 %",
+              "51,9 %"
+            ],
+            [
+              "Fonds en prêt subordonné, apport de 540 000 €",
+              "0 %",
+              "100 % (1,46 M€ de dettes)"
+            ]
+          ]
+        },
+        "internalLink": {
+          "text": "Le MBO expliqué pas à pas",
+          "href": "/blog/reprise-et-transmission/management-buy-out-mbo"
+        }
+      },
+      {
+        "id": "instrument",
+        "title": "Prêt ou capital ?",
+        "intro": "Le prêt subordonné ne coûte aucune action ; le capital se paie en contrôle.",
+        "paragraphs": [
+          "Le prêt subordonné de Wallonie Entreprendre coûte l'IRS de la durée du prêt plus 1,25 %, sur la durée du crédit bancaire et 15 ans au plus, sans garantie demandée au repreneur. ORSA propose aussi un Smart Bond, prêt subordonné de 5 à 10 ans sans dilution.",
+          "Le capital se justifie quand votre apport est trop mince pour que la banque suive. Négociez alors la convention d'actionnaires avec un avocat avant la lettre d'intention."
+        ],
+        "internalLink": {
+          "text": "Comparer les six financeurs côte à côte",
+          "href": "/comparer/fonds-reprise-pme"
+        }
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels fonds financent la reprise d'une entreprise en Belgique ?",
+        "a": "En Wallonie, Wallonie Entreprendre (prêt subordonné et garantie), ORSA (500 000 € à 2,5 M€ en fonds propres) et les invests provinciaux ; à Bruxelles, finance&invest.brussels (jusqu'à 5 M€). Pour les grosses reprises, Sofindev (5 à 30 M€) et Down2Earth (2,5 à 22 M€) interviennent dans tout le pays. Les fonds privés restent rares : 7 % des acquéreurs wallons en 2025."
+      },
+      {
+        "q": "Peut-on reprendre une entreprise sans apport ?",
+        "a": "Presque jamais sans aucun apport. Hors opérations payées entièrement en fonds propres, l'effort propre moyen des acquéreurs wallons était de 27 % du montage en 2025. Un crédit vendeur, présent dans un quart des transactions, et un prêt subordonné de Wallonie Entreprendre réduisent l'apport nécessaire, sans le supprimer."
+      },
+      {
+        "q": "Quel prêt pour reprendre une entreprise en Wallonie ?",
+        "a": "Le crédit bancaire, complété par le prêt subordonné de Wallonie Entreprendre : 25 000 € à 1 M€, au taux IRS + 1,25 %, sur la durée du crédit bancaire et 15 ans au plus. WE peut aussi garantir une partie de l'emprunt bancaire, 59 % en moyenne sur les dossiers couverts en 2025."
+      },
+      {
+        "q": "Faut-il céder la majorité à un fonds pour reprendre une PME ?",
+        "a": "Non, pas si vous apportez assez ou si le fonds entre en prêt subordonné. Sur une reprise de 2 M€, 500 000 € d'un fonds à côté de 300 000 € d'apport lui donnent 62,5 % du capital ; à côté de 540 000 €, 48,1 %. En quasi-capital, vous gardez 100 % des actions."
+      },
+      {
+        "q": "Un fonds peut-il racheter une PME avec son dirigeant ?",
+        "a": "Oui, c'est un MBO quand le repreneur est le management en place, un MBI quand il vient de l'extérieur. Sofindev et Down2Earth publient ces deux montages, avec des tickets de plusieurs millions. Sur les reprises wallonnes de 2025, le MBO ne représente que 6 % des opérations."
+      }
+    ]
   }
 }

@@ -414,5 +414,91 @@
         }
       }
     ]
+  },
+  "fonds-reprise-pme": {
+    "id": "fonds-reprise-pme",
+    "label": "Funds to buy an SME",
+    "description": "Six SME takeover financiers side by side: ticket, instrument, area, target and published figures, read on 24.11.2026 (ORSA, Namur Invest and Invest.BW: read on 15.10.2026). The amount shown is the minimum published ticket; a dash appears when the player does not publish it.",
+    "specsLabels": {
+      "ticket": "Published ticket",
+      "instrument": "Instrument",
+      "zone": "Area",
+      "cible": "Target",
+      "chiffres": "Published figures"
+    },
+    "modeles": [
+      {
+        "nom": "Wallonie Entreprendre (WE Cession & Acquisition)",
+        "prix": 25000,
+        "sourceUrl": "https://www.wallonie-entreprendre.be/fr/expertises/cession-acquisition/",
+        "specs": {
+          "ticket": "€25,000 to €1M per project (subordinated loan), guarantees",
+          "instrument": "Subordinated loan, bank guarantee; no stake",
+          "zone": "Wallonia",
+          "cible": "Walloon SMEs, takeovers listed among uses",
+          "chiffres": "272 loans (€22.967M) and 294 guarantees (€41.086M) on takeovers in 2025"
+        }
+      },
+      {
+        "nom": "ORSA (ex-Investsud)",
+        "prix": 500000,
+        "sourceUrl": "https://orsafund.be/reprendre-une-pme/",
+        "specs": {
+          "ticket": "€500,000 to €2.5M",
+          "instrument": "Equity or quasi-equity (Smart Bond)",
+          "zone": "Wallonia",
+          "cible": "Walloon SMEs with 20 to 150 staff",
+          "chiffres": "69 holdings, €55M invested by end 2025"
+        }
+      },
+      {
+        "nom": "finance&invest.brussels",
+        "prix": 0,
+        "sourceUrl": "https://finance.brussels/",
+        "specs": {
+          "ticket": "Up to €5M, always as co-investor",
+          "instrument": "Loan, guarantee, equity",
+          "zone": "Brussels-Capital Region",
+          "cible": "Brussels self-employed and SMEs, shops included",
+          "chiffres": "Published cases: €200,000 on a €500,000 purchase"
+        }
+      },
+      {
+        "nom": "Walloon provincial invests (Namur Invest, Invest.BW, Noshaq…)",
+        "prix": 100000,
+        "sourceUrl": "https://cms.wallonie-entreprendre.be/wp/wp-content/uploads/2026/06/Reporting-WE-Cession__Acquisition-2025.pdf",
+        "specs": {
+          "ticket": "€100,000 to €2.5M (Namur Invest); up to €2.5M (Invest.BW); not published elsewhere",
+          "instrument": "Equity, subordinated loan, convertible depending on the invest",
+          "zone": "One province per invest",
+          "cible": "SMEs in the province",
+          "chiffres": "23 business transfers in 2025, deals averaging €946,000"
+        }
+      },
+      {
+        "nom": "Sofindev",
+        "prix": 5000000,
+        "sourceUrl": "https://www.vlaio.be/nl/begeleiding-advies/financiering/risicokapitaal/sofindev-private-equity-partners",
+        "specs": {
+          "ticket": "€5M to €30M",
+          "instrument": "Equity; subordinated loan only alongside equity",
+          "zone": "Benelux",
+          "cible": "SMEs with EBITDA of at least €2.5M",
+          "chiffres": "Sofindev VI: €250M, investing until 2027"
+        }
+      },
+      {
+        "nom": "Down2Earth Capital (D2E)",
+        "prix": 2500000,
+        "sourceUrl": "https://www.vlaio.be/nl/media/961",
+        "specs": {
+          "ticket": "€2.5M to €22M",
+          "instrument": "Equity or subordinated loan with warrants",
+          "zone": "Belgium",
+          "cible": "Profitable Belgian SMEs in traditional sectors",
+          "chiffres": "Fund II: €110M, investment period closed in 2025"
+        }
+      }
+    ]
   }
 }

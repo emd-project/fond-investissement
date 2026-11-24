@@ -414,5 +414,91 @@
         }
       }
     ]
+  },
+  "fonds-reprise-pme": {
+    "id": "fonds-reprise-pme",
+    "label": "Fonds pour reprendre une PME",
+    "description": "Six financeurs de reprise de PME côte à côte : ticket, instrument, zone, cible et chiffres publiés, relevés le 24.11.2026 (ORSA, Namur Invest et Invest.BW : relevé du 15.10.2026). Le montant affiché est le ticket minimum publié ; un tiret s'affiche quand l'acteur ne le publie pas.",
+    "specsLabels": {
+      "ticket": "Ticket publié",
+      "instrument": "Instrument",
+      "zone": "Zone",
+      "cible": "Cible",
+      "chiffres": "Chiffres publiés"
+    },
+    "modeles": [
+      {
+        "nom": "Wallonie Entreprendre (WE Cession & Acquisition)",
+        "prix": 25000,
+        "sourceUrl": "https://www.wallonie-entreprendre.be/fr/expertises/cession-acquisition/",
+        "specs": {
+          "ticket": "25 000 € à 1 M€ par projet (prêt subordonné), garanties",
+          "instrument": "Prêt subordonné, garantie bancaire ; aucune part",
+          "zone": "Wallonie",
+          "cible": "PME wallonnes, reprise citée parmi les usages",
+          "chiffres": "272 prêts (22,967 M€) et 294 garanties (41,086 M€) sur des reprises en 2025"
+        }
+      },
+      {
+        "nom": "ORSA (ex-Investsud)",
+        "prix": 500000,
+        "sourceUrl": "https://orsafund.be/reprendre-une-pme/",
+        "specs": {
+          "ticket": "500 000 € à 2,5 M€",
+          "instrument": "Capital ou quasi-capital (Smart Bond)",
+          "zone": "Wallonie",
+          "cible": "PME wallonnes de 20 à 150 collaborateurs",
+          "chiffres": "69 participations, 55 M€ investis fin 2025"
+        }
+      },
+      {
+        "nom": "finance&invest.brussels",
+        "prix": 0,
+        "sourceUrl": "https://finance.brussels/",
+        "specs": {
+          "ticket": "Jusqu'à 5 M€, toujours en co-investissement",
+          "instrument": "Prêt, garantie, participation",
+          "zone": "Région de Bruxelles-Capitale",
+          "cible": "Indépendants et PME bruxelloises, commerces compris",
+          "chiffres": "Cas publiés : 200 000 € sur un rachat de 500 000 €"
+        }
+      },
+      {
+        "nom": "Invests provinciaux wallons (Namur Invest, Invest.BW, Noshaq…)",
+        "prix": 100000,
+        "sourceUrl": "https://cms.wallonie-entreprendre.be/wp/wp-content/uploads/2026/06/Reporting-WE-Cession__Acquisition-2025.pdf",
+        "specs": {
+          "ticket": "100 000 € à 2,5 M€ (Namur Invest) ; jusqu'à 2,5 M€ (Invest.BW) ; non publié ailleurs",
+          "instrument": "Capital, prêt subordonné, convertible selon l'invest",
+          "zone": "Une province par invest",
+          "cible": "PME de la province",
+          "chiffres": "23 transmissions en 2025, opérations de 946 000 € en moyenne"
+        }
+      },
+      {
+        "nom": "Sofindev",
+        "prix": 5000000,
+        "sourceUrl": "https://www.vlaio.be/nl/begeleiding-advies/financiering/risicokapitaal/sofindev-private-equity-partners",
+        "specs": {
+          "ticket": "5 M€ à 30 M€",
+          "instrument": "Capital ; prêt subordonné seulement avec du capital",
+          "zone": "Benelux",
+          "cible": "PME avec un EBITDA d'au moins 2,5 M€",
+          "chiffres": "Sofindev VI : 250 M€, investit jusqu'en 2027"
+        }
+      },
+      {
+        "nom": "Down2Earth Capital (D2E)",
+        "prix": 2500000,
+        "sourceUrl": "https://www.vlaio.be/nl/media/961",
+        "specs": {
+          "ticket": "2,5 M€ à 22 M€",
+          "instrument": "Capital ou prêt subordonné avec warrants",
+          "zone": "Belgique",
+          "cible": "PME belges rentables de secteurs traditionnels",
+          "chiffres": "Fonds II : 110 M€, période d'investissement close en 2025"
+        }
+      }
+    ]
   }
 }

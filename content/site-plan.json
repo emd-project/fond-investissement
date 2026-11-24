@@ -344,9 +344,41 @@
       "owns": [
         "fonds pour reprendre une entreprise"
       ],
-      "status": "planned",
+      "status": "published",
       "wordsMin": 1000,
+      "mentionSlots": 6,
+      "localizedPaths": {
+        "en": "/en/classement/fonds-reprise-pme"
+      },
+      "publishedAt": "2026-11-24"
+    },
+    {
+      "type": "comparateur",
+      "slug": "fonds-reprise-pme",
+      "cluster": "c-reprise",
+      "path": "/comparer/fonds-reprise-pme",
+      "localizedPaths": {
+        "en": "/en/comparer/fonds-reprise-pme"
+      },
+      "depth": 2,
+      "owns": [
+        "comparer financement reprise entreprise"
+      ],
+      "status": "published",
+      "publishedAt": "2026-11-24",
       "mentionSlots": 6
+    },
+    {
+      "type": "choisir",
+      "slug": "fonds-reprise-pme",
+      "cluster": "c-reprise",
+      "path": "/choisir/fonds-reprise-pme",
+      "depth": 2,
+      "owns": [
+        "quel financement pour reprendre une entreprise"
+      ],
+      "status": "published",
+      "publishedAt": "2026-11-24"
     },
     {
       "type": "quiz",

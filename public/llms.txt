@@ -6,6 +6,7 @@
 - [Fonds d'investissement pour PME : 9 acteurs comparés](https://www.fonds-investissement.be/classement/fonds-investissement-pme)
 - [Fonds de capital-risque en Belgique : 7 fonds comparés](https://www.fonds-investissement.be/classement/fonds-capital-risque-belgique)
 - [Business angels en Belgique : 5 réseaux comparés](https://www.fonds-investissement.be/classement/reseaux-business-angels)
+- [Fonds pour reprendre une PME : 6 financeurs comparés](https://www.fonds-investissement.be/classement/fonds-reprise-pme)
 - [Comparer les fonds](https://www.fonds-investissement.be/comparer/fonds-investissement-pme)
 - [Quel fonds choisir](https://www.fonds-investissement.be/choisir/fonds-investissement-pme)
 
@@ -49,6 +50,7 @@
 
 ## English
 - [SME investment funds in Belgium: 9 players compared](https://www.fonds-investissement.be/en/classement/fonds-investissement-pme)
+- [Funds to buy an SME: 6 financiers compared](https://www.fonds-investissement.be/en/classement/fonds-reprise-pme)
 - [Investment funds for SMEs: who finances what](https://www.fonds-investissement.be/en/blog/comprendre-les-fonds/how-investment-funds-work)
 - [Placement fund vs investment fund: the difference](https://www.fonds-investissement.be/en/blog/comprendre-les-fonds/placement-fund-vs-investment-fund)
 - [Private equity, venture capital and growth capital](https://www.fonds-investissement.be/en/blog/comprendre-les-fonds/private-equity-venture-growth-capital)
