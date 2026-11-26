@@ -1641,6 +1641,31 @@
         "Theodorus",
         "Wallonie Entreprendre"
       ]
+    },
+    {
+      "slug": "namur-invest",
+      "categorie": "fonds-par-region",
+      "cluster": "c-region",
+      "type": "decryptage",
+      "owns": [
+        "namur invest",
+        "financement entreprise namur"
+      ],
+      "questions": [
+        "Namur Invest prête-t-il ou entre-t-il au capital ?",
+        "Combien Namur Invest met-il par dossier ?"
+      ],
+      "status": "published",
+      "priority": 3,
+      "persona": "dirigeant de PME namuroise",
+      "brands": [
+        "Namur Invest",
+        "Wallonie Entreprendre",
+        "ORSA"
+      ],
+      "localizedPaths": {
+        "en": "/en/blog/fonds-par-region/namur-invest-namur-province-fund"
+      }
     }
   ],
   "budget": {

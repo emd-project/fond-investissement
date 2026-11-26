@@ -54,6 +54,7 @@ export const articleSlugFrToEn: Record<string, string> = {
   'crowdfunding-entreprise-belgique': 'business-crowdfunding-belgium',
   'le-fonds-a-t-il-un-droit-de-veto': 'does-the-fund-have-a-veto',
   'family-office-belgique': 'family-offices-belgium',
+  'namur-invest': 'namur-invest-namur-province-fund',
 }
 
 /** Réciproque EN → FR (dérivée automatiquement). */
